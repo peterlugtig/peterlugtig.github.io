@@ -1,0 +1,18 @@
+# Theme metadata
+name = "theme_peter"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#ad0113"
+
+# Menu
+menu_primary = "#ad0113"
+menu_text = "#fff"
+menu_text_active = "#ad0113"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
