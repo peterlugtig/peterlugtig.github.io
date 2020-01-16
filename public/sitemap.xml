@@ -204,7 +204,10 @@
   
   <url>
     <loc>/authors/peterlugtig/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/home/</loc>
   </url>
   
   <url>

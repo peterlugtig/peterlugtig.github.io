@@ -1,16 +1,16 @@
 ---
 authors:
-- Peter Lugtig
+- peterlugtig
 bio: I am an associate professor at Utrecht University, department of Methodology and Statistics.
 
 education:
   courses:
-  - course: PhD in Survvey Methodology
+  - course: PhD in Survey Methodology
     institution: Utrecht University
     year: 2012
   - course: MSc in Political Science
     institution: University of Amsterdam
-    year: 2009 <!-- navragen -->
+    year: 2009 # navragen 
 
 email: "p.lugtig@uu.nl"
 interests:

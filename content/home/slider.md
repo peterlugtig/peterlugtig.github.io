@@ -11,12 +11,12 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = ""
+height = "250px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Research output"
+  title = "Research Output"
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -36,7 +36,7 @@ height = ""
 
 [[item]]
   title = "Teaching"
-  content = "Courses I am involved with"
+  content = ""
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
@@ -46,7 +46,7 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Courses"
+  cta_label = "Courses I am involved with"
   cta_url = "https://www.uu.nl/staff/plugtig/Teaching"
   cta_icon_pack = "fas"
   cta_icon = "chalkboard-teacher"
