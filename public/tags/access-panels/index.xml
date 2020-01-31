@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>access panels | Peter Lugtig</title>
+    <link>/tags/access-panels/</link>
+      <atom:link href="/tags/access-panels/index.xml" rel="self" type="application/rss+xml" />
+    <description>access panels</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 23 May 2013 12:18:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>access panels</title>
+      <link>/tags/access-panels/</link>
+    </image>
+    
+    <item>
+      <title>AAPOR 2013</title>
+      <link>/post/aapor-2013/</link>
+      <pubDate>Thu, 23 May 2013 12:18:00 +0200</pubDate>
+      <guid>/post/aapor-2013/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;http://www.aapor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAPOR conference&lt;/a&gt;
+ last week gave an overview of what survey methodologists worry about. There were relatively few people from Europe this year, and I found that the issues methodologists worry about are sometimes different in Europe and the USA. At the upcoming 
+&lt;a href=&#34;http://www.europeansurveyresearch.org/conference&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESRA conference&lt;/a&gt;
+ for example there are more than 10 sessions on the topic of mixing survey modes. At AAPOR, mixing modes was definitely not &amp;lsquo;hot&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;With 8 parallel sessions at most times, I have only seen bits and pieces of all the things that went on. So the list below is just my take on what&#39;s innovative and hot in survey research in 2013. RTI composed 
+&lt;a href=&#34;https://blogs.rti.org/surveypost/2013/05/22/aapor-2013-the-view-from-the-twittersphere/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a summary of all tweets&lt;/a&gt;
+ for a different take on what mattered at AAPOR this year&lt;/p&gt;
+&lt;p&gt;1. Probability based surveys vs. non-probability surveys. AAPOR published 
+&lt;a href=&#34;http://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;ved=0CCwQFjAA&amp;amp;url=http%3A%2F%2Fwww.aapor.org%2FAM%2FTemplate.cfm%3FSection%3DReports1%26Template%3D%2FCM%2FContentDisplay.cfm%26ContentID%3D5963&amp;amp;ei=LuidUcihHISfO8-rgbgD&amp;amp;usg=AFQjCNGFGvvKx3zVn2yxsUoVAi1I9YbnSA&amp;amp;sig2=KZNN8niPb3jc8spirP0Lmg&amp;amp;bvm=bv.46865395,d.ZWU&amp;amp;cad=rja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a report&lt;/a&gt;
+ on this topic during the conference, written by survey research heavy-weights. This is recommended reading for everyone interested in polls. The conclusion that non-probability polls should not be used if one wants to have a relatively precide estimate for the general population is not surprising. It can not be re-iterated often enough. Other presentations on this topic features John Krosnick showing empirically that only probability-based surveys give consistent estimates. See a 
+&lt;a href=&#34;http://www.researchscape.com/blog/non-probability-sampling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;summary of the report here&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;2. The 2012 presidential elections. See a 
+&lt;a href=&#34;http://www.huffingtonpost.com/2013/05/17/pollster-update-aapor-att_n_3294902.html?utm_hp_ref=@pollster&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;good post by Marc Blumenthal&lt;/a&gt;
+ on this topic. Many sessions on likely voter models, shifting demographics in the U.S. and the rise of the cell-phone only generation.&lt;/p&gt;
+&lt;p&gt;3. Responsive designs. The idea of responsive (or adaptive) survey designs is that response rates are balanced across important sub-groups of the population. E.g. in a survey on attitudes towards immigrants, it is important to get equal response rates for hispanics, blacks and whites, when you believe that attitudes towards immigrants differ among ethnic sub-groups.&lt;br&gt;
+During fieldwork, response rates can be monitored, and when response rates for hispanics stay low, resources can be shifted towards targeting hispanics, by either contacting them more often, or switching them to a more expensive contact mode. If this is succesful, the amount of nonresponse bias in a survey should decrease.&lt;br&gt;
+The idea of responsive designs has been around for about 15 years. I had until now not seen many successful applications however. A panel session by the U.S. Census bureau did show that response design can work, but it requires survey organisations to redesign their entire fieldwork operations. For more information on this topic, see the excellent blog by 
+&lt;a href=&#34;http://jameswagnersurv.blogspot.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James Wagner&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>why access panels cannot weight elections polls accurately</title>
+      <link>/post/why-access-panels-cannot-weight/</link>
+      <pubDate>Sat, 22 Sep 2012 16:05:00 +0200</pubDate>
+      <guid>/post/why-access-panels-cannot-weight/</guid>
+      <description>&lt;p&gt;There are a lot of reasons why would not want to use acces panels for predicting electoral outcomes . These are well discussed in many places on- and offline. I&#39;ll shortly summarize them, before adding some thoughts to why access panels do so badly predicting election outcomes.&lt;/p&gt;
+&lt;p&gt;1. Access panels don&#39;t draw random samples, but rely on self-selected samples. A slightly better way to get panel respondents is a quota sample, but even these have problems, well discussed here, here and here for example. The bottom line is that access panel respondents are not &#39; normal&amp;rsquo; people, and so voting preferences of not-normal people are likely to be biased.&lt;/p&gt;
+&lt;p&gt;2. Because of these problems, survey managers use weighting. They correct their sample for known biases in the sample. If they know elderly people with low educations are underrepresented in an access panel, they weigh them up. I think this is bad practice. And it has been shown that weighting does not solve the problem,. and can sometimes make biases worse for general surveys. Here are some additional and specific problems, often neglected. In short, weighting only works if the weighting variables can predict the dependent variable to a great extent.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://1.bp.blogspot.com/-vjBRTegZb3Q/UF3EyedoEQI/AAAAAAAACe8/lc7kLoJxNis/s1600/Unbalanced_scales-too-far-right.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://1.bp.blogspot.com/-vjBRTegZb3Q/UF3EyedoEQI/AAAAAAAACe8/lc7kLoJxNis/s200/Unbalanced_scales-too-far-right.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Weighting is usually done with socio-demographic variables. From political science research, we know that sociodemographics do a bad job of explaining voting behavior. Explained variances for regression models normally don&#39;t exceed 10%.&lt;br&gt;
+So, let me get down to the main point I would like to make in this post. A point which I have not seen discussed anywhere.&lt;/p&gt;
+&lt;p&gt;Panel survey managers have &amp;lsquo;resolved&amp;rsquo; the weakness of their weighting models by including a variable that does predict voring behavior fairly well: past voting behavior. If one knows that past Social Democrat voters are underrepresented, one can weight on that variable. This is all very well, if one has good data of past voting behavior for all panel members. The panels currently do not. Their information is wrong in two ways:&lt;/p&gt;
+&lt;p&gt;1. Access panels will never have information for people &lt;strong&gt;who did not vote previously&lt;/strong&gt;. These are mainly young people, or people who normally do not vote in elections. If these new voters vote like everyone else there is no problem, but new voters have very specific voting preferences.&lt;/p&gt;
+&lt;p&gt;2.  Reversely, access panels can not predict well &lt;strong&gt;who is not going to vote in current elections&lt;/strong&gt;. If non-voters disproportionally voted for one party in the previous elections, this will lead to an overestimation of voters for that party.&lt;/p&gt;
+&lt;p&gt;I believe these two problems are larger than most people think. The first problem can predict why the PVV-vote was underestimated in 2006 and 2010. The PVV attracted many new voters in those elections. The second problem explains why the PVV-vote was overestimated in 2012.  Many people who voted PVV in the previous elections, stayed home this time.&lt;/p&gt;
+&lt;p&gt;So, panel survey managers who want a bit of free advice how to improve your polls. Try to get a clear view on the new voters, and the people unlikely to vote. That may be hard, especially because non-voters are not so interested in politics, and will therefore not sign up for online access panels voluntarily. But it is certainly not impossible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dutch elections 2012 - poll results</title>
+      <link>/post/dutch-elections-2012-poll-results/</link>
+      <pubDate>Thu, 13 Sep 2012 11:57:00 +0200</pubDate>
+      <guid>/post/dutch-elections-2012-poll-results/</guid>
+      <description>&lt;p&gt;The night after the election, one can conclude that all pollsters in the Netherlands did a bad job of predicting the election results. All polls were at least off by 20 seats (out of 150), and I expect the newspapers to make headlines of this in the next days. See the table below for the final predictions (before election day), the exit poll and final election results. The last row shows how much each poll was off (in the number of seats&lt;/p&gt;
+&lt;p&gt;Actually, I think the pollsters did pretty well this time. The only thing all of them mispredicted, was a large number of PVV voters moving to VVD, and a lot of SP voters moving to the PvdA, This movement was visible in the last polls leading up to the elections, but the pollsters either underestimated it, or a lot of people switched for the winner on election date.&lt;/p&gt;
+&lt;p&gt;So, I predicted Synovate would do best, but that did not turn out to be the case. Well, they share first place with Maurice de Hond, but are not clearly better than others. There are lots of blogs, articles and news items about Internet Panels these days. I spent some blogposts on that issue in 2009 myself. Although the largest reason why pollers generally do so badly is that they do not draw random samples, I think there are two more reasons why pollsters do badly. I plan to spend my next two blog posts on these topics, so stay tuned for more on the following issue.&lt;/p&gt;
+&lt;p&gt;Pollsters use statistical weighting to account for the unrepresentativity of their panel. They do this on sociodemographic characteristics and past voting behavior. I believe it is wrong to weight (in general), and specifically to do so on past voting behavior. I&#39;ll show you why in the next days.&lt;/p&gt;
+&lt;p&gt;No. of seats in partliament 2012&lt;/p&gt;
+&lt;p&gt; Maurice de Hond (peil.nl)&lt;/p&gt;
+&lt;p&gt;Intomart/de stemming&lt;/p&gt;
+&lt;p&gt; Synovate&lt;/p&gt;
+&lt;p&gt; TNS-NIPO&lt;/p&gt;
+&lt;p&gt;Exit Poll (synovate)&lt;/p&gt;
+&lt;p&gt;Final results&lt;/p&gt;
+&lt;p&gt;VVD (right-liberal)&lt;/p&gt;
+&lt;p&gt;36&lt;/p&gt;
+&lt;p&gt;35&lt;/p&gt;
+&lt;p&gt;37&lt;/p&gt;
+&lt;p&gt;35&lt;/p&gt;
+&lt;p&gt;41&lt;/p&gt;
+&lt;p&gt;41&lt;/p&gt;
+&lt;p&gt;PVDA (social democrat)&lt;/p&gt;
+&lt;p&gt;36&lt;/p&gt;
+&lt;p&gt;34&lt;/p&gt;
+&lt;p&gt;36&lt;/p&gt;
+&lt;p&gt;34&lt;/p&gt;
+&lt;p&gt;40&lt;/p&gt;
+&lt;p&gt;38&lt;/p&gt;
+&lt;p&gt;SP (socialist)&lt;/p&gt;
+&lt;p&gt;20&lt;/p&gt;
+&lt;p&gt;22&lt;/p&gt;
+&lt;p&gt;21&lt;/p&gt;
+&lt;p&gt;21&lt;/p&gt;
+&lt;p&gt;15&lt;/p&gt;
+&lt;p&gt;15&lt;/p&gt;
+&lt;p&gt;PVV (anti-immigrant)&lt;/p&gt;
+&lt;p&gt;18&lt;/p&gt;
+&lt;p&gt;17&lt;/p&gt;
+&lt;p&gt;17&lt;/p&gt;
+&lt;p&gt;17&lt;/p&gt;
+&lt;p&gt;13&lt;/p&gt;
+&lt;p&gt;15&lt;/p&gt;
+&lt;p&gt;CDA (christian democrats)&lt;/p&gt;
+&lt;p&gt;12&lt;/p&gt;
+&lt;p&gt;12&lt;/p&gt;
+&lt;p&gt;13&lt;/p&gt;
+&lt;p&gt;12&lt;/p&gt;
+&lt;p&gt;13&lt;/p&gt;
+&lt;p&gt;13&lt;/p&gt;
+&lt;p&gt;D&#39;66 (center liberals)&lt;/p&gt;
+&lt;p&gt;11&lt;/p&gt;
+&lt;p&gt;11&lt;/p&gt;
+&lt;p&gt;10&lt;/p&gt;
+&lt;p&gt;13&lt;/p&gt;
+&lt;p&gt;12&lt;/p&gt;
+&lt;p&gt;12&lt;/p&gt;
+&lt;p&gt;CU (christian union)&lt;/p&gt;
+&lt;p&gt;5&lt;/p&gt;
+&lt;p&gt; 7&lt;/p&gt;
+&lt;p&gt;5&lt;/p&gt;
+&lt;p&gt;6&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;5&lt;/p&gt;
+&lt;p&gt;SGP (reformed christians)&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt;Groenlinks (green)&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt; 4&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;PVDD (animal rights&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt; 2&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;50plus (elderly)&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt; 2&lt;/p&gt;
+&lt;p&gt; 4&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wrongly predicted&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;18&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;24&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;18&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;24&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>how to use Internet panels for polling</title>
+      <link>/post/how-to-use-internet-panels-for-polling/</link>
+      <pubDate>Thu, 10 Feb 2011 11:13:00 +0100</pubDate>
+      <guid>/post/how-to-use-internet-panels-for-polling/</guid>
+      <description>&lt;p&gt;Before people believe I&#39;m old-fashioned, I do think that Internet-surveys, even panel surveys are the future of survey research. John Krosnick makes some good points in a video shot by the people from 
+&lt;a href=&#34;http://www.blogger.com/www.pollster.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.pollster.com&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>how to do an exit-poll</title>
+      <link>/post/how-to-do-exit-poll/</link>
+      <pubDate>Mon, 24 Jan 2011 11:05:00 +0100</pubDate>
+      <guid>/post/how-to-do-exit-poll/</guid>
+      <description>&lt;p&gt;There are several ways to do an exit poll, but they all come down to asking people what they voted, right after they went into the voting booth. The first succesfull modern exit poll was conducted in 
+&lt;a href=&#34;http://www.buzzle.com/articles/history-of-exit-polls.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1967 to predict the governor&#39;s election of Kentucky&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;One of the difficulties in exit polling, is that some people might not want to say whom they vote for, especially if this person is politically controversial. This might be one of the reasons 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Party_for_Freedom&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;why Geert Wilders, and the PVV&lt;/a&gt;
+ in general always underperform in Dutch exit polls. The second difficulty is selecting a number of polling stations. Good exit polls do this either randomly, or (even better) choose stratified sampling. Stratified sampling is particularly important when voting behavior has a strong regional component. For example, a random selection of polling stations in the Netherlands, might exclude by chance any localities in the 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Bible_Belt_%28Netherlands%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;bible belt&amp;rsquo;&lt;/a&gt;
+ , where people often vote for the 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Reformed_Political_Party&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SGP&lt;/a&gt;
+ leading to a under-represntation of voters for the SGP. Stratifying on past voting behavior in polling stations can 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Stratified_sampling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;increases statistical power&lt;/a&gt;
+, making sure we need fewer polling stations to achieve the same margin of error.&lt;/p&gt;
+&lt;p&gt;In the past, exit polls were conducted like this. Slowly, market research firms have first switched to telephone surveys, and later Internet surveys to do their exit poll. Both TNS NIPO and peil.nl relied on their panel to predict the election results. This once again shows how people who voluntarily join access panels can not be used to produce good statistics for the general population.&lt;br&gt;
+Wisely, the Dutch news stations (ANP, NOS, RTL) chose to do a proper, old-school exit poll in 2010. See 
+&lt;a href=&#34;https://groups.google.com/group/nl.politiek/browse_thread/thread/e6f20cdf17ddd6fc?hl=nl&amp;amp;pli=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this post for details&lt;/a&gt;
+ (in Dutch).&lt;/p&gt;
+&lt;p&gt;So what, one might ask? Why worry about the crappy polls? We can just ignore them, and then focus on the polls that do a good job? Alas, people are heavily influenced by polls in the media in the period leading up to elections. More on this, and strategic voting, next time&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dependent interviewing | Peter Lugtig</title>
+    <link>/tags/dependent-interviewing/</link>
+      <atom:link href="/tags/dependent-interviewing/index.xml" rel="self" type="application/rss+xml" />
+    <description>dependent interviewing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Sat, 03 Aug 2013 16:22:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>dependent interviewing</title>
+      <link>/tags/dependent-interviewing/</link>
+    </image>
+    
+    <item>
+      <title>Dependent Interviewing and the risk of correlated measurement errors</title>
+      <link>/post/dependent-interviewing-and-risk-of/</link>
+      <pubDate>Sat, 03 Aug 2013 16:22:00 +0200</pubDate>
+      <guid>/post/dependent-interviewing-and-risk-of/</guid>
+      <description>&lt;p&gt;Longitudinal surveys ask the same people the same questions over time. So questionnaires tend to be rather boring for respondents after a while. &amp;ldquo;Are you asking me this again, you asked that last year as well!&amp;rdquo; is what many respondents probably think during an interview. As methodologists who manage panel surveys, we know this process may be rather boring, but in order to document change over time, we just need to ask respondents the same questions over and over.&lt;/p&gt;
+&lt;p&gt;Some measures of change over time would become biased if we just repeat questions year-on-year. For example, we know that if we ask respondents twice about their occupation, less than half of all of them have the same occupational codes over time. We know from other statistics (e.g. tax returns), that that is not true. Most people stay in the same occupation over time. Now, you may think, dear reader, that that is probably due to the fact that occupation is rather difficult to measure and code in general, and you are right. Unreliable question will lead to a lot of spurious change over time.&lt;/p&gt;
+&lt;p&gt;Dependent Interviewing helps to make codes consistent over time and reduce such spurious change. The idea is that, instead of coding occupation independently year-on-year, you ask respondents in year 2 the question &amp;ldquo;last year, you said you were a bankteller, is that still the case?&amp;quot;. There are many different variants to ask this Dependent Interviewing question, and the exact wording is important for the outcomes. Especially, because we do not want respondent to say &amp;ldquo;yes&amp;rdquo; too easily to questions we ask.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://1.bp.blogspot.com/-Nn9LXqCRaXc/Uf0PNO7KjdI/AAAAAAAACmM/-cLYJqtwcjw/s1600/interview.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://1.bp.blogspot.com/-Nn9LXqCRaXc/Uf0PNO7KjdI/AAAAAAAACmM/-cLYJqtwcjw/s1600/interview.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Last year, you told me you told me you worked as a bankteller, is that still the case?&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Recently, a paper I wrote on the effects of various forms of Dependent Interviewing came out in 
+&lt;a href=&#34;https://dl.dropboxusercontent.com/u/2839696/Lugtig%20and%20Lensvelt-Mulders%20%28preprint%29%20evaluating%20the%20effect%20of%20DI%20on%20the%20quality%20of%20measures%20of%20change.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Field Methods&lt;/a&gt;
+. It was actually the first paper I wrote for my Ph.D, and I started work on it in 2006. So, it has been quite a journey to get this story on paper and get it published. I am very happy to see it on paper now. We did an experiment, where we tried out different DI-designs in a four-wave panel study, to study effects of data quality of each different DI-design. Specifically, we looked at whether respondents might falsely confirm data from the previous year that we knew contained measurement error. The bottom line of the study is that when Dependent Interviewing is applied to income amount questions over time, it does improve data quality, and we don&#39;t need to worry so much about respondents wrongly agreeing to pre-loaded data from the  previous year. Read the full paper 
+&lt;a href=&#34;https://dl.dropboxusercontent.com/u/2839696/Lugtig%20and%20Lensvelt-Mulders%20%28preprint%29%20evaluating%20the%20effect%20of%20DI%20on%20the%20quality%20of%20measures%20of%20change.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electoral volatility due to different questions?</title>
+      <link>/post/electoral-volatility-due-to-different/</link>
+      <pubDate>Fri, 24 Aug 2012 13:15:00 +0200</pubDate>
+      <guid>/post/electoral-volatility-due-to-different/</guid>
+      <description>&lt;p&gt;**Poll volatility **&lt;/p&gt;
+&lt;p&gt;Below, you find the summed changes in parliamentary seats over all parties in consecutive opinion polls for the four main polling firms in the Netherlands in the lead up to the 2012 elections. I will update the table below in the next weeks.&lt;br&gt;
+This overview follows from my earlier post on Dependent Interviewing. Maurice de Hond (peil.nl) is the only survey pre-loading earlier voter preferences into survey questions. I expect this to lead to less volatility in voter preferences for Maurice de Hond, as compared to the other polling firms.&lt;/p&gt;
+&lt;p&gt;Update September 12th: With the final polls out on election day, it seems that the polls of Maurice de Hond are indeed most stable over time, and in my previous post I argues this was because of the fact that he uses Dependent Interviewing in his question on &amp;quot; what would you vote if there were elections today&amp;rdquo;. Still, I would have expected a larger effect. Let&#39;s see tomorrow which polling firm did best. My bet: Synovate, because they are using the most sound (although still not perfect) methodology of polling people. More on that tomorrow&amp;hellip;&lt;/p&gt;
+&lt;p&gt; Maurice de Hond (peil.nl)&lt;/p&gt;
+&lt;p&gt;Intomart/de stemming&lt;/p&gt;
+&lt;p&gt; Synovate&lt;/p&gt;
+&lt;p&gt; TNS-NIPO&lt;/p&gt;
+&lt;p&gt; week 23 (03-06)&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 8&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 10-06&lt;/p&gt;
+&lt;p&gt;8&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 17-06&lt;/p&gt;
+&lt;p&gt;6&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 8*&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 24-06&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 14**&lt;/p&gt;
+&lt;p&gt; 01-07&lt;/p&gt;
+&lt;p&gt;10&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 12*&lt;/p&gt;
+&lt;p&gt; 8&lt;/p&gt;
+&lt;p&gt; 08-07&lt;/p&gt;
+&lt;p&gt;12&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 12&lt;/p&gt;
+&lt;p&gt; 12&lt;/p&gt;
+&lt;p&gt; 15-07&lt;/p&gt;
+&lt;p&gt;6&lt;/p&gt;
+&lt;p&gt; 8&lt;/p&gt;
+&lt;p&gt; 10&lt;/p&gt;
+&lt;p&gt; 12&lt;/p&gt;
+&lt;p&gt; 22-07&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt; 10&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 6&lt;/p&gt;
+&lt;p&gt; 29-07&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 8*&lt;/p&gt;
+&lt;p&gt; 6&lt;/p&gt;
+&lt;p&gt; 05-08&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 10&lt;/p&gt;
+&lt;p&gt; 12-08&lt;/p&gt;
+&lt;p&gt;10&lt;/p&gt;
+&lt;p&gt;10**&lt;/p&gt;
+&lt;p&gt; 8*&lt;/p&gt;
+&lt;p&gt; 16&lt;/p&gt;
+&lt;p&gt; 19-08&lt;/p&gt;
+&lt;p&gt;8&lt;/p&gt;
+&lt;p&gt;  8&lt;/p&gt;
+&lt;p&gt;12&lt;/p&gt;
+&lt;p&gt;  8&lt;/p&gt;
+&lt;p&gt; 26-08&lt;/p&gt;
+&lt;p&gt;6&lt;/p&gt;
+&lt;p&gt;20&lt;/p&gt;
+&lt;p&gt;8&lt;/p&gt;
+&lt;p&gt;16&lt;/p&gt;
+&lt;p&gt;03-09&lt;/p&gt;
+&lt;p&gt;22&lt;/p&gt;
+&lt;p&gt;20&lt;/p&gt;
+&lt;p&gt;12&lt;/p&gt;
+&lt;p&gt;14&lt;/p&gt;
+&lt;p&gt;10-09&lt;/p&gt;
+&lt;p&gt;26&lt;/p&gt;
+&lt;p&gt;10&lt;/p&gt;
+&lt;p&gt;16&lt;/p&gt;
+&lt;p&gt;20&lt;/p&gt;
+&lt;p&gt; average change&lt;/p&gt;
+&lt;p&gt;8,7&lt;/p&gt;
+&lt;p&gt;12,2***&lt;/p&gt;
+&lt;p&gt;10,3***&lt;/p&gt;
+&lt;p&gt;11,8&lt;/p&gt;
+&lt;p&gt;* two-week difference&lt;br&gt;
+** three-week difference&lt;br&gt;
+*** rounded down due to inclusion of multi-week changes&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dependent Interviewing, and stability in opinion polls</title>
+      <link>/post/dependent-interviewing-and-longitudinal/</link>
+      <pubDate>Wed, 15 Aug 2012 19:13:00 +0200</pubDate>
+      <guid>/post/dependent-interviewing-and-longitudinal/</guid>
+      <description>&lt;p&gt;I was re-reading one of the papers I wrote as part of my dissertation on survey data quality in panel surveys. The paper deals with the effects of the introduction of an interviewing technique called Dependent Interviewing in the British Household Panel Survey. I wrote this paper together with Annette Jackle, and if you are interested after reading the next bit, you can download a working paper version of it 
+&lt;a href=&#34;https://www.iser.essex.ac.uk/publications/working-papers/iser/2011-23.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Dependent Interviewing uses data from respondents from earlier interviews in survey questions. Instead of asking respondents every year the question &lt;em&gt;&amp;ldquo;what types of income do you receive&lt;/em&gt;&amp;quot;, you can also ask them:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&lt;em&gt;last year, you told us that you receive income from your private pension plan, the state pension, as well as income from renting out a house. Is this still the same?&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There are of course multiple ways in which you can use information like this, and the BHPS actually uses Dependent Interviewing in a slightly more sophisticated way, but the basic idea is in my opinion quite intuitive. Why would you ask the same questions time and time again, when you already know so much about respondents?&lt;/p&gt;
+&lt;p&gt;The paper we wrote documents the effects on data quality, and specifically investigates what the effect of Dependent Interviewing is on measures of household income. In short, the effects are not huge, but it turns out that Dependent Interviewing is especially effective for poorer households. These households depend for a large part on different kinds of government transfers, and these are easily forgotten or underreported. When the effects of Dependent Interviewing are taken into account, the poorer households become a little richer, and so, all in all, poverty is actually a little lower than was previously estimated.&lt;/p&gt;
+&lt;p&gt;Perhaps interesting to Dutch readers, one of the main pollers in the Netherlands, Maurice de Hond, is also using Dependent Interviewing in his surveys (on all questions!). I am a member of his panel, and when I complete a survey, I only have to change answers if I want to, and otherwise just confirm my answers from the previous waves.&lt;/p&gt;
+&lt;p&gt;I see why Maurice de Hond has chosen to do this. Electoral preferences are very volatile, and panel surveys on voter preferences are perhaps too volatile. But I have serious doubts whether Dependent Interviewing here solves volatility. It rather creates articficial stability. In the first week of july, Maurice de Hond polled an average weekly change of seats of 10. Ipsos Synovate (see my earlier posts on why I trust them most), 12. Actually a small difference. There are many newspapers following and criticising the actual poll results. I&#39;ll try to keep you updated on volatility across the polls, meanwhile trying to answer the question whether one should trust stable polls, or volatile polls.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

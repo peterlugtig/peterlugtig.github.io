@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>exit poll | Peter Lugtig</title>
+    <link>/tags/exit-poll/</link>
+      <atom:link href="/tags/exit-poll/index.xml" rel="self" type="application/rss+xml" />
+    <description>exit poll</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 13 Sep 2012 11:57:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>exit poll</title>
+      <link>/tags/exit-poll/</link>
+    </image>
+    
+    <item>
+      <title>Dutch elections 2012 - poll results</title>
+      <link>/post/dutch-elections-2012-poll-results/</link>
+      <pubDate>Thu, 13 Sep 2012 11:57:00 +0200</pubDate>
+      <guid>/post/dutch-elections-2012-poll-results/</guid>
+      <description>&lt;p&gt;The night after the election, one can conclude that all pollsters in the Netherlands did a bad job of predicting the election results. All polls were at least off by 20 seats (out of 150), and I expect the newspapers to make headlines of this in the next days. See the table below for the final predictions (before election day), the exit poll and final election results. The last row shows how much each poll was off (in the number of seats&lt;/p&gt;
+&lt;p&gt;Actually, I think the pollsters did pretty well this time. The only thing all of them mispredicted, was a large number of PVV voters moving to VVD, and a lot of SP voters moving to the PvdA, This movement was visible in the last polls leading up to the elections, but the pollsters either underestimated it, or a lot of people switched for the winner on election date.&lt;/p&gt;
+&lt;p&gt;So, I predicted Synovate would do best, but that did not turn out to be the case. Well, they share first place with Maurice de Hond, but are not clearly better than others. There are lots of blogs, articles and news items about Internet Panels these days. I spent some blogposts on that issue in 2009 myself. Although the largest reason why pollers generally do so badly is that they do not draw random samples, I think there are two more reasons why pollsters do badly. I plan to spend my next two blog posts on these topics, so stay tuned for more on the following issue.&lt;/p&gt;
+&lt;p&gt;Pollsters use statistical weighting to account for the unrepresentativity of their panel. They do this on sociodemographic characteristics and past voting behavior. I believe it is wrong to weight (in general), and specifically to do so on past voting behavior. I&#39;ll show you why in the next days.&lt;/p&gt;
+&lt;p&gt;No. of seats in partliament 2012&lt;/p&gt;
+&lt;p&gt; Maurice de Hond (peil.nl)&lt;/p&gt;
+&lt;p&gt;Intomart/de stemming&lt;/p&gt;
+&lt;p&gt; Synovate&lt;/p&gt;
+&lt;p&gt; TNS-NIPO&lt;/p&gt;
+&lt;p&gt;Exit Poll (synovate)&lt;/p&gt;
+&lt;p&gt;Final results&lt;/p&gt;
+&lt;p&gt;VVD (right-liberal)&lt;/p&gt;
+&lt;p&gt;36&lt;/p&gt;
+&lt;p&gt;35&lt;/p&gt;
+&lt;p&gt;37&lt;/p&gt;
+&lt;p&gt;35&lt;/p&gt;
+&lt;p&gt;41&lt;/p&gt;
+&lt;p&gt;41&lt;/p&gt;
+&lt;p&gt;PVDA (social democrat)&lt;/p&gt;
+&lt;p&gt;36&lt;/p&gt;
+&lt;p&gt;34&lt;/p&gt;
+&lt;p&gt;36&lt;/p&gt;
+&lt;p&gt;34&lt;/p&gt;
+&lt;p&gt;40&lt;/p&gt;
+&lt;p&gt;38&lt;/p&gt;
+&lt;p&gt;SP (socialist)&lt;/p&gt;
+&lt;p&gt;20&lt;/p&gt;
+&lt;p&gt;22&lt;/p&gt;
+&lt;p&gt;21&lt;/p&gt;
+&lt;p&gt;21&lt;/p&gt;
+&lt;p&gt;15&lt;/p&gt;
+&lt;p&gt;15&lt;/p&gt;
+&lt;p&gt;PVV (anti-immigrant)&lt;/p&gt;
+&lt;p&gt;18&lt;/p&gt;
+&lt;p&gt;17&lt;/p&gt;
+&lt;p&gt;17&lt;/p&gt;
+&lt;p&gt;17&lt;/p&gt;
+&lt;p&gt;13&lt;/p&gt;
+&lt;p&gt;15&lt;/p&gt;
+&lt;p&gt;CDA (christian democrats)&lt;/p&gt;
+&lt;p&gt;12&lt;/p&gt;
+&lt;p&gt;12&lt;/p&gt;
+&lt;p&gt;13&lt;/p&gt;
+&lt;p&gt;12&lt;/p&gt;
+&lt;p&gt;13&lt;/p&gt;
+&lt;p&gt;13&lt;/p&gt;
+&lt;p&gt;D&#39;66 (center liberals)&lt;/p&gt;
+&lt;p&gt;11&lt;/p&gt;
+&lt;p&gt;11&lt;/p&gt;
+&lt;p&gt;10&lt;/p&gt;
+&lt;p&gt;13&lt;/p&gt;
+&lt;p&gt;12&lt;/p&gt;
+&lt;p&gt;12&lt;/p&gt;
+&lt;p&gt;CU (christian union)&lt;/p&gt;
+&lt;p&gt;5&lt;/p&gt;
+&lt;p&gt; 7&lt;/p&gt;
+&lt;p&gt;5&lt;/p&gt;
+&lt;p&gt;6&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;5&lt;/p&gt;
+&lt;p&gt;SGP (reformed christians)&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt;Groenlinks (green)&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt; 4&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;PVDD (animal rights&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt; 2&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;50plus (elderly)&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt; 2&lt;/p&gt;
+&lt;p&gt; 4&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wrongly predicted&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;18&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;24&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;18&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;24&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>the influence of polls on voting behavior</title>
+      <link>/post/influence-of-polls-on-voting-behavior/</link>
+      <pubDate>Thu, 10 Feb 2011 10:11:00 +0100</pubDate>
+      <guid>/post/influence-of-polls-on-voting-behavior/</guid>
+      <description>&lt;p&gt;Many opinion pollers do badly when it comes to predicting elections. This is mainly because they let their respondents self-select them into their polls. So what, who cares? The polls make for some good entertainment and easily fill the talk-shows on television. If everyone knows they cannot be trusted, why care?&lt;/p&gt;
+&lt;p&gt;We should care. In the Dutch electoral system - with 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Proportional_representation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poportional respresentation&lt;/a&gt;
+ - every vote counts. If only a small percentage of voters lets their vote depend on the polls of the election result, this can result in shifts of several seats in parliament. It is unclear how many voters decide how to vote based on the opinion polls, but it is a fact that there are many voters who consider voting for two or more parties, and many who do vote strategically. The 
+&lt;a href=&#34;http://www.icpsr.umich.edu/icpsrweb/ICPSR/series/25&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dutch Parliamentary Election Study&lt;/a&gt;
+ (DPES) in 2006 found that 18% of voters indicated that they let their vote be influenced by the election polls. This amounts to a total of 27 parliamentary seats: almost the number of seats of the largest party in the 
+&lt;a href=&#34;http://www.tweedekamer.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;current parliament&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;As long as voters choose strategically in different ways this may not matter. If someone votes strategically to make sure a new government has the the greens in it, but someone else votes strategically for labour to make sure his or her favourite candidate becomes prime mininster, the net effect of strategical voting might be zero or very small. There is evidence however, that this is not the case. People like to vote for winners. This is called the 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Bandwagon_effect&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bandwagon effect&lt;/a&gt;
+. Whenever labour does well in the (biased) opinion polls, more voters will consider voting for them. This may in the end lead to the fact political parties (and pollers) have a lot of interest to do well in polls. In fact, it may be tempting to publish fraudulent polls. This seems to be increasingly common in the United States, where they call them 
+&lt;a href=&#34;http://www.aapor.org/AAPOR_Statements_on_Push_POlls.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;push polls&amp;rdquo;&lt;/a&gt;
+ . Publish fraudulent polls on purpose to make public opinion shift in your favor.&lt;/p&gt;
+&lt;p&gt;So, what to do about it? First, I think it would be fair not to publish any opinion polls some time before election day, as is done in 
+&lt;a href=&#34;http://www.scribd.com/doc/259320/Regulating-Election-Polls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;France for example&lt;/a&gt;
+ (albeit only for two days). Second, journalists and newsreaders should be very critical towards opinion polls, and only publish them when some basic quality criteria have been assessed and met. The 
+&lt;a href=&#34;http://www.blogger.com/www.npso.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dutch Organisation on Survey Research&lt;/a&gt;
+ has taken the initiative to develop a checklist for journalists. I will put it online soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>how to do an exit-poll</title>
+      <link>/post/how-to-do-exit-poll/</link>
+      <pubDate>Mon, 24 Jan 2011 11:05:00 +0100</pubDate>
+      <guid>/post/how-to-do-exit-poll/</guid>
+      <description>&lt;p&gt;There are several ways to do an exit poll, but they all come down to asking people what they voted, right after they went into the voting booth. The first succesfull modern exit poll was conducted in 
+&lt;a href=&#34;http://www.buzzle.com/articles/history-of-exit-polls.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1967 to predict the governor&#39;s election of Kentucky&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;One of the difficulties in exit polling, is that some people might not want to say whom they vote for, especially if this person is politically controversial. This might be one of the reasons 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Party_for_Freedom&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;why Geert Wilders, and the PVV&lt;/a&gt;
+ in general always underperform in Dutch exit polls. The second difficulty is selecting a number of polling stations. Good exit polls do this either randomly, or (even better) choose stratified sampling. Stratified sampling is particularly important when voting behavior has a strong regional component. For example, a random selection of polling stations in the Netherlands, might exclude by chance any localities in the 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Bible_Belt_%28Netherlands%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;bible belt&amp;rsquo;&lt;/a&gt;
+ , where people often vote for the 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Reformed_Political_Party&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SGP&lt;/a&gt;
+ leading to a under-represntation of voters for the SGP. Stratifying on past voting behavior in polling stations can 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Stratified_sampling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;increases statistical power&lt;/a&gt;
+, making sure we need fewer polling stations to achieve the same margin of error.&lt;/p&gt;
+&lt;p&gt;In the past, exit polls were conducted like this. Slowly, market research firms have first switched to telephone surveys, and later Internet surveys to do their exit poll. Both TNS NIPO and peil.nl relied on their panel to predict the election results. This once again shows how people who voluntarily join access panels can not be used to produce good statistics for the general population.&lt;br&gt;
+Wisely, the Dutch news stations (ANP, NOS, RTL) chose to do a proper, old-school exit poll in 2010. See 
+&lt;a href=&#34;https://groups.google.com/group/nl.politiek/browse_thread/thread/e6f20cdf17ddd6fc?hl=nl&amp;amp;pli=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this post for details&lt;/a&gt;
+ (in Dutch).&lt;/p&gt;
+&lt;p&gt;So what, one might ask? Why worry about the crappy polls? We can just ignore them, and then focus on the polls that do a good job? Alas, people are heavily influenced by polls in the media in the period leading up to elections. More on this, and strategic voting, next time&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>predicting elections</title>
+      <link>/post/predicting-elections/</link>
+      <pubDate>Mon, 17 Jan 2011 17:45:00 +0100</pubDate>
+      <guid>/post/predicting-elections/</guid>
+      <description>&lt;p&gt;Opinion pollers do a lousy job of predicting elections. For a good read, see for example the prediction of the 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/New_Hampshire_Democratic_primary,_2008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Hampshere primary&lt;/a&gt;
+ in 2008, when all polls predicted Obama to win, but it was Clinton who won (albeit by a slim margin).&lt;/p&gt;
+&lt;p&gt;In the Dutch context, there are three main polling firms, that each do equally well (or badly). Out of a hundred and fifty parliamentary seats, 
+&lt;a href=&#34;http://www.blogger.com/www.peil.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;peil.nl&lt;/a&gt;
+ mispredicted 20, while 
+&lt;a href=&#34;http://www.tns-nipo.com/pages/nieuws-pers-politiek-tk2010.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TNS-NIPO&lt;/a&gt;
+ and 
+&lt;a href=&#34;http://www.synovate.nl/content.asp?targetid=621&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Synovate&lt;/a&gt;
+ shared the honor of only missing the target by 16 seats in the 2010 parliamentary election. These polls were conducted the day before the election, and some of the pollers said that people might have changed their vote at the last minute. That may very well be, but even the exit poll on the night of the election was wrong. 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Dutch_general_election,_2010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peil.nl was 17 seats off&lt;/a&gt;
+ and 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Dutch_general_election,_2010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TNS NIPO 15&lt;/a&gt;
+. 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Dutch_general_election,_2010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Only Synovate&lt;/a&gt;
+ did a lot better, and only missed the true result by 3 seats. I will discuss why this is in a next post, but it is just a matter of speed and low costs versus quality.&lt;/p&gt;
+&lt;p&gt;And we have known for a long, long time how to do exit polls. Although there was public outcry in the UK, when the exit poll 
+&lt;a href=&#34;http://news.bbc.co.uk/2/hi/uk_news/politics/election_2010/8666266.stm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;predicted the liberal democrats not to win the elections&lt;/a&gt;
+, it was spot on. If we know how to do it, then why don&#39;t we?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

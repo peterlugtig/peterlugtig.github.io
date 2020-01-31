@@ -33,12 +33,12 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/teaching/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/writing-technical-content/</loc>
+    <loc>/teaching/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>/post/jupyter/</loc>
+    <loc>/teaching/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -105,6 +105,91 @@
   <url>
     <loc>/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/peterlugtig/</loc>
+    <lastmod>2018-06-26T11:16:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/common-causes-of-survey-error/</loc>
+    <lastmod>2018-06-26T11:16:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-quality/</loc>
+    <lastmod>2018-06-26T11:16:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/measurement-error/</loc>
+    <lastmod>2018-06-26T11:16:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mtmm/</loc>
+    <lastmod>2018-06-26T11:16:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/nonresponse-error/</loc>
+    <lastmod>2018-06-26T11:16:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-06-26T11:16:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/validation/</loc>
+    <lastmod>2018-06-26T11:16:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/which-survey-error-source-is-larger/</loc>
+    <lastmod>2018-06-26T11:16:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/market-research/</loc>
+    <lastmod>2017-04-27T19:52:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mixed-device/</loc>
+    <lastmod>2017-04-27T19:52:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mobile-survey/</loc>
+    <lastmod>2017-04-27T19:52:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/mobile-only-web-survey-respondents/</loc>
+    <lastmod>2017-04-27T19:52:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/nonresponse/</loc>
+    <lastmod>2017-04-27T19:52:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/panel-survey/</loc>
+    <lastmod>2017-04-27T19:52:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/questionnaire-design/</loc>
+    <lastmod>2017-04-27T19:52:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/smartphone/</loc>
+    <lastmod>2017-04-27T19:52:00+02:00</lastmod>
   </url>
   
   <url>
@@ -138,7 +223,7 @@
   </url>
   
   <url>
-    <loc>/post/getting-started/</loc>
+    <loc>/teaching/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -150,6 +235,41 @@
   <url>
     <loc>/categories/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mixed-mode/</loc>
+    <lastmod>2016-02-10T22:42:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mode-effect/</loc>
+    <lastmod>2016-02-10T22:42:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/the-old-web-survey-is-dead/</loc>
+    <lastmod>2016-02-10T22:42:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/measurement/</loc>
+    <lastmod>2015-12-01T13:51:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/recall/</loc>
+    <lastmod>2015-12-01T13:51:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/retrospective-reporting/</loc>
+    <lastmod>2015-12-01T13:51:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/survey-error/</loc>
+    <lastmod>2015-12-01T13:51:00+01:00</lastmod>
   </url>
   
   <url>
@@ -168,7 +288,7 @@
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/teaching/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
@@ -193,6 +313,251 @@
   </url>
   
   <url>
+    <loc>/tags/adaptive-design/</loc>
+    <lastmod>2015-05-20T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/adaptive-designs-4-ways-to-improve/</loc>
+    <lastmod>2015-05-20T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/attrition/</loc>
+    <lastmod>2015-01-21T15:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/don-dillman/</loc>
+    <lastmod>2015-01-21T15:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/responsive-design/</loc>
+    <lastmod>2015-01-21T15:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/why-panel-surveys-need-to-go-adaptive/</loc>
+    <lastmod>2015-01-21T15:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/blog-post/</loc>
+    <lastmod>2014-12-08T20:47:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/user-agent-strings/</loc>
+    <lastmod>2014-12-08T20:47:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2014-12-02T15:44:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/what-devices-do-respondents-use-over/</loc>
+    <lastmod>2014-12-02T15:44:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/can-you-push-web-survey-respondents-to/</loc>
+    <lastmod>2014-08-13T19:06:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/aapor/</loc>
+    <lastmod>2014-05-26T17:05:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/aapor-2014/</loc>
+    <lastmod>2014-05-26T17:05:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/big-data/</loc>
+    <lastmod>2014-05-26T17:05:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/conference/</loc>
+    <lastmod>2014-05-26T17:05:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/are-item-missings-related-to-later/</loc>
+    <lastmod>2014-04-29T14:08:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/british-household-panel-study/</loc>
+    <lastmod>2014-04-29T14:08:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/missing-data/</loc>
+    <lastmod>2014-04-29T14:08:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/trade-off-between-survey-errors/</loc>
+    <lastmod>2014-04-29T14:08:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/compliance/</loc>
+    <lastmod>2014-03-28T15:33:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/do-respondents-become-sloppy-before/</loc>
+    <lastmod>2014-03-28T15:33:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/personality-predicts-likelihood-and/</loc>
+    <lastmod>2014-02-07T17:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/longitudinal-interview-outcome-data/</loc>
+    <lastmod>2013-11-04T16:22:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sequence-analysis/</loc>
+    <lastmod>2013-11-04T16:22:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/statistical-modeling/</loc>
+    <lastmod>2013-11-04T16:22:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/a-great-lecturer-and-contextuality-of/</loc>
+    <lastmod>2013-10-21T16:24:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/richard-feynman/</loc>
+    <lastmod>2013-10-21T16:24:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/teaching/</loc>
+    <lastmod>2013-10-21T16:24:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/my-prayers-on-peer-reviewed-datasets/</loc>
+    <lastmod>2013-10-17T10:09:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/open-access/</loc>
+    <lastmod>2013-10-17T10:09:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/publishing/</loc>
+    <lastmod>2013-10-17T10:09:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/replication/</loc>
+    <lastmod>2013-10-17T10:09:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/imagine-we-have-great-covariates-for/</loc>
+    <lastmod>2013-10-14T10:41:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/imputation/</loc>
+    <lastmod>2013-10-14T10:41:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/weighting/</loc>
+    <lastmod>2013-10-14T10:41:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/coverage-error/</loc>
+    <lastmod>2013-10-06T21:49:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/to-weight-or-to-impute-for-unit/</loc>
+    <lastmod>2013-10-06T21:49:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/fraud/</loc>
+    <lastmod>2013-09-23T12:27:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/publish-your-data/</loc>
+    <lastmod>2013-09-23T12:27:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gesis/</loc>
+    <lastmod>2013-09-14T15:37:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/how-to-improve-social-sciences/</loc>
+    <lastmod>2013-09-14T15:37:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/nonresponse-workshop-2013/</loc>
+    <lastmod>2013-09-09T16:48:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/workshop/</loc>
+    <lastmod>2013-09-09T16:48:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dependent-interviewing/</loc>
+    <lastmod>2013-08-03T16:22:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/dependent-interviewing-and-risk-of/</loc>
+    <lastmod>2013-08-03T16:22:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/quasi-simplex-model/</loc>
+    <lastmod>2013-08-03T16:22:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/measurement-and-nonresponse-error-in/</loc>
+    <lastmod>2013-07-04T11:57:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sem/</loc>
+    <lastmod>2013-07-04T11:57:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/separating-error-sources/</loc>
+    <lastmod>2013-07-04T11:57:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -203,11 +568,390 @@
   </url>
   
   <url>
-    <loc>/authors/peterlugtig/</loc>
+    <loc>/post/aapor-2013/</loc>
+    <lastmod>2013-05-23T12:18:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/access-panels/</loc>
+    <lastmod>2013-05-23T12:18:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/open-access-things-we-can-learn-from/</loc>
+    <lastmod>2013-04-01T10:05:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/working-paper/</loc>
+    <lastmod>2013-04-01T10:05:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/horizon-2020/</loc>
+    <lastmod>2013-03-07T15:04:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/interested-in-new-mixed-mode-research/</loc>
+    <lastmod>2013-03-07T15:04:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/mixed-mode-surveys-where-will-be-in-5/</loc>
+    <lastmod>2013-02-23T09:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/panel-conditioning/</loc>
+    <lastmod>2013-01-29T16:29:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/planned-missingness/</loc>
+    <lastmod>2013-01-29T16:29:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/planned-missingness/</loc>
+    <lastmod>2013-01-29T16:29:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/designing-mixed-mode-surveys/</loc>
+    <lastmod>2013-01-12T10:24:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/equivalence/</loc>
+    <lastmod>2013-01-12T10:24:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/esra/</loc>
+    <lastmod>2013-01-12T10:24:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bayesian/</loc>
+    <lastmod>2012-10-08T14:26:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/bayesian-structural-equation-modeling/</loc>
+    <lastmod>2012-10-08T14:26:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mplus/</loc>
+    <lastmod>2012-10-08T14:26:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/software/</loc>
+    <lastmod>2012-10-08T14:26:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/is-panel-attrition-same-as-nonresponse/</loc>
+    <lastmod>2012-09-29T10:49:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/elections/</loc>
+    <lastmod>2012-09-22T16:05:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/opinion-poll/</loc>
+    <lastmod>2012-09-22T16:05:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/why-access-panels-cannot-weight/</loc>
+    <lastmod>2012-09-22T16:05:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/dutch-elections-2012-poll-results/</loc>
+    <lastmod>2012-09-13T11:57:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/exit-poll/</loc>
+    <lastmod>2012-09-13T11:57:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/intomart/</loc>
+    <lastmod>2012-09-13T11:57:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/maurice-de-hond/</loc>
+    <lastmod>2012-09-13T11:57:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/polls/</loc>
+    <lastmod>2012-09-13T11:57:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/synovate/</loc>
+    <lastmod>2012-09-13T11:57:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tns-nipo/</loc>
+    <lastmod>2012-09-13T11:57:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/electoral-volatility-due-to-different/</loc>
+    <lastmod>2012-08-24T13:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/annette-jackle/</loc>
+    <lastmod>2012-08-15T19:13:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/dependent-interviewing-and-longitudinal/</loc>
+    <lastmod>2012-08-15T19:13:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/income/</loc>
+    <lastmod>2012-08-15T19:13:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/new-homepage/</loc>
+    <lastmod>2012-07-26T21:40:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/panel-conditioning/</loc>
+    <lastmod>2012-01-12T14:12:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gerry-nicolaas/</loc>
+    <lastmod>2011-10-21T14:01:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/trouble-of-nonresponse-studies/</loc>
+    <lastmod>2011-10-21T14:01:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/amos/</loc>
+    <lastmod>2011-10-19T11:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/eqs/</loc>
+    <lastmod>2011-10-19T11:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/latent-gold/</loc>
+    <lastmod>2011-10-19T11:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lisrel/</loc>
+    <lastmod>2011-10-19T11:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mx/</loc>
+    <lastmod>2011-10-19T11:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/review/</loc>
+    <lastmod>2011-10-19T11:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/sem-software/</loc>
+    <lastmod>2011-10-19T11:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ken-bollen/</loc>
+    <lastmod>2011-05-10T14:34:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/statistical-modeling-recent-advances/</loc>
+    <lastmod>2011-05-10T14:34:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-science/</loc>
+    <lastmod>2011-04-07T14:51:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/graphics/</loc>
+    <lastmod>2011-04-07T14:51:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hans-rosling/</loc>
+    <lastmod>2011-04-07T14:51:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/survey-methods-and-statistical-modeling/</loc>
+    <lastmod>2011-04-07T14:51:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/causality/</loc>
+    <lastmod>2011-03-26T12:26:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/causality/</loc>
+    <lastmod>2011-03-26T12:26:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/covariates/</loc>
+    <lastmod>2011-03-26T12:26:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cognitive-effects/</loc>
+    <lastmod>2011-03-23T10:09:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/mixed-mode-designs-cognitive/</loc>
+    <lastmod>2011-03-23T10:09:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/matching/</loc>
+    <lastmod>2011-03-15T21:57:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/matching-to-correct-for-self-selection/</loc>
+    <lastmod>2011-03-15T21:57:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/studying-mode-effects/</loc>
+    <lastmod>2011-02-28T18:55:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/internet-survey/</loc>
+    <lastmod>2011-02-21T08:45:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/mode-effects/</loc>
+    <lastmod>2011-02-21T08:45:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/how-to-use-internet-panels-for-polling/</loc>
+    <lastmod>2011-02-10T11:13:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/john-krosnick/</loc>
+    <lastmod>2011-02-10T11:13:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/checklist/</loc>
+    <lastmod>2011-02-10T10:38:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/checklist-for-quality-of-opinion-polls/</loc>
+    <lastmod>2011-02-10T10:38:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/impact/</loc>
+    <lastmod>2011-02-10T10:38:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jelke-bethlehem/</loc>
+    <lastmod>2011-02-10T10:38:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/journalists/</loc>
+    <lastmod>2011-02-10T10:38:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/npso/</loc>
+    <lastmod>2011-02-10T10:38:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bandwagon-effect/</loc>
+    <lastmod>2011-02-10T10:11:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/push-polls/</loc>
+    <lastmod>2011-02-10T10:11:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/influence-of-polls-on-voting-behavior/</loc>
+    <lastmod>2011-02-10T10:11:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/how-to-do-exit-poll/</loc>
+    <lastmod>2011-01-24T11:05:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sampling/</loc>
+    <lastmod>2011-01-24T11:05:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/predicting-elections/</loc>
+    <lastmod>2011-01-17T17:45:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/first-past-post/</loc>
+    <lastmod>2011-01-10T17:14:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/introduction/</loc>
+    <lastmod>2011-01-10T17:14:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/peter_detailed/</loc>
   </url>
   
   <url>
     <loc>/home/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
   </url>
   
   <url>

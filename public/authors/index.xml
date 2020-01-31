@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -21,6 +21,16 @@
     </item>
     
     <item>
+      <title></title>
+      <link>/authors/peterlugtig/</link>
+      <pubDate>Tue, 26 Jun 2018 11:16:00 +0200</pubDate>
+      <guid>/authors/peterlugtig/</guid>
+      <description>&lt;p&gt;Peter Lugtig is an associate professor at the deparment of Methodology and Statistics at Utrecht University, where he specializes in survey methodology, which includes inferences using a mix of survey data and big data and the modelling of survey errors, and the use of sensor technology in smartphones.&lt;/p&gt;
+&lt;p&gt;Next to his research, he has a passion for teaching and thus is involved in several Bachelor&#39;s, Master&#39;s and post-graduate courses about statistics and survey methodology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Robert Ford</title>
       <link>/authors/robert-ford/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
@@ -30,11 +40,29 @@
     
     <item>
       <title></title>
-      <link>/authors/peterlugtig/</link>
+      <link>/authors/peter_detailed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/peterlugtig/</guid>
-      <description>&lt;p&gt;Peter Lugtig is an associate professor at the deparment of Methodology and Statistics at Utrecht University, where he specializes in survey methodology, which includes inferences using a mix of survey data and big data and the modelling of survey errors, and the use of sensor technology in smartphones.&lt;/p&gt;
-&lt;p&gt;Next to his research, he has a passion for teaching and thus is involved in several Bachelor&#39;s, Master&#39;s and post-graduate courses about statistics and survey methodology.&lt;/p&gt;
+      <guid>/authors/peter_detailed/</guid>
+      <description>&lt;p&gt;&lt;br&gt;
+Welcome! I (Peter Lugtig) am a survey methodologist working at the department of methods and statistics of Utrecht University. I teach and do research on the methodology of doing longitudinal research in the social sciences. You can find my full CV by clicking on the link at the left.&lt;/p&gt;
+&lt;p&gt;This personal webpage is about my research. I have the tendency to get distracted into too many side-projects (all fun and important), but my main research interests are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Inference using a mix of survey data and big data. I am mainly interested to find out how mobile phone sensor data can complement survey data, and study the data quality of &amp;lsquo;sensor&amp;rsquo; data (see below), like GPS and accelerometer data to infer human behavior. Topics are data fusion of survey and sensor data, nonresponse pattrens in sensor data, correlates of nonresponse, and what to do about these.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Panel Survey Methods: panel surveys follow people over time to document change, and I believe that this requires specific methodologies to make sure the resulting data are of high quality. For example, selective drop-out from the panel should be prevented. And specific types of survey questions that take into account the fact that respondents have been interviewed before, can also increase the quality of change estimates. 
+&lt;a href=&#34;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=2&amp;amp;cad=rja&amp;amp;uact=8&amp;amp;ved=2ahUKEwitsMjYxJfnAhVJblAKHYE7C1UQFjABegQIAxAB&amp;amp;url=https%3A%2F%2Fdspace.library.uu.nl%2Fbitstream%2Fhandle%2F1874%2F221962%2Flugtig.pdf%3Fsequence%3D2&amp;amp;usg=AOvVaw2MQtkcF4gW-AMyFT9alUVe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;My dissertation&lt;/a&gt;
+ was about this topic.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Modeling survey errors: Errors is what methodologists worry about. The only problem is that errors are rarely directly observable. We only have one dataset, and we cannot directly evaluate whether the individual answers are &amp;lsquo;true&amp;rsquo; or &amp;lsquo;wrong&amp;rsquo;  Similarly, we would like to know whether the answers of the people we observe generalize to all the people we would like to know something about. For this, we need statistical models. I mainly work with Structural Equation Models and use within-subjects designs, to disentangle all kinds of survey errors, and compare the size of each error source.  From 2012-2015 I  have worked on an ESRC-funded project studying common causes (i.e. trade-offs) in survey errors. Currently, my interest is more in the use of both sensor data, survey data and big data in mobile data collection, particularly with data on movement (GPS and accelerometers).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Longitudinal data analysis. This comprises all my side projects. I work on diverse projects that involve the analysis of longitudinal survey data, mainly using Structural Equation Models.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you have questions about any of these topics, or posts on my blog, do not be afraid to e-mail me at &lt;a href=&#34;mailto:p.lugtig@uu.nl&#34;&gt;p.lugtig@uu.nl&lt;/a&gt;. I regularly teach short courses or give lectures on SEM and survey methods, as well as consultations to researchers on these topics. If you are interested to hear me speak on my research or give a specific training, do e-mail me as well.&lt;/p&gt;
 </description>
     </item>
     

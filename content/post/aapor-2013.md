@@ -1,0 +1,18 @@
+---
+title: 'AAPOR 2013'
+date: 2013-05-23T12:18:00.002+02:00
+draft: false
+tags : [conference, AAPOR, nonresponse error, responsive design, access panels]
+---
+
+The [AAPOR conference](http://www.aapor.org/) last week gave an overview of what survey methodologists worry about. There were relatively few people from Europe this year, and I found that the issues methodologists worry about are sometimes different in Europe and the USA. At the upcoming [ESRA conference](http://www.europeansurveyresearch.org/conference) for example there are more than 10 sessions on the topic of mixing survey modes. At AAPOR, mixing modes was definitely not 'hot'.  
+  
+With 8 parallel sessions at most times, I have only seen bits and pieces of all the things that went on. So the list below is just my take on what's innovative and hot in survey research in 2013. RTI composed [a summary of all tweets](https://blogs.rti.org/surveypost/2013/05/22/aapor-2013-the-view-from-the-twittersphere/) for a different take on what mattered at AAPOR this year  
+  
+1\. Probability based surveys vs. non-probability surveys. AAPOR published [a report](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCwQFjAA&url=http%3A%2F%2Fwww.aapor.org%2FAM%2FTemplate.cfm%3FSection%3DReports1%26Template%3D%2FCM%2FContentDisplay.cfm%26ContentID%3D5963&ei=LuidUcihHISfO8-rgbgD&usg=AFQjCNGFGvvKx3zVn2yxsUoVAi1I9YbnSA&sig2=KZNN8niPb3jc8spirP0Lmg&bvm=bv.46865395,d.ZWU&cad=rja) on this topic during the conference, written by survey research heavy-weights. This is recommended reading for everyone interested in polls. The conclusion that non-probability polls should not be used if one wants to have a relatively precide estimate for the general population is not surprising. It can not be re-iterated often enough. Other presentations on this topic features John Krosnick showing empirically that only probability-based surveys give consistent estimates. See a [summary of the report here](http://www.researchscape.com/blog/non-probability-sampling)  
+  
+2\. The 2012 presidential elections. See a [good post by Marc Blumenthal](http://www.huffingtonpost.com/2013/05/17/pollster-update-aapor-att_n_3294902.html?utm_hp_ref=@pollster) on this topic. Many sessions on likely voter models, shifting demographics in the U.S. and the rise of the cell-phone only generation.  
+  
+3\. Responsive designs. The idea of responsive (or adaptive) survey designs is that response rates are balanced across important sub-groups of the population. E.g. in a survey on attitudes towards immigrants, it is important to get equal response rates for hispanics, blacks and whites, when you believe that attitudes towards immigrants differ among ethnic sub-groups.  
+During fieldwork, response rates can be monitored, and when response rates for hispanics stay low, resources can be shifted towards targeting hispanics, by either contacting them more often, or switching them to a more expensive contact mode. If this is succesful, the amount of nonresponse bias in a survey should decrease.  
+The idea of responsive designs has been around for about 15 years. I had until now not seen many successful applications however. A panel session by the U.S. Census bureau did show that response design can work, but it requires survey organisations to redesign their entire fieldwork operations. For more information on this topic, see the excellent blog by [James Wagner](http://jameswagnersurv.blogspot.nl/)

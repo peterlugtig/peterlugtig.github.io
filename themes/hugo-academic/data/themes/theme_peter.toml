@@ -5,10 +5,10 @@ name = "theme_peter"
 light = true
 
 # Primary
-primary = "#dc091f"
+primary = "#FFCD00"
 
 # Menu
-menu_primary = "#dc091f"
+menu_primary = "#FFCD00"
 menu_text = "white"
 menu_text_active = "white"
 menu_title = "white"

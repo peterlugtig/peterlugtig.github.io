@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jelke Bethlehem | Peter Lugtig</title>
+    <link>/tags/jelke-bethlehem/</link>
+      <atom:link href="/tags/jelke-bethlehem/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jelke Bethlehem</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 10 Feb 2011 10:38:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jelke Bethlehem</title>
+      <link>/tags/jelke-bethlehem/</link>
+    </image>
+    
+    <item>
+      <title>checklist for quality of opinion polls</title>
+      <link>/post/checklist-for-quality-of-opinion-polls/</link>
+      <pubDate>Thu, 10 Feb 2011 10:38:00 +0100</pubDate>
+      <guid>/post/checklist-for-quality-of-opinion-polls/</guid>
+      <description>&lt;p&gt;1. Is it clear who ordered and financed the poll?&lt;br&gt;
+2. Is there a report documenting the poll&#39;s procedures?&lt;br&gt;
+3. Is the target population clearly described?&lt;br&gt;
+4. is the questionnaire available and has it been tested?&lt;br&gt;
+5. what were the sampling procedures?&lt;br&gt;
+* the sample should be drawn for the target population. If it only contains for example people with Internet access, be careful&lt;br&gt;
+6. What is the number of respondents?&lt;br&gt;
+7. Is the response percentage sufficient?&lt;br&gt;
+* it is difficult to say what percentage is sufficient. Higher response percentages do not automatically lead to better data quality. 10 or 20 % is however too low.&lt;br&gt;
+8. Have the data been weighted?&lt;br&gt;
+9. Are the margins of error being reported?&lt;/p&gt;
+&lt;p&gt;For more info, check the website of 
+&lt;a href=&#34;http://www.blogger.com/www.survey-onderzoek.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jelke Bethlehem&lt;/a&gt;
+ (in Dutch), or download the checklist 
+&lt;a href=&#34;http://www.survey-onderzoek.nl/papers/Checklist-voor-Peilingen-V2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+, with 
+&lt;a href=&#34;http://www.survey-onderzoek.nl/papers/Checklist-voor-Peilingen-Uitleg-V2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;an explanation&lt;/a&gt;
+ (in Dutch)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

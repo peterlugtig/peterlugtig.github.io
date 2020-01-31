@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Don Dillman | Peter Lugtig</title>
+    <link>/tags/don-dillman/</link>
+      <atom:link href="/tags/don-dillman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Don Dillman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Wed, 21 Jan 2015 15:21:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Don Dillman</title>
+      <link>/tags/don-dillman/</link>
+    </image>
+    
+    <item>
+      <title>why panel surveys need to go &#39;adaptive&#39;</title>
+      <link>/post/why-panel-surveys-need-to-go-adaptive/</link>
+      <pubDate>Wed, 21 Jan 2015 15:21:00 +0100</pubDate>
+      <guid>/post/why-panel-surveys-need-to-go-adaptive/</guid>
+      <description>&lt;p&gt;Last week, I gave a talk at Statistics Netherlands (slides 
+&lt;a href=&#34;https://www.dropbox.com/s/ul9msor9d6f9ak7/Lugtig%20-%20panel%20dropout%20%28talk%20at%20CBS%20January%202015%29.ppt.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+) about panel attrition. Initial and nonresponse and dropout from panel surveys have always been a problem. A famous study by Groves and Peytcheva (
+&lt;a href=&#34;http://poq.oxfordjournals.org/content/70/5/646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+) showed that in cross-sectional studies, nonresponse rates and nonresponse bias are only weakly correlated. In panel surveys however, all the signs are there that dropout in a panel study is often related to change. Those respondents undergoing most change, are also most likely to drop out. This is probably partly because of respondents (e.g. a move of house could be a good reason to change other things as well, like survey participation), but it is also because of how surveys deal with such moves. Movers are much harder to contact (if we don&#39;t have accurate contact details anymore). Movers are often assigned to a different interviewer. This will all lead to an underestimate of the number of people who move house in panel studies. Moving house is associated with lots of other life events (change in household composition, change in work, income etc.). In short dropout is a serious problem in longitudinal studies.&lt;/p&gt;
+&lt;p&gt;The figure below shows the cumulative response rates for some large-scale panel studies. The selection of panel studies is a bit selective. I have tried to focus on large panel studies (so excluding cohort studies), which are still existing today, with a focus on Western Europe. &lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://3.bp.blogspot.com/-hQrr9XFijnI/VL-0qshxygI/AAAAAAAACts/lG8A-ZdO2Ho/s1600/Rplot08.tiff&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://3.bp.blogspot.com/-hQrr9XFijnI/VL-0qshxygI/AAAAAAAACts/lG8A-ZdO2Ho/s1600/Rplot08.tiff&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Cumulative nonresponse rates in large panel surveys (click to enlarge)&lt;/p&gt;
+&lt;p&gt;The oldest study in the figure (PSID) has the highest initial response rate, followed by studies which were started in the 1980s (GSOEP), 1990s (BHPS), and early 2000s (HILDA). The more recent studies all have higher initial nonresponse rates. But not only that. They also have higher dropout rates (the lines go down much faster). This is problematic.&lt;/p&gt;
+&lt;p&gt;I think these differences are not due to the fact that we, as survey methodologists, are doing a worse job now as compared to 20 years ago. If anything, we have been trying use more resources, professionalize tracking, offer higher incentives, and be more persistent. In my view, the increasing dropout rates are due to changes in society (the survey climate). A further increase of our efforts (e.g. higher incentives) could perhaps help somewhat to reduce future dropout. I think this is however not the way to go, especially as budgets for data collection face pressures everywhere.&lt;/p&gt;
+&lt;p&gt;The way to reduce panel dropout is to collect data in a smarter way. First, we need to understand why people drop out. This is something we know quite well (but more can be done). For example, we know that likely movers are at risk. So, what we need are tailored strategies that focus on specific groups of people (e.g. likely movers). For example, we could send extra mailings in between waves only to them. We could use preventive tracking methods. We could put these into the field earlier.&lt;/p&gt;
+&lt;p&gt;I am not the first to suggest such strategies. We have been tailoring our surveys for ages to specific groups, but have mostly done so at an ad-hoc basis,  never systematically. 
+&lt;a href=&#34;http://jameswagnersurv.blogspot.nl/2010/09/responsive-design-and-adaptive-design.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Responsive or adaptive designs try to use tailoring systematically&lt;/a&gt;
+, for those groups that most benefit from tailoring. Because we know so much about our respondents after wave 1, panel studies offer lots of opportunities to implement responsive designs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>mixed-mode designs: cognitive equivalence</title>
+      <link>/post/mixed-mode-designs-cognitive/</link>
+      <pubDate>Wed, 23 Mar 2011 10:09:00 +0100</pubDate>
+      <guid>/post/mixed-mode-designs-cognitive/</guid>
+      <description>&lt;p&gt;Instead of separating out mode effects from nonresponse and noncoverage effects through statistical modeling, it is perhaps better to design our mixed-mode surveys in such a way so that mode effects do not occur. The key principle in preventing the mode effects from occurring, is to make sure that questionnaires are cognitively equivalent to respondents. This means that no matter in which survey mode the respondents participate, they would give the same answer. In my opinion, there are two ways to achieve this.&lt;/p&gt;
+&lt;p&gt;1. choose a mix of modes that lead to a cognitively equivalent survey process. The survey process is very different in a questionnaire administered in a telephone vs. an Internet mode. Some mode combinations are can however be combined without great differences between they survey process across the modes:&lt;/p&gt;
+&lt;p&gt;- combine face-to-face with telephone modes: the mode of communication is in both modes aural with an interviewer asking and recording answers. The only difference is that the interviewer is physically present in the face-to-face survey, and not in the telephone survey.&lt;br&gt;
+- combine mail and Internet modes. Differences between these modes are minimal. Whereas in the United States it is difficult to sample addresses (but not impossible), in Europe, this combination can easily be implemented. Don  Dillman talks about some experiments with this method on the 2009 AAPOR conference (thanks to &lt;a href=&#34;http://www.pollster.com)&#34;&gt;www.pollster.com)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;2. The second way is to use nonequivalent survey modes (for example the telephone and internet), but design the individual survey questions in such a way that they are still equivalent across modes. This implies that all questions should be simple, short and clear, and that there should be as few answer categories as possible (i.e. yes/no and similar). This means that it would be difficult to ask for attitudes or opinions in such a mixed mode design.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

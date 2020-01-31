@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annette Jackle | Peter Lugtig</title>
+    <link>/tags/annette-jackle/</link>
+      <atom:link href="/tags/annette-jackle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Annette Jackle</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Wed, 15 Aug 2012 19:13:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Annette Jackle</title>
+      <link>/tags/annette-jackle/</link>
+    </image>
+    
+    <item>
+      <title>Dependent Interviewing, and stability in opinion polls</title>
+      <link>/post/dependent-interviewing-and-longitudinal/</link>
+      <pubDate>Wed, 15 Aug 2012 19:13:00 +0200</pubDate>
+      <guid>/post/dependent-interviewing-and-longitudinal/</guid>
+      <description>&lt;p&gt;I was re-reading one of the papers I wrote as part of my dissertation on survey data quality in panel surveys. The paper deals with the effects of the introduction of an interviewing technique called Dependent Interviewing in the British Household Panel Survey. I wrote this paper together with Annette Jackle, and if you are interested after reading the next bit, you can download a working paper version of it 
+&lt;a href=&#34;https://www.iser.essex.ac.uk/publications/working-papers/iser/2011-23.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Dependent Interviewing uses data from respondents from earlier interviews in survey questions. Instead of asking respondents every year the question &lt;em&gt;&amp;ldquo;what types of income do you receive&lt;/em&gt;&amp;quot;, you can also ask them:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&lt;em&gt;last year, you told us that you receive income from your private pension plan, the state pension, as well as income from renting out a house. Is this still the same?&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There are of course multiple ways in which you can use information like this, and the BHPS actually uses Dependent Interviewing in a slightly more sophisticated way, but the basic idea is in my opinion quite intuitive. Why would you ask the same questions time and time again, when you already know so much about respondents?&lt;/p&gt;
+&lt;p&gt;The paper we wrote documents the effects on data quality, and specifically investigates what the effect of Dependent Interviewing is on measures of household income. In short, the effects are not huge, but it turns out that Dependent Interviewing is especially effective for poorer households. These households depend for a large part on different kinds of government transfers, and these are easily forgotten or underreported. When the effects of Dependent Interviewing are taken into account, the poorer households become a little richer, and so, all in all, poverty is actually a little lower than was previously estimated.&lt;/p&gt;
+&lt;p&gt;Perhaps interesting to Dutch readers, one of the main pollers in the Netherlands, Maurice de Hond, is also using Dependent Interviewing in his surveys (on all questions!). I am a member of his panel, and when I complete a survey, I only have to change answers if I want to, and otherwise just confirm my answers from the previous waves.&lt;/p&gt;
+&lt;p&gt;I see why Maurice de Hond has chosen to do this. Electoral preferences are very volatile, and panel surveys on voter preferences are perhaps too volatile. But I have serious doubts whether Dependent Interviewing here solves volatility. It rather creates articficial stability. In the first week of july, Maurice de Hond polled an average weekly change of seats of 10. Ipsos Synovate (see my earlier posts on why I trust them most), 12. Actually a small difference. There are many newspapers following and criticising the actual poll results. I&#39;ll try to keep you updated on volatility across the polls, meanwhile trying to answer the question whether one should trust stable polls, or volatile polls.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
