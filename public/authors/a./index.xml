@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. | Peter Lugtig</title>
+    <link>/authors/a./</link>
+      <atom:link href="/authors/a./index.xml" rel="self" type="application/rss+xml" />
+    <description>A.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>A.</title>
+      <link>/authors/a./</link>
+    </image>
+    
+    <item>
+      <title>Where you at? Using GPS location in an electronic Time Use diary study to derive functional locations</title>
+      <link>/publication/2019_elevelt_where_you/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_elevelt_where_you/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile-only web respondents</title>
+      <link>/publication/2016_lugtig_mobile_only_web_respondents/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0100</pubDate>
+      <guid>/publication/2016_lugtig_mobile_only_web_respondents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing underreports of behaviors in retrospective surveys: The effects of three different strategies</title>
+      <link>/publication/2015_lugtig_reducing_underreports_of_behaviors/</link>
+      <pubDate>Sat, 05 Sep 2015 00:00:00 +0100</pubDate>
+      <guid>/publication/2015_lugtig_reducing_underreports_of_behaviors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing and relaxing assumptions in quasi-simplex models</title>
+      <link>/publication/2014_cernat_assessing_and_relaxing_assumptions/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0100</pubDate>
+      <guid>/publication/2014_cernat_assessing_and_relaxing_assumptions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonresponse and attrition in a probability based Internet Panel for the general population</title>
+      <link>/publication/2014_lugtig_nonresponse_and_attrition_in_a_probability/</link>
+      <pubDate>Fri, 11 Apr 2014 00:00:00 +0100</pubDate>
+      <guid>/publication/2014_lugtig_nonresponse_and_attrition_in_a_probability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can I just check...? Effects of edit check questions on measurement error and survey estimates</title>
+      <link>/publication/2014_lugtig_in_interview_edit_checks/</link>
+      <pubDate>Fri, 14 Feb 2014 00:00:00 +0100</pubDate>
+      <guid>/publication/2014_lugtig_in_interview_edit_checks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facing off with Scylla and Charybdis: A comparison of scalar, partial, and the novel possibility of approximate measurement invariance</title>
+      <link>/publication/2013_schoot_facing_off_with_choosing/</link>
+      <pubDate>Wed, 23 Oct 2013 00:00:00 +0100</pubDate>
+      <guid>/publication/2013_schoot_facing_off_with_choosing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevalence and predictors of transitions into co-occurring risk behaviour patterns in adolescence: The TRAILS study</title>
+      <link>/publication/2012_monshouwer_prevalence_and_predictors/</link>
+      <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
+      <guid>/publication/2012_monshouwer_prevalence_and_predictors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

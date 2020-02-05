@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K.M. | Peter Lugtig</title>
+    <link>/authors/k.m./</link>
+      <atom:link href="/authors/k.m./index.xml" rel="self" type="application/rss+xml" />
+    <description>K.M.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Fri, 11 Sep 2015 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>K.M.</title>
+      <link>/authors/k.m./</link>
+    </image>
+    
+    <item>
+      <title>The role of perceived peer norms in the relationship between media violence exposure and adolescents’ aggression</title>
+      <link>/publication/2016_fikkers_the_role_of_perceived/</link>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 +0100</pubDate>
+      <guid>/publication/2016_fikkers_the_role_of_perceived/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

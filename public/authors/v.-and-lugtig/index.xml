@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V. and Lugtig | Peter Lugtig</title>
+    <link>/authors/v.-and-lugtig/</link>
+      <atom:link href="/authors/v.-and-lugtig/index.xml" rel="self" type="application/rss+xml" />
+    <description>V. and Lugtig</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>V. and Lugtig</title>
+      <link>/authors/v.-and-lugtig/</link>
+    </image>
+    
+    <item>
+      <title>Can we predict device use? An investigation into mobile device use in surveys</title>
+      <link>/publication/2019_haan_predict_device_use/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/2019_haan_predict_device_use/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
