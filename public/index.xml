@@ -79,6 +79,22 @@
     </item>
     
     <item>
+      <title>Automatic Travel Mode Prediction in a National Travel Survey</title>
+      <link>/publication/2019_smeets_automatic/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/2019_smeets_automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where you at? Using GPS location in an electronic Time Use diary study to derive functional locations</title>
+      <link>/publication/2019_elevelt_where_you/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_elevelt_where_you/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>/teaching/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -298,19 +314,35 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;
-.&lt;/p&gt;
-</description>
+      <title>Recruiting Young and Urban Groups into a Probability-Based Online Panel by Promoting Smartphone Use</title>
+      <link>/publication/2019_lugtig_recruiting_smartphone/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/2019_lugtig_recruiting_smartphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barriers to ideal palliative care in multiple care settings: the nurses&#39; point of view</title>
+      <link>/publication/2019_uitdehaag_barriers/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/2019_uitdehaag_barriers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can survey item characteristics relevant to mode-specific measurement error be coded reliably</title>
+      <link>/publication/2019_bais_can_survey_item_characteristics/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/2019_bais_can_survey_item_characteristics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can we predict device use? An investigation into mobile device use in surveys</title>
+      <link>/publication/2019_haan_predict_device_use/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/2019_haan_predict_device_use/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -506,6 +538,22 @@ Three
     </item>
     
     <item>
+      <title>Generating missing values for simulation purposes: a multivariate amputation procedure</title>
+      <link>/publication/2018_schouten_generating_missing/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/2018_schouten_generating_missing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modularization in an era of mobile web: Investigating the effects of cutting a survey into smaller pieces on data quality</title>
+      <link>/publication/2018_toepoel_modularization/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/2018_toepoel_modularization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
@@ -566,6 +614,14 @@ But which error source is generally larger?  Nonresponse or measurement errors?
     </item>
     
     <item>
+      <title>The relative size of measurement error and attrition error in a panel survey. Comparing them using a new Multi-Trait Multi-Method model</title>
+      <link>/publication/2017_lugtig_the_relative_size_of_measurement_error/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/2017_lugtig_the_relative_size_of_measurement_error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mobile-only web survey respondents</title>
       <link>/post/mobile-only-web-survey-respondents/</link>
       <pubDate>Thu, 27 Apr 2017 19:52:00 +0200</pubDate>
@@ -594,6 +650,54 @@ A further 1% uses all devices, but we ignore these respondents here.&lt;/p&gt;
 &lt;p&gt;The 5 groups serve as our dependent variable in a multinomial logit regression. The average marginal effects shown in the Figure above respresent the change in the likelihood of being in the &amp;lsquo;always PC&amp;rsquo; group as compared to one of the other groups. The negative age coefficient of -.03 for the always phone group means that with every decade respondents get younger (a negative effect), they have a .03 higher probability to be be in the always phone group as referred to the always Pc group. These effects seem small, but they are not. An imaginary respondent aged 60 has a predicted probability of 92 percent of being in the always PC group as opposed to the always phone group, but this probability is about 80 percent for someone aged 20, controlling for the effects of other covariates.&lt;/p&gt;
 &lt;p&gt;Our take-away? Apart from age, &amp;lsquo;Always phone’ respondents are also less likely to have a higher education (Bachelor degree or higher), are more likely to be married, and more likely to be of Hispanic or African American ethnicity. These characteristics coincide with some of the most important characteristics of hard-to-recruit respondents. While designing your surveys for smartphones will not get these hard-to-recruit respondents into your panel, you can easily lose them by not designing your surveys for smartphones.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Total Survey Error for Longitudinal Surveys</title>
+      <link>/publication/2017_lynn_total_survey_error_for_longitudinal/</link>
+      <pubDate>Mon, 06 Feb 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/2017_lynn_total_survey_error_for_longitudinal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The unique roles of intrapersonal and social factors in adolescent smoking development</title>
+      <link>/publication/2016_defoe_the_unique_role_of_cognitive/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+      <guid>/publication/2016_defoe_the_unique_role_of_cognitive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incidence and recurrence of common mental disorders after abortion: Results from a prospective cohort study</title>
+      <link>/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</link>
+      <pubDate>Tue, 11 Oct 2016 00:00:00 +0100</pubDate>
+      <guid>/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends and challenges for Methodology</title>
+      <link>/publication/2016_padilla_trends_and_challenges_for_methodology/</link>
+      <pubDate>Wed, 05 Oct 2016 00:00:00 +0100</pubDate>
+      <guid>/publication/2016_padilla_trends_and_challenges_for_methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile-only web respondents</title>
+      <link>/publication/2016_lugtig_mobile_only_web_respondents/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0100</pubDate>
+      <guid>/publication/2016_lugtig_mobile_only_web_respondents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Total Survey Error for Longitudinal Surveys</title>
+      <link>/publication/2016_lynn_total_survey_error/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:00 +0100</pubDate>
+      <guid>/publication/2016_lynn_total_survey_error/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -834,6 +938,14 @@ We now know that good web surveys don&#39;t look like mail surveys. Proponents o
     </item>
     
     <item>
+      <title>Dropouts in longitudinal surveys</title>
+      <link>/publication/2015_de_leeuw_dropouts_in_longitudinal_data/</link>
+      <pubDate>Fri, 18 Dec 2015 00:00:00 +0100</pubDate>
+      <guid>/publication/2015_de_leeuw_dropouts_in_longitudinal_data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Retrospective reporting</title>
       <link>/post/retrospective-reporting/</link>
       <pubDate>Tue, 01 Dec 2015 13:51:00 +0100</pubDate>
@@ -866,24 +978,35 @@ Sometimes we want to get reports at a more detailed level, however. For example,
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;
-.&lt;/p&gt;
-</description>
+      <title>Online surveys are Mixed-Device surveys. Issues associated with the use of different mobile devices in web surveys</title>
+      <link>/publication/2015_toepoel_online_surveys_are_mixed_device/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0100</pubDate>
+      <guid>/publication/2015_toepoel_online_surveys_are_mixed_device/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methodology turns 10</title>
+      <link>/publication/2015_lugtig_methodology_turns_10/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0100</pubDate>
+      <guid>/publication/2015_lugtig_methodology_turns_10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of perceived peer norms in the relationship between media violence exposure and adolescents’ aggression</title>
+      <link>/publication/2016_fikkers_the_role_of_perceived/</link>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 +0100</pubDate>
+      <guid>/publication/2016_fikkers_the_role_of_perceived/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing underreports of behaviors in retrospective surveys: The effects of three different strategies</title>
+      <link>/publication/2015_lugtig_reducing_underreports_of_behaviors/</link>
+      <pubDate>Sat, 05 Sep 2015 00:00:00 +0100</pubDate>
+      <guid>/publication/2015_lugtig_reducing_underreports_of_behaviors/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -976,6 +1099,14 @@ The effects of targeted letters on response in panel surveys are often small, an
     </item>
     
     <item>
+      <title>The use of PCs, smartphones and tablets in a probability-based panel survey. Effects on survey measurement error</title>
+      <link>/publication/2016_lugtig_the_use_of_pcs_smartphones/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0100</pubDate>
+      <guid>/publication/2016_lugtig_the_use_of_pcs_smartphones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>why panel surveys need to go &#39;adaptive&#39;</title>
       <link>/post/why-panel-surveys-need-to-go-adaptive/</link>
       <pubDate>Wed, 21 Jan 2015 15:21:00 +0100</pubDate>
@@ -1058,6 +1189,14 @@ The question we actually wanted to answer was a different one: do respondents wh
     </item>
     
     <item>
+      <title>Assessing and relaxing assumptions in quasi-simplex models</title>
+      <link>/publication/2014_cernat_assessing_and_relaxing_assumptions/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0100</pubDate>
+      <guid>/publication/2014_cernat_assessing_and_relaxing_assumptions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Can you push web survey respondents to complete questionnaires on their mobile phones?</title>
       <link>/post/can-you-push-web-survey-respondents-to/</link>
       <pubDate>Wed, 13 Aug 2014 19:06:00 +0200</pubDate>
@@ -1076,6 +1215,14 @@ The question we actually wanted to answer was a different one: do respondents wh
 &lt;a href=&#34;http://ssc.sagepub.com/content/early/2014/04/02/0894439313510482.abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 . There are a few potential caveats in our study: we use a sample of experienced survey respondents and did not use experimental assignments, so self-selection into device could be selective beyond the variables we studied. So far however, it really seems that web surveys on a mobile phone are not very different for respondents than traditional web surveys.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Explaining consumer intentions to use innovative medical and food applications: Test of an extended model of reasoned action in a survey study</title>
+      <link>/publication/2014_mulder_explaining_consumer_intentions/</link>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0100</pubDate>
+      <guid>/publication/2014_mulder_explaining_consumer_intentions/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1139,6 +1286,30 @@ What was in my opinion missing at AAPOR were good case studies that showed how b
     </item>
     
     <item>
+      <title>Nonresponse and attrition in a probability based Internet Panel for the general population</title>
+      <link>/publication/2014_lugtig_nonresponse_and_attrition_in_a_probability/</link>
+      <pubDate>Fri, 11 Apr 2014 00:00:00 +0100</pubDate>
+      <guid>/publication/2014_lugtig_nonresponse_and_attrition_in_a_probability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What happens if you offer a mobile option to your web panel? Evidence from a probability-based panel of internet users</title>
+      <link>/publication/2014_toepoel_what_happens_if_you_offer/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0100</pubDate>
+      <guid>/publication/2014_toepoel_what_happens_if_you_offer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential effects of baseline drinking status: Effects of an alcohol prevention program targeting students and/or parents (PAS) among weekly drinking students</title>
+      <link>/publication/2014_koning_differential_effects_of_baseline_drinking/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
+      <guid>/publication/2014_koning_differential_effects_of_baseline_drinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Do respondents become sloppy before attrition?</title>
       <link>/post/do-respondents-become-sloppy-before/</link>
       <pubDate>Fri, 28 Mar 2014 15:33:00 +0100</pubDate>
@@ -1165,6 +1336,22 @@ What was in my opinion missing at AAPOR were good case studies that showed how b
 &lt;p&gt;Unsuprisingly, I find that compliance decreases before attrition. Even at 5 waves before attrition, I find differences between the groups, with the &amp;ldquo;always interviewed&amp;rdquo; being most compliant, and the later to &amp;ldquo;refuse&amp;rdquo; group least compliant. The differences between the groups increase, the closer they get to attrition. Of the groups that attrite, the &amp;ldquo;noncontacts&amp;rdquo; and later &amp;ldquo;ineligibles&amp;rdquo; do only a little worse than the &amp;ldquo;always interviewed&amp;rdquo;. The &amp;ldquo;refusers&amp;rdquo; and &amp;ldquo;inables&amp;rdquo; have sharply decreasing cooperation ratings, and rates of completing the tracking schedule and returning the self-completion questionnaire. The differences between the groups are not large enough to predict exactly who is going to refuse or become unable to participate, but they can help to identify respondents being at risk.&lt;/p&gt;
 &lt;p&gt;The next question would be what to do with this knowledge.  If a respondent really is unable to participate, there is not so much we as survey practitioners can do about this. Likely refusers may also be hard to target effectively. The rate of noncontacts is to a large degree under the control of survey practitioners, and for that reason, many nonresponse researchers are trying to limit noncontacts. Although refusers may be harder to target than noncontacts, it may be easier to identify &lt;em&gt;potential&lt;/em&gt; refusers, and take pre-emptive action, rather than use refusal conversion techniques after a  respondent has refused.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Adolescents’ use of nicotine replacement therapy for smoking cessation: Predictors of compliance trajectories</title>
+      <link>/publication/2014_scherphof_adolescents_use_of_nicotine/</link>
+      <pubDate>Wed, 05 Mar 2014 00:00:00 +0100</pubDate>
+      <guid>/publication/2014_scherphof_adolescents_use_of_nicotine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can I just check...? Effects of edit check questions on measurement error and survey estimates</title>
+      <link>/publication/2014_lugtig_in_interview_edit_checks/</link>
+      <pubDate>Fri, 14 Feb 2014 00:00:00 +0100</pubDate>
+      <guid>/publication/2014_lugtig_in_interview_edit_checks/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1202,6 +1389,14 @@ What was in my opinion missing at AAPOR were good case studies that showed how b
     </item>
     
     <item>
+      <title>Panel attrition: Separating stayers, fast attriters, gradual attriters and lurkers</title>
+      <link>/publication/2014_lugtig_panel_attrition_separating_stayers/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0100</pubDate>
+      <guid>/publication/2014_lugtig_panel_attrition_separating_stayers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Longitudinal interview outcome data reduction: Latent Class and Sequence analyses</title>
       <link>/post/longitudinal-interview-outcome-data/</link>
       <pubDate>Mon, 04 Nov 2013 16:22:00 +0100</pubDate>
@@ -1233,6 +1428,14 @@ What was in my opinion missing at AAPOR were good case studies that showed how b
 &lt;p&gt;The differences between sequence analysis and LCA are really minimal, and probably result from the fact that the Optimal Matching algorithm used in sequence analysis is more flexible (in that it would allow deletion, additions, substitutions etc to match), than Latent Class Analysis. But in practice, for my analyses, it doesn&#39;t matter what technique I use. My results are equivalent. Personally, I like Latent Class analysis more, because it offers the option of linking the Latent Classes of attrition to substantive research data in one model.&lt;/p&gt;
 &lt;p&gt;Attrition data bear a resemblence to contact data recorded in a telephone or face-to-face survey. Interviewers make call or interview attempts, that bear a lot of information about the survey proecess, and could improve fieldwork, and reduce nonresponse and costs. I am imagining a paper where one links contact data at every wave, and combines that with attrition analyses, in a series of linked-sequence data analysis. That way, you can learn how specific sequences of call and contact data, lead to specific sequences of interview outcomes at later stages of the panel survey. It can be done if you have a lot of time.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Facing off with Scylla and Charybdis: A comparison of scalar, partial, and the novel possibility of approximate measurement invariance</title>
+      <link>/publication/2013_schoot_facing_off_with_choosing/</link>
+      <pubDate>Wed, 23 Oct 2013 00:00:00 +0100</pubDate>
+      <guid>/publication/2013_schoot_facing_off_with_choosing/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1465,6 +1668,14 @@ k. In other words, high nonresponse rates are not per se biasing our substantive
     </item>
     
     <item>
+      <title>Evaluating data quality on the measurement of change using dependent interviewing</title>
+      <link>/publication/2014_lugtig_evaluating_data_quality_on/</link>
+      <pubDate>Wed, 24 Jul 2013 00:00:00 +0100</pubDate>
+      <guid>/publication/2014_lugtig_evaluating_data_quality_on/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>measurement and nonresponse error in panel surveys</title>
       <link>/post/measurement-and-nonresponse-error-in/</link>
       <pubDate>Thu, 04 Jul 2013 11:57:00 +0200</pubDate>
@@ -1484,27 +1695,6 @@ b) that hypothetically, nonrespondents could be converted into respondents if ex
 &lt;p&gt;In my project, I will try to overcome this problem, that we never have measurement error estimates for nonrespondents. I use longitudinal data and Structural Equation Modeling techniques to estimate measurement errors for nonrespondents in the British Household Panel Study, compare them to respondents, and link them to potential common causes of both type of errors. See 
 &lt;a href=&#34;https://dl.dropboxusercontent.com/u/2839696/Lugtig%20-%20Jess%20semninar%2019%20june%202013.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this presentation&lt;/a&gt;
  for more details on this project&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;
-.&lt;/p&gt;
 </description>
     </item>
     
@@ -1900,6 +2090,22 @@ This overview follows from my earlier post on Dependent Interviewing. Maurice de
 &lt;p&gt;31-07 Switched the entire homepage to english, and have added a list of downloadable publications.&lt;/p&gt;
 &lt;p&gt;25-08 Further changes and news will be listed under the &amp;ldquo;news and agenda&amp;rdquo; page&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A checklist for testing measurement invariance</title>
+      <link>/publication/2012_schoot_a_checklist_for_testing/</link>
+      <pubDate>Tue, 15 May 2012 00:00:00 +0100</pubDate>
+      <guid>/publication/2012_schoot_a_checklist_for_testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevalence and predictors of transitions into co-occurring risk behaviour patterns in adolescence: The TRAILS study</title>
+      <link>/publication/2012_monshouwer_prevalence_and_predictors/</link>
+      <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
+      <guid>/publication/2012_monshouwer_prevalence_and_predictors/</guid>
+      <description></description>
     </item>
     
     <item>
