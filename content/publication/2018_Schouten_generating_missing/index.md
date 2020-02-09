@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Generating missing values for simulation purposes: a multivariate amputation procedure"
+title: "Generating missing values for simulation purposes: A multivariate amputation procedure"
 authors: [Schouten, R.M., Lugtig, P., and Vink, G.]
 date: 2018-07-02T00:00:00+01:00
 doi: "10.1080/00949655.2018.1491577"

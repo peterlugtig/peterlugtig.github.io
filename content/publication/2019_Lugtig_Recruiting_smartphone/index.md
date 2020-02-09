@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Recruiting Young and Urban Groups into a Probability-Based Online Panel by Promoting Smartphone Use"
+title: "Recruiting young and urban groups into a probability-based online panel by promoting smartphone use"
 authors: [Lugtig, P., Toepoel, V., Haan, M., Zandvliet, R., and Klein Kranenburg, L.]
 date: 2019-07-01T00:00:00+01:00
 doi: "10.12758/mda.2019.04"

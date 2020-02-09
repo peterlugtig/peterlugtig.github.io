@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Total Survey Error for Longitudinal Surveys"
+title: "Total Survey Error for longitudinal surveys"
 authors: [Lynn, P., and Lugtig, P.]
 date: 2016-09-07T00:00:00+01:00
 doi: ""

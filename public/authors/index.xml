@@ -383,6 +383,14 @@
     </item>
     
     <item>
+      <title>B.</title>
+      <link>/authors/b./</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0100</pubDate>
+      <guid>/authors/b./</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lynn</title>
       <link>/authors/lynn/</link>
       <pubDate>Mon, 06 Feb 2017 00:00:00 +0100</pubDate>
@@ -679,14 +687,6 @@
     </item>
     
     <item>
-      <title>B.</title>
-      <link>/authors/b./</link>
-      <pubDate>Thu, 12 Jun 2014 00:00:00 +0100</pubDate>
-      <guid>/authors/b./</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>M. de</title>
       <link>/authors/m.-de/</link>
       <pubDate>Thu, 12 Jun 2014 00:00:00 +0100</pubDate>
@@ -871,6 +871,62 @@
     </item>
     
     <item>
+      <title>and Overbeek</title>
+      <link>/authors/and-overbeek/</link>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 +0100</pubDate>
+      <guid>/authors/and-overbeek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doornwaard</title>
+      <link>/authors/doornwaard/</link>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 +0100</pubDate>
+      <guid>/authors/doornwaard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R.J.J.M.</title>
+      <link>/authors/r.j.j.m./</link>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 +0100</pubDate>
+      <guid>/authors/r.j.j.m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. M.</title>
+      <link>/authors/s.-m./</link>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 +0100</pubDate>
+      <guid>/authors/s.-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T.F.M.</title>
+      <link>/authors/t.f.m./</link>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 +0100</pubDate>
+      <guid>/authors/t.f.m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ter Bogt</title>
+      <link>/authors/ter-bogt/</link>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 +0100</pubDate>
+      <guid>/authors/ter-bogt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>van den Eijnden</title>
+      <link>/authors/van-den-eijnden/</link>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 +0100</pubDate>
+      <guid>/authors/van-den-eijnden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>and Hox</title>
       <link>/authors/and-hox/</link>
       <pubDate>Tue, 15 May 2012 00:00:00 +0100</pubDate>
@@ -979,6 +1035,102 @@
       <link>/authors/z./</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
       <guid>/authors/z./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lensvelt-Mulders</title>
+      <link>/authors/lensvelt-mulders/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0100</pubDate>
+      <guid>/authors/lensvelt-mulders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Frerichs and Greven</title>
+      <link>/authors/r.-frerichs-and-greven/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0100</pubDate>
+      <guid>/authors/r.-frerichs-and-greven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boeije</title>
+      <link>/authors/boeije/</link>
+      <pubDate>Fri, 05 Aug 2011 00:00:00 +0100</pubDate>
+      <guid>/authors/boeije/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H.R.</title>
+      <link>/authors/h.r./</link>
+      <pubDate>Fri, 05 Aug 2011 00:00:00 +0100</pubDate>
+      <guid>/authors/h.r./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>and van Hooft</title>
+      <link>/authors/and-van-hooft/</link>
+      <pubDate>Sat, 12 Feb 2011 00:00:00 +0100</pubDate>
+      <guid>/authors/and-van-hooft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bakker</title>
+      <link>/authors/bakker/</link>
+      <pubDate>Sat, 12 Feb 2011 00:00:00 +0100</pubDate>
+      <guid>/authors/bakker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D.T.D</title>
+      <link>/authors/d.t.d/</link>
+      <pubDate>Sat, 12 Feb 2011 00:00:00 +0100</pubDate>
+      <guid>/authors/d.t.d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>de Boer</title>
+      <link>/authors/de-boer/</link>
+      <pubDate>Sat, 12 Feb 2011 00:00:00 +0100</pubDate>
+      <guid>/authors/de-boer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De Ridder</title>
+      <link>/authors/de-ridder/</link>
+      <pubDate>Sat, 12 Feb 2011 00:00:00 +0100</pubDate>
+      <guid>/authors/de-ridder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E.A.J.</title>
+      <link>/authors/e.a.j./</link>
+      <pubDate>Sat, 12 Feb 2011 00:00:00 +0100</pubDate>
+      <guid>/authors/e.a.j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>and Hubregtse</title>
+      <link>/authors/and-hubregtse/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0100</pubDate>
+      <guid>/authors/and-hubregtse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.J.</title>
+      <link>/authors/j.j./</link>
+      <pubDate>Sat, 28 Feb 2009 00:00:00 +0100</pubDate>
+      <guid>/authors/j.j./</guid>
       <description></description>
     </item>
     

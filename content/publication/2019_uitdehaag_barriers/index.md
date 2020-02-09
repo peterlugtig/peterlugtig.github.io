@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Barriers to ideal palliative care in multiple care settings: the nurses' point of view"
+title: "Barriers to ideal palliative care in multiple care settings: The nurses' point of view"
 authors: [Uitdehaag, M.J., Stellato, R.K., Lugtig, P., Olden, T., and Teunissen, S.C.]
 date: 2019-06-02T00:00:00+01:00
 doi: "10.12968/ijpn.2019.25.6.294"
