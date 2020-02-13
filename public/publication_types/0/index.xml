@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Peter Lugtig</title>
+    <link>https://thomvolker.github.io/publication_types/0/</link>
+      <atom:link href="https://thomvolker.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Wed, 05 Oct 2016 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>0</title>
+      <link>https://thomvolker.github.io/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>Trends and challenges for Methodology</title>
+      <link>https://thomvolker.github.io/publication/2016_padilla_trends_and_challenges_for_methodology/</link>
+      <pubDate>Wed, 05 Oct 2016 00:00:00 +0100</pubDate>
+      <guid>https://thomvolker.github.io/publication/2016_padilla_trends_and_challenges_for_methodology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

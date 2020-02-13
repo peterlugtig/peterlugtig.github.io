@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mulder | Peter Lugtig</title>
+    <link>https://thomvolker.github.io/authors/mulder/</link>
+      <atom:link href="https://thomvolker.github.io/authors/mulder/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mulder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 12 Jun 2014 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mulder</title>
+      <link>https://thomvolker.github.io/authors/mulder/</link>
+    </image>
+    
+    <item>
+      <title>Explaining consumer intentions to use innovative medical and food applications: Test of an extended model of reasoned action in a survey study</title>
+      <link>https://thomvolker.github.io/publication/2014_mulder_explaining_consumer_intentions/</link>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0100</pubDate>
+      <guid>https://thomvolker.github.io/publication/2014_mulder_explaining_consumer_intentions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

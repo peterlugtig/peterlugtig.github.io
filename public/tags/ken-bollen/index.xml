@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ken Bollen | Peter Lugtig</title>
+    <link>https://thomvolker.github.io/tags/ken-bollen/</link>
+      <atom:link href="https://thomvolker.github.io/tags/ken-bollen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ken Bollen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 10 May 2011 14:34:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ken Bollen</title>
+      <link>https://thomvolker.github.io/tags/ken-bollen/</link>
+    </image>
+    
+    <item>
+      <title>Statistical modeling: SEM</title>
+      <link>https://thomvolker.github.io/post/statistical-modeling-recent-advances/</link>
+      <pubDate>Tue, 10 May 2011 14:34:00 +0200</pubDate>
+      <guid>https://thomvolker.github.io/post/statistical-modeling-recent-advances/</guid>
+      <description>&lt;p&gt;Sorry for the long silence: have been caught up in work and other things that were always more pressing than writing blog posts. Perhaps it is also because I found it hard to write about statistical modeling. Statistical models are usually complex, and therefore it is difficult to write about them in an accessible way.&lt;/p&gt;
+&lt;p&gt;Statistical models are everywhere; their goal is to summarize our world in such a way as to capture the essence, and leave out the irrelevant complexities. Therefore, I see graphs, figures and visualisation tools themselves as models not very differently from statistical models.&lt;br&gt;
+In the social sciences, I think statistical models are complex in two ways, that make them different from models in physics.&lt;br&gt;
+First, our social world is generally more complex and nuanced than laws of physics, and therefore; more complex models are necessary.&lt;br&gt;
+Second, measurement in the social sciences are more difficult than in the exact sciences and contain more measurement error. Statistical Models in the social sciences should in my view therefore always incorporate some form of measurement errors. One technique that has become dominant in the social sciences, is the technique of Structural Equation Modeling (SEM). Ken Bollen, who is a famous SEM-scientist, explains what makes SEM such a good and attractive technique in the following video.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
