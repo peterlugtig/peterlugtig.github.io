@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conference | Peter Lugtig</title>
+    <link>https://thomvolker.github.io/tags/conference/</link>
+      <atom:link href="https://thomvolker.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>conference</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 26 May 2014 17:05:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>conference</title>
+      <link>https://thomvolker.github.io/tags/conference/</link>
+    </image>
+    
+    <item>
+      <title>AAPOR 2014</title>
+      <link>https://thomvolker.github.io/post/aapor-2014/</link>
+      <pubDate>Mon, 26 May 2014 17:05:00 +0200</pubDate>
+      <guid>https://thomvolker.github.io/post/aapor-2014/</guid>
+      <description>&lt;p&gt;Big data and new technologies to do survey research. These were in my view the two themes of the 
+&lt;a href=&#34;http://www.aapor.org/AAPOR_Annual_Conference.htm#.U4NUUi-prs0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2014 AAPOR conference&lt;/a&gt;
+. The conference organisation tried to push the theme ‘Measurement and the role of pubic opinion in a democracy’, but I don&#39;t think the theme was really reflected in the talks at the conference. Or perhaps I have missed those talks, the conference was huge as always (&amp;gt; 1000 participants).&lt;/p&gt;
+&lt;p&gt;The profession of survey research is surely changing. Mick Couper last year argued that the 
+&lt;a href=&#34;https://ojs.ub.uni-konstanz.de/srm/article/view/5751&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;‘sky wasn’t falling’&lt;/a&gt;
+ on survey research, but it is evolving. Big data may potentially replace parts of survey research, especially if we don&#39;t adapt to new technologies (mobile), and learn to use some of the data that are now found everywhere. Big data and survey research in fact have the same basic goal. To extract meaningful information out of datasets (big data) or people (survey research), and use that to inform policy making.&lt;/p&gt;
+&lt;p&gt;Big data can certainly be useful for policy-making. Out of the 10 or so presentations that I have seen at AAPOR, most were however just talking about potential possibilities over using big data to inform policy makers.&lt;br&gt;
+What was in my opinion missing at AAPOR were good case studies that showed how big data can replace survey research and provide valid inferences. I have seen many good earlier examples when it comes to predictions at the level of an individual using big data. When Amazon tries to recommend me books that relate to a book I have previously bought, I find these useful and accurate predictions of what I really like. In politics, voter registration records data can help politicians target likely voters for their party, as the 
+&lt;a href=&#34;http://www.technologyreview.com/featuredstory/509026/how-obamas-team-used-big-data-to-rally-voters/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2012 Obama campaign showed&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;But when it comes to aggregating big data to the level of the population, big data is often in trouble (the Obama election campaign is an outlier here, as they collect data on the &lt;em&gt;whole&lt;/em&gt; population). Survey research has relied on the principle of random sampling from the population to draw inferences, but for big data, coverage and nonresponse errors are often unknown and unestimatible for the convenience samples that big data ususally are. 
+&lt;a href=&#34;https://blogs.rti.org/surveypost/2014/05/08/aapor-preview-big-data-in-public-opinion-and-survey-research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paul Biemer made this point in an excellent talk&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;Most of the other big data presentations at AAPOR to me were either in the category ‘bar talk’ - anecdotes without a scientific empirical strategy - or just talked about the potential of big data. And don’t get me wrong: I do think that big data are very useful, especially if they cover a late proportion of the population (e.g. voter records), or if the goals is prediction at the level of an individual.&lt;/p&gt;
+&lt;p&gt;The other conference theme seemed to be mobile surveys. With Vera Toepoel, I gave a presentation on this topic, which may be the topic of a next blogpost. Here, I think survey researchers are much better equipped to deal with the challenge mobile devices pose. I saw many excellent presentations on questionnaire design for mobile surveys, and selection bias.&lt;/p&gt;
+&lt;p&gt;Finally, this is just my conference take-away. Some other bloggers (
+&lt;a href=&#34;http://freerangeresearch.com/2014/05/20/reporting-on-the-aapor-69th-national-conference-in-anaheim-aapor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+ 
+&lt;a href=&#34;http://lovestats.wordpress.com/tag/aapor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+) seem to have a slightly different view on the conference. Probably this is due to the fact I have only seen 1 out of the 8 presentations given at any time. So be sure to check their posts out if you want to know more about the conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonresponse Workshop 2013</title>
+      <link>https://thomvolker.github.io/post/nonresponse-workshop-2013/</link>
+      <pubDate>Mon, 09 Sep 2013 16:48:00 +0200</pubDate>
+      <guid>https://thomvolker.github.io/post/nonresponse-workshop-2013/</guid>
+      <description>&lt;p&gt;One of the greatest challenges in survey research are declining response rates. Around the globe, it appears to become harder and harder to convince people to participate in surveys. As to why response rates are declining, researchers are unsure. A general worsening of the &amp;lsquo;survey climate&amp;rsquo;, due to increased time pressures on people in general, and direct marketing are usually blamed.&lt;/p&gt;
+&lt;p&gt;This year&#39;s 
+&lt;a href=&#34;http://www.nonresponse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nonresponse workshop&lt;/a&gt;
+ was held in London last week. This was the 24th edition, and all we talk about at the workshop is how to predict, prevent or adjust for nonreponse in panel surveys.&lt;/p&gt;
+&lt;p&gt;Even though we are all concerned about declining nonresponse rates, presenters at the nonresponse workshop have found throughout the years that nonresponse cannot be predicted using respondent characteristics. The explained variance of any model rarely exceeds 0.20. Because of this, we don&#39;t really know how to predict or adjust for nonresponse either. We fortunately also find that generally, 
+&lt;a href=&#34;http://poq.oxfordjournals.org/content/72/2/167.short&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the link between nonresponse rates and nonresponse bias is wea&lt;/a&gt;
+k. In other words, high nonresponse rates are not per se biasing our substantive research findings.&lt;/p&gt;
+&lt;p&gt;At this year&#39;s nonresponse workshop presentations focused on two topics. At other survey methods conferences (
+&lt;a href=&#34;http://www.europeansurveyresearch.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESRA&lt;/a&gt;
+, 
+&lt;a href=&#34;http://www.peterlugtig.com/2013/05/aapor-2013.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAPOR&lt;/a&gt;
+) I see a similar trend:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Noncontacts:&lt;/strong&gt; where refusals can usually be not predicted at all (explained variances lower than 0.10), noncontacts can to some extent. So, presentations focused on:&lt;br&gt;
+- increasing contact rates among &amp;lsquo;difficult&amp;rsquo; groups&lt;br&gt;
+- Using paradata, and call record data to improve the prediction of contact times, and succesful contacts.&lt;br&gt;
+- Using responsive designs, where the contact strategies is changed, based on pre-defined (and often experimental) strategies for subgroups in your populations (
+&lt;a href=&#34;http://jameswagnersurv.blogspot.co.uk/2010/09/responsive-design-and-adaptive-design.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;adaptive designs&lt;/a&gt;
+), and paradata during fieldwork using decision-rules (
+&lt;a href=&#34;http://jameswagnersurv.blogspot.co.uk/2010/09/responsive-design-and-adaptive-design.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;responsive designs)&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;[](&lt;a href=&#34;http://www.blogger.com/blogger.g?blogID=7827313755221690631)%5B!%5B%5D(http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s400/cartoon.jpg)%5D(http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s1600/cartoon.jpg&#34;&gt;http://www.blogger.com/blogger.g?blogID=7827313755221690631)[![](http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s400/cartoon.jpg)](http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s1600/cartoon.jpg&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Efficiency:&lt;/strong&gt; Responsive designs can be used to increase response rates or limit nonresponse bias. However, they can also be used to limit survey costs. If respondents can be contacted with fewer contact attempts, this saves money. Similarly, we can limit the amount of effort we put into groups of cases for which we already have a high response rate, and devote our resources to hard-to-get cases.&lt;/p&gt;
+&lt;p&gt;There are many interesting studies than can be done into both these areas. With time, I think we will see that succesful stratgies will be developed that limit noncontact rates, nonresponse and even nonresponse bias to some extent. Also, survey might become cheaper using responsive designs, especially if the surveys use Face-to-Face or telephone interviewing. At this year&#39;s workshop, there were no presentations on using a responsive design approach for converting soft refusals. But I can see the field moving in that direction too eventually.&lt;/p&gt;
+&lt;p&gt;Just one note of general disappointment with myself and our field remains after attending the workshop (and I&#39;ve had this feeling before):&lt;/p&gt;
+&lt;p&gt;If we cannot predict nonresponse at all, and if we find that nonresponse generally has a weak effect on our survey estimates, what are we doing wrong? What are we not understanding? It feels, 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Thomas_Kuhn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in philosophical terms,&lt;/a&gt;
+ as if we survey methodologists are perhaps all using the wrong paradigm for studying and understanding the problem. Perhaps we need radically different ideas, and analytical models to study the problem of nonresponse. What these should be is perhaps anyone&#39;s guess. And if not anyone&#39;s, at least my guess.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AAPOR 2013</title>
+      <link>https://thomvolker.github.io/post/aapor-2013/</link>
+      <pubDate>Thu, 23 May 2013 12:18:00 +0200</pubDate>
+      <guid>https://thomvolker.github.io/post/aapor-2013/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;http://www.aapor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAPOR conference&lt;/a&gt;
+ last week gave an overview of what survey methodologists worry about. There were relatively few people from Europe this year, and I found that the issues methodologists worry about are sometimes different in Europe and the USA. At the upcoming 
+&lt;a href=&#34;http://www.europeansurveyresearch.org/conference&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESRA conference&lt;/a&gt;
+ for example there are more than 10 sessions on the topic of mixing survey modes. At AAPOR, mixing modes was definitely not &amp;lsquo;hot&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;With 8 parallel sessions at most times, I have only seen bits and pieces of all the things that went on. So the list below is just my take on what&#39;s innovative and hot in survey research in 2013. RTI composed 
+&lt;a href=&#34;https://blogs.rti.org/surveypost/2013/05/22/aapor-2013-the-view-from-the-twittersphere/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a summary of all tweets&lt;/a&gt;
+ for a different take on what mattered at AAPOR this year&lt;/p&gt;
+&lt;p&gt;1. Probability based surveys vs. non-probability surveys. AAPOR published 
+&lt;a href=&#34;http://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;ved=0CCwQFjAA&amp;amp;url=http%3A%2F%2Fwww.aapor.org%2FAM%2FTemplate.cfm%3FSection%3DReports1%26Template%3D%2FCM%2FContentDisplay.cfm%26ContentID%3D5963&amp;amp;ei=LuidUcihHISfO8-rgbgD&amp;amp;usg=AFQjCNGFGvvKx3zVn2yxsUoVAi1I9YbnSA&amp;amp;sig2=KZNN8niPb3jc8spirP0Lmg&amp;amp;bvm=bv.46865395,d.ZWU&amp;amp;cad=rja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a report&lt;/a&gt;
+ on this topic during the conference, written by survey research heavy-weights. This is recommended reading for everyone interested in polls. The conclusion that non-probability polls should not be used if one wants to have a relatively precide estimate for the general population is not surprising. It can not be re-iterated often enough. Other presentations on this topic features John Krosnick showing empirically that only probability-based surveys give consistent estimates. See a 
+&lt;a href=&#34;http://www.researchscape.com/blog/non-probability-sampling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;summary of the report here&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;2. The 2012 presidential elections. See a 
+&lt;a href=&#34;http://www.huffingtonpost.com/2013/05/17/pollster-update-aapor-att_n_3294902.html?utm_hp_ref=@pollster&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;good post by Marc Blumenthal&lt;/a&gt;
+ on this topic. Many sessions on likely voter models, shifting demographics in the U.S. and the rise of the cell-phone only generation.&lt;/p&gt;
+&lt;p&gt;3. Responsive designs. The idea of responsive (or adaptive) survey designs is that response rates are balanced across important sub-groups of the population. E.g. in a survey on attitudes towards immigrants, it is important to get equal response rates for hispanics, blacks and whites, when you believe that attitudes towards immigrants differ among ethnic sub-groups.&lt;br&gt;
+During fieldwork, response rates can be monitored, and when response rates for hispanics stay low, resources can be shifted towards targeting hispanics, by either contacting them more often, or switching them to a more expensive contact mode. If this is succesful, the amount of nonresponse bias in a survey should decrease.&lt;br&gt;
+The idea of responsive designs has been around for about 15 years. I had until now not seen many successful applications however. A panel session by the U.S. Census bureau did show that response design can work, but it requires survey organisations to redesign their entire fieldwork operations. For more information on this topic, see the excellent blog by 
+&lt;a href=&#34;http://jameswagnersurv.blogspot.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James Wagner&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Designing mixed-mode surveys</title>
+      <link>https://thomvolker.github.io/post/designing-mixed-mode-surveys/</link>
+      <pubDate>Sat, 12 Jan 2013 10:24:00 +0100</pubDate>
+      <guid>https://thomvolker.github.io/post/designing-mixed-mode-surveys/</guid>
+      <description>&lt;p&gt;This weekend is the deadline for submitting a presentation proposal to this year&#39;s conference of the European Survey Research Association. That&#39;s one the two major the conferences for people who love to talk about things like nonresponse bias, total survey error, and mixing survey modes.&lt;/p&gt;
+&lt;p&gt;As in previous years, it looks like the most heated debates will be on mixed-mode surveys. As survey methodologists we have been struggling to combine multiple survey modes (Internet, telephone, face-to-face, mail) in a good way. And we no longer can rely on just one survey mode to do a good survey. Many people don&#39;t have Internet, or landline phones, and face-to-face modes are becoming too expensive.&lt;/p&gt;
+&lt;p&gt;When we start mixing survey modes, we run into all kinds of problems. Different people respond in different survey modes, leading to differences in the variables we&#39;re interested in (selection effects). And we also know that people respond differently to the same survey question when asked in two different modes (measurement or &amp;lsquo;mode&amp;rsquo;  effect).&lt;/p&gt;
+&lt;p&gt;We have been trying to assess the size of  selection and mode effects in mixed-mode surveys for a long time. I have written about this issue earlier, and although we have made progress, I don&#39;t think we will ever be able to &amp;lsquo;correct&amp;rsquo; for differences between survey modes. That is because the sizes of selection and mode effects will always differ from survey to survey, depending on the topic of the study, and the population studied.&lt;/p&gt;
+&lt;p&gt;So, I suggest we try something different. We don&#39;t we try to make survey modes themselves similar? If you think of combining the Internet, with face-to-face (two very different modes), these could be some ways to make the surveys equivalent.&lt;/p&gt;
+&lt;p&gt;- Approach people in the same way. For example, use advance letters in both modes, and then call respondents to either make an appointment (Face-to-face), or ask for an e-mailaddress and do an Internet interview. Stupid it may sound, but mixed-mode surveys or experiments often change the entire protocol, so we have no idea what is caused by what.&lt;br&gt;
+- Use showcards in a face-to-face survey for sensitive questions and let the respondent self-complete them, like they do on the Internet&lt;br&gt;
+- Use a Virtual Reality interviewer on an Internet survey for difficult questions, to help the respondent answering questions.&lt;br&gt;
+- Use an audio recording feature on the Internet, so respondents can give answers in the same way as they do in Face-to-face surveys&lt;br&gt;
+- Use short and simple questions that can easily be asked in any survey mode in more or less the same manner. This implies minimizing the number of response categories to only a few for any question.&lt;/p&gt;
+&lt;p&gt;Surely, this approach is not fault free, and I do see lots of practical issues. I do think however that this is a better way to move forward than just trying fix up the mess with statistics after the data collection. These correction methods will always be necessary, but relying on them too much puts too much faith in statistics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Is panel attrition the same as nonresponse?</title>
+      <link>https://thomvolker.github.io/post/is-panel-attrition-same-as-nonresponse/</link>
+      <pubDate>Sat, 29 Sep 2012 10:49:00 +0200</pubDate>
+      <guid>https://thomvolker.github.io/post/is-panel-attrition-same-as-nonresponse/</guid>
+      <description>&lt;p&gt;All of my research is focused on the methods of assembling and analysis of panel survey data. One of the primary problems of panel survey projects is attrition or drop-out. Over the course of a panel survey, many respondents decide to no longer participate.&lt;/p&gt;
+&lt;p&gt;Last july I visited the panel survey methods workshop in Melbourne, at which we had extensive discussions about panel attrition. How to study it, what the consequences are (bias) for survey estimates, and how to prevent it from happening altogether.&lt;/p&gt;
+&lt;p&gt;These questions have a lot in common with the questions that are being discussed at another workshop for survey methodologists: the nonresponse workshop. The only difference is that at the nonresponse workshop we discuss one-off, cross-sectional surveys, and at the panel survey workshop, we dicuss what happens after the first wave of data collection.&lt;/p&gt;
+&lt;p&gt;I am in the middle of writing a book chapter (with Annette Scherpenzeel and Marcel Das of Centerdata) on attrition in the LISS Internet panel, and one of the questions that we try to answers is whether nonrespondents in the first wave are actually similar to respondents who drop out at wave 2 or later. Or to be more precise, whether nonrespondents are actually similar to fast attriters, or to other sub-groups of attriters.&lt;/p&gt;
+&lt;p&gt;The graph below shows attrition patterns for the people in the LISS panel for the 50 waves that we analysed. The green line on top represents people who have response propensities close to 1, meaning they always participate. The brown line represents fast attriters, and the pink, dark blue, and purple lines slowers groups that drop out more slowly. You also find new panel entrants (dark grey and red line), and finally, a almost invisible black line that has response propensities of 0, meaning that although these people consented to become a panel member, they never actually participate in the panel.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://2.bp.blogspot.com/-bQM6mKwQHSQ/UGa00GA-Y0I/AAAAAAAACfM/nuzk9xKEmC0/s1600/graph&amp;#43;lca9.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://2.bp.blogspot.com/-bQM6mKwQHSQ/UGa00GA-Y0I/AAAAAAAACfM/nuzk9xKEmC0/s400/graph+lca9.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;click on the Figure to enlarge&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;For the whole story you&#39;ll have to wait for book on &amp;lsquo;Internet panel surveys&amp;rsquo; to come out somewhere in 2013, but I&#39;ll focus here on comparing initial nonrespondents to respondents who do consent, but then never participate.&lt;br&gt;
+These groups turn out to be different. Not just a little different, but hugely different. This was somewhat surprising to me, as many survey methodologists believe that early panel attrition is some kind of continuation of initial nonresponse. It turns out not to be. Fast attriters are very different from initial nonrespondents. My hypothesis for this is that some specific groups of people may &#39; accidentily&amp;rsquo;  say yes to a first survey request, but then try to get out of the survey as fast as they can. I am still not sure what this implies for panel research (comments very welcome): does it mean that the methods that we use to target nonrespondents (persuasion principles of Cialdini et al. 1991) might not work in panel surveys, and that we need to use different methods?&lt;/p&gt;
+&lt;p&gt;I think the first few waves of a panel study are extremely important for keeping attrition low in the long run. So, I think we should perhaps prolong some of the efforts that we use in the recruitment phase (advance letters, mixed-mode contact strategy), in the first waves as well, only to resort to a cheaper contact mode later, once panel members have developed a habit of responding to the different waves in a panel.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>panel conditioning</title>
+      <link>https://thomvolker.github.io/post/panel-conditioning/</link>
+      <pubDate>Thu, 12 Jan 2012 14:12:00 +0100</pubDate>
+      <guid>https://thomvolker.github.io/post/panel-conditioning/</guid>
+      <description>&lt;p&gt;In late august of 2011 I attended the Internet Survey Methodology Workshop. There were people from academia, official statistics and market research agencies there. One of the issues discussed there has had me thinking since: the topic of panel conditioning. Some people seem really worried that respondents in panel surveys start behaving or thinking differently because of repeated participation in a survey.&lt;/p&gt;
+&lt;p&gt;Panel conditioning is closely linked with the issue of  &amp;lsquo;professional&amp;rsquo; respondents. These are respondents who know exactly how survey researchers design surveys, and use this knowledge to get most out of the survey (in terms of reward-schemes) against the least time possible.&lt;/p&gt;
+&lt;p&gt;Many market research firms throw out respondents after some time, mostly a couple of years, and then refresh their samples. But is this necessary? If so, after what time do respondents become conditioned? And for what topics is conditioning most problematic?&lt;/p&gt;
+&lt;p&gt;Several studies from the 1970s focused on voting behavior in election panel studies. They found that respondents who were asked before a general election aboyut their voting behavior were 10-15% more likely to vote than respondents who were only asked about their voting behavior after the election. I wrote about exit-polls earlier; panel conditioning might be one of the reasons why Internet-panels do so badly at predicting election outcomes. Many other studies have focused on panel conditioning: for attitudes, cognitive abilities, knowledge, marital satisfaction and consumer behavior. Use google scholar on &amp;lsquo;practice effect&amp;rsquo;, &amp;lsquo;reactivity&amp;rsquo;, &amp;lsquo;panel conditioning&amp;rsquo;, &amp;lsquo;test-retest effect&amp;rsquo; and you&#39;ll see what I mean.&lt;/p&gt;
+&lt;p&gt;Overall, the findings suggest that panel conditioning may indeed be problematic, but not in all studies, or for all people. I have some ideas on the circumstances that lead or do not lead to conditioning effects (topic saliency, interval between measurements, frequency of measurement), but none of the studies systematically analyses potential causes for conditioning effects. I am hoping to add some work on this issue in the next years. If anyone know of interesting panel studies that are confronted with panel conditioning effects, let me know&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The trouble with nonresponse studies</title>
+      <link>https://thomvolker.github.io/post/trouble-of-nonresponse-studies/</link>
+      <pubDate>Fri, 21 Oct 2011 14:01:00 +0200</pubDate>
+      <guid>https://thomvolker.github.io/post/trouble-of-nonresponse-studies/</guid>
+      <description>&lt;p&gt;Gerry Nicolaas (of Natcen) has just written a good review on the nonresponse workshop we both attended this year. See 
+&lt;a href=&#34;http://natcenblog.blogspot.com/2011/10/challenges-to-current-practice-of.html#comment-form&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://natcenblog.blogspot.com/2011/10/challenges-to-current-practice-of.html#comment-form&lt;/a&gt;
+&lt;br&gt;
+The Nonresponse Workshops are a great place to meet and discuss with survey researchers in a small setting. The next workshop is to be held early september 2012 at Statistics Canada. See &lt;a href=&#34;http://www.nonresponse.org&#34;&gt;www.nonresponse.org&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

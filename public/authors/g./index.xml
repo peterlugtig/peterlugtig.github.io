@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. | Peter Lugtig</title>
+    <link>https://thomvolker.github.io/authors/g./</link>
+      <atom:link href="https://thomvolker.github.io/authors/g./index.xml" rel="self" type="application/rss+xml" />
+    <description>G.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 02 Jul 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>G.</title>
+      <link>https://thomvolker.github.io/authors/g./</link>
+    </image>
+    
+    <item>
+      <title>Generating missing values for simulation purposes: A multivariate amputation procedure</title>
+      <link>https://thomvolker.github.io/publication/2018_schouten_generating_missing/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0100</pubDate>
+      <guid>https://thomvolker.github.io/publication/2018_schouten_generating_missing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Dutch: Ontwikkelingstrajecten in en voorspellers voor het gebruik van seksueel expliciet internetmateriaal</title>
+      <link>https://thomvolker.github.io/publication/dutch_2012_doornwaard_ontwikkelingstrajecten/</link>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 +0100</pubDate>
+      <guid>https://thomvolker.github.io/publication/dutch_2012_doornwaard_ontwikkelingstrajecten/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

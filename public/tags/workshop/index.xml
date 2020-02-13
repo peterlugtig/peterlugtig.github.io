@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workshop | Peter Lugtig</title>
+    <link>https://thomvolker.github.io/tags/workshop/</link>
+      <atom:link href="https://thomvolker.github.io/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <description>workshop</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 09 Sep 2013 16:48:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>workshop</title>
+      <link>https://thomvolker.github.io/tags/workshop/</link>
+    </image>
+    
+    <item>
+      <title>Nonresponse Workshop 2013</title>
+      <link>https://thomvolker.github.io/post/nonresponse-workshop-2013/</link>
+      <pubDate>Mon, 09 Sep 2013 16:48:00 +0200</pubDate>
+      <guid>https://thomvolker.github.io/post/nonresponse-workshop-2013/</guid>
+      <description>&lt;p&gt;One of the greatest challenges in survey research are declining response rates. Around the globe, it appears to become harder and harder to convince people to participate in surveys. As to why response rates are declining, researchers are unsure. A general worsening of the &amp;lsquo;survey climate&amp;rsquo;, due to increased time pressures on people in general, and direct marketing are usually blamed.&lt;/p&gt;
+&lt;p&gt;This year&#39;s 
+&lt;a href=&#34;http://www.nonresponse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nonresponse workshop&lt;/a&gt;
+ was held in London last week. This was the 24th edition, and all we talk about at the workshop is how to predict, prevent or adjust for nonreponse in panel surveys.&lt;/p&gt;
+&lt;p&gt;Even though we are all concerned about declining nonresponse rates, presenters at the nonresponse workshop have found throughout the years that nonresponse cannot be predicted using respondent characteristics. The explained variance of any model rarely exceeds 0.20. Because of this, we don&#39;t really know how to predict or adjust for nonresponse either. We fortunately also find that generally, 
+&lt;a href=&#34;http://poq.oxfordjournals.org/content/72/2/167.short&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the link between nonresponse rates and nonresponse bias is wea&lt;/a&gt;
+k. In other words, high nonresponse rates are not per se biasing our substantive research findings.&lt;/p&gt;
+&lt;p&gt;At this year&#39;s nonresponse workshop presentations focused on two topics. At other survey methods conferences (
+&lt;a href=&#34;http://www.europeansurveyresearch.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESRA&lt;/a&gt;
+, 
+&lt;a href=&#34;http://www.peterlugtig.com/2013/05/aapor-2013.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAPOR&lt;/a&gt;
+) I see a similar trend:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Noncontacts:&lt;/strong&gt; where refusals can usually be not predicted at all (explained variances lower than 0.10), noncontacts can to some extent. So, presentations focused on:&lt;br&gt;
+- increasing contact rates among &amp;lsquo;difficult&amp;rsquo; groups&lt;br&gt;
+- Using paradata, and call record data to improve the prediction of contact times, and succesful contacts.&lt;br&gt;
+- Using responsive designs, where the contact strategies is changed, based on pre-defined (and often experimental) strategies for subgroups in your populations (
+&lt;a href=&#34;http://jameswagnersurv.blogspot.co.uk/2010/09/responsive-design-and-adaptive-design.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;adaptive designs&lt;/a&gt;
+), and paradata during fieldwork using decision-rules (
+&lt;a href=&#34;http://jameswagnersurv.blogspot.co.uk/2010/09/responsive-design-and-adaptive-design.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;responsive designs)&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;[](&lt;a href=&#34;http://www.blogger.com/blogger.g?blogID=7827313755221690631)%5B!%5B%5D(http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s400/cartoon.jpg)%5D(http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s1600/cartoon.jpg&#34;&gt;http://www.blogger.com/blogger.g?blogID=7827313755221690631)[![](http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s400/cartoon.jpg)](http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s1600/cartoon.jpg&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Efficiency:&lt;/strong&gt; Responsive designs can be used to increase response rates or limit nonresponse bias. However, they can also be used to limit survey costs. If respondents can be contacted with fewer contact attempts, this saves money. Similarly, we can limit the amount of effort we put into groups of cases for which we already have a high response rate, and devote our resources to hard-to-get cases.&lt;/p&gt;
+&lt;p&gt;There are many interesting studies than can be done into both these areas. With time, I think we will see that succesful stratgies will be developed that limit noncontact rates, nonresponse and even nonresponse bias to some extent. Also, survey might become cheaper using responsive designs, especially if the surveys use Face-to-Face or telephone interviewing. At this year&#39;s workshop, there were no presentations on using a responsive design approach for converting soft refusals. But I can see the field moving in that direction too eventually.&lt;/p&gt;
+&lt;p&gt;Just one note of general disappointment with myself and our field remains after attending the workshop (and I&#39;ve had this feeling before):&lt;/p&gt;
+&lt;p&gt;If we cannot predict nonresponse at all, and if we find that nonresponse generally has a weak effect on our survey estimates, what are we doing wrong? What are we not understanding? It feels, 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Thomas_Kuhn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in philosophical terms,&lt;/a&gt;
+ as if we survey methodologists are perhaps all using the wrong paradigm for studying and understanding the problem. Perhaps we need radically different ideas, and analytical models to study the problem of nonresponse. What these should be is perhaps anyone&#39;s guess. And if not anyone&#39;s, at least my guess.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>panel conditioning</title>
+      <link>https://thomvolker.github.io/post/panel-conditioning/</link>
+      <pubDate>Thu, 12 Jan 2012 14:12:00 +0100</pubDate>
+      <guid>https://thomvolker.github.io/post/panel-conditioning/</guid>
+      <description>&lt;p&gt;In late august of 2011 I attended the Internet Survey Methodology Workshop. There were people from academia, official statistics and market research agencies there. One of the issues discussed there has had me thinking since: the topic of panel conditioning. Some people seem really worried that respondents in panel surveys start behaving or thinking differently because of repeated participation in a survey.&lt;/p&gt;
+&lt;p&gt;Panel conditioning is closely linked with the issue of  &amp;lsquo;professional&amp;rsquo; respondents. These are respondents who know exactly how survey researchers design surveys, and use this knowledge to get most out of the survey (in terms of reward-schemes) against the least time possible.&lt;/p&gt;
+&lt;p&gt;Many market research firms throw out respondents after some time, mostly a couple of years, and then refresh their samples. But is this necessary? If so, after what time do respondents become conditioned? And for what topics is conditioning most problematic?&lt;/p&gt;
+&lt;p&gt;Several studies from the 1970s focused on voting behavior in election panel studies. They found that respondents who were asked before a general election aboyut their voting behavior were 10-15% more likely to vote than respondents who were only asked about their voting behavior after the election. I wrote about exit-polls earlier; panel conditioning might be one of the reasons why Internet-panels do so badly at predicting election outcomes. Many other studies have focused on panel conditioning: for attitudes, cognitive abilities, knowledge, marital satisfaction and consumer behavior. Use google scholar on &amp;lsquo;practice effect&amp;rsquo;, &amp;lsquo;reactivity&amp;rsquo;, &amp;lsquo;panel conditioning&amp;rsquo;, &amp;lsquo;test-retest effect&amp;rsquo; and you&#39;ll see what I mean.&lt;/p&gt;
+&lt;p&gt;Overall, the findings suggest that panel conditioning may indeed be problematic, but not in all studies, or for all people. I have some ideas on the circumstances that lead or do not lead to conditioning effects (topic saliency, interval between measurements, frequency of measurement), but none of the studies systematically analyses potential causes for conditioning effects. I am hoping to add some work on this issue in the next years. If anyone know of interesting panel studies that are confronted with panel conditioning effects, let me know&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The trouble with nonresponse studies</title>
+      <link>https://thomvolker.github.io/post/trouble-of-nonresponse-studies/</link>
+      <pubDate>Fri, 21 Oct 2011 14:01:00 +0200</pubDate>
+      <guid>https://thomvolker.github.io/post/trouble-of-nonresponse-studies/</guid>
+      <description>&lt;p&gt;Gerry Nicolaas (of Natcen) has just written a good review on the nonresponse workshop we both attended this year. See 
+&lt;a href=&#34;http://natcenblog.blogspot.com/2011/10/challenges-to-current-practice-of.html#comment-form&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://natcenblog.blogspot.com/2011/10/challenges-to-current-practice-of.html#comment-form&lt;/a&gt;
+&lt;br&gt;
+The Nonresponse Workshops are a great place to meet and discuss with survey researchers in a small setting. The next workshop is to be held early september 2012 at Statistics Canada. See &lt;a href=&#34;http://www.nonresponse.org&#34;&gt;www.nonresponse.org&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

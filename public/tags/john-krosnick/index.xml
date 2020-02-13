@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Krosnick | Peter Lugtig</title>
+    <link>https://thomvolker.github.io/tags/john-krosnick/</link>
+      <atom:link href="https://thomvolker.github.io/tags/john-krosnick/index.xml" rel="self" type="application/rss+xml" />
+    <description>John Krosnick</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 10 Feb 2011 11:13:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>John Krosnick</title>
+      <link>https://thomvolker.github.io/tags/john-krosnick/</link>
+    </image>
+    
+    <item>
+      <title>how to use Internet panels for polling</title>
+      <link>https://thomvolker.github.io/post/how-to-use-internet-panels-for-polling/</link>
+      <pubDate>Thu, 10 Feb 2011 11:13:00 +0100</pubDate>
+      <guid>https://thomvolker.github.io/post/how-to-use-internet-panels-for-polling/</guid>
+      <description>&lt;p&gt;Before people believe I&#39;m old-fashioned, I do think that Internet-surveys, even panel surveys are the future of survey research. John Krosnick makes some good points in a video shot by the people from 
+&lt;a href=&#34;http://www.blogger.com/www.pollster.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.pollster.com&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
