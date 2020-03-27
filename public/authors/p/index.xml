@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P | Peter Lugtig</title>
+    <link>https://thomvolker2.github.io/authors/p/</link>
+      <atom:link href="https://thomvolker2.github.io/authors/p/index.xml" rel="self" type="application/rss+xml" />
+    <description>P</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 11 Oct 2016 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>P</title>
+      <link>https://thomvolker2.github.io/authors/p/</link>
+    </image>
+    
+    <item>
+      <title>Incidence and recurrence of common mental disorders after abortion: Results from a prospective cohort study</title>
+      <link>https://thomvolker2.github.io/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</link>
+      <pubDate>Tue, 11 Oct 2016 00:00:00 +0100</pubDate>
+      <guid>https://thomvolker2.github.io/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

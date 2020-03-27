@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matching | Peter Lugtig</title>
+    <link>https://thomvolker2.github.io/tags/matching/</link>
+      <atom:link href="https://thomvolker2.github.io/tags/matching/index.xml" rel="self" type="application/rss+xml" />
+    <description>matching</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 15 Mar 2011 21:57:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>matching</title>
+      <link>https://thomvolker2.github.io/tags/matching/</link>
+    </image>
+    
+    <item>
+      <title>matching to correct for self-selection bias in mixed-mode surveys</title>
+      <link>https://thomvolker2.github.io/post/matching-to-correct-for-self-selection/</link>
+      <pubDate>Tue, 15 Mar 2011 21:57:00 +0100</pubDate>
+      <guid>https://thomvolker2.github.io/post/matching-to-correct-for-self-selection/</guid>
+      <description>&lt;p&gt;Mixed mode surveys have shown to attract different types of respondents. This may imply that they are succesful. Internet surveys attract the young and telephone surveys the old, so any combination of the two can lead to better population estimates for the variable you&#39;re interested in. In other words, mixed-mode surveys can potentially ameliorate the problem that neither telephone, nor Internet surveys are able to cover the entire population.&lt;/p&gt;
+&lt;p&gt;The bad news is that mode-effects (see posts below) coincide with selection effect in mixed-mode surveys. For that reason, it is hard to determine how succesful mixed-mode surveys are, and more importantly, really hard to combine results when there are large differences in the dependent variable across the survey modes.&lt;/p&gt;
+&lt;p&gt;I think that matching is one of the few methods to adequately deal with this issue: the idea is straightforward. In any survey among the general population, there will be 1. people who are able and willing to only answer in a specific survey mode (i.e. the Internet or telephone), 2. respondents who would respond in both and 3. respondents who would not participate at all. This means that the composition of the telephone and Internet-samples in a mixed-mode survey will contain people unique to that mode, and people who can also be found in the other mode (see below - the match part).&lt;br&gt;
+
+&lt;a href=&#34;https://lh3.googleusercontent.com/-mwaROOxG7KA/TX_Hzx7ALDI/AAAAAAAACXw/nSY4L8EkoVU/s1600/matching&amp;#43;TeamVier.bmp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/-mwaROOxG7KA/TX_Hzx7ALDI/AAAAAAAACXw/nSY4L8EkoVU/s320/matching+TeamVier.bmp&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+&lt;br&gt;
+With matching, respondents who are similar on a set of covariates are matched from both survey modes, so that pairs of very similar respondents are formed from every survey mode. After matching, any differences that persists between the matched respondents from both samples cannot be due to selection effects on the covariates. Therefore, any differences that remain between the matched respondents after matching should exist only because of a mode effect: whether a question is asked by the interviewer or self-administered, whether it is audial or visual, and whether answers are spoken or written down.&lt;br&gt;
+Matching can be easily done using the package 
+&lt;a href=&#34;http://rss.acs.unt.edu/Rdoc/library/MatchIt/html/00Index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MatchIt in R&lt;/a&gt;
+ (amongst others). More information about matching in mixed-mode surveys can be found in a 
+&lt;a href=&#34;http://www.ijmr.com/AboutIJMR/SampleArticles.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript&lt;/a&gt;
+ I wrote with some colleagues.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

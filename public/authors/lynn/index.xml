@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lynn | Peter Lugtig</title>
+    <link>https://thomvolker2.github.io/authors/lynn/</link>
+      <atom:link href="https://thomvolker2.github.io/authors/lynn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lynn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 06 Feb 2017 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Lynn</title>
+      <link>https://thomvolker2.github.io/authors/lynn/</link>
+    </image>
+    
+    <item>
+      <title>Total survey error for longitudinal surveys</title>
+      <link>https://thomvolker2.github.io/publication/2017_lynn_total_survey_error_for_longitudinal/</link>
+      <pubDate>Mon, 06 Feb 2017 00:00:00 +0100</pubDate>
+      <guid>https://thomvolker2.github.io/publication/2017_lynn_total_survey_error_for_longitudinal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Total Survey Error for longitudinal surveys</title>
+      <link>https://thomvolker2.github.io/publication/2016_lynn_total_survey_error/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:00 +0100</pubDate>
+      <guid>https://thomvolker2.github.io/publication/2016_lynn_total_survey_error/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

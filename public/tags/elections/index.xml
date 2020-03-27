@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>elections | Peter Lugtig</title>
+    <link>https://thomvolker2.github.io/tags/elections/</link>
+      <atom:link href="https://thomvolker2.github.io/tags/elections/index.xml" rel="self" type="application/rss+xml" />
+    <description>elections</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Sat, 22 Sep 2012 16:05:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>elections</title>
+      <link>https://thomvolker2.github.io/tags/elections/</link>
+    </image>
+    
+    <item>
+      <title>why access panels cannot weight elections polls accurately</title>
+      <link>https://thomvolker2.github.io/post/why-access-panels-cannot-weight/</link>
+      <pubDate>Sat, 22 Sep 2012 16:05:00 +0200</pubDate>
+      <guid>https://thomvolker2.github.io/post/why-access-panels-cannot-weight/</guid>
+      <description>&lt;p&gt;There are a lot of reasons why would not want to use acces panels for predicting electoral outcomes . These are well discussed in many places on- and offline. I&#39;ll shortly summarize them, before adding some thoughts to why access panels do so badly predicting election outcomes.&lt;/p&gt;
+&lt;p&gt;1. Access panels don&#39;t draw random samples, but rely on self-selected samples. A slightly better way to get panel respondents is a quota sample, but even these have problems, well discussed here, here and here for example. The bottom line is that access panel respondents are not &#39; normal&amp;rsquo; people, and so voting preferences of not-normal people are likely to be biased.&lt;/p&gt;
+&lt;p&gt;2. Because of these problems, survey managers use weighting. They correct their sample for known biases in the sample. If they know elderly people with low educations are underrepresented in an access panel, they weigh them up. I think this is bad practice. And it has been shown that weighting does not solve the problem,. and can sometimes make biases worse for general surveys. Here are some additional and specific problems, often neglected. In short, weighting only works if the weighting variables can predict the dependent variable to a great extent.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://1.bp.blogspot.com/-vjBRTegZb3Q/UF3EyedoEQI/AAAAAAAACe8/lc7kLoJxNis/s1600/Unbalanced_scales-too-far-right.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://1.bp.blogspot.com/-vjBRTegZb3Q/UF3EyedoEQI/AAAAAAAACe8/lc7kLoJxNis/s200/Unbalanced_scales-too-far-right.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Weighting is usually done with socio-demographic variables. From political science research, we know that sociodemographics do a bad job of explaining voting behavior. Explained variances for regression models normally don&#39;t exceed 10%.&lt;br&gt;
+So, let me get down to the main point I would like to make in this post. A point which I have not seen discussed anywhere.&lt;/p&gt;
+&lt;p&gt;Panel survey managers have &amp;lsquo;resolved&amp;rsquo; the weakness of their weighting models by including a variable that does predict voring behavior fairly well: past voting behavior. If one knows that past Social Democrat voters are underrepresented, one can weight on that variable. This is all very well, if one has good data of past voting behavior for all panel members. The panels currently do not. Their information is wrong in two ways:&lt;/p&gt;
+&lt;p&gt;1. Access panels will never have information for people &lt;strong&gt;who did not vote previously&lt;/strong&gt;. These are mainly young people, or people who normally do not vote in elections. If these new voters vote like everyone else there is no problem, but new voters have very specific voting preferences.&lt;/p&gt;
+&lt;p&gt;2.  Reversely, access panels can not predict well &lt;strong&gt;who is not going to vote in current elections&lt;/strong&gt;. If non-voters disproportionally voted for one party in the previous elections, this will lead to an overestimation of voters for that party.&lt;/p&gt;
+&lt;p&gt;I believe these two problems are larger than most people think. The first problem can predict why the PVV-vote was underestimated in 2006 and 2010. The PVV attracted many new voters in those elections. The second problem explains why the PVV-vote was overestimated in 2012.  Many people who voted PVV in the previous elections, stayed home this time.&lt;/p&gt;
+&lt;p&gt;So, panel survey managers who want a bit of free advice how to improve your polls. Try to get a clear view on the new voters, and the people unlikely to vote. That may be hard, especially because non-voters are not so interested in politics, and will therefore not sign up for online access panels voluntarily. But it is certainly not impossible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electoral volatility due to different questions?</title>
+      <link>https://thomvolker2.github.io/post/electoral-volatility-due-to-different/</link>
+      <pubDate>Fri, 24 Aug 2012 13:15:00 +0200</pubDate>
+      <guid>https://thomvolker2.github.io/post/electoral-volatility-due-to-different/</guid>
+      <description>&lt;p&gt;**Poll volatility **&lt;/p&gt;
+&lt;p&gt;Below, you find the summed changes in parliamentary seats over all parties in consecutive opinion polls for the four main polling firms in the Netherlands in the lead up to the 2012 elections. I will update the table below in the next weeks.&lt;br&gt;
+This overview follows from my earlier post on Dependent Interviewing. Maurice de Hond (peil.nl) is the only survey pre-loading earlier voter preferences into survey questions. I expect this to lead to less volatility in voter preferences for Maurice de Hond, as compared to the other polling firms.&lt;/p&gt;
+&lt;p&gt;Update September 12th: With the final polls out on election day, it seems that the polls of Maurice de Hond are indeed most stable over time, and in my previous post I argues this was because of the fact that he uses Dependent Interviewing in his question on &amp;quot; what would you vote if there were elections today&amp;rdquo;. Still, I would have expected a larger effect. Let&#39;s see tomorrow which polling firm did best. My bet: Synovate, because they are using the most sound (although still not perfect) methodology of polling people. More on that tomorrow&amp;hellip;&lt;/p&gt;
+&lt;p&gt; Maurice de Hond (peil.nl)&lt;/p&gt;
+&lt;p&gt;Intomart/de stemming&lt;/p&gt;
+&lt;p&gt; Synovate&lt;/p&gt;
+&lt;p&gt; TNS-NIPO&lt;/p&gt;
+&lt;p&gt; week 23 (03-06)&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 8&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 10-06&lt;/p&gt;
+&lt;p&gt;8&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 17-06&lt;/p&gt;
+&lt;p&gt;6&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 8*&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 24-06&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 14**&lt;/p&gt;
+&lt;p&gt; 01-07&lt;/p&gt;
+&lt;p&gt;10&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 12*&lt;/p&gt;
+&lt;p&gt; 8&lt;/p&gt;
+&lt;p&gt; 08-07&lt;/p&gt;
+&lt;p&gt;12&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 12&lt;/p&gt;
+&lt;p&gt; 12&lt;/p&gt;
+&lt;p&gt; 15-07&lt;/p&gt;
+&lt;p&gt;6&lt;/p&gt;
+&lt;p&gt; 8&lt;/p&gt;
+&lt;p&gt; 10&lt;/p&gt;
+&lt;p&gt; 12&lt;/p&gt;
+&lt;p&gt; 22-07&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt; 10&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 6&lt;/p&gt;
+&lt;p&gt; 29-07&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 8*&lt;/p&gt;
+&lt;p&gt; 6&lt;/p&gt;
+&lt;p&gt; 05-08&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt; 10&lt;/p&gt;
+&lt;p&gt; 12-08&lt;/p&gt;
+&lt;p&gt;10&lt;/p&gt;
+&lt;p&gt;10**&lt;/p&gt;
+&lt;p&gt; 8*&lt;/p&gt;
+&lt;p&gt; 16&lt;/p&gt;
+&lt;p&gt; 19-08&lt;/p&gt;
+&lt;p&gt;8&lt;/p&gt;
+&lt;p&gt;  8&lt;/p&gt;
+&lt;p&gt;12&lt;/p&gt;
+&lt;p&gt;  8&lt;/p&gt;
+&lt;p&gt; 26-08&lt;/p&gt;
+&lt;p&gt;6&lt;/p&gt;
+&lt;p&gt;20&lt;/p&gt;
+&lt;p&gt;8&lt;/p&gt;
+&lt;p&gt;16&lt;/p&gt;
+&lt;p&gt;03-09&lt;/p&gt;
+&lt;p&gt;22&lt;/p&gt;
+&lt;p&gt;20&lt;/p&gt;
+&lt;p&gt;12&lt;/p&gt;
+&lt;p&gt;14&lt;/p&gt;
+&lt;p&gt;10-09&lt;/p&gt;
+&lt;p&gt;26&lt;/p&gt;
+&lt;p&gt;10&lt;/p&gt;
+&lt;p&gt;16&lt;/p&gt;
+&lt;p&gt;20&lt;/p&gt;
+&lt;p&gt; average change&lt;/p&gt;
+&lt;p&gt;8,7&lt;/p&gt;
+&lt;p&gt;12,2***&lt;/p&gt;
+&lt;p&gt;10,3***&lt;/p&gt;
+&lt;p&gt;11,8&lt;/p&gt;
+&lt;p&gt;* two-week difference&lt;br&gt;
+** three-week difference&lt;br&gt;
+*** rounded down due to inclusion of multi-week changes&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dependent Interviewing, and stability in opinion polls</title>
+      <link>https://thomvolker2.github.io/post/dependent-interviewing-and-longitudinal/</link>
+      <pubDate>Wed, 15 Aug 2012 19:13:00 +0200</pubDate>
+      <guid>https://thomvolker2.github.io/post/dependent-interviewing-and-longitudinal/</guid>
+      <description>&lt;p&gt;I was re-reading one of the papers I wrote as part of my dissertation on survey data quality in panel surveys. The paper deals with the effects of the introduction of an interviewing technique called Dependent Interviewing in the British Household Panel Survey. I wrote this paper together with Annette Jackle, and if you are interested after reading the next bit, you can download a working paper version of it 
+&lt;a href=&#34;https://www.iser.essex.ac.uk/publications/working-papers/iser/2011-23.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Dependent Interviewing uses data from respondents from earlier interviews in survey questions. Instead of asking respondents every year the question &lt;em&gt;&amp;ldquo;what types of income do you receive&lt;/em&gt;&amp;quot;, you can also ask them:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&lt;em&gt;last year, you told us that you receive income from your private pension plan, the state pension, as well as income from renting out a house. Is this still the same?&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There are of course multiple ways in which you can use information like this, and the BHPS actually uses Dependent Interviewing in a slightly more sophisticated way, but the basic idea is in my opinion quite intuitive. Why would you ask the same questions time and time again, when you already know so much about respondents?&lt;/p&gt;
+&lt;p&gt;The paper we wrote documents the effects on data quality, and specifically investigates what the effect of Dependent Interviewing is on measures of household income. In short, the effects are not huge, but it turns out that Dependent Interviewing is especially effective for poorer households. These households depend for a large part on different kinds of government transfers, and these are easily forgotten or underreported. When the effects of Dependent Interviewing are taken into account, the poorer households become a little richer, and so, all in all, poverty is actually a little lower than was previously estimated.&lt;/p&gt;
+&lt;p&gt;Perhaps interesting to Dutch readers, one of the main pollers in the Netherlands, Maurice de Hond, is also using Dependent Interviewing in his surveys (on all questions!). I am a member of his panel, and when I complete a survey, I only have to change answers if I want to, and otherwise just confirm my answers from the previous waves.&lt;/p&gt;
+&lt;p&gt;I see why Maurice de Hond has chosen to do this. Electoral preferences are very volatile, and panel surveys on voter preferences are perhaps too volatile. But I have serious doubts whether Dependent Interviewing here solves volatility. It rather creates articficial stability. In the first week of july, Maurice de Hond polled an average weekly change of seats of 10. Ipsos Synovate (see my earlier posts on why I trust them most), 12. Actually a small difference. There are many newspapers following and criticising the actual poll results. I&#39;ll try to keep you updated on volatility across the polls, meanwhile trying to answer the question whether one should trust stable polls, or volatile polls.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>the influence of polls on voting behavior</title>
+      <link>https://thomvolker2.github.io/post/influence-of-polls-on-voting-behavior/</link>
+      <pubDate>Thu, 10 Feb 2011 10:11:00 +0100</pubDate>
+      <guid>https://thomvolker2.github.io/post/influence-of-polls-on-voting-behavior/</guid>
+      <description>&lt;p&gt;Many opinion pollers do badly when it comes to predicting elections. This is mainly because they let their respondents self-select them into their polls. So what, who cares? The polls make for some good entertainment and easily fill the talk-shows on television. If everyone knows they cannot be trusted, why care?&lt;/p&gt;
+&lt;p&gt;We should care. In the Dutch electoral system - with 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Proportional_representation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poportional respresentation&lt;/a&gt;
+ - every vote counts. If only a small percentage of voters lets their vote depend on the polls of the election result, this can result in shifts of several seats in parliament. It is unclear how many voters decide how to vote based on the opinion polls, but it is a fact that there are many voters who consider voting for two or more parties, and many who do vote strategically. The 
+&lt;a href=&#34;http://www.icpsr.umich.edu/icpsrweb/ICPSR/series/25&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dutch Parliamentary Election Study&lt;/a&gt;
+ (DPES) in 2006 found that 18% of voters indicated that they let their vote be influenced by the election polls. This amounts to a total of 27 parliamentary seats: almost the number of seats of the largest party in the 
+&lt;a href=&#34;http://www.tweedekamer.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;current parliament&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;As long as voters choose strategically in different ways this may not matter. If someone votes strategically to make sure a new government has the the greens in it, but someone else votes strategically for labour to make sure his or her favourite candidate becomes prime mininster, the net effect of strategical voting might be zero or very small. There is evidence however, that this is not the case. People like to vote for winners. This is called the 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Bandwagon_effect&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bandwagon effect&lt;/a&gt;
+. Whenever labour does well in the (biased) opinion polls, more voters will consider voting for them. This may in the end lead to the fact political parties (and pollers) have a lot of interest to do well in polls. In fact, it may be tempting to publish fraudulent polls. This seems to be increasingly common in the United States, where they call them 
+&lt;a href=&#34;http://www.aapor.org/AAPOR_Statements_on_Push_POlls.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;push polls&amp;rdquo;&lt;/a&gt;
+ . Publish fraudulent polls on purpose to make public opinion shift in your favor.&lt;/p&gt;
+&lt;p&gt;So, what to do about it? First, I think it would be fair not to publish any opinion polls some time before election day, as is done in 
+&lt;a href=&#34;http://www.scribd.com/doc/259320/Regulating-Election-Polls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;France for example&lt;/a&gt;
+ (albeit only for two days). Second, journalists and newsreaders should be very critical towards opinion polls, and only publish them when some basic quality criteria have been assessed and met. The 
+&lt;a href=&#34;http://www.blogger.com/www.npso.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dutch Organisation on Survey Research&lt;/a&gt;
+ has taken the initiative to develop a checklist for journalists. I will put it online soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>how to do an exit-poll</title>
+      <link>https://thomvolker2.github.io/post/how-to-do-exit-poll/</link>
+      <pubDate>Mon, 24 Jan 2011 11:05:00 +0100</pubDate>
+      <guid>https://thomvolker2.github.io/post/how-to-do-exit-poll/</guid>
+      <description>&lt;p&gt;There are several ways to do an exit poll, but they all come down to asking people what they voted, right after they went into the voting booth. The first succesfull modern exit poll was conducted in 
+&lt;a href=&#34;http://www.buzzle.com/articles/history-of-exit-polls.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1967 to predict the governor&#39;s election of Kentucky&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;One of the difficulties in exit polling, is that some people might not want to say whom they vote for, especially if this person is politically controversial. This might be one of the reasons 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Party_for_Freedom&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;why Geert Wilders, and the PVV&lt;/a&gt;
+ in general always underperform in Dutch exit polls. The second difficulty is selecting a number of polling stations. Good exit polls do this either randomly, or (even better) choose stratified sampling. Stratified sampling is particularly important when voting behavior has a strong regional component. For example, a random selection of polling stations in the Netherlands, might exclude by chance any localities in the 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Bible_Belt_%28Netherlands%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;bible belt&amp;rsquo;&lt;/a&gt;
+ , where people often vote for the 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Reformed_Political_Party&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SGP&lt;/a&gt;
+ leading to a under-represntation of voters for the SGP. Stratifying on past voting behavior in polling stations can 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Stratified_sampling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;increases statistical power&lt;/a&gt;
+, making sure we need fewer polling stations to achieve the same margin of error.&lt;/p&gt;
+&lt;p&gt;In the past, exit polls were conducted like this. Slowly, market research firms have first switched to telephone surveys, and later Internet surveys to do their exit poll. Both TNS NIPO and peil.nl relied on their panel to predict the election results. This once again shows how people who voluntarily join access panels can not be used to produce good statistics for the general population.&lt;br&gt;
+Wisely, the Dutch news stations (ANP, NOS, RTL) chose to do a proper, old-school exit poll in 2010. See 
+&lt;a href=&#34;https://groups.google.com/group/nl.politiek/browse_thread/thread/e6f20cdf17ddd6fc?hl=nl&amp;amp;pli=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this post for details&lt;/a&gt;
+ (in Dutch).&lt;/p&gt;
+&lt;p&gt;So what, one might ask? Why worry about the crappy polls? We can just ignore them, and then focus on the polls that do a good job? Alas, people are heavily influenced by polls in the media in the period leading up to elections. More on this, and strategic voting, next time&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>predicting elections</title>
+      <link>https://thomvolker2.github.io/post/predicting-elections/</link>
+      <pubDate>Mon, 17 Jan 2011 17:45:00 +0100</pubDate>
+      <guid>https://thomvolker2.github.io/post/predicting-elections/</guid>
+      <description>&lt;p&gt;Opinion pollers do a lousy job of predicting elections. For a good read, see for example the prediction of the 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/New_Hampshire_Democratic_primary,_2008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Hampshere primary&lt;/a&gt;
+ in 2008, when all polls predicted Obama to win, but it was Clinton who won (albeit by a slim margin).&lt;/p&gt;
+&lt;p&gt;In the Dutch context, there are three main polling firms, that each do equally well (or badly). Out of a hundred and fifty parliamentary seats, 
+&lt;a href=&#34;http://www.blogger.com/www.peil.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;peil.nl&lt;/a&gt;
+ mispredicted 20, while 
+&lt;a href=&#34;http://www.tns-nipo.com/pages/nieuws-pers-politiek-tk2010.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TNS-NIPO&lt;/a&gt;
+ and 
+&lt;a href=&#34;http://www.synovate.nl/content.asp?targetid=621&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Synovate&lt;/a&gt;
+ shared the honor of only missing the target by 16 seats in the 2010 parliamentary election. These polls were conducted the day before the election, and some of the pollers said that people might have changed their vote at the last minute. That may very well be, but even the exit poll on the night of the election was wrong. 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Dutch_general_election,_2010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peil.nl was 17 seats off&lt;/a&gt;
+ and 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Dutch_general_election,_2010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TNS NIPO 15&lt;/a&gt;
+. 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Dutch_general_election,_2010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Only Synovate&lt;/a&gt;
+ did a lot better, and only missed the true result by 3 seats. I will discuss why this is in a next post, but it is just a matter of speed and low costs versus quality.&lt;/p&gt;
+&lt;p&gt;And we have known for a long, long time how to do exit polls. Although there was public outcry in the UK, when the exit poll 
+&lt;a href=&#34;http://news.bbc.co.uk/2/hi/uk_news/politics/election_2010/8666266.stm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;predicted the liberal democrats not to win the elections&lt;/a&gt;
+, it was spot on. If we know how to do it, then why don&#39;t we?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

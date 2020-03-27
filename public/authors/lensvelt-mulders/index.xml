@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lensvelt-Mulders | Peter Lugtig</title>
+    <link>https://thomvolker2.github.io/authors/lensvelt-mulders/</link>
+      <atom:link href="https://thomvolker2.github.io/authors/lensvelt-mulders/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lensvelt-Mulders</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 01 Sep 2011 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Lensvelt-Mulders</title>
+      <link>https://thomvolker2.github.io/authors/lensvelt-mulders/</link>
+    </image>
+    
+    <item>
+      <title>Estimating nonresponse bias and mode effects in a mixed-mode survey</title>
+      <link>https://thomvolker2.github.io/publication/2011_lugtig_estimating_nonresponse/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0100</pubDate>
+      <guid>https://thomvolker2.github.io/publication/2011_lugtig_estimating_nonresponse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separating selection bias and non-coverage in internet panels using propensity matching</title>
+      <link>https://thomvolker2.github.io/publication/2009_lensvelt_mulders_separating_selection_bias/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0100</pubDate>
+      <guid>https://thomvolker2.github.io/publication/2009_lensvelt_mulders_separating_selection_bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assembling an access panel: a study of initial nonresponse and self-selection bias</title>
+      <link>https://thomvolker2.github.io/publication/2008_lensvelt_assembling_an_access_panel/</link>
+      <pubDate>Sat, 28 Feb 2009 00:00:00 +0100</pubDate>
+      <guid>https://thomvolker2.github.io/publication/2008_lensvelt_assembling_an_access_panel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

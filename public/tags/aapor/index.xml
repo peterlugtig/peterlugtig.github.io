@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AAPOR | Peter Lugtig</title>
+    <link>https://thomvolker2.github.io/tags/aapor/</link>
+      <atom:link href="https://thomvolker2.github.io/tags/aapor/index.xml" rel="self" type="application/rss+xml" />
+    <description>AAPOR</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 26 May 2014 17:05:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>AAPOR</title>
+      <link>https://thomvolker2.github.io/tags/aapor/</link>
+    </image>
+    
+    <item>
+      <title>AAPOR 2014</title>
+      <link>https://thomvolker2.github.io/post/aapor-2014/</link>
+      <pubDate>Mon, 26 May 2014 17:05:00 +0200</pubDate>
+      <guid>https://thomvolker2.github.io/post/aapor-2014/</guid>
+      <description>&lt;p&gt;Big data and new technologies to do survey research. These were in my view the two themes of the 
+&lt;a href=&#34;http://www.aapor.org/AAPOR_Annual_Conference.htm#.U4NUUi-prs0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2014 AAPOR conference&lt;/a&gt;
+. The conference organisation tried to push the theme ‘Measurement and the role of pubic opinion in a democracy’, but I don&#39;t think the theme was really reflected in the talks at the conference. Or perhaps I have missed those talks, the conference was huge as always (&amp;gt; 1000 participants).&lt;/p&gt;
+&lt;p&gt;The profession of survey research is surely changing. Mick Couper last year argued that the 
+&lt;a href=&#34;https://ojs.ub.uni-konstanz.de/srm/article/view/5751&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;‘sky wasn’t falling’&lt;/a&gt;
+ on survey research, but it is evolving. Big data may potentially replace parts of survey research, especially if we don&#39;t adapt to new technologies (mobile), and learn to use some of the data that are now found everywhere. Big data and survey research in fact have the same basic goal. To extract meaningful information out of datasets (big data) or people (survey research), and use that to inform policy making.&lt;/p&gt;
+&lt;p&gt;Big data can certainly be useful for policy-making. Out of the 10 or so presentations that I have seen at AAPOR, most were however just talking about potential possibilities over using big data to inform policy makers.&lt;br&gt;
+What was in my opinion missing at AAPOR were good case studies that showed how big data can replace survey research and provide valid inferences. I have seen many good earlier examples when it comes to predictions at the level of an individual using big data. When Amazon tries to recommend me books that relate to a book I have previously bought, I find these useful and accurate predictions of what I really like. In politics, voter registration records data can help politicians target likely voters for their party, as the 
+&lt;a href=&#34;http://www.technologyreview.com/featuredstory/509026/how-obamas-team-used-big-data-to-rally-voters/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2012 Obama campaign showed&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;But when it comes to aggregating big data to the level of the population, big data is often in trouble (the Obama election campaign is an outlier here, as they collect data on the &lt;em&gt;whole&lt;/em&gt; population). Survey research has relied on the principle of random sampling from the population to draw inferences, but for big data, coverage and nonresponse errors are often unknown and unestimatible for the convenience samples that big data ususally are. 
+&lt;a href=&#34;https://blogs.rti.org/surveypost/2014/05/08/aapor-preview-big-data-in-public-opinion-and-survey-research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paul Biemer made this point in an excellent talk&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;Most of the other big data presentations at AAPOR to me were either in the category ‘bar talk’ - anecdotes without a scientific empirical strategy - or just talked about the potential of big data. And don’t get me wrong: I do think that big data are very useful, especially if they cover a late proportion of the population (e.g. voter records), or if the goals is prediction at the level of an individual.&lt;/p&gt;
+&lt;p&gt;The other conference theme seemed to be mobile surveys. With Vera Toepoel, I gave a presentation on this topic, which may be the topic of a next blogpost. Here, I think survey researchers are much better equipped to deal with the challenge mobile devices pose. I saw many excellent presentations on questionnaire design for mobile surveys, and selection bias.&lt;/p&gt;
+&lt;p&gt;Finally, this is just my conference take-away. Some other bloggers (
+&lt;a href=&#34;http://freerangeresearch.com/2014/05/20/reporting-on-the-aapor-69th-national-conference-in-anaheim-aapor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+ 
+&lt;a href=&#34;http://lovestats.wordpress.com/tag/aapor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+) seem to have a slightly different view on the conference. Probably this is due to the fact I have only seen 1 out of the 8 presentations given at any time. So be sure to check their posts out if you want to know more about the conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AAPOR 2013</title>
+      <link>https://thomvolker2.github.io/post/aapor-2013/</link>
+      <pubDate>Thu, 23 May 2013 12:18:00 +0200</pubDate>
+      <guid>https://thomvolker2.github.io/post/aapor-2013/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;http://www.aapor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAPOR conference&lt;/a&gt;
+ last week gave an overview of what survey methodologists worry about. There were relatively few people from Europe this year, and I found that the issues methodologists worry about are sometimes different in Europe and the USA. At the upcoming 
+&lt;a href=&#34;http://www.europeansurveyresearch.org/conference&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESRA conference&lt;/a&gt;
+ for example there are more than 10 sessions on the topic of mixing survey modes. At AAPOR, mixing modes was definitely not &amp;lsquo;hot&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;With 8 parallel sessions at most times, I have only seen bits and pieces of all the things that went on. So the list below is just my take on what&#39;s innovative and hot in survey research in 2013. RTI composed 
+&lt;a href=&#34;https://blogs.rti.org/surveypost/2013/05/22/aapor-2013-the-view-from-the-twittersphere/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a summary of all tweets&lt;/a&gt;
+ for a different take on what mattered at AAPOR this year&lt;/p&gt;
+&lt;p&gt;1. Probability based surveys vs. non-probability surveys. AAPOR published 
+&lt;a href=&#34;http://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;ved=0CCwQFjAA&amp;amp;url=http%3A%2F%2Fwww.aapor.org%2FAM%2FTemplate.cfm%3FSection%3DReports1%26Template%3D%2FCM%2FContentDisplay.cfm%26ContentID%3D5963&amp;amp;ei=LuidUcihHISfO8-rgbgD&amp;amp;usg=AFQjCNGFGvvKx3zVn2yxsUoVAi1I9YbnSA&amp;amp;sig2=KZNN8niPb3jc8spirP0Lmg&amp;amp;bvm=bv.46865395,d.ZWU&amp;amp;cad=rja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a report&lt;/a&gt;
+ on this topic during the conference, written by survey research heavy-weights. This is recommended reading for everyone interested in polls. The conclusion that non-probability polls should not be used if one wants to have a relatively precide estimate for the general population is not surprising. It can not be re-iterated often enough. Other presentations on this topic features John Krosnick showing empirically that only probability-based surveys give consistent estimates. See a 
+&lt;a href=&#34;http://www.researchscape.com/blog/non-probability-sampling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;summary of the report here&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;2. The 2012 presidential elections. See a 
+&lt;a href=&#34;http://www.huffingtonpost.com/2013/05/17/pollster-update-aapor-att_n_3294902.html?utm_hp_ref=@pollster&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;good post by Marc Blumenthal&lt;/a&gt;
+ on this topic. Many sessions on likely voter models, shifting demographics in the U.S. and the rise of the cell-phone only generation.&lt;/p&gt;
+&lt;p&gt;3. Responsive designs. The idea of responsive (or adaptive) survey designs is that response rates are balanced across important sub-groups of the population. E.g. in a survey on attitudes towards immigrants, it is important to get equal response rates for hispanics, blacks and whites, when you believe that attitudes towards immigrants differ among ethnic sub-groups.&lt;br&gt;
+During fieldwork, response rates can be monitored, and when response rates for hispanics stay low, resources can be shifted towards targeting hispanics, by either contacting them more often, or switching them to a more expensive contact mode. If this is succesful, the amount of nonresponse bias in a survey should decrease.&lt;br&gt;
+The idea of responsive designs has been around for about 15 years. I had until now not seen many successful applications however. A panel session by the U.S. Census bureau did show that response design can work, but it requires survey organisations to redesign their entire fieldwork operations. For more information on this topic, see the excellent blog by 
+&lt;a href=&#34;http://jameswagnersurv.blogspot.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James Wagner&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>how to use Internet panels for polling</title>
+      <link>https://thomvolker2.github.io/post/how-to-use-internet-panels-for-polling/</link>
+      <pubDate>Thu, 10 Feb 2011 11:13:00 +0100</pubDate>
+      <guid>https://thomvolker2.github.io/post/how-to-use-internet-panels-for-polling/</guid>
+      <description>&lt;p&gt;Before people believe I&#39;m old-fashioned, I do think that Internet-surveys, even panel surveys are the future of survey research. John Krosnick makes some good points in a video shot by the people from 
+&lt;a href=&#34;http://www.blogger.com/www.pollster.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.pollster.com&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

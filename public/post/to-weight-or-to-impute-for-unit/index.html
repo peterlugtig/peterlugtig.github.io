@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.7.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Peter Lugtig">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="This week, I have been reading the most recent issue of the Journal of Official Statistics , a journal that has been open access since the 1980s. In this issue is a critical review article of weighting procedures authored by Michael Brick with commentaries by Olena Kaminska ( here ), Philipp Kott ( here ), Roderick Little ( here ), Geert Loosveldt ( here ), and a rejoinder ( here ).">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://thomvolker2.github.io/post/to-weight-or-to-impute-for-unit/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#FFCD00">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu24224bdd39496be97f7ac6d7739aba91_124846_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu24224bdd39496be97f7ac6d7739aba91_124846_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://thomvolker2.github.io/post/to-weight-or-to-impute-for-unit/">
+
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@@PeterLugtig">
+  <meta property="twitter:creator" content="@@PeterLugtig">
+  
+  <meta property="og:site_name" content="Peter Lugtig">
+  <meta property="og:url" content="https://thomvolker2.github.io/post/to-weight-or-to-impute-for-unit/">
+  <meta property="og:title" content="To weight or to impute for unit nonresponse? | Peter Lugtig">
+  <meta property="og:description" content="This week, I have been reading the most recent issue of the Journal of Official Statistics , a journal that has been open access since the 1980s. In this issue is a critical review article of weighting procedures authored by Michael Brick with commentaries by Olena Kaminska ( here ), Philipp Kott ( here ), Roderick Little ( here ), Geert Loosveldt ( here ), and a rejoinder ( here )."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2013-10-06T21:49:00&#43;02:00">
+    
+    <meta property="article:modified_time" content="2013-10-06T21:49:00&#43;02:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://thomvolker2.github.io/post/to-weight-or-to-impute-for-unit/"
+  },
+  "headline": "To weight or to impute for unit nonresponse?",
+  
+  "datePublished": "2013-10-06T21:49:00+02:00",
+  "dateModified": "2013-10-06T21:49:00+02:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Peter Lugtig"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Utrecht University",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "img/https://thomvolker2.github.io/"
+    }
+  },
+  "description": "This week, I have been reading the most recent issue of the Journal of Official Statistics , a journal that has been open access since the 1980s. In this issue is a critical review article of weighting procedures authored by Michael Brick with commentaries by Olena Kaminska ( here ), Philipp Kott ( here ), Roderick Little ( here ), Geert Loosveldt ( here ), and a rejoinder ( here )."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>To weight or to impute for unit nonresponse? | Peter Lugtig</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Peter Lugtig</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Peter Lugtig</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/post/"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/about/"><span>About me</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>To weight or to impute for unit nonresponse?</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Oct 6, 2013
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    4 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>This week, I have been reading the most recent issue of the 
+<a href="http://www.jos.nu/" target="_blank" rel="noopener">Journal of Official Statistics</a>
+, a journal that has been open access since the 1980s.  In this issue is a 
+<a href="http://www.jos.nu/Articles/abstract.asp?article=293329" target="_blank" rel="noopener">critical review article of weighting procedures</a>
+ authored by Michael Brick with commentaries by Olena Kaminska (
+<a href="http://www.jos.nu/Articles/abstract.asp?article=293355" target="_blank" rel="noopener">here</a>
+), Philipp Kott (
+<a href="http://www.jos.nu/Articles/abstract.asp?article=293359" target="_blank" rel="noopener">here</a>
+), Roderick Little (
+<a href="http://www.jos.nu/Articles/abstract.asp?article=293363" target="_blank" rel="noopener">here</a>
+), Geert Loosveldt (
+<a href="http://www.jos.nu/Articles/abstract.asp?article=293367" target="_blank" rel="noopener">here</a>
+), and a rejoinder (
+<a href="http://www.jos.nu/Articles/abstract.asp?article=293371" target="_blank" rel="noopener">here</a>
+).</p>
+<p>I found this article a great read, and to be full of ideas related to unit nonresponse. The article reviews approaches to weighting: either to the sample or the population, by poststratification and with different statistical techniques. But it discusses much more, and I recommend reading it.</p>
+<p>One of the issues that is discussed in the article, but much more extensively in a commentary by Roderick Little, is the question whether we should use weighting or imputations to adjust for unit nonresponse in surveys. Over the years, I have switched allegiances to favouring weighting or imputations in certain missing data situations many times, and I am still not always certain on what is best to do. Weighting is generally favoured for cross-sectional surveys, because we understand how it works. Imputations are generally favoured when we have strong correlates for missingness and our variable(s) of interest, such as in longitudinal surveys. Here are some plusses and minuses for both weighting and imputations.</p>
+<p>Weighting is design based. Based on information that is available for the population or whole sample (including nonrespondents), respondent data are weighted in such a way that the survey data reflect the sample/population again.</p>
+<p>+ The statistical properties of all design-based weighting procedures are well-known.<br>
++ Weighting works with complex sampling designs (at least theoretically).<br>
++ We need relatively little information on nonrespondents to be able to use weighting procedures. There is however a big BUT&hellip;<br>
+- Weighting models mainly use socio-demographic data, because that is the kind of information we can add to our sampling frame. These variables are never highly correlated with our variable of interest, nor missingness due to nonresponse, so weighting is not very effective. That is, weighting theoretically works nicely, but in practice, it doesn't ameliorate the missing data problem we have because of unit nonresponse much.</p>
+<p>Imputations are model based. Based on available information for respondents and nonrespondents, a prediction model is built for a variable which has missing information. The model can take an infinite number of shapes, depending on whether imputation is stochastic, how variables are related within the model, and what variables are being used. Based on this model, one or multiple values are imputed for every missing value on every variable for every case. The crucial difference is that weighting uses the same variables for correcting the entire dataset, whereas imputation models differ for every variable that is to be imputed.</p>
+<p>+ Imputation models are flexible. This means that the imputation model can be optimized in such a way that it strongly predicts both the dependent variable to be imputed, and the missingness process.</p>
+<p>- In the case of unit nonresponse, we often have limited data on nonrespondents. So, although a model-based approach may have advantages over design-based aproaches in terms of its ability to predict our variable(s) of interest, this depends on the quality of the covariates we use.</p>
+<p>This then brings me, and the authors of the various papers in JoS back to the basic problem: 
+<a href="http://www.peterlugtig.com/2013/09/nonresponse-workshop-2013.html" target="_blank" rel="noopener">we don't understand the process on nonresponse in surveys</a>
+. Next time, more on imputations and weighting for longitudinal surveys. And more on design vs. model based approaches in survey research.</p>
+<p>p.s. This all assumes simple random sampling. If complex sampling designs are used, weighting is until now I think the best way to start dealing with nonresponse. I am unaware of imputation methods that can deal with complex sampling (other than straightforward multilevel structures).</p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/weighting/">weighting</a>
+  
+  <a class="badge badge-light" href="/tags/nonresponse-error/">nonresponse error</a>
+  
+  <a class="badge badge-light" href="/tags/imputation/">imputation</a>
+  
+  <a class="badge badge-light" href="/tags/coverage-error/">coverage error</a>
+  
+  <a class="badge badge-light" href="/tags/data-quality/">data quality</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://thomvolker2.github.io/post/to-weight-or-to-impute-for-unit/&amp;text=To%20weight%20or%20to%20impute%20for%20unit%20nonresponse?" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://thomvolker2.github.io/post/to-weight-or-to-impute-for-unit/&amp;t=To%20weight%20or%20to%20impute%20for%20unit%20nonresponse?" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=To%20weight%20or%20to%20impute%20for%20unit%20nonresponse?&amp;body=https://thomvolker2.github.io/post/to-weight-or-to-impute-for-unit/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://thomvolker2.github.io/post/to-weight-or-to-impute-for-unit/&amp;title=To%20weight%20or%20to%20impute%20for%20unit%20nonresponse?" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=To%20weight%20or%20to%20impute%20for%20unit%20nonresponse?%20https://thomvolker2.github.io/post/to-weight-or-to-impute-for-unit/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://thomvolker2.github.io/post/to-weight-or-to-impute-for-unit/&amp;title=To%20weight%20or%20to%20impute%20for%20unit%20nonresponse?" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <img class="avatar mr-3 avatar-circle" src="/authors/peterlugtig/avatar_hu21543be17f0137b84fd20a71e50f0dfc_187460_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://thomvolker2.github.io/">Peter Lugtig</a></h5>
+      <h6 class="card-subtitle">Associate Professor of Survey Methodology</h6>
+      <p class="card-text">I am an associate professor at Utrecht University, department of Methodology and Statistics.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/PeterLugtig" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.nl/citations?user=VFXJuN8AAAAJ&amp;hl" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Peter_Lugtig" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0001-8548-6828" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/peter-lugtig-78896220/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.dropbox.com/s/byx481zd9jw9pyd/CV-peter-lugtig.pdf?dl=0" target="_blank" rel="noopener">
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/post/is-panel-attrition-same-as-nonresponse/">Is panel attrition the same as nonresponse?</a></li>
+      
+      <li><a href="/post/why-access-panels-cannot-weight/">why access panels cannot weight elections polls accurately</a></li>
+      
+      <li><a href="/post/studying-mode-effects/">studying mode effects</a></li>
+      
+      <li><a href="/post/publish-your-data/">Publish your data</a></li>
+      
+      <li><a href="/post/how-to-improve-social-sciences/">How to improve the social sciences</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    © 2019 - 2020 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

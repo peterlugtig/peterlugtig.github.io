@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>publishing | Peter Lugtig</title>
+    <link>https://thomvolker2.github.io/tags/publishing/</link>
+      <atom:link href="https://thomvolker2.github.io/tags/publishing/index.xml" rel="self" type="application/rss+xml" />
+    <description>publishing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 17 Oct 2013 10:09:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>publishing</title>
+      <link>https://thomvolker2.github.io/tags/publishing/</link>
+    </image>
+    
+    <item>
+      <title>My prayers on peer-reviewed datasets are instantly answered</title>
+      <link>https://thomvolker2.github.io/post/my-prayers-on-peer-reviewed-datasets/</link>
+      <pubDate>Thu, 17 Oct 2013 10:09:00 +0200</pubDate>
+      <guid>https://thomvolker2.github.io/post/my-prayers-on-peer-reviewed-datasets/</guid>
+      <description>&lt;p&gt;Three weeks ago, I wrote about the fact that I think that it would be great if we could have 
+&lt;a href=&#34;http://www.peterlugtig.com/2013/09/publish-your-data.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a journal on peer-reviewed datasets&lt;/a&gt;
+ (along with data being accessible).&lt;/p&gt;
+&lt;p&gt;It seems I am not alone thinking this. 
+&lt;a href=&#34;http://wicherts.socsci.uva.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jelte Wicherts,&lt;/a&gt;
+ a psychologist/statistician atTilburg University has just started the 
+&lt;a href=&#34;http://openpsychologydata.metajnl.com/article/view/1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Open Psychology data&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;Jelte writes:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;The Journal of Open Psychology Data (JOPD) features peer reviewed data papers describing psychology datasets with high reuse potential. Data papers may describe data from unpublished work, including replication research, or from papers published previously in a traditional journal. We are working with a number of specialist and institutional data repositories to ensure that the associated data are professionally archived, preserved, and openly available. Equally importantly, the data and the papers are citable, and reuse is tracked.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publish your data</title>
+      <link>https://thomvolker2.github.io/post/publish-your-data/</link>
+      <pubDate>Mon, 23 Sep 2013 12:27:00 +0200</pubDate>
+      <guid>https://thomvolker2.github.io/post/publish-your-data/</guid>
+      <description>&lt;p&gt;This morning, an official enquiry into the scientific conduct of 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Mart_Bax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;professor Mart Bax&lt;/a&gt;
+ concluded that he had committed large-scale scientific fraud over a period of 15 years. Mart Bax is a now-retired professor of political anthropology at the Free University Amsterdam. In 2012 a journalist first accused him of fraud, and this spring, the Volkskrant, one of the big newspapers in the Netherlands reported they were not able to find any of the informants Mart Bax had used in his studies.&lt;/p&gt;
+&lt;p&gt;An official enquiry followed. You can can the report 
+&lt;a href=&#34;https://www.dropbox.com/s/pjrwxvbw175cpo1/rapport%20Bax.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here (in Dutch)&lt;/a&gt;
+. In summary, Mart Bax most likely made up at least 64, mostly peer-reviewed articles and recycled his own articles using different titles in different journals. Although the investigation could not rule out that some studies were just done sloppily the overall picture from the report is one of overall scientific misconduct.&lt;/p&gt;
+&lt;p&gt;So, what to do about this? I have a clear opinion on this: 
+&lt;a href=&#34;http://www.peterlugtig.com/2013/09/how-to-improve-social-sciences.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Make your data available, and replicate other people&#39;s studies&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;What strikes me, is that it seems normal to some social scientists not to store interviews (whether on tape or anonymized in scripts) or publish datasets. It may be a little more difficult for qualitative researchers than quantitative researchers to do this. Back in the 1990s, when Mart Bax committed this fraud, it may have been really complicated to publish such transcripts online. Nowadays, it is dead easy however, and some, although not many journals offer this service. See for some good examples in the social sciences:&lt;/p&gt;
+&lt;p&gt;- 
+&lt;a href=&#34;http://www.oxfordjournals.org/our_journals/restud/for_authors/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The review of economical studies&lt;/a&gt;
+: will only publish articles that provide data, and where analyses can be replicated. This is the only example that I could find of a journal policy that really makes it easy to replicate research findings.&lt;br&gt;
+- 
+&lt;a href=&#34;http://www.springer.com/authors/manuscript&amp;#43;guidelines?SGWID=0-40162-12-339499-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;All Springer journals&lt;/a&gt;
+ provide the opportunity for supplementary materials (among them data). Is just an option.&lt;br&gt;
+- 
+&lt;a href=&#34;http://www.apa.org/pubs/journals/psp/index.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The journal of Personality and Social Psychology&lt;/a&gt;
+ encourages providing data and analysis scripts in general (The American Psychological Association as w hole does this).&lt;/p&gt;
+&lt;p&gt; If you know of any other journals with good replicability policies, please send a comment or e-mail (p.lugtig AT uu.nl), so I can compile a more comprehensive list.&lt;br&gt;
+ &lt;br&gt;
+In the natural sciences, there are 
+&lt;a href=&#34;http://proj.badc.rl.ac.uk/preparde/blog/DataJournalsList&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;journals where datasets are peer-reviewed and publishe&lt;/a&gt;
+d. As social scientists, we have a long way to go to tackle fraud, and generally become much more open about our data and analysis methods. Journals, professional associations, and individualresearchers should all be stricter on data accessibility, and replicability of studies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to improve the social sciences</title>
+      <link>https://thomvolker2.github.io/post/how-to-improve-social-sciences/</link>
+      <pubDate>Sat, 14 Sep 2013 15:37:00 +0200</pubDate>
+      <guid>https://thomvolker2.github.io/post/how-to-improve-social-sciences/</guid>
+      <description>&lt;p&gt;Social scientists (and psychology in particular) have in recent years had somethings of a bad press, both in- and outside academia. To give some examples:&lt;/p&gt;
+&lt;p&gt;- There is a sense among some people that 
+&lt;a href=&#34;http://www.socialsciencespace.com/2013/07/attacks-on-us-federal-funding-of-the-social-sciences-will-continue-to-intensify/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;social science provides little societal or economical value.&lt;/a&gt;
+&lt;br&gt;
+- Controversy over research findings within social science: for example the findings of 
+&lt;a href=&#34;http://www.thepsychologist.org.uk/archive/archive_home.cfm?volumeID=25&amp;amp;editionID=213&amp;amp;ArticleID=2059&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bem et al. about the existence of precognition&lt;/a&gt;
+, or the 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Casualties_of_the_Iraq_War&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;estimation of the number of casualties in Iraq war&lt;/a&gt;
+ (2003-2007).&lt;br&gt;
+- Scientific fraud: in the Netherlands alone, we have had about five affairs of scientific fraud in the past few years. The biggest one being the 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Diederik_Stapel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stapel-affair:&lt;/a&gt;
+ a professor who dreamed up the data of about 50 high-profile scientific articles.&lt;/p&gt;
+&lt;p&gt;Now, I disagree with the fact that the social sciences do not contribute enough to society, but is hard to argue about this issue if people can argue that social scientists commit fraud, or are secretive about their methods and results. Also, I dislike the 
+&lt;a href=&#34;http://www.easp.eu/news/Statement%20EASP%20on%20Levelt_December_%202012.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;defensive attitude many social scientists&lt;/a&gt;
+ take on fraud, opnness, and replicability. Instead of just being defensive, try do some something constructive with critique we receive as a field.&lt;/p&gt;
+&lt;p&gt;At this 
+&lt;a href=&#34;http://www.gesis.org/en/events/gesis-summer-school/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;year&#39;s GESIS summer school,&lt;/a&gt;
+ I gave a talk about the topic of survey errors and how to improve social science as a whole. I think it is really time to change the way we as social scientists do our work. We have to be more open about what we do and how we do it. Not only so we can strenghthen the position of the social sciences in general, but more importantly to make progress as a field. Many theories in the social sciences are founded on empirical research findings, that can either not be replicated, are based on wrong statistical analyses, or are based on fraudulated data. Dreaming up data is the worst example of fraud, but I count as fraud also selectively deleting those cases that don&#39;t support your theory, or presenting exploratory analyses as confirmatory. This last point especially is common throughout the social sciences (and in other disciplines as well).&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://3.bp.blogspot.com/-8jF-Uu_-d5A/UjRlcO3LhUI/AAAAAAAACm0/R1nCSlaMRnA/s1600/graphic2-for-blog3.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://3.bp.blogspot.com/-8jF-Uu_-d5A/UjRlcO3LhUI/AAAAAAAACm0/R1nCSlaMRnA/s400/graphic2-for-blog3.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;_Summaries of a survey on scientific fraud in medical faculties in the Flanders region of Belgium _&lt;br&gt;
+_(source: &lt;a href=&#34;http://blogs.scientificamerican.com/talking-back/2013/05/02/spring-and-scientific-fraud-is-busting-out-all-over/)_&#34;&gt;http://blogs.scientificamerican.com/talking-back/2013/05/02/spring-and-scientific-fraud-is-busting-out-all-over/)_&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here is my idea of how to start making things better:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Publish your data&lt;/strong&gt;. Unless you work with medical or otherwise privacy-sensitive data, I see no reason why not all data should be published online at some point. Of course, data need to be cleaned after data collection, and researchers may keep data for themselves for a limited amount of time, if they fear others may steal their good research ideas. But once a paper is published, the data should become available. No excuses&lt;br&gt;
+&lt;strong&gt;2. Document your analyses.&lt;/strong&gt; If you publish your data, why not publish your analyses scripts and logs of your analyses as well, so everyone can easily replicate your analyses?  We need more replication in the social sciences, and should make it more attractive for researchers to do this. Yes, that means that data analysis errors may be exposed by other researchers. But in my view, this is the only way we can progress as social sciences.&lt;/p&gt;
+&lt;p&gt;And as I believe in practice what you preach, I am putting all my data and analysis-scripts at this webpage (see 
+&lt;a href=&#34;http://www.peterlugtig.com/p/publications.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publications&lt;/a&gt;
+). As I do not own all the data, I am still working out how to do this with some of my co-authors, but my goal is to really have all my data and scripts/syntaxes there, so everyone can replicate my analyses given they use the same software.&lt;/p&gt;
+&lt;p&gt;The slides for my presentation at GESIS are found 
+&lt;a href=&#34;https://www.dropbox.com/s/x3oowfh3rggfw7m/Lugtig%20-%20why%20care%20about%20survey%20errors%20%28GESIS%29%20print%20version.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+. There is also a video-recording of the lecture, that can be found 
+&lt;a href=&#34;https://www.youtube.com/watch?v=oGF0ViFphKQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open access: things we can learn from the natural sciences</title>
+      <link>https://thomvolker2.github.io/post/open-access-things-we-can-learn-from/</link>
+      <pubDate>Mon, 01 Apr 2013 10:05:00 +0200</pubDate>
+      <guid>https://thomvolker2.github.io/post/open-access-things-we-can-learn-from/</guid>
+      <description>&lt;p&gt;I was  pointed to an interview with two Harvard professors, one of them my (former) idol Gary King, talking about the need for open access publishing. I&#39;m re-posting it here as a reminder to myself, and to anyone from the social sciences (or survey methods), that we should be more open about what we do and write. Too often, papers take years to appear in print-journals, and even then, these articles probably don&#39;t make it to those people without subscriptions to all the main publishers.&lt;/p&gt;
+&lt;p&gt;One practical question to anyone reading this: the natural sciences have ArXiv: a system where everyone published work-in-progress. Does anyone know of initiatives in this direction in the social sciences?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
