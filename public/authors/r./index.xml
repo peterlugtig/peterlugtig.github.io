@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R. | Peter Lugtig</title>
-    <link>https://thomvolker2.github.io/authors/r./</link>
-      <atom:link href="https://thomvolker2.github.io/authors/r./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thomvolker.github.io/try_out/authors/r./</link>
+      <atom:link href="https://thomvolker.github.io/try_out/authors/r./index.xml" rel="self" type="application/rss+xml" />
     <description>R.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>R.</title>
-      <link>https://thomvolker2.github.io/authors/r./</link>
+      <link>https://thomvolker.github.io/try_out/authors/r./</link>
     </image>
     
     <item>
       <title>Recruiting young and urban groups into a probability-based online panel by promoting smartphone use</title>
-      <link>https://thomvolker2.github.io/publication/2019_lugtig_recruiting_smartphone/</link>
+      <link>https://thomvolker.github.io/try_out/publication/2019_lugtig_recruiting_smartphone/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/publication/2019_lugtig_recruiting_smartphone/</guid>
+      <guid>https://thomvolker.github.io/try_out/publication/2019_lugtig_recruiting_smartphone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incidence and recurrence of common mental disorders after abortion: Results from a prospective cohort study</title>
-      <link>https://thomvolker2.github.io/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</link>
+      <link>https://thomvolker.github.io/try_out/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</guid>
+      <guid>https://thomvolker.github.io/try_out/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</guid>
       <description></description>
     </item>
     

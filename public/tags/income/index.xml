@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>income | Peter Lugtig</title>
-    <link>https://thomvolker2.github.io/tags/income/</link>
-      <atom:link href="https://thomvolker2.github.io/tags/income/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thomvolker.github.io/try_out/tags/income/</link>
+      <atom:link href="https://thomvolker.github.io/try_out/tags/income/index.xml" rel="self" type="application/rss+xml" />
     <description>income</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Wed, 15 Aug 2012 19:13:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>income</title>
-      <link>https://thomvolker2.github.io/tags/income/</link>
+      <link>https://thomvolker.github.io/try_out/tags/income/</link>
     </image>
     
     <item>
       <title>Dependent Interviewing, and stability in opinion polls</title>
-      <link>https://thomvolker2.github.io/post/dependent-interviewing-and-longitudinal/</link>
+      <link>https://thomvolker.github.io/try_out/post/dependent-interviewing-and-longitudinal/</link>
       <pubDate>Wed, 15 Aug 2012 19:13:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/post/dependent-interviewing-and-longitudinal/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/dependent-interviewing-and-longitudinal/</guid>
       <description>&lt;p&gt;I was re-reading one of the papers I wrote as part of my dissertation on survey data quality in panel surveys. The paper deals with the effects of the introduction of an interviewing technique called Dependent Interviewing in the British Household Panel Survey. I wrote this paper together with Annette Jackle, and if you are interested after reading the next bit, you can download a working paper version of it 
 &lt;a href=&#34;https://www.iser.essex.ac.uk/publications/working-papers/iser/2011-23.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;
 &lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lisrel | Peter Lugtig</title>
-    <link>https://thomvolker2.github.io/tags/lisrel/</link>
-      <atom:link href="https://thomvolker2.github.io/tags/lisrel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thomvolker.github.io/try_out/tags/lisrel/</link>
+      <atom:link href="https://thomvolker.github.io/try_out/tags/lisrel/index.xml" rel="self" type="application/rss+xml" />
     <description>Lisrel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Wed, 19 Oct 2011 11:55:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Lisrel</title>
-      <link>https://thomvolker2.github.io/tags/lisrel/</link>
+      <link>https://thomvolker.github.io/try_out/tags/lisrel/</link>
     </image>
     
     <item>
       <title>SEM software</title>
-      <link>https://thomvolker2.github.io/post/sem-software/</link>
+      <link>https://thomvolker.github.io/try_out/post/sem-software/</link>
       <pubDate>Wed, 19 Oct 2011 11:55:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/post/sem-software/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/sem-software/</guid>
       <description>&lt;p&gt;I&#39;m not dead! In fact, I have been very alive over the past half a year: moving, finishing my Ph.D and starting a new job. With all that settled, I am determined to start where I left off.&lt;/p&gt;
 &lt;p&gt;I often get questions about software to do Structural Equation Modeling. There are quite a few packages out there, some more user-friendly or sophisticated than others. Here is an overview of existing packages and my opinion on the pro&#39;s and cons of each.&lt;br&gt;
 

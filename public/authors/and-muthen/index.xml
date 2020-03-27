@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>and Muthen | Peter Lugtig</title>
-    <link>https://thomvolker2.github.io/authors/and-muthen/</link>
-      <atom:link href="https://thomvolker2.github.io/authors/and-muthen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thomvolker.github.io/try_out/authors/and-muthen/</link>
+      <atom:link href="https://thomvolker.github.io/try_out/authors/and-muthen/index.xml" rel="self" type="application/rss+xml" />
     <description>and Muthen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Wed, 23 Oct 2013 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>and Muthen</title>
-      <link>https://thomvolker2.github.io/authors/and-muthen/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-muthen/</link>
     </image>
     
     <item>
       <title>Facing off with Scylla and Charybdis: A comparison of scalar, partial, and the novel possibility of approximate measurement invariance</title>
-      <link>https://thomvolker2.github.io/publication/2013_schoot_facing_off_with_choosing/</link>
+      <link>https://thomvolker.github.io/try_out/publication/2013_schoot_facing_off_with_choosing/</link>
       <pubDate>Wed, 23 Oct 2013 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/publication/2013_schoot_facing_off_with_choosing/</guid>
+      <guid>https://thomvolker.github.io/try_out/publication/2013_schoot_facing_off_with_choosing/</guid>
       <description></description>
     </item>
     

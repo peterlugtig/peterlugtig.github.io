@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MTMM | Peter Lugtig</title>
-    <link>https://thomvolker2.github.io/tags/mtmm/</link>
-      <atom:link href="https://thomvolker2.github.io/tags/mtmm/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thomvolker.github.io/try_out/tags/mtmm/</link>
+      <atom:link href="https://thomvolker.github.io/try_out/tags/mtmm/index.xml" rel="self" type="application/rss+xml" />
     <description>MTMM</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 26 Jun 2018 11:16:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>MTMM</title>
-      <link>https://thomvolker2.github.io/tags/mtmm/</link>
+      <link>https://thomvolker.github.io/try_out/tags/mtmm/</link>
     </image>
     
     <item>
       <title>Which survey error source is larger: measurement or nonresponse?</title>
-      <link>https://thomvolker2.github.io/post/which-survey-error-source-is-larger/</link>
+      <link>https://thomvolker.github.io/try_out/post/which-survey-error-source-is-larger/</link>
       <pubDate>Tue, 26 Jun 2018 11:16:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/post/which-survey-error-source-is-larger/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/which-survey-error-source-is-larger/</guid>
       <description>&lt;p&gt;As a survey methodologist I get paid to develop survey methods that generaly minimize survey errors, and advise people on how to field surveys in a specific setting. A question that has been bugging me for a long time is what survey error we should worry about most. The 
 &lt;a href=&#34;https://en.wikipedia.org/wiki/Total_survey_error&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Total Survey Error (TSE) framework&lt;/a&gt;
  is very helpful for thinking which type of survey error may impact survey estimates&lt;br&gt;

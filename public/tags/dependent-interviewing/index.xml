@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dependent interviewing | Peter Lugtig</title>
-    <link>https://thomvolker2.github.io/tags/dependent-interviewing/</link>
-      <atom:link href="https://thomvolker2.github.io/tags/dependent-interviewing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thomvolker.github.io/try_out/tags/dependent-interviewing/</link>
+      <atom:link href="https://thomvolker.github.io/try_out/tags/dependent-interviewing/index.xml" rel="self" type="application/rss+xml" />
     <description>dependent interviewing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Sat, 03 Aug 2013 16:22:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>dependent interviewing</title>
-      <link>https://thomvolker2.github.io/tags/dependent-interviewing/</link>
+      <link>https://thomvolker.github.io/try_out/tags/dependent-interviewing/</link>
     </image>
     
     <item>
       <title>Dependent Interviewing and the risk of correlated measurement errors</title>
-      <link>https://thomvolker2.github.io/post/dependent-interviewing-and-risk-of/</link>
+      <link>https://thomvolker.github.io/try_out/post/dependent-interviewing-and-risk-of/</link>
       <pubDate>Sat, 03 Aug 2013 16:22:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/post/dependent-interviewing-and-risk-of/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/dependent-interviewing-and-risk-of/</guid>
       <description>&lt;p&gt;Longitudinal surveys ask the same people the same questions over time. So questionnaires tend to be rather boring for respondents after a while. &amp;ldquo;Are you asking me this again, you asked that last year as well!&amp;rdquo; is what many respondents probably think during an interview. As methodologists who manage panel surveys, we know this process may be rather boring, but in order to document change over time, we just need to ask respondents the same questions over and over.&lt;/p&gt;
 &lt;p&gt;Some measures of change over time would become biased if we just repeat questions year-on-year. For example, we know that if we ask respondents twice about their occupation, less than half of all of them have the same occupational codes over time. We know from other statistics (e.g. tax returns), that that is not true. Most people stay in the same occupation over time. Now, you may think, dear reader, that that is probably due to the fact that occupation is rather difficult to measure and code in general, and you are right. Unreliable question will lead to a lot of spurious change over time.&lt;/p&gt;
 &lt;p&gt;Dependent Interviewing helps to make codes consistent over time and reduce such spurious change. The idea is that, instead of coding occupation independently year-on-year, you ask respondents in year 2 the question &amp;ldquo;last year, you said you were a bankteller, is that still the case?&amp;quot;. There are many different variants to ask this Dependent Interviewing question, and the exact wording is important for the outcomes. Especially, because we do not want respondent to say &amp;ldquo;yes&amp;rdquo; too easily to questions we ask.&lt;/p&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>Electoral volatility due to different questions?</title>
-      <link>https://thomvolker2.github.io/post/electoral-volatility-due-to-different/</link>
+      <link>https://thomvolker.github.io/try_out/post/electoral-volatility-due-to-different/</link>
       <pubDate>Fri, 24 Aug 2012 13:15:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/post/electoral-volatility-due-to-different/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/electoral-volatility-due-to-different/</guid>
       <description>&lt;p&gt;**Poll volatility **&lt;/p&gt;
 &lt;p&gt;Below, you find the summed changes in parliamentary seats over all parties in consecutive opinion polls for the four main polling firms in the Netherlands in the lead up to the 2012 elections. I will update the table below in the next weeks.&lt;br&gt;
 This overview follows from my earlier post on Dependent Interviewing. Maurice de Hond (peil.nl) is the only survey pre-loading earlier voter preferences into survey questions. I expect this to lead to less volatility in voter preferences for Maurice de Hond, as compared to the other polling firms.&lt;/p&gt;
@@ -133,9 +133,9 @@ This overview follows from my earlier post on Dependent Interviewing. Maurice de
     
     <item>
       <title>Dependent Interviewing, and stability in opinion polls</title>
-      <link>https://thomvolker2.github.io/post/dependent-interviewing-and-longitudinal/</link>
+      <link>https://thomvolker.github.io/try_out/post/dependent-interviewing-and-longitudinal/</link>
       <pubDate>Wed, 15 Aug 2012 19:13:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/post/dependent-interviewing-and-longitudinal/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/dependent-interviewing-and-longitudinal/</guid>
       <description>&lt;p&gt;I was re-reading one of the papers I wrote as part of my dissertation on survey data quality in panel surveys. The paper deals with the effects of the introduction of an interviewing technique called Dependent Interviewing in the British Household Panel Survey. I wrote this paper together with Annette Jackle, and if you are interested after reading the next bit, you can download a working paper version of it 
 &lt;a href=&#34;https://www.iser.essex.ac.uk/publications/working-papers/iser/2011-23.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;
 &lt;/p&gt;

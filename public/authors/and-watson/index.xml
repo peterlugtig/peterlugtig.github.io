@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>and Watson | Peter Lugtig</title>
-    <link>https://thomvolker2.github.io/authors/and-watson/</link>
-      <atom:link href="https://thomvolker2.github.io/authors/and-watson/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thomvolker.github.io/try_out/authors/and-watson/</link>
+      <atom:link href="https://thomvolker.github.io/try_out/authors/and-watson/index.xml" rel="self" type="application/rss+xml" />
     <description>and Watson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>and Watson</title>
-      <link>https://thomvolker2.github.io/authors/and-watson/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-watson/</link>
     </image>
     
     <item>
       <title>Assessing and relaxing assumptions in quasi-simplex models</title>
-      <link>https://thomvolker2.github.io/publication/2014_cernat_assessing_and_relaxing_assumptions/</link>
+      <link>https://thomvolker.github.io/try_out/publication/2014_cernat_assessing_and_relaxing_assumptions/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/publication/2014_cernat_assessing_and_relaxing_assumptions/</guid>
+      <guid>https://thomvolker.github.io/try_out/publication/2014_cernat_assessing_and_relaxing_assumptions/</guid>
       <description></description>
     </item>
     

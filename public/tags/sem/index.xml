@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SEM | Peter Lugtig</title>
-    <link>https://thomvolker2.github.io/tags/sem/</link>
-      <atom:link href="https://thomvolker2.github.io/tags/sem/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thomvolker.github.io/try_out/tags/sem/</link>
+      <atom:link href="https://thomvolker.github.io/try_out/tags/sem/index.xml" rel="self" type="application/rss+xml" />
     <description>SEM</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 04 Jul 2013 11:57:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>SEM</title>
-      <link>https://thomvolker2.github.io/tags/sem/</link>
+      <link>https://thomvolker.github.io/try_out/tags/sem/</link>
     </image>
     
     <item>
       <title>measurement and nonresponse error in panel surveys</title>
-      <link>https://thomvolker2.github.io/post/measurement-and-nonresponse-error-in/</link>
+      <link>https://thomvolker.github.io/try_out/post/measurement-and-nonresponse-error-in/</link>
       <pubDate>Thu, 04 Jul 2013 11:57:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/post/measurement-and-nonresponse-error-in/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/measurement-and-nonresponse-error-in/</guid>
       <description>&lt;p&gt;I am spending time at the Institute for Social and Economic Research in Colchester, UK where I will work on a research project that investigates whether there is a tradeoff between nonresponse and measurement errors in panel surveys.&lt;/p&gt;
 &lt;p&gt;Survey methodologists have long believed that multiple survey errors have a common cause. For example, when a respondent is less motivated, this may result in nonresponse (in a panel study attrition), or in reduced cognitive effort during the interview, which in turn leads to measurement errors. Lower cognitive abilities and language problems might be other examples of common caused that lead to either nonresponse or measurement error. Understanding these common error sources is important to know whether our efforts to reduce 1 survey error source are not offset by an increase in another one. It follows from the idea that good survey design minimize 
 &lt;a href=&#34;http://poq.oxfordjournals.org/content/74/5.toc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Total Survey Error&lt;/a&gt;
@@ -37,9 +37,9 @@ b) that hypothetically, nonrespondents could be converted into respondents if ex
     
     <item>
       <title>Bayesian Structural Equation Modeling</title>
-      <link>https://thomvolker2.github.io/post/bayesian-structural-equation-modeling/</link>
+      <link>https://thomvolker.github.io/try_out/post/bayesian-structural-equation-modeling/</link>
       <pubDate>Mon, 08 Oct 2012 14:26:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/post/bayesian-structural-equation-modeling/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/bayesian-structural-equation-modeling/</guid>
       <description>&lt;p&gt;In August, I organised a three-week summerschool with my colleagues in Utrecht on new features in MPLUS 7, the software we use to build Structural Equation Models. Video&#39;s of all lectures can be found 
 &lt;a href=&#34;http://mplus.fss.uu.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;
 &lt;/p&gt;
@@ -52,9 +52,9 @@ b) that hypothetically, nonrespondents could be converted into respondents if ex
     
     <item>
       <title>SEM software</title>
-      <link>https://thomvolker2.github.io/post/sem-software/</link>
+      <link>https://thomvolker.github.io/try_out/post/sem-software/</link>
       <pubDate>Wed, 19 Oct 2011 11:55:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/post/sem-software/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/sem-software/</guid>
       <description>&lt;p&gt;I&#39;m not dead! In fact, I have been very alive over the past half a year: moving, finishing my Ph.D and starting a new job. With all that settled, I am determined to start where I left off.&lt;/p&gt;
 &lt;p&gt;I often get questions about software to do Structural Equation Modeling. There are quite a few packages out there, some more user-friendly or sophisticated than others. Here is an overview of existing packages and my opinion on the pro&#39;s and cons of each.&lt;br&gt;
 
@@ -111,9 +111,9 @@ Since 2000 some new software packages have taken over the role of LISREL, Mx and
     
     <item>
       <title>Statistical modeling: SEM</title>
-      <link>https://thomvolker2.github.io/post/statistical-modeling-recent-advances/</link>
+      <link>https://thomvolker.github.io/try_out/post/statistical-modeling-recent-advances/</link>
       <pubDate>Tue, 10 May 2011 14:34:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/post/statistical-modeling-recent-advances/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/statistical-modeling-recent-advances/</guid>
       <description>&lt;p&gt;Sorry for the long silence: have been caught up in work and other things that were always more pressing than writing blog posts. Perhaps it is also because I found it hard to write about statistical modeling. Statistical models are usually complex, and therefore it is difficult to write about them in an accessible way.&lt;/p&gt;
 &lt;p&gt;Statistical models are everywhere; their goal is to summarize our world in such a way as to capture the essence, and leave out the irrelevant complexities. Therefore, I see graphs, figures and visualisation tools themselves as models not very differently from statistical models.&lt;br&gt;
 In the social sciences, I think statistical models are complex in two ways, that make them different from models in physics.&lt;br&gt;

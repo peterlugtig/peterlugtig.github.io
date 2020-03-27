@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>data science | Peter Lugtig</title>
-    <link>https://thomvolker2.github.io/tags/data-science/</link>
-      <atom:link href="https://thomvolker2.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thomvolker.github.io/try_out/tags/data-science/</link>
+      <atom:link href="https://thomvolker.github.io/try_out/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     <description>data science</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 07 Apr 2011 14:51:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>data science</title>
-      <link>https://thomvolker2.github.io/tags/data-science/</link>
+      <link>https://thomvolker.github.io/try_out/tags/data-science/</link>
     </image>
     
     <item>
       <title>survey methods and statistical modeling</title>
-      <link>https://thomvolker2.github.io/post/survey-methods-and-statistical-modeling/</link>
+      <link>https://thomvolker.github.io/try_out/post/survey-methods-and-statistical-modeling/</link>
       <pubDate>Thu, 07 Apr 2011 14:51:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/post/survey-methods-and-statistical-modeling/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/survey-methods-and-statistical-modeling/</guid>
       <description>&lt;p&gt;One of the professors at the department where I work (
 &lt;a href=&#34;http://www.joophox.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joop Hox&lt;/a&gt;
 ) told me at our first meeting ever that good survey methodologists know their way around in the world of statistics. I think this saying should also go in the reverse order by the way, but I did take his advice seriously, and I am getting more and more interested in statistics, and specifically statistical modeling.&lt;br&gt;

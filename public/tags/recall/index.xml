@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>recall | Peter Lugtig</title>
-    <link>https://thomvolker2.github.io/tags/recall/</link>
-      <atom:link href="https://thomvolker2.github.io/tags/recall/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thomvolker.github.io/try_out/tags/recall/</link>
+      <atom:link href="https://thomvolker.github.io/try_out/tags/recall/index.xml" rel="self" type="application/rss+xml" />
     <description>recall</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 01 Dec 2015 13:51:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>recall</title>
-      <link>https://thomvolker2.github.io/tags/recall/</link>
+      <link>https://thomvolker.github.io/try_out/tags/recall/</link>
     </image>
     
     <item>
       <title>Retrospective reporting</title>
-      <link>https://thomvolker2.github.io/post/retrospective-reporting/</link>
+      <link>https://thomvolker.github.io/try_out/post/retrospective-reporting/</link>
       <pubDate>Tue, 01 Dec 2015 13:51:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/post/retrospective-reporting/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/retrospective-reporting/</guid>
       <description>&lt;p&gt;Back after a long pause. Panel surveys traditionally interview respondents at regular intervals, for example monthly or yearly. This interval is mostly chosen for practical reasons: interviewing people more frequently would lead to a large respondent burden, and a burden on data processing and dissemination. For these practical reasons, panel surveys often space their interviews one year apart. Many of the changes (e.g. changes in household composition) we as researchers are interested in occur slowly, and annual interviews suffice to capture these changes.&lt;br&gt;
 Sometimes we want to get reports at a more detailed level, however. For example, we would like to know how often a respondents visits a doctor (general practitioner) in one year, or when a respondent went on holidays. In order to get at such an estimate, survey researchers can do one of several things:&lt;/p&gt;
 &lt;p&gt;1. we can ask a respondent to remember all doctor visits in the past year, and rely on &lt;strong&gt;retrospective recall&lt;/strong&gt;. We know that doesn&#39;t work very well, because respondents cannot remember all visits. Instead, respondents will rely on rounding, guessing and estimation to come to an estimate.&lt;br&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>common causes of survey error | Peter Lugtig</title>
-    <link>https://thomvolker2.github.io/tags/common-causes-of-survey-error/</link>
-      <atom:link href="https://thomvolker2.github.io/tags/common-causes-of-survey-error/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thomvolker.github.io/try_out/tags/common-causes-of-survey-error/</link>
+      <atom:link href="https://thomvolker.github.io/try_out/tags/common-causes-of-survey-error/index.xml" rel="self" type="application/rss+xml" />
     <description>common causes of survey error</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 26 Jun 2018 11:16:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>common causes of survey error</title>
-      <link>https://thomvolker2.github.io/tags/common-causes-of-survey-error/</link>
+      <link>https://thomvolker.github.io/try_out/tags/common-causes-of-survey-error/</link>
     </image>
     
     <item>
       <title>Which survey error source is larger: measurement or nonresponse?</title>
-      <link>https://thomvolker2.github.io/post/which-survey-error-source-is-larger/</link>
+      <link>https://thomvolker.github.io/try_out/post/which-survey-error-source-is-larger/</link>
       <pubDate>Tue, 26 Jun 2018 11:16:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/post/which-survey-error-source-is-larger/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/which-survey-error-source-is-larger/</guid>
       <description>&lt;p&gt;As a survey methodologist I get paid to develop survey methods that generaly minimize survey errors, and advise people on how to field surveys in a specific setting. A question that has been bugging me for a long time is what survey error we should worry about most. The 
 &lt;a href=&#34;https://en.wikipedia.org/wiki/Total_survey_error&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Total Survey Error (TSE) framework&lt;/a&gt;
  is very helpful for thinking which type of survey error may impact survey estimates&lt;br&gt;
@@ -56,9 +56,9 @@ But which error source is generally larger?  Nonresponse or measurement errors?
     
     <item>
       <title>Satisficing in mobile web surveys. Device-effect or selection effect?</title>
-      <link>https://thomvolker2.github.io/post/blog-post/</link>
+      <link>https://thomvolker.github.io/try_out/post/blog-post/</link>
       <pubDate>Mon, 08 Dec 2014 20:47:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/post/blog-post/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/blog-post/</guid>
       <description>&lt;p&gt;Last week, I wrote about the fact 
 &lt;a href=&#34;http://www.peterlugtig.com/2014/12/what-devices-do-respondents-use-over.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;that respondents in panel surveys are now using tablets and smartphones to complete web surveys&lt;/a&gt;
 . We found that in the LISS panel, respondents who use tablets and smartphones are much more likely to switch devices over time and not participate in some months.&lt;br&gt;
@@ -87,9 +87,9 @@ The question we actually wanted to answer was a different one: do respondents wh
     
     <item>
       <title>Are item-missings related to later attrition?</title>
-      <link>https://thomvolker2.github.io/post/are-item-missings-related-to-later/</link>
+      <link>https://thomvolker.github.io/try_out/post/are-item-missings-related-to-later/</link>
       <pubDate>Tue, 29 Apr 2014 14:08:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/post/are-item-missings-related-to-later/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/are-item-missings-related-to-later/</guid>
       <description>&lt;p&gt;A follow up on 
 &lt;a href=&#34;http://www.peterlugtig.com/2014/03/do-respondents-become-sloppy-before.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;last month&#39;s post&lt;/a&gt;
 . Respondents do seem to be less compliant in the waves before they drop out from a panel survey. This may however not neccesarily lead to worse data. So, what else do we see before attrition takes place? Let have a look at missing data:&lt;/p&gt;
@@ -119,9 +119,9 @@ The question we actually wanted to answer was a different one: do respondents wh
     
     <item>
       <title>Do respondents become sloppy before attrition?</title>
-      <link>https://thomvolker2.github.io/post/do-respondents-become-sloppy-before/</link>
+      <link>https://thomvolker.github.io/try_out/post/do-respondents-become-sloppy-before/</link>
       <pubDate>Fri, 28 Mar 2014 15:33:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/post/do-respondents-become-sloppy-before/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/do-respondents-become-sloppy-before/</guid>
       <description>&lt;p&gt;I am working on a paper that aims to link measurement errors to attrition error in a panel survey. For this, I am using the British Household Panel Survey. 
 &lt;a href=&#34;http://www.peterlugtig.com/2013/11/longitudinal-interview-outcome-data.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In an earlier post&lt;/a&gt;
  I already argued that attrition can occur for many reasons, which I summarized in 5 categories.&lt;/p&gt;
@@ -148,9 +148,9 @@ The question we actually wanted to answer was a different one: do respondents wh
     
     <item>
       <title>measurement and nonresponse error in panel surveys</title>
-      <link>https://thomvolker2.github.io/post/measurement-and-nonresponse-error-in/</link>
+      <link>https://thomvolker.github.io/try_out/post/measurement-and-nonresponse-error-in/</link>
       <pubDate>Thu, 04 Jul 2013 11:57:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/post/measurement-and-nonresponse-error-in/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/measurement-and-nonresponse-error-in/</guid>
       <description>&lt;p&gt;I am spending time at the Institute for Social and Economic Research in Colchester, UK where I will work on a research project that investigates whether there is a tradeoff between nonresponse and measurement errors in panel surveys.&lt;/p&gt;
 &lt;p&gt;Survey methodologists have long believed that multiple survey errors have a common cause. For example, when a respondent is less motivated, this may result in nonresponse (in a panel study attrition), or in reduced cognitive effort during the interview, which in turn leads to measurement errors. Lower cognitive abilities and language problems might be other examples of common caused that lead to either nonresponse or measurement error. Understanding these common error sources is important to know whether our efforts to reduce 1 survey error source are not offset by an increase in another one. It follows from the idea that good survey design minimize 
 &lt;a href=&#34;http://poq.oxfordjournals.org/content/74/5.toc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Total Survey Error&lt;/a&gt;

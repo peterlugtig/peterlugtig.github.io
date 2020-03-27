@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kieruj | Peter Lugtig</title>
-    <link>https://thomvolker2.github.io/authors/kieruj/</link>
-      <atom:link href="https://thomvolker2.github.io/authors/kieruj/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thomvolker.github.io/try_out/authors/kieruj/</link>
+      <atom:link href="https://thomvolker.github.io/try_out/authors/kieruj/index.xml" rel="self" type="application/rss+xml" />
     <description>Kieruj</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Kieruj</title>
-      <link>https://thomvolker2.github.io/authors/kieruj/</link>
+      <link>https://thomvolker.github.io/try_out/authors/kieruj/</link>
     </image>
     
     <item>
       <title>Can survey item characteristics relevant to mode-specific measurement error be coded reliably</title>
-      <link>https://thomvolker2.github.io/publication/2019_bais_can_survey_item_characteristics/</link>
+      <link>https://thomvolker.github.io/try_out/publication/2019_bais_can_survey_item_characteristics/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/publication/2019_bais_can_survey_item_characteristics/</guid>
+      <guid>https://thomvolker.github.io/try_out/publication/2019_bais_can_survey_item_characteristics/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sampling | Peter Lugtig</title>
-    <link>https://thomvolker2.github.io/tags/sampling/</link>
-      <atom:link href="https://thomvolker2.github.io/tags/sampling/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thomvolker.github.io/try_out/tags/sampling/</link>
+      <atom:link href="https://thomvolker.github.io/try_out/tags/sampling/index.xml" rel="self" type="application/rss+xml" />
     <description>sampling</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 24 Jan 2011 11:05:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>sampling</title>
-      <link>https://thomvolker2.github.io/tags/sampling/</link>
+      <link>https://thomvolker.github.io/try_out/tags/sampling/</link>
     </image>
     
     <item>
       <title>how to do an exit-poll</title>
-      <link>https://thomvolker2.github.io/post/how-to-do-exit-poll/</link>
+      <link>https://thomvolker.github.io/try_out/post/how-to-do-exit-poll/</link>
       <pubDate>Mon, 24 Jan 2011 11:05:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/post/how-to-do-exit-poll/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/how-to-do-exit-poll/</guid>
       <description>&lt;p&gt;There are several ways to do an exit poll, but they all come down to asking people what they voted, right after they went into the voting booth. The first succesfull modern exit poll was conducted in 
 &lt;a href=&#34;http://www.buzzle.com/articles/history-of-exit-polls.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1967 to predict the governor&#39;s election of Kentucky&lt;/a&gt;
 .&lt;/p&gt;

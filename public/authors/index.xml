@@ -2,381 +2,381 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Peter Lugtig</title>
-    <link>https://thomvolker2.github.io/authors/</link>
-      <atom:link href="https://thomvolker2.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thomvolker.github.io/try_out/authors/</link>
+      <atom:link href="https://thomvolker.github.io/try_out/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
-      <link>https://thomvolker2.github.io/authors/</link>
+      <link>https://thomvolker.github.io/try_out/authors/</link>
     </image>
     
     <item>
       <title>and Schouten</title>
-      <link>https://thomvolker2.github.io/authors/and-schouten/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-schouten/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-schouten/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-schouten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J.G.</title>
-      <link>https://thomvolker2.github.io/authors/j.g./</link>
+      <link>https://thomvolker.github.io/try_out/authors/j.g./</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/j.g./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/j.g./</guid>
       <description></description>
     </item>
     
     <item>
       <title>L.M.S.</title>
-      <link>https://thomvolker2.github.io/authors/l.m.s./</link>
+      <link>https://thomvolker.github.io/try_out/authors/l.m.s./</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/l.m.s./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/l.m.s./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lugtig</title>
-      <link>https://thomvolker2.github.io/authors/lugtig/</link>
+      <link>https://thomvolker.github.io/try_out/authors/lugtig/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/lugtig/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/lugtig/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P.</title>
-      <link>https://thomvolker2.github.io/authors/p./</link>
+      <link>https://thomvolker.github.io/try_out/authors/p./</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/p./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/p./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smeets</title>
-      <link>https://thomvolker2.github.io/authors/smeets/</link>
+      <link>https://thomvolker.github.io/try_out/authors/smeets/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/smeets/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/smeets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A.</title>
-      <link>https://thomvolker2.github.io/authors/a./</link>
+      <link>https://thomvolker.github.io/try_out/authors/a./</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://thomvolker2.github.io/authors/a./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/a./</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Ruiter</title>
-      <link>https://thomvolker2.github.io/authors/and-ruiter/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-ruiter/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-ruiter/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-ruiter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bernasco</title>
-      <link>https://thomvolker2.github.io/authors/bernasco/</link>
+      <link>https://thomvolker.github.io/try_out/authors/bernasco/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://thomvolker2.github.io/authors/bernasco/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/bernasco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elevelt</title>
-      <link>https://thomvolker2.github.io/authors/elevelt/</link>
+      <link>https://thomvolker.github.io/try_out/authors/elevelt/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://thomvolker2.github.io/authors/elevelt/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/elevelt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. de</title>
-      <link>https://thomvolker2.github.io/authors/s.-de/</link>
+      <link>https://thomvolker.github.io/try_out/authors/s.-de/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://thomvolker2.github.io/authors/s.-de/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/s.-de/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toepoel</title>
-      <link>https://thomvolker2.github.io/authors/toepoel/</link>
+      <link>https://thomvolker.github.io/try_out/authors/toepoel/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://thomvolker2.github.io/authors/toepoel/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/toepoel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>V.</title>
-      <link>https://thomvolker2.github.io/authors/v./</link>
+      <link>https://thomvolker.github.io/try_out/authors/v./</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://thomvolker2.github.io/authors/v./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/v./</guid>
       <description></description>
     </item>
     
     <item>
       <title>W.</title>
-      <link>https://thomvolker2.github.io/authors/w./</link>
+      <link>https://thomvolker.github.io/try_out/authors/w./</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://thomvolker2.github.io/authors/w./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/w./</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Klein Kranenburg</title>
-      <link>https://thomvolker2.github.io/authors/and-klein-kranenburg/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-klein-kranenburg/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-klein-kranenburg/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-klein-kranenburg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Haan</title>
-      <link>https://thomvolker2.github.io/authors/haan/</link>
+      <link>https://thomvolker.github.io/try_out/authors/haan/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/haan/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/haan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L.</title>
-      <link>https://thomvolker2.github.io/authors/l./</link>
+      <link>https://thomvolker.github.io/try_out/authors/l./</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/l./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/l./</guid>
       <description></description>
     </item>
     
     <item>
       <title>M.</title>
-      <link>https://thomvolker2.github.io/authors/m./</link>
+      <link>https://thomvolker.github.io/try_out/authors/m./</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/m./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/m./</guid>
       <description></description>
     </item>
     
     <item>
       <title>R.</title>
-      <link>https://thomvolker2.github.io/authors/r./</link>
+      <link>https://thomvolker.github.io/try_out/authors/r./</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/r./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/r./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zandvliet</title>
-      <link>https://thomvolker2.github.io/authors/zandvliet/</link>
+      <link>https://thomvolker.github.io/try_out/authors/zandvliet/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/zandvliet/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/zandvliet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Teunissen</title>
-      <link>https://thomvolker2.github.io/authors/and-teunissen/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-teunissen/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-teunissen/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-teunissen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M.J.</title>
-      <link>https://thomvolker2.github.io/authors/m.j./</link>
+      <link>https://thomvolker.github.io/try_out/authors/m.j./</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/m.j./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/m.j./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Olden</title>
-      <link>https://thomvolker2.github.io/authors/olden/</link>
+      <link>https://thomvolker.github.io/try_out/authors/olden/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/olden/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/olden/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R.K.</title>
-      <link>https://thomvolker2.github.io/authors/r.k./</link>
+      <link>https://thomvolker.github.io/try_out/authors/r.k./</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/r.k./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/r.k./</guid>
       <description></description>
     </item>
     
     <item>
       <title>S.C.</title>
-      <link>https://thomvolker2.github.io/authors/s.c./</link>
+      <link>https://thomvolker.github.io/try_out/authors/s.c./</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/s.c./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/s.c./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stellato</title>
-      <link>https://thomvolker2.github.io/authors/stellato/</link>
+      <link>https://thomvolker.github.io/try_out/authors/stellato/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/stellato/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/stellato/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T.</title>
-      <link>https://thomvolker2.github.io/authors/t./</link>
+      <link>https://thomvolker.github.io/try_out/authors/t./</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/t./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/t./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uitdehaag</title>
-      <link>https://thomvolker2.github.io/authors/uitdehaag/</link>
+      <link>https://thomvolker.github.io/try_out/authors/uitdehaag/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/uitdehaag/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/uitdehaag/</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Vis</title>
-      <link>https://thomvolker2.github.io/authors/and-vis/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-vis/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-vis/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-vis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arends-Toth</title>
-      <link>https://thomvolker2.github.io/authors/arends-toth/</link>
+      <link>https://thomvolker.github.io/try_out/authors/arends-toth/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/arends-toth/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/arends-toth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bais</title>
-      <link>https://thomvolker2.github.io/authors/bais/</link>
+      <link>https://thomvolker.github.io/try_out/authors/bais/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/bais/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/bais/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C.</title>
-      <link>https://thomvolker2.github.io/authors/c./</link>
+      <link>https://thomvolker.github.io/try_out/authors/c./</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/c./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/c./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Douhou</title>
-      <link>https://thomvolker2.github.io/authors/douhou/</link>
+      <link>https://thomvolker.github.io/try_out/authors/douhou/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/douhou/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/douhou/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F.</title>
-      <link>https://thomvolker2.github.io/authors/f./</link>
+      <link>https://thomvolker.github.io/try_out/authors/f./</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/f./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/f./</guid>
       <description></description>
     </item>
     
     <item>
       <title>J.</title>
-      <link>https://thomvolker2.github.io/authors/j./</link>
+      <link>https://thomvolker.github.io/try_out/authors/j./</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/j./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/j./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kieruj</title>
-      <link>https://thomvolker2.github.io/authors/kieruj/</link>
+      <link>https://thomvolker.github.io/try_out/authors/kieruj/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/kieruj/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/kieruj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Morren</title>
-      <link>https://thomvolker2.github.io/authors/morren/</link>
+      <link>https://thomvolker.github.io/try_out/authors/morren/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/morren/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/morren/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N.</title>
-      <link>https://thomvolker2.github.io/authors/n./</link>
+      <link>https://thomvolker.github.io/try_out/authors/n./</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/n./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/n./</guid>
       <description></description>
     </item>
     
     <item>
       <title>S.</title>
-      <link>https://thomvolker2.github.io/authors/s./</link>
+      <link>https://thomvolker.github.io/try_out/authors/s./</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/s./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/s./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schouten</title>
-      <link>https://thomvolker2.github.io/authors/schouten/</link>
+      <link>https://thomvolker.github.io/try_out/authors/schouten/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/schouten/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/schouten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Lugtig</title>
-      <link>https://thomvolker2.github.io/authors/and-lugtig/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-lugtig/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-lugtig/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-lugtig/</guid>
       <description></description>
     </item>
     
     <item>
       <title>admin</title>
-      <link>https://thomvolker2.github.io/authors/admin/</link>
+      <link>https://thomvolker.github.io/try_out/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://thomvolker2.github.io/authors/admin/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/admin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Vink</title>
-      <link>https://thomvolker2.github.io/authors/and-vink/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-vink/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-vink/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-vink/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G.</title>
-      <link>https://thomvolker2.github.io/authors/g./</link>
+      <link>https://thomvolker.github.io/try_out/authors/g./</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/g./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/g./</guid>
       <description></description>
     </item>
     
     <item>
       <title>R.M.</title>
-      <link>https://thomvolker2.github.io/authors/r.m./</link>
+      <link>https://thomvolker.github.io/try_out/authors/r.m./</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/r.m./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/r.m./</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://thomvolker2.github.io/authors/peterlugtig/</link>
+      <link>https://thomvolker.github.io/try_out/authors/peterlugtig/</link>
       <pubDate>Tue, 26 Jun 2018 11:16:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/authors/peterlugtig/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/peterlugtig/</guid>
       <description>&lt;p&gt;Peter Lugtig is an associate professor at the deparment of Methodology and Statistics at Utrecht University, where he specializes in survey methodology, which includes inferences using a mix of survey data and big data and the modelling of survey errors, and the use of sensor technology in smartphones.&lt;/p&gt;
 &lt;p&gt;Next to his research, he has a passion for teaching and thus is involved in several Bachelor&#39;s, Master&#39;s and post-graduate courses about statistics and survey methodology.&lt;/p&gt;
 </description>
@@ -384,761 +384,761 @@
     
     <item>
       <title>B.</title>
-      <link>https://thomvolker2.github.io/authors/b./</link>
+      <link>https://thomvolker.github.io/try_out/authors/b./</link>
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/b./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/b./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lynn</title>
-      <link>https://thomvolker2.github.io/authors/lynn/</link>
+      <link>https://thomvolker.github.io/try_out/authors/lynn/</link>
       <pubDate>Mon, 06 Feb 2017 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/lynn/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/lynn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Van Aken</title>
-      <link>https://thomvolker2.github.io/authors/and-van-aken/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-van-aken/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-van-aken/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-van-aken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Defoe</title>
-      <link>https://thomvolker2.github.io/authors/defoe/</link>
+      <link>https://thomvolker.github.io/try_out/authors/defoe/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/defoe/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/defoe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dubas</title>
-      <link>https://thomvolker2.github.io/authors/dubas/</link>
+      <link>https://thomvolker.github.io/try_out/authors/dubas/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/dubas/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/dubas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I.N.</title>
-      <link>https://thomvolker2.github.io/authors/i.n./</link>
+      <link>https://thomvolker.github.io/try_out/authors/i.n./</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/i.n./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/i.n./</guid>
       <description></description>
     </item>
     
     <item>
       <title>J.S.</title>
-      <link>https://thomvolker2.github.io/authors/j.s./</link>
+      <link>https://thomvolker.github.io/try_out/authors/j.s./</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/j.s./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/j.s./</guid>
       <description></description>
     </item>
     
     <item>
       <title>M.A.G.</title>
-      <link>https://thomvolker2.github.io/authors/m.a.g./</link>
+      <link>https://thomvolker.github.io/try_out/authors/m.a.g./</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/m.a.g./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/m.a.g./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Somerville</title>
-      <link>https://thomvolker2.github.io/authors/somerville/</link>
+      <link>https://thomvolker.github.io/try_out/authors/somerville/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/somerville/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/somerville/</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Vollebergh</title>
-      <link>https://thomvolker2.github.io/authors/and-vollebergh/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-vollebergh/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-vollebergh/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-vollebergh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C.H.C.J. van</title>
-      <link>https://thomvolker2.github.io/authors/c.h.c.j.-van/</link>
+      <link>https://thomvolker.github.io/try_out/authors/c.h.c.j.-van/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/c.h.c.j.-van/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/c.h.c.j.-van/</guid>
       <description></description>
     </item>
     
     <item>
       <title>de Graaf</title>
-      <link>https://thomvolker2.github.io/authors/de-graaf/</link>
+      <link>https://thomvolker.github.io/try_out/authors/de-graaf/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/de-graaf/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/de-graaf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. van</title>
-      <link>https://thomvolker2.github.io/authors/j.-van/</link>
+      <link>https://thomvolker.github.io/try_out/authors/j.-van/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/j.-van/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/j.-van/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nijnatten</title>
-      <link>https://thomvolker2.github.io/authors/nijnatten/</link>
+      <link>https://thomvolker.github.io/try_out/authors/nijnatten/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/nijnatten/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/nijnatten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P</title>
-      <link>https://thomvolker2.github.io/authors/p/</link>
+      <link>https://thomvolker.github.io/try_out/authors/p/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/p/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ten Have</title>
-      <link>https://thomvolker2.github.io/authors/ten-have/</link>
+      <link>https://thomvolker.github.io/try_out/authors/ten-have/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/ten-have/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/ten-have/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Van Ditzhuijzen</title>
-      <link>https://thomvolker2.github.io/authors/van-ditzhuijzen/</link>
+      <link>https://thomvolker.github.io/try_out/authors/van-ditzhuijzen/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/van-ditzhuijzen/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/van-ditzhuijzen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>W.A.M.</title>
-      <link>https://thomvolker2.github.io/authors/w.a.m./</link>
+      <link>https://thomvolker.github.io/try_out/authors/w.a.m./</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/w.a.m./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/w.a.m./</guid>
       <description></description>
     </item>
     
     <item>
       <title>J.L.</title>
-      <link>https://thomvolker2.github.io/authors/j.l./</link>
+      <link>https://thomvolker.github.io/try_out/authors/j.l./</link>
       <pubDate>Wed, 05 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/j.l./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/j.l./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Padilla</title>
-      <link>https://thomvolker2.github.io/authors/padilla/</link>
+      <link>https://thomvolker.github.io/try_out/authors/padilla/</link>
       <pubDate>Wed, 05 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/padilla/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/padilla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Amin</title>
-      <link>https://thomvolker2.github.io/authors/and-amin/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-amin/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-amin/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-amin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>De Leeuw</title>
-      <link>https://thomvolker2.github.io/authors/de-leeuw/</link>
+      <link>https://thomvolker.github.io/try_out/authors/de-leeuw/</link>
       <pubDate>Fri, 18 Dec 2015 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/de-leeuw/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/de-leeuw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E.D.</title>
-      <link>https://thomvolker2.github.io/authors/e.d./</link>
+      <link>https://thomvolker.github.io/try_out/authors/e.d./</link>
       <pubDate>Fri, 18 Dec 2015 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/e.d./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/e.d./</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Balluerka</title>
-      <link>https://thomvolker2.github.io/authors/and-balluerka/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-balluerka/</link>
       <pubDate>Tue, 29 Sep 2015 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-balluerka/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-balluerka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Valkenburg</title>
-      <link>https://thomvolker2.github.io/authors/and-valkenburg/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-valkenburg/</link>
       <pubDate>Fri, 11 Sep 2015 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-valkenburg/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-valkenburg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fikkers</title>
-      <link>https://thomvolker2.github.io/authors/fikkers/</link>
+      <link>https://thomvolker.github.io/try_out/authors/fikkers/</link>
       <pubDate>Fri, 11 Sep 2015 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/fikkers/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/fikkers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J.T.</title>
-      <link>https://thomvolker2.github.io/authors/j.t./</link>
+      <link>https://thomvolker.github.io/try_out/authors/j.t./</link>
       <pubDate>Fri, 11 Sep 2015 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/j.t./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/j.t./</guid>
       <description></description>
     </item>
     
     <item>
       <title>K.M.</title>
-      <link>https://thomvolker2.github.io/authors/k.m./</link>
+      <link>https://thomvolker.github.io/try_out/authors/k.m./</link>
       <pubDate>Fri, 11 Sep 2015 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/k.m./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/k.m./</guid>
       <description></description>
     </item>
     
     <item>
       <title>P.M.</title>
-      <link>https://thomvolker2.github.io/authors/p.m./</link>
+      <link>https://thomvolker.github.io/try_out/authors/p.m./</link>
       <pubDate>Fri, 11 Sep 2015 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/p.m./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/p.m./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Piotrowski</title>
-      <link>https://thomvolker2.github.io/authors/piotrowski/</link>
+      <link>https://thomvolker.github.io/try_out/authors/piotrowski/</link>
       <pubDate>Fri, 11 Sep 2015 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/piotrowski/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/piotrowski/</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Boevé</title>
-      <link>https://thomvolker2.github.io/authors/and-boeve/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-boeve/</link>
       <pubDate>Sat, 05 Sep 2015 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-boeve/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-boeve/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glasner</title>
-      <link>https://thomvolker2.github.io/authors/glasner/</link>
+      <link>https://thomvolker.github.io/try_out/authors/glasner/</link>
       <pubDate>Sat, 05 Sep 2015 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/glasner/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/glasner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Toepoel</title>
-      <link>https://thomvolker2.github.io/authors/and-toepoel/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-toepoel/</link>
       <pubDate>Thu, 26 Feb 2015 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-toepoel/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-toepoel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Watson</title>
-      <link>https://thomvolker2.github.io/authors/and-watson/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-watson/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-watson/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-watson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cernat</title>
-      <link>https://thomvolker2.github.io/authors/cernat/</link>
+      <link>https://thomvolker.github.io/try_out/authors/cernat/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/cernat/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/cernat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S.C.N.</title>
-      <link>https://thomvolker2.github.io/authors/s.c.n./</link>
+      <link>https://thomvolker.github.io/try_out/authors/s.c.n./</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/s.c.n./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/s.c.n./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uhrig</title>
-      <link>https://thomvolker2.github.io/authors/uhrig/</link>
+      <link>https://thomvolker.github.io/try_out/authors/uhrig/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/uhrig/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/uhrig/</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Bruin</title>
-      <link>https://thomvolker2.github.io/authors/and-bruin/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-bruin/</link>
       <pubDate>Thu, 12 Jun 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-bruin/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-bruin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. de</title>
-      <link>https://thomvolker2.github.io/authors/m.-de/</link>
+      <link>https://thomvolker.github.io/try_out/authors/m.-de/</link>
       <pubDate>Thu, 12 Jun 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/m.-de/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/m.-de/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mulder</title>
-      <link>https://thomvolker2.github.io/authors/mulder/</link>
+      <link>https://thomvolker.github.io/try_out/authors/mulder/</link>
       <pubDate>Thu, 12 Jun 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/mulder/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/mulder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poortvliet</title>
-      <link>https://thomvolker2.github.io/authors/poortvliet/</link>
+      <link>https://thomvolker.github.io/try_out/authors/poortvliet/</link>
       <pubDate>Thu, 12 Jun 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/poortvliet/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/poortvliet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Scherpenzeel</title>
-      <link>https://thomvolker2.github.io/authors/and-scherpenzeel/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-scherpenzeel/</link>
       <pubDate>Fri, 11 Apr 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-scherpenzeel/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-scherpenzeel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Das</title>
-      <link>https://thomvolker2.github.io/authors/das/</link>
+      <link>https://thomvolker.github.io/try_out/authors/das/</link>
       <pubDate>Fri, 11 Apr 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/das/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/das/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I.M.</title>
-      <link>https://thomvolker2.github.io/authors/i.m./</link>
+      <link>https://thomvolker.github.io/try_out/authors/i.m./</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/i.m./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/i.m./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Koning</title>
-      <link>https://thomvolker2.github.io/authors/koning/</link>
+      <link>https://thomvolker.github.io/try_out/authors/koning/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/koning/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/koning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A.M.</title>
-      <link>https://thomvolker2.github.io/authors/a.m./</link>
+      <link>https://thomvolker.github.io/try_out/authors/a.m./</link>
       <pubDate>Wed, 05 Mar 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/a.m./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/a.m./</guid>
       <description></description>
     </item>
     
     <item>
       <title>C.S.</title>
-      <link>https://thomvolker2.github.io/authors/c.s./</link>
+      <link>https://thomvolker.github.io/try_out/authors/c.s./</link>
       <pubDate>Wed, 05 Mar 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/c.s./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/c.s./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eijnden</title>
-      <link>https://thomvolker2.github.io/authors/eijnden/</link>
+      <link>https://thomvolker.github.io/try_out/authors/eijnden/</link>
       <pubDate>Wed, 05 Mar 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/eijnden/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/eijnden/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Engels</title>
-      <link>https://thomvolker2.github.io/authors/engels/</link>
+      <link>https://thomvolker.github.io/try_out/authors/engels/</link>
       <pubDate>Wed, 05 Mar 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/engels/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/engels/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R.C.M.E.</title>
-      <link>https://thomvolker2.github.io/authors/r.c.m.e./</link>
+      <link>https://thomvolker.github.io/try_out/authors/r.c.m.e./</link>
       <pubDate>Wed, 05 Mar 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/r.c.m.e./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/r.c.m.e./</guid>
       <description></description>
     </item>
     
     <item>
       <title>R.J.J.M. van den</title>
-      <link>https://thomvolker2.github.io/authors/r.j.j.m.-van-den/</link>
+      <link>https://thomvolker.github.io/try_out/authors/r.j.j.m.-van-den/</link>
       <pubDate>Wed, 05 Mar 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/r.j.j.m.-van-den/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/r.j.j.m.-van-den/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scherphof</title>
-      <link>https://thomvolker2.github.io/authors/scherphof/</link>
+      <link>https://thomvolker.github.io/try_out/authors/scherphof/</link>
       <pubDate>Wed, 05 Mar 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/scherphof/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/scherphof/</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Jäckle</title>
-      <link>https://thomvolker2.github.io/authors/and-jackle/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-jackle/</link>
       <pubDate>Fri, 14 Feb 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-jackle/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-jackle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A.G.J. van de</title>
-      <link>https://thomvolker2.github.io/authors/a.g.j.-van-de/</link>
+      <link>https://thomvolker.github.io/try_out/authors/a.g.j.-van-de/</link>
       <pubDate>Wed, 23 Oct 2013 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/a.g.j.-van-de/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/a.g.j.-van-de/</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Muthen</title>
-      <link>https://thomvolker2.github.io/authors/and-muthen/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-muthen/</link>
       <pubDate>Wed, 23 Oct 2013 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-muthen/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-muthen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hox</title>
-      <link>https://thomvolker2.github.io/authors/hox/</link>
+      <link>https://thomvolker.github.io/try_out/authors/hox/</link>
       <pubDate>Wed, 23 Oct 2013 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/hox/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/hox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kluytmans</title>
-      <link>https://thomvolker2.github.io/authors/kluytmans/</link>
+      <link>https://thomvolker.github.io/try_out/authors/kluytmans/</link>
       <pubDate>Wed, 23 Oct 2013 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/kluytmans/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/kluytmans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schoot</title>
-      <link>https://thomvolker2.github.io/authors/schoot/</link>
+      <link>https://thomvolker.github.io/try_out/authors/schoot/</link>
       <pubDate>Wed, 23 Oct 2013 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/schoot/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/schoot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tummers</title>
-      <link>https://thomvolker2.github.io/authors/tummers/</link>
+      <link>https://thomvolker.github.io/try_out/authors/tummers/</link>
       <pubDate>Wed, 23 Oct 2013 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/tummers/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/tummers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Lensvelt-Mulders</title>
-      <link>https://thomvolker2.github.io/authors/and-lensvelt-mulders/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-lensvelt-mulders/</link>
       <pubDate>Wed, 24 Jul 2013 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-lensvelt-mulders/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-lensvelt-mulders/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G.J.L.M.</title>
-      <link>https://thomvolker2.github.io/authors/g.j.l.m./</link>
+      <link>https://thomvolker.github.io/try_out/authors/g.j.l.m./</link>
       <pubDate>Wed, 24 Jul 2013 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/g.j.l.m./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/g.j.l.m./</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Overbeek</title>
-      <link>https://thomvolker2.github.io/authors/and-overbeek/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-overbeek/</link>
       <pubDate>Thu, 03 Jan 2013 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-overbeek/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-overbeek/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Doornwaard</title>
-      <link>https://thomvolker2.github.io/authors/doornwaard/</link>
+      <link>https://thomvolker.github.io/try_out/authors/doornwaard/</link>
       <pubDate>Thu, 03 Jan 2013 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/doornwaard/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/doornwaard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R.J.J.M.</title>
-      <link>https://thomvolker2.github.io/authors/r.j.j.m./</link>
+      <link>https://thomvolker.github.io/try_out/authors/r.j.j.m./</link>
       <pubDate>Thu, 03 Jan 2013 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/r.j.j.m./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/r.j.j.m./</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. M.</title>
-      <link>https://thomvolker2.github.io/authors/s.-m./</link>
+      <link>https://thomvolker.github.io/try_out/authors/s.-m./</link>
       <pubDate>Thu, 03 Jan 2013 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/s.-m./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/s.-m./</guid>
       <description></description>
     </item>
     
     <item>
       <title>T.F.M.</title>
-      <link>https://thomvolker2.github.io/authors/t.f.m./</link>
+      <link>https://thomvolker.github.io/try_out/authors/t.f.m./</link>
       <pubDate>Thu, 03 Jan 2013 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/t.f.m./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/t.f.m./</guid>
       <description></description>
     </item>
     
     <item>
       <title>ter Bogt</title>
-      <link>https://thomvolker2.github.io/authors/ter-bogt/</link>
+      <link>https://thomvolker.github.io/try_out/authors/ter-bogt/</link>
       <pubDate>Thu, 03 Jan 2013 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/ter-bogt/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/ter-bogt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>van den Eijnden</title>
-      <link>https://thomvolker2.github.io/authors/van-den-eijnden/</link>
+      <link>https://thomvolker.github.io/try_out/authors/van-den-eijnden/</link>
       <pubDate>Thu, 03 Jan 2013 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/van-den-eijnden/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/van-den-eijnden/</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Hox</title>
-      <link>https://thomvolker2.github.io/authors/and-hox/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-hox/</link>
       <pubDate>Tue, 15 May 2012 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-hox/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-hox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A.F.</title>
-      <link>https://thomvolker2.github.io/authors/a.f./</link>
+      <link>https://thomvolker.github.io/try_out/authors/a.f./</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/a.f./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/a.f./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Creemers</title>
-      <link>https://thomvolker2.github.io/authors/creemers/</link>
+      <link>https://thomvolker.github.io/try_out/authors/creemers/</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/creemers/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/creemers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>De Winter</title>
-      <link>https://thomvolker2.github.io/authors/de-winter/</link>
+      <link>https://thomvolker.github.io/try_out/authors/de-winter/</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/de-winter/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/de-winter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H.E.</title>
-      <link>https://thomvolker2.github.io/authors/h.e./</link>
+      <link>https://thomvolker.github.io/try_out/authors/h.e./</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/h.e./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/h.e./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Harakeh</title>
-      <link>https://thomvolker2.github.io/authors/harakeh/</link>
+      <link>https://thomvolker.github.io/try_out/authors/harakeh/</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/harakeh/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/harakeh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Huizink</title>
-      <link>https://thomvolker2.github.io/authors/huizink/</link>
+      <link>https://thomvolker.github.io/try_out/authors/huizink/</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/huizink/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/huizink/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K.</title>
-      <link>https://thomvolker2.github.io/authors/k./</link>
+      <link>https://thomvolker.github.io/try_out/authors/k./</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/k./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/k./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monshouwer</title>
-      <link>https://thomvolker2.github.io/authors/monshouwer/</link>
+      <link>https://thomvolker.github.io/try_out/authors/monshouwer/</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/monshouwer/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/monshouwer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ormel</title>
-      <link>https://thomvolker2.github.io/authors/ormel/</link>
+      <link>https://thomvolker.github.io/try_out/authors/ormel/</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/ormel/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/ormel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reijneveld</title>
-      <link>https://thomvolker2.github.io/authors/reijneveld/</link>
+      <link>https://thomvolker.github.io/try_out/authors/reijneveld/</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/reijneveld/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/reijneveld/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S.A.</title>
-      <link>https://thomvolker2.github.io/authors/s.a./</link>
+      <link>https://thomvolker.github.io/try_out/authors/s.a./</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/s.a./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/s.a./</guid>
       <description></description>
     </item>
     
     <item>
       <title>van Oort</title>
-      <link>https://thomvolker2.github.io/authors/van-oort/</link>
+      <link>https://thomvolker.github.io/try_out/authors/van-oort/</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/van-oort/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/van-oort/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Z.</title>
-      <link>https://thomvolker2.github.io/authors/z./</link>
+      <link>https://thomvolker.github.io/try_out/authors/z./</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/z./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/z./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lensvelt-Mulders</title>
-      <link>https://thomvolker2.github.io/authors/lensvelt-mulders/</link>
+      <link>https://thomvolker.github.io/try_out/authors/lensvelt-mulders/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/lensvelt-mulders/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/lensvelt-mulders/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Frerichs and Greven</title>
-      <link>https://thomvolker2.github.io/authors/r.-frerichs-and-greven/</link>
+      <link>https://thomvolker.github.io/try_out/authors/r.-frerichs-and-greven/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/r.-frerichs-and-greven/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/r.-frerichs-and-greven/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boeije</title>
-      <link>https://thomvolker2.github.io/authors/boeije/</link>
+      <link>https://thomvolker.github.io/try_out/authors/boeije/</link>
       <pubDate>Fri, 05 Aug 2011 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/boeije/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/boeije/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H.R.</title>
-      <link>https://thomvolker2.github.io/authors/h.r./</link>
+      <link>https://thomvolker.github.io/try_out/authors/h.r./</link>
       <pubDate>Fri, 05 Aug 2011 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/h.r./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/h.r./</guid>
       <description></description>
     </item>
     
     <item>
       <title>and van Hooft</title>
-      <link>https://thomvolker2.github.io/authors/and-van-hooft/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-van-hooft/</link>
       <pubDate>Sat, 12 Feb 2011 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-van-hooft/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-van-hooft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bakker</title>
-      <link>https://thomvolker2.github.io/authors/bakker/</link>
+      <link>https://thomvolker.github.io/try_out/authors/bakker/</link>
       <pubDate>Sat, 12 Feb 2011 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/bakker/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/bakker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D.T.D</title>
-      <link>https://thomvolker2.github.io/authors/d.t.d/</link>
+      <link>https://thomvolker.github.io/try_out/authors/d.t.d/</link>
       <pubDate>Sat, 12 Feb 2011 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/d.t.d/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/d.t.d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>de Boer</title>
-      <link>https://thomvolker2.github.io/authors/de-boer/</link>
+      <link>https://thomvolker.github.io/try_out/authors/de-boer/</link>
       <pubDate>Sat, 12 Feb 2011 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/de-boer/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/de-boer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>De Ridder</title>
-      <link>https://thomvolker2.github.io/authors/de-ridder/</link>
+      <link>https://thomvolker.github.io/try_out/authors/de-ridder/</link>
       <pubDate>Sat, 12 Feb 2011 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/de-ridder/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/de-ridder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E.A.J.</title>
-      <link>https://thomvolker2.github.io/authors/e.a.j./</link>
+      <link>https://thomvolker.github.io/try_out/authors/e.a.j./</link>
       <pubDate>Sat, 12 Feb 2011 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/e.a.j./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/e.a.j./</guid>
       <description></description>
     </item>
     
     <item>
       <title>and Hubregtse</title>
-      <link>https://thomvolker2.github.io/authors/and-hubregtse/</link>
+      <link>https://thomvolker.github.io/try_out/authors/and-hubregtse/</link>
       <pubDate>Sat, 01 Aug 2009 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/and-hubregtse/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/and-hubregtse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J.J.</title>
-      <link>https://thomvolker2.github.io/authors/j.j./</link>
+      <link>https://thomvolker.github.io/try_out/authors/j.j./</link>
       <pubDate>Sat, 28 Feb 2009 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/authors/j.j./</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/j.j./</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://thomvolker2.github.io/authors/peter_detailed/</link>
+      <link>https://thomvolker.github.io/try_out/authors/peter_detailed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://thomvolker2.github.io/authors/peter_detailed/</guid>
+      <guid>https://thomvolker.github.io/try_out/authors/peter_detailed/</guid>
       <description>&lt;p&gt;&lt;br&gt;
 Welcome! I (Peter Lugtig) am a survey methodologist working at the department of methods and statistics of Utrecht University. I teach and do research on the methodology of doing longitudinal research in the social sciences. You can find my full CV by clicking on the link at the left.&lt;/p&gt;
 &lt;p&gt;This personal webpage is about my research. I have the tendency to get distracted into too many side-projects (all fun and important), but my main research interests are:&lt;/p&gt;

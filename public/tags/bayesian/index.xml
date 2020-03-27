@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bayesian | Peter Lugtig</title>
-    <link>https://thomvolker2.github.io/tags/bayesian/</link>
-      <atom:link href="https://thomvolker2.github.io/tags/bayesian/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thomvolker.github.io/try_out/tags/bayesian/</link>
+      <atom:link href="https://thomvolker.github.io/try_out/tags/bayesian/index.xml" rel="self" type="application/rss+xml" />
     <description>Bayesian</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 08 Oct 2012 14:26:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Bayesian</title>
-      <link>https://thomvolker2.github.io/tags/bayesian/</link>
+      <link>https://thomvolker.github.io/try_out/tags/bayesian/</link>
     </image>
     
     <item>
       <title>Bayesian Structural Equation Modeling</title>
-      <link>https://thomvolker2.github.io/post/bayesian-structural-equation-modeling/</link>
+      <link>https://thomvolker.github.io/try_out/post/bayesian-structural-equation-modeling/</link>
       <pubDate>Mon, 08 Oct 2012 14:26:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/post/bayesian-structural-equation-modeling/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/bayesian-structural-equation-modeling/</guid>
       <description>&lt;p&gt;In August, I organised a three-week summerschool with my colleagues in Utrecht on new features in MPLUS 7, the software we use to build Structural Equation Models. Video&#39;s of all lectures can be found 
 &lt;a href=&#34;http://mplus.fss.uu.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;
 &lt;/p&gt;

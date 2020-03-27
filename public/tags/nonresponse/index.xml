@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nonresponse | Peter Lugtig</title>
-    <link>https://thomvolker2.github.io/tags/nonresponse/</link>
-      <atom:link href="https://thomvolker2.github.io/tags/nonresponse/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thomvolker.github.io/try_out/tags/nonresponse/</link>
+      <atom:link href="https://thomvolker.github.io/try_out/tags/nonresponse/index.xml" rel="self" type="application/rss+xml" />
     <description>nonresponse</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 27 Apr 2017 19:52:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>nonresponse</title>
-      <link>https://thomvolker2.github.io/tags/nonresponse/</link>
+      <link>https://thomvolker.github.io/try_out/tags/nonresponse/</link>
     </image>
     
     <item>
       <title>Mobile-only web survey respondents</title>
-      <link>https://thomvolker2.github.io/post/mobile-only-web-survey-respondents/</link>
+      <link>https://thomvolker.github.io/try_out/post/mobile-only-web-survey-respondents/</link>
       <pubDate>Thu, 27 Apr 2017 19:52:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/post/mobile-only-web-survey-respondents/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/mobile-only-web-survey-respondents/</guid>
       <description>&lt;p&gt;My breaks between posts are getting longer and longer. Sorry my dear readers. Today, I am writing about research done over a year ago that I did with 
 &lt;a href=&#34;https://www.uu.nl/staff/VToepoel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vera Toepoel&lt;/a&gt;
  and 
@@ -45,9 +45,9 @@ A further 1% uses all devices, but we ignore these respondents here.&lt;/p&gt;
     
     <item>
       <title>Personality predicts the likelihood and process of attrition in a panel survey</title>
-      <link>https://thomvolker2.github.io/post/personality-predicts-likelihood-and/</link>
+      <link>https://thomvolker.github.io/try_out/post/personality-predicts-likelihood-and/</link>
       <pubDate>Fri, 07 Feb 2014 17:12:00 +0100</pubDate>
-      <guid>https://thomvolker2.github.io/post/personality-predicts-likelihood-and/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/personality-predicts-likelihood-and/</guid>
       <description>&lt;p&gt;Studies into the correlates of nonresponse often have to rely on socio-demographic variables to study whether respondents and nonrespondents in surveys differ. Often there is no other information available on sampling frames that researchers can use.&lt;/p&gt;
 &lt;p&gt;That is unfortunate, for two reasons. First, the  variables we are currently using to predict nonrespons, usually explain a very limited amount of variance of survey nonresponse. Therefore, these variables are also not effective correctors for nonresponse. So, socio-demographic variables are not that interesting to have as sampling frame data. See my earlier posts 
 &lt;a href=&#34;http://www.peterlugtig.com/2013/10/to-weight-or-to-impute-for-unit.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
@@ -79,9 +79,9 @@ A further 1% uses all devices, but we ignore these respondents here.&lt;/p&gt;
     
     <item>
       <title>The trouble with nonresponse studies</title>
-      <link>https://thomvolker2.github.io/post/trouble-of-nonresponse-studies/</link>
+      <link>https://thomvolker.github.io/try_out/post/trouble-of-nonresponse-studies/</link>
       <pubDate>Fri, 21 Oct 2011 14:01:00 +0200</pubDate>
-      <guid>https://thomvolker2.github.io/post/trouble-of-nonresponse-studies/</guid>
+      <guid>https://thomvolker.github.io/try_out/post/trouble-of-nonresponse-studies/</guid>
       <description>&lt;p&gt;Gerry Nicolaas (of Natcen) has just written a good review on the nonresponse workshop we both attended this year. See 
 &lt;a href=&#34;http://natcenblog.blogspot.com/2011/10/challenges-to-current-practice-of.html#comment-form&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://natcenblog.blogspot.com/2011/10/challenges-to-current-practice-of.html#comment-form&lt;/a&gt;
 &lt;br&gt;
