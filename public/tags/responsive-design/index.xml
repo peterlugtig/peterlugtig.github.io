@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>responsive design | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/tags/responsive-design/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/tags/responsive-design/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/tags/responsive-design/</link>
+      <atom:link href="https://peterlugtig.github.io/tags/responsive-design/index.xml" rel="self" type="application/rss+xml" />
     <description>responsive design</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Wed, 21 Jan 2015 15:21:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>responsive design</title>
-      <link>https://thomvolker.github.io/try_out/tags/responsive-design/</link>
+      <link>https://peterlugtig.github.io/tags/responsive-design/</link>
     </image>
     
     <item>
       <title>why panel surveys need to go &#39;adaptive&#39;</title>
-      <link>https://thomvolker.github.io/try_out/post/why-panel-surveys-need-to-go-adaptive/</link>
+      <link>https://peterlugtig.github.io/post/why-panel-surveys-need-to-go-adaptive/</link>
       <pubDate>Wed, 21 Jan 2015 15:21:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/why-panel-surveys-need-to-go-adaptive/</guid>
+      <guid>https://peterlugtig.github.io/post/why-panel-surveys-need-to-go-adaptive/</guid>
       <description>&lt;p&gt;Last week, I gave a talk at Statistics Netherlands (slides 
 &lt;a href=&#34;https://www.dropbox.com/s/ul9msor9d6f9ak7/Lugtig%20-%20panel%20dropout%20%28talk%20at%20CBS%20January%202015%29.ppt.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 ) about panel attrition. Initial and nonresponse and dropout from panel surveys have always been a problem. A famous study by Groves and Peytcheva (
 &lt;a href=&#34;http://poq.oxfordjournals.org/content/70/5/646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
-) showed that in cross-sectional studies, nonresponse rates and nonresponse bias are only weakly correlated. In panel surveys however, all the signs are there that dropout in a panel study is often related to change. Those respondents undergoing most change, are also most likely to drop out. This is probably partly because of respondents (e.g. a move of house could be a good reason to change other things as well, like survey participation), but it is also because of how surveys deal with such moves. Movers are much harder to contact (if we don&#39;t have accurate contact details anymore). Movers are often assigned to a different interviewer. This will all lead to an underestimate of the number of people who move house in panel studies. Moving house is associated with lots of other life events (change in household composition, change in work, income etc.). In short dropout is a serious problem in longitudinal studies.&lt;/p&gt;
+) showed that in cross-sectional studies, nonresponse rates and nonresponse bias are only weakly correlated. In panel surveys however, all the signs are there that dropout in a panel study is often related to change. Those respondents undergoing most change, are also most likely to drop out. This is probably partly because of respondents (e.g. a move of house could be a good reason to change other things as well, like survey participation), but it is also because of how surveys deal with such moves. Movers are much harder to contact (if we don&amp;rsquo;t have accurate contact details anymore). Movers are often assigned to a different interviewer. This will all lead to an underestimate of the number of people who move house in panel studies. Moving house is associated with lots of other life events (change in household composition, change in work, income etc.). In short dropout is a serious problem in longitudinal studies.&lt;/p&gt;
 &lt;p&gt;The figure below shows the cumulative response rates for some large-scale panel studies. The selection of panel studies is a bit selective. I have tried to focus on large panel studies (so excluding cohort studies), which are still existing today, with a focus on Western Europe. &lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://3.bp.blogspot.com/-hQrr9XFijnI/VL-0qshxygI/AAAAAAAACts/lG8A-ZdO2Ho/s1600/Rplot08.tiff&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://3.bp.blogspot.com/-hQrr9XFijnI/VL-0qshxygI/AAAAAAAACts/lG8A-ZdO2Ho/s1600/Rplot08.tiff&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
@@ -38,11 +38,11 @@
     
     <item>
       <title>Are item-missings related to later attrition?</title>
-      <link>https://thomvolker.github.io/try_out/post/are-item-missings-related-to-later/</link>
+      <link>https://peterlugtig.github.io/post/are-item-missings-related-to-later/</link>
       <pubDate>Tue, 29 Apr 2014 14:08:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/are-item-missings-related-to-later/</guid>
+      <guid>https://peterlugtig.github.io/post/are-item-missings-related-to-later/</guid>
       <description>&lt;p&gt;A follow up on 
-&lt;a href=&#34;http://www.peterlugtig.com/2014/03/do-respondents-become-sloppy-before.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;last month&#39;s post&lt;/a&gt;
+&lt;a href=&#34;http://www.peterlugtig.com/2014/03/do-respondents-become-sloppy-before.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;last month&amp;rsquo;s post&lt;/a&gt;
 . Respondents do seem to be less compliant in the waves before they drop out from a panel survey. This may however not neccesarily lead to worse data. So, what else do we see before attrition takes place? Let have a look at missing data:&lt;/p&gt;
 &lt;p&gt;First, we look at missing data in a sensitive question on income amounts. Earlier studies (
 &lt;a href=&#34;http://www.jos.nu/Articles/abstract.asp?article=260145&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
@@ -50,7 +50,7 @@
 &lt;a href=&#34;http://www.jstor.org.proxy.library.uu.nl/stable/146438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here,&lt;/a&gt;
  
 &lt;a href=&#34;http://www.jstor.org.proxy.library.uu.nl/stable/1392158&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
-) have already found that item nonresponse on sensitive questions predicts later attrition. I find that item nonresponse does increase before attrition, but only because of the fact that respondents are more likely to refuse to give an answer. And that increase is largely due to respondents who will later refuse to participate in the study as a whole. So, &lt;em&gt;item&lt;/em&gt; refusals are a good predictor of later &lt;em&gt;study&lt;/em&gt; refusals. The proportion of &amp;ldquo;Don&#39;t know&amp;rdquo; respondents does not increase over time.&lt;/p&gt;
+) have already found that item nonresponse on sensitive questions predicts later attrition. I find that item nonresponse does increase before attrition, but only because of the fact that respondents are more likely to refuse to give an answer. And that increase is largely due to respondents who will later refuse to participate in the study as a whole. So, &lt;em&gt;item&lt;/em&gt; refusals are a good predictor of later &lt;em&gt;study&lt;/em&gt; refusals. The proportion of &amp;ldquo;Don&amp;rsquo;t know&amp;rdquo; respondents does not increase over time.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://1.bp.blogspot.com/-ZLkf9j9-qUk/U1-RxvTaZTI/AAAAAAAACqc/OqCXDLSAX1s/s1600/missings&amp;#43;PAYGL.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://1.bp.blogspot.com/-ZLkf9j9-qUk/U1-RxvTaZTI/AAAAAAAACqc/OqCXDLSAX1s/s1600/missings+PAYGL.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;/p&gt;
@@ -58,8 +58,10 @@
 &lt;p&gt;Does this finding for a sensitive question extend to all survey questions? No. Over all questions combined, I find that refusals  increase before attrition takes place, but  from a very low base (see the Y-axis scale in the figure below). Moreover, there is no difference between the groups, meaning that those who drop out of the survey do not have more item-missings than those respondents who are &amp;ldquo;always interviewed&amp;rdquo;. It may seem odd that item missings increase for respondents who always happily participate. I suspect however that this may be related to the fact that both interviewers and respondents may have known in the last wave(s) 
 &lt;a href=&#34;https://www.iser.essex.ac.uk/bhps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;that the BHPS was coming to an end after 18 years of interviewing.&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;[&lt;br&gt;
-](&lt;a href=&#34;http://4.bp.blogspot.com/-S-ht4QK3lzQ/U1-TBeejkWI/AAAAAAAACqo/suuoODyJAik/s1600/dkplot.png&#34;&gt;http://4.bp.blogspot.com/-S-ht4QK3lzQ/U1-TBeejkWI/AAAAAAAACqo/suuoODyJAik/s1600/dkplot.png&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://4.bp.blogspot.com/-S-ht4QK3lzQ/U1-TBeejkWI/AAAAAAAACqo/suuoODyJAik/s1600/dkplot.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;br&gt;
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://2.bp.blogspot.com/-LkHjq_AVszE/U1-TBdKdzbI/AAAAAAAACqk/0HLk_2un_0c/s1600/refuseplot.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://2.bp.blogspot.com/-LkHjq_AVszE/U1-TBdKdzbI/AAAAAAAACqk/0HLk_2un_0c/s1600/refuseplot.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;/p&gt;
@@ -70,9 +72,9 @@
     
     <item>
       <title>Do respondents become sloppy before attrition?</title>
-      <link>https://thomvolker.github.io/try_out/post/do-respondents-become-sloppy-before/</link>
+      <link>https://peterlugtig.github.io/post/do-respondents-become-sloppy-before/</link>
       <pubDate>Fri, 28 Mar 2014 15:33:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/do-respondents-become-sloppy-before/</guid>
+      <guid>https://peterlugtig.github.io/post/do-respondents-become-sloppy-before/</guid>
       <description>&lt;p&gt;I am working on a paper that aims to link measurement errors to attrition error in a panel survey. For this, I am using the British Household Panel Survey. 
 &lt;a href=&#34;http://www.peterlugtig.com/2013/11/longitudinal-interview-outcome-data.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In an earlier post&lt;/a&gt;
  I already argued that attrition can occur for many reasons, which I summarized in 5 categories.&lt;/p&gt;
@@ -99,17 +101,17 @@
     
     <item>
       <title>Nonresponse Workshop 2013</title>
-      <link>https://thomvolker.github.io/try_out/post/nonresponse-workshop-2013/</link>
+      <link>https://peterlugtig.github.io/post/nonresponse-workshop-2013/</link>
       <pubDate>Mon, 09 Sep 2013 16:48:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/nonresponse-workshop-2013/</guid>
+      <guid>https://peterlugtig.github.io/post/nonresponse-workshop-2013/</guid>
       <description>&lt;p&gt;One of the greatest challenges in survey research are declining response rates. Around the globe, it appears to become harder and harder to convince people to participate in surveys. As to why response rates are declining, researchers are unsure. A general worsening of the &amp;lsquo;survey climate&amp;rsquo;, due to increased time pressures on people in general, and direct marketing are usually blamed.&lt;/p&gt;
-&lt;p&gt;This year&#39;s 
+&lt;p&gt;This year&amp;rsquo;s 
 &lt;a href=&#34;http://www.nonresponse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nonresponse workshop&lt;/a&gt;
  was held in London last week. This was the 24th edition, and all we talk about at the workshop is how to predict, prevent or adjust for nonreponse in panel surveys.&lt;/p&gt;
-&lt;p&gt;Even though we are all concerned about declining nonresponse rates, presenters at the nonresponse workshop have found throughout the years that nonresponse cannot be predicted using respondent characteristics. The explained variance of any model rarely exceeds 0.20. Because of this, we don&#39;t really know how to predict or adjust for nonresponse either. We fortunately also find that generally, 
+&lt;p&gt;Even though we are all concerned about declining nonresponse rates, presenters at the nonresponse workshop have found throughout the years that nonresponse cannot be predicted using respondent characteristics. The explained variance of any model rarely exceeds 0.20. Because of this, we don&amp;rsquo;t really know how to predict or adjust for nonresponse either. We fortunately also find that generally, 
 &lt;a href=&#34;http://poq.oxfordjournals.org/content/72/2/167.short&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the link between nonresponse rates and nonresponse bias is wea&lt;/a&gt;
 k. In other words, high nonresponse rates are not per se biasing our substantive research findings.&lt;/p&gt;
-&lt;p&gt;At this year&#39;s nonresponse workshop presentations focused on two topics. At other survey methods conferences (
+&lt;p&gt;At this year&amp;rsquo;s nonresponse workshop presentations focused on two topics. At other survey methods conferences (
 &lt;a href=&#34;http://www.europeansurveyresearch.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESRA&lt;/a&gt;
 , 
 &lt;a href=&#34;http://www.peterlugtig.com/2013/05/aapor-2013.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAPOR&lt;/a&gt;
@@ -122,27 +124,31 @@ k. In other words, high nonresponse rates are not per se biasing our substantive
 ), and paradata during fieldwork using decision-rules (
 &lt;a href=&#34;http://jameswagnersurv.blogspot.co.uk/2010/09/responsive-design-and-adaptive-design.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;responsive designs)&lt;/a&gt;
 .&lt;/p&gt;
-&lt;p&gt;[](&lt;a href=&#34;http://www.blogger.com/blogger.g?blogID=7827313755221690631)%5B!%5B%5D(http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s400/cartoon.jpg)%5D(http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s1600/cartoon.jpg&#34;&gt;http://www.blogger.com/blogger.g?blogID=7827313755221690631)[![](http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s400/cartoon.jpg)](http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s1600/cartoon.jpg&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.blogger.com/blogger.g?blogID=7827313755221690631&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;
+
+&lt;a href=&#34;http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s1600/cartoon.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s400/cartoon.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2. Efficiency:&lt;/strong&gt; Responsive designs can be used to increase response rates or limit nonresponse bias. However, they can also be used to limit survey costs. If respondents can be contacted with fewer contact attempts, this saves money. Similarly, we can limit the amount of effort we put into groups of cases for which we already have a high response rate, and devote our resources to hard-to-get cases.&lt;/p&gt;
-&lt;p&gt;There are many interesting studies than can be done into both these areas. With time, I think we will see that succesful stratgies will be developed that limit noncontact rates, nonresponse and even nonresponse bias to some extent. Also, survey might become cheaper using responsive designs, especially if the surveys use Face-to-Face or telephone interviewing. At this year&#39;s workshop, there were no presentations on using a responsive design approach for converting soft refusals. But I can see the field moving in that direction too eventually.&lt;/p&gt;
-&lt;p&gt;Just one note of general disappointment with myself and our field remains after attending the workshop (and I&#39;ve had this feeling before):&lt;/p&gt;
+&lt;p&gt;There are many interesting studies than can be done into both these areas. With time, I think we will see that succesful stratgies will be developed that limit noncontact rates, nonresponse and even nonresponse bias to some extent. Also, survey might become cheaper using responsive designs, especially if the surveys use Face-to-Face or telephone interviewing. At this year&amp;rsquo;s workshop, there were no presentations on using a responsive design approach for converting soft refusals. But I can see the field moving in that direction too eventually.&lt;/p&gt;
+&lt;p&gt;Just one note of general disappointment with myself and our field remains after attending the workshop (and I&amp;rsquo;ve had this feeling before):&lt;/p&gt;
 &lt;p&gt;If we cannot predict nonresponse at all, and if we find that nonresponse generally has a weak effect on our survey estimates, what are we doing wrong? What are we not understanding? It feels, 
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Thomas_Kuhn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in philosophical terms,&lt;/a&gt;
- as if we survey methodologists are perhaps all using the wrong paradigm for studying and understanding the problem. Perhaps we need radically different ideas, and analytical models to study the problem of nonresponse. What these should be is perhaps anyone&#39;s guess. And if not anyone&#39;s, at least my guess.&lt;/p&gt;
+ as if we survey methodologists are perhaps all using the wrong paradigm for studying and understanding the problem. Perhaps we need radically different ideas, and analytical models to study the problem of nonresponse. What these should be is perhaps anyone&amp;rsquo;s guess. And if not anyone&amp;rsquo;s, at least my guess.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AAPOR 2013</title>
-      <link>https://thomvolker.github.io/try_out/post/aapor-2013/</link>
+      <link>https://peterlugtig.github.io/post/aapor-2013/</link>
       <pubDate>Thu, 23 May 2013 12:18:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/aapor-2013/</guid>
+      <guid>https://peterlugtig.github.io/post/aapor-2013/</guid>
       <description>&lt;p&gt;The 
 &lt;a href=&#34;http://www.aapor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAPOR conference&lt;/a&gt;
  last week gave an overview of what survey methodologists worry about. There were relatively few people from Europe this year, and I found that the issues methodologists worry about are sometimes different in Europe and the USA. At the upcoming 
 &lt;a href=&#34;http://www.europeansurveyresearch.org/conference&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESRA conference&lt;/a&gt;
  for example there are more than 10 sessions on the topic of mixing survey modes. At AAPOR, mixing modes was definitely not &amp;lsquo;hot&amp;rsquo;.&lt;/p&gt;
-&lt;p&gt;With 8 parallel sessions at most times, I have only seen bits and pieces of all the things that went on. So the list below is just my take on what&#39;s innovative and hot in survey research in 2013. RTI composed 
+&lt;p&gt;With 8 parallel sessions at most times, I have only seen bits and pieces of all the things that went on. So the list below is just my take on what&amp;rsquo;s innovative and hot in survey research in 2013. RTI composed 
 &lt;a href=&#34;https://blogs.rti.org/surveypost/2013/05/22/aapor-2013-the-view-from-the-twittersphere/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a summary of all tweets&lt;/a&gt;
  for a different take on what mattered at AAPOR this year&lt;/p&gt;
 &lt;p&gt;1. Probability based surveys vs. non-probability surveys. AAPOR published 

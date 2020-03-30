@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>measurement | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/tags/measurement/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/tags/measurement/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/tags/measurement/</link>
+      <atom:link href="https://peterlugtig.github.io/tags/measurement/index.xml" rel="self" type="application/rss+xml" />
     <description>measurement</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 01 Dec 2015 13:51:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 26 Jun 2018 11:16:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>measurement</title>
-      <link>https://thomvolker.github.io/try_out/tags/measurement/</link>
+      <link>https://peterlugtig.github.io/tags/measurement/</link>
     </image>
     
     <item>
       <title>Retrospective reporting</title>
-      <link>https://thomvolker.github.io/try_out/post/retrospective-reporting/</link>
+      <link>https://peterlugtig.github.io/post/retrospective-reporting/</link>
       <pubDate>Tue, 01 Dec 2015 13:51:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/retrospective-reporting/</guid>
+      <guid>https://peterlugtig.github.io/post/retrospective-reporting/</guid>
       <description>&lt;p&gt;Back after a long pause. Panel surveys traditionally interview respondents at regular intervals, for example monthly or yearly. This interval is mostly chosen for practical reasons: interviewing people more frequently would lead to a large respondent burden, and a burden on data processing and dissemination. For these practical reasons, panel surveys often space their interviews one year apart. Many of the changes (e.g. changes in household composition) we as researchers are interested in occur slowly, and annual interviews suffice to capture these changes.&lt;br&gt;
 Sometimes we want to get reports at a more detailed level, however. For example, we would like to know how often a respondents visits a doctor (general practitioner) in one year, or when a respondent went on holidays. In order to get at such an estimate, survey researchers can do one of several things:&lt;/p&gt;
-&lt;p&gt;1. we can ask a respondent to remember all doctor visits in the past year, and rely on &lt;strong&gt;retrospective recall&lt;/strong&gt;. We know that doesn&#39;t work very well, because respondents cannot remember all visits. Instead, respondents will rely on rounding, guessing and estimation to come to an estimate.&lt;br&gt;
+&lt;p&gt;1. we can ask a respondent to remember all doctor visits in the past year, and rely on &lt;strong&gt;retrospective recall&lt;/strong&gt;. We know that doesn&amp;rsquo;t work very well, because respondents cannot remember all visits. Instead, respondents will rely on rounding, guessing and estimation to come to an estimate.&lt;br&gt;
 2. we can ask respondents for visits in say the past month, and rely on &lt;strong&gt;extrapolation&lt;/strong&gt; to get to an annual estimate. This strategy works well if doctor visits are stable throughout the year (which they are not).&lt;br&gt;
 3. We can try to break down the year into months, and instead of asking for doctor visits in the last year, ask for doctor visits in each month, reducing the &lt;strong&gt;reference period&lt;/strong&gt;. We can stimulate the retrieval of the correct information further by using a timeline or by the use of landmarks.&lt;br&gt;
 4. We can interview respondents more often. So, we conduct 12 monthly interviews instead of one annual interview, thereby reducing both the reference and &lt;strong&gt;recall period.&lt;/strong&gt;&lt;/p&gt;
@@ -46,13 +46,13 @@ Sometimes we want to get reports at a more detailed level, however. For example,
     
     <item>
       <title>mixed-mode designs: cognitive equivalence</title>
-      <link>https://thomvolker.github.io/try_out/post/mixed-mode-designs-cognitive/</link>
+      <link>https://peterlugtig.github.io/post/mixed-mode-designs-cognitive/</link>
       <pubDate>Wed, 23 Mar 2011 10:09:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/mixed-mode-designs-cognitive/</guid>
+      <guid>https://peterlugtig.github.io/post/mixed-mode-designs-cognitive/</guid>
       <description>&lt;p&gt;Instead of separating out mode effects from nonresponse and noncoverage effects through statistical modeling, it is perhaps better to design our mixed-mode surveys in such a way so that mode effects do not occur. The key principle in preventing the mode effects from occurring, is to make sure that questionnaires are cognitively equivalent to respondents. This means that no matter in which survey mode the respondents participate, they would give the same answer. In my opinion, there are two ways to achieve this.&lt;/p&gt;
 &lt;p&gt;1. choose a mix of modes that lead to a cognitively equivalent survey process. The survey process is very different in a questionnaire administered in a telephone vs. an Internet mode. Some mode combinations are can however be combined without great differences between they survey process across the modes:&lt;/p&gt;
 &lt;p&gt;- combine face-to-face with telephone modes: the mode of communication is in both modes aural with an interviewer asking and recording answers. The only difference is that the interviewer is physically present in the face-to-face survey, and not in the telephone survey.&lt;br&gt;
-- combine mail and Internet modes. Differences between these modes are minimal. Whereas in the United States it is difficult to sample addresses (but not impossible), in Europe, this combination can easily be implemented. Don  Dillman talks about some experiments with this method on the 2009 AAPOR conference (thanks to &lt;a href=&#34;http://www.pollster.com)&#34;&gt;www.pollster.com)&lt;/a&gt;.&lt;/p&gt;
+- combine mail and Internet modes. Differences between these modes are minimal. Whereas in the United States it is difficult to sample addresses (but not impossible), in Europe, this combination can easily be implemented. Don  Dillman talks about some experiments with this method on the 2009 AAPOR conference (thanks to &lt;a href=&#34;http://www.pollster.com&#34;&gt;www.pollster.com&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;2. The second way is to use nonequivalent survey modes (for example the telephone and internet), but design the individual survey questions in such a way that they are still equivalent across modes. This implies that all questions should be simple, short and clear, and that there should be as few answer categories as possible (i.e. yes/no and similar). This means that it would be difficult to ask for attitudes or opinions in such a mixed mode design.&lt;/p&gt;
 </description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/tags/r/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/tags/r/</link>
+      <atom:link href="https://peterlugtig.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 02 Dec 2014 15:44:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 01 Dec 2015 13:51:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>R</title>
-      <link>https://thomvolker.github.io/try_out/tags/r/</link>
+      <link>https://peterlugtig.github.io/tags/r/</link>
     </image>
     
     <item>
       <title>Which devices do respondents use over the course of a panel study?</title>
-      <link>https://thomvolker.github.io/try_out/post/what-devices-do-respondents-use-over/</link>
+      <link>https://peterlugtig.github.io/post/what-devices-do-respondents-use-over/</link>
       <pubDate>Tue, 02 Dec 2014 15:44:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/what-devices-do-respondents-use-over/</guid>
+      <guid>https://peterlugtig.github.io/post/what-devices-do-respondents-use-over/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;http://www.uu.nl/staff/VToepoel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vera Toepoel&lt;/a&gt;
  and I have been writing a few articles over the last two years about how survey respondents are taking up tablet computers and smartphones. We were interested in studying whether people in a probability-based web panel (
@@ -41,9 +41,9 @@
     
     <item>
       <title>Longitudinal interview outcome data reduction: Latent Class and Sequence analyses</title>
-      <link>https://thomvolker.github.io/try_out/post/longitudinal-interview-outcome-data/</link>
+      <link>https://peterlugtig.github.io/post/longitudinal-interview-outcome-data/</link>
       <pubDate>Mon, 04 Nov 2013 16:22:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/longitudinal-interview-outcome-data/</guid>
+      <guid>https://peterlugtig.github.io/post/longitudinal-interview-outcome-data/</guid>
       <description>&lt;p&gt;Frauke Kreuter once commented on a presentation I gave that I should really be looking at sequence analysis for studying attrition in panel surveys. She had written an article on the topic with Ulrich Kohler (
 &lt;a href=&#34;http://www.jos.nu/Articles/abstract.asp?article=252203&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 ) in 2009, and as of late there are more people exploring the technique (e.g. Mark Hanly at Bristol, and 
@@ -68,18 +68,18 @@
 &lt;a href=&#34;http://4.bp.blogspot.com/-5-Z64s2GcV4/Une6APMFHsI/AAAAAAAACoA/JQ-QJeO7S0A/s1600/6-cluster&amp;#43;solution&amp;#43;from&amp;#43;sequence&amp;#43;analysis&amp;#43;on&amp;#43;BHPS&amp;#43;attrition&amp;#43;data.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://4.bp.blogspot.com/-5-Z64s2GcV4/Une6APMFHsI/AAAAAAAACoA/JQ-QJeO7S0A/s640/6-cluster+solution+from+sequence+analysis+on+BHPS+attrition+data.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Figure 2: 6-cluster solution for sequence analysis on BHPS attrition patterns&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;The differences between sequence analysis and LCA are really minimal, and probably result from the fact that the Optimal Matching algorithm used in sequence analysis is more flexible (in that it would allow deletion, additions, substitutions etc to match), than Latent Class Analysis. But in practice, for my analyses, it doesn&#39;t matter what technique I use. My results are equivalent. Personally, I like Latent Class analysis more, because it offers the option of linking the Latent Classes of attrition to substantive research data in one model.&lt;/p&gt;
+&lt;p&gt;The differences between sequence analysis and LCA are really minimal, and probably result from the fact that the Optimal Matching algorithm used in sequence analysis is more flexible (in that it would allow deletion, additions, substitutions etc to match), than Latent Class Analysis. But in practice, for my analyses, it doesn&amp;rsquo;t matter what technique I use. My results are equivalent. Personally, I like Latent Class analysis more, because it offers the option of linking the Latent Classes of attrition to substantive research data in one model.&lt;/p&gt;
 &lt;p&gt;Attrition data bear a resemblence to contact data recorded in a telephone or face-to-face survey. Interviewers make call or interview attempts, that bear a lot of information about the survey proecess, and could improve fieldwork, and reduce nonresponse and costs. I am imagining a paper where one links contact data at every wave, and combines that with attrition analyses, in a series of linked-sequence data analysis. That way, you can learn how specific sequences of call and contact data, lead to specific sequences of interview outcomes at later stages of the panel survey. It can be done if you have a lot of time.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SEM software</title>
-      <link>https://thomvolker.github.io/try_out/post/sem-software/</link>
+      <link>https://peterlugtig.github.io/post/sem-software/</link>
       <pubDate>Wed, 19 Oct 2011 11:55:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/sem-software/</guid>
-      <description>&lt;p&gt;I&#39;m not dead! In fact, I have been very alive over the past half a year: moving, finishing my Ph.D and starting a new job. With all that settled, I am determined to start where I left off.&lt;/p&gt;
-&lt;p&gt;I often get questions about software to do Structural Equation Modeling. There are quite a few packages out there, some more user-friendly or sophisticated than others. Here is an overview of existing packages and my opinion on the pro&#39;s and cons of each.&lt;br&gt;
+      <guid>https://peterlugtig.github.io/post/sem-software/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m not dead! In fact, I have been very alive over the past half a year: moving, finishing my Ph.D and starting a new job. With all that settled, I am determined to start where I left off.&lt;/p&gt;
+&lt;p&gt;I often get questions about software to do Structural Equation Modeling. There are quite a few packages out there, some more user-friendly or sophisticated than others. Here is an overview of existing packages and my opinion on the pro&amp;rsquo;s and cons of each.&lt;br&gt;
 
 &lt;a href=&#34;http://3.bp.blogspot.com/-VbHwXVzP5cM/Tp6fdypvVFI/AAAAAAAACdI/cdqarK5Rmw4/s1600/meetmodel&amp;#43;3&amp;#43;indicatoren.bmp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://3.bp.blogspot.com/-VbHwXVzP5cM/Tp6fdypvVFI/AAAAAAAACdI/cdqarK5Rmw4/s200/meetmodel+3+indicatoren.bmp&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;br&gt;
@@ -90,7 +90,7 @@ I was trained to work with LISREL as a student.
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Karl_Gustav_J%C3%B6reskog&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Karl Joreskog&lt;/a&gt;
 , one of the great pioneers of SEM and 
 &lt;a href=&#34;http://www.linkedin.com/pub/dag-s%C3%B6rbom/17/572/85b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dag Sorbom&lt;/a&gt;
-. Although it hasn&#39;t been updated for over 5 years, it is still one of the most widely used software packages. The great thing about LISREL is that it allows flexibility. It can handle categorical data and multilevel-data. The LISREL language has been adopted by other SEM-packages. LISREL requires users to know some matrix algebra, to understand what specific parameters to estimate.&lt;/p&gt;
+. Although it hasn&amp;rsquo;t been updated for over 5 years, it is still one of the most widely used software packages. The great thing about LISREL is that it allows flexibility. It can handle categorical data and multilevel-data. The LISREL language has been adopted by other SEM-packages. LISREL requires users to know some matrix algebra, to understand what specific parameters to estimate.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://www.vcu.edu/mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mx&lt;/a&gt;
  and 
@@ -126,7 +126,7 @@ Since 2000 some new software packages have taken over the role of LISREL, Mx and
 &lt;a href=&#34;http://openmx.psyc.virginia.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenMx&lt;/a&gt;
  (mentioned earlier) and 
 &lt;a href=&#34;http://lavaan.ugent.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lavaan&lt;/a&gt;
- seem to the two packages that are currently most advanced. I&#39;ve heard mixed opinions about the 
+ seem to the two packages that are currently most advanced. I&amp;rsquo;ve heard mixed opinions about the 
 &lt;a href=&#34;http://socserv.mcmaster.ca/jfox/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sem&lt;/a&gt;
  package in R, so would not opt for that package&lt;/p&gt;
 </description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Olden | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/authors/olden/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/authors/olden/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/authors/olden/</link>
+      <atom:link href="https://peterlugtig.github.io/authors/olden/index.xml" rel="self" type="application/rss+xml" />
     <description>Olden</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Olden</title>
-      <link>https://thomvolker.github.io/try_out/authors/olden/</link>
+      <link>https://peterlugtig.github.io/authors/olden/</link>
     </image>
     
     <item>
       <title>Barriers to ideal palliative care in multiple care settings: The nurses&#39; point of view</title>
-      <link>https://thomvolker.github.io/try_out/publication/2019_uitdehaag_barriers/</link>
+      <link>https://peterlugtig.github.io/publication/2019_uitdehaag_barriers/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/publication/2019_uitdehaag_barriers/</guid>
+      <guid>https://peterlugtig.github.io/publication/2019_uitdehaag_barriers/</guid>
       <description></description>
     </item>
     

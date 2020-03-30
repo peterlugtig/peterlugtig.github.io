@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/authors/admin/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/authors/admin/</link>
+      <atom:link href="https://peterlugtig.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>admin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>admin</title>
-      <link>https://thomvolker.github.io/try_out/authors/admin/</link>
+      <link>https://peterlugtig.github.io/authors/admin/</link>
     </image>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://thomvolker.github.io/try_out/teaching/jupyter/</link>
+      <link>https://peterlugtig.github.io/teaching/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://thomvolker.github.io/try_out/teaching/jupyter/</guid>
+      <guid>https://peterlugtig.github.io/teaching/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -54,7 +54,7 @@ date: 2019-09-01
  as a guide to the available options.&lt;/p&gt;
 &lt;p&gt;To set a 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;
-, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&#39;s folder.&lt;/p&gt;
+, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
 &lt;p&gt;For other tips, such as using math, see the guide on 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;
 .&lt;/p&gt;
@@ -68,13 +68,13 @@ date: 2019-09-01
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://thomvolker.github.io/try_out/teaching/getting-started/</link>
+      <link>https://peterlugtig.github.io/teaching/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://thomvolker.github.io/try_out/teaching/getting-started/</guid>
+      <guid>https://peterlugtig.github.io/teaching/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt;
- of what you&#39;ll get in less than 10 minutes, or 
+ of what you&amp;rsquo;ll get in less than 10 minutes, or 
 &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt;
  of personal, project, and business sites.&lt;/p&gt;
 &lt;ul&gt;

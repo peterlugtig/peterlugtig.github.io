@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>validation | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/tags/validation/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/tags/validation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/tags/validation/</link>
+      <atom:link href="https://peterlugtig.github.io/tags/validation/index.xml" rel="self" type="application/rss+xml" />
     <description>validation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 26 Jun 2018 11:16:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>validation</title>
-      <link>https://thomvolker.github.io/try_out/tags/validation/</link>
+      <link>https://peterlugtig.github.io/tags/validation/</link>
     </image>
     
     <item>
       <title>Which survey error source is larger: measurement or nonresponse?</title>
-      <link>https://thomvolker.github.io/try_out/post/which-survey-error-source-is-larger/</link>
+      <link>https://peterlugtig.github.io/post/which-survey-error-source-is-larger/</link>
       <pubDate>Tue, 26 Jun 2018 11:16:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/which-survey-error-source-is-larger/</guid>
+      <guid>https://peterlugtig.github.io/post/which-survey-error-source-is-larger/</guid>
       <description>&lt;p&gt;As a survey methodologist I get paid to develop survey methods that generaly minimize survey errors, and advise people on how to field surveys in a specific setting. A question that has been bugging me for a long time is what survey error we should worry about most. The 
 &lt;a href=&#34;https://en.wikipedia.org/wiki/Total_survey_error&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Total Survey Error (TSE) framework&lt;/a&gt;
  is very helpful for thinking which type of survey error may impact survey estimates&lt;br&gt;
 But which error source is generally larger?  Nonresponse or measurement errors?&lt;/p&gt;
 &lt;p&gt;Thankfully, no one has ever asked me this question yet, because I would find it impossible to answer anything then &amp;ldquo;well, that depends&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;The reason why we don&#39;t know what error source is larger is that we can usually assess observational errors only for the people we have actually observed. There are several ways to do this. Sometimes we know the truth, and so we can compare survey answers (&amp;ldquo;do you have a valid driver&#39;s license?&amp;quot;) to data that we know from administrative records. If we are interested in attitudes, we can use psychometric models. The people behind the 
+&lt;p&gt;The reason why we don&amp;rsquo;t know what error source is larger is that we can usually assess observational errors only for the people we have actually observed. There are several ways to do this. Sometimes we know the truth, and so we can compare survey answers (&amp;ldquo;do you have a valid driver&amp;rsquo;s license?&amp;quot;) to data that we know from administrative records. If we are interested in attitudes, we can use psychometric models. The people behind the 
 &lt;a href=&#34;http://sqp.upf.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;computer programme SQP&lt;/a&gt;
  have summarised a huge number of question experiments and 
 &lt;a href=&#34;http://davidakenny.net/cm/mtmm.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MTMM models&lt;/a&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. de | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/authors/s.-de/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/authors/s.-de/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/authors/s.-de/</link>
+      <atom:link href="https://peterlugtig.github.io/authors/s.-de/index.xml" rel="self" type="application/rss+xml" />
     <description>S. de</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>S. de</title>
-      <link>https://thomvolker.github.io/try_out/authors/s.-de/</link>
+      <link>https://peterlugtig.github.io/authors/s.-de/</link>
     </image>
     
     <item>
       <title>Where you at? Using GPS location in an electronic Time Use diary study to derive functional locations</title>
-      <link>https://thomvolker.github.io/try_out/publication/2019_elevelt_where_you/</link>
+      <link>https://peterlugtig.github.io/publication/2019_elevelt_where_you/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://thomvolker.github.io/try_out/publication/2019_elevelt_where_you/</guid>
+      <guid>https://peterlugtig.github.io/publication/2019_elevelt_where_you/</guid>
       <description></description>
     </item>
     

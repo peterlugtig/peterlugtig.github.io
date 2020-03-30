@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>data quality | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/tags/data-quality/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/tags/data-quality/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/tags/data-quality/</link>
+      <atom:link href="https://peterlugtig.github.io/tags/data-quality/index.xml" rel="self" type="application/rss+xml" />
     <description>data quality</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 26 Jun 2018 11:16:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>data quality</title>
-      <link>https://thomvolker.github.io/try_out/tags/data-quality/</link>
+      <link>https://peterlugtig.github.io/tags/data-quality/</link>
     </image>
     
     <item>
       <title>Which survey error source is larger: measurement or nonresponse?</title>
-      <link>https://thomvolker.github.io/try_out/post/which-survey-error-source-is-larger/</link>
+      <link>https://peterlugtig.github.io/post/which-survey-error-source-is-larger/</link>
       <pubDate>Tue, 26 Jun 2018 11:16:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/which-survey-error-source-is-larger/</guid>
+      <guid>https://peterlugtig.github.io/post/which-survey-error-source-is-larger/</guid>
       <description>&lt;p&gt;As a survey methodologist I get paid to develop survey methods that generaly minimize survey errors, and advise people on how to field surveys in a specific setting. A question that has been bugging me for a long time is what survey error we should worry about most. The 
 &lt;a href=&#34;https://en.wikipedia.org/wiki/Total_survey_error&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Total Survey Error (TSE) framework&lt;/a&gt;
  is very helpful for thinking which type of survey error may impact survey estimates&lt;br&gt;
 But which error source is generally larger?  Nonresponse or measurement errors?&lt;/p&gt;
 &lt;p&gt;Thankfully, no one has ever asked me this question yet, because I would find it impossible to answer anything then &amp;ldquo;well, that depends&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;The reason why we don&#39;t know what error source is larger is that we can usually assess observational errors only for the people we have actually observed. There are several ways to do this. Sometimes we know the truth, and so we can compare survey answers (&amp;ldquo;do you have a valid driver&#39;s license?&amp;quot;) to data that we know from administrative records. If we are interested in attitudes, we can use psychometric models. The people behind the 
+&lt;p&gt;The reason why we don&amp;rsquo;t know what error source is larger is that we can usually assess observational errors only for the people we have actually observed. There are several ways to do this. Sometimes we know the truth, and so we can compare survey answers (&amp;ldquo;do you have a valid driver&amp;rsquo;s license?&amp;quot;) to data that we know from administrative records. If we are interested in attitudes, we can use psychometric models. The people behind the 
 &lt;a href=&#34;http://sqp.upf.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;computer programme SQP&lt;/a&gt;
  have summarised a huge number of question experiments and 
 &lt;a href=&#34;http://davidakenny.net/cm/mtmm.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MTMM models&lt;/a&gt;
@@ -56,12 +56,12 @@ But which error source is generally larger?  Nonresponse or measurement errors?
     
     <item>
       <title>Retrospective reporting</title>
-      <link>https://thomvolker.github.io/try_out/post/retrospective-reporting/</link>
+      <link>https://peterlugtig.github.io/post/retrospective-reporting/</link>
       <pubDate>Tue, 01 Dec 2015 13:51:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/retrospective-reporting/</guid>
+      <guid>https://peterlugtig.github.io/post/retrospective-reporting/</guid>
       <description>&lt;p&gt;Back after a long pause. Panel surveys traditionally interview respondents at regular intervals, for example monthly or yearly. This interval is mostly chosen for practical reasons: interviewing people more frequently would lead to a large respondent burden, and a burden on data processing and dissemination. For these practical reasons, panel surveys often space their interviews one year apart. Many of the changes (e.g. changes in household composition) we as researchers are interested in occur slowly, and annual interviews suffice to capture these changes.&lt;br&gt;
 Sometimes we want to get reports at a more detailed level, however. For example, we would like to know how often a respondents visits a doctor (general practitioner) in one year, or when a respondent went on holidays. In order to get at such an estimate, survey researchers can do one of several things:&lt;/p&gt;
-&lt;p&gt;1. we can ask a respondent to remember all doctor visits in the past year, and rely on &lt;strong&gt;retrospective recall&lt;/strong&gt;. We know that doesn&#39;t work very well, because respondents cannot remember all visits. Instead, respondents will rely on rounding, guessing and estimation to come to an estimate.&lt;br&gt;
+&lt;p&gt;1. we can ask a respondent to remember all doctor visits in the past year, and rely on &lt;strong&gt;retrospective recall&lt;/strong&gt;. We know that doesn&amp;rsquo;t work very well, because respondents cannot remember all visits. Instead, respondents will rely on rounding, guessing and estimation to come to an estimate.&lt;br&gt;
 2. we can ask respondents for visits in say the past month, and rely on &lt;strong&gt;extrapolation&lt;/strong&gt; to get to an annual estimate. This strategy works well if doctor visits are stable throughout the year (which they are not).&lt;br&gt;
 3. We can try to break down the year into months, and instead of asking for doctor visits in the last year, ask for doctor visits in each month, reducing the &lt;strong&gt;reference period&lt;/strong&gt;. We can stimulate the retrieval of the correct information further by using a timeline or by the use of landmarks.&lt;br&gt;
 4. We can interview respondents more often. So, we conduct 12 monthly interviews instead of one annual interview, thereby reducing both the reference and &lt;strong&gt;recall period.&lt;/strong&gt;&lt;/p&gt;
@@ -88,9 +88,9 @@ Sometimes we want to get reports at a more detailed level, however. For example,
     
     <item>
       <title>Satisficing in mobile web surveys. Device-effect or selection effect?</title>
-      <link>https://thomvolker.github.io/try_out/post/blog-post/</link>
+      <link>https://peterlugtig.github.io/post/blog-post/</link>
       <pubDate>Mon, 08 Dec 2014 20:47:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/blog-post/</guid>
+      <guid>https://peterlugtig.github.io/post/blog-post/</guid>
       <description>&lt;p&gt;Last week, I wrote about the fact 
 &lt;a href=&#34;http://www.peterlugtig.com/2014/12/what-devices-do-respondents-use-over.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;that respondents in panel surveys are now using tablets and smartphones to complete web surveys&lt;/a&gt;
 . We found that in the LISS panel, respondents who use tablets and smartphones are much more likely to switch devices over time and not participate in some months.&lt;br&gt;
@@ -119,9 +119,9 @@ The question we actually wanted to answer was a different one: do respondents wh
     
     <item>
       <title>To weight or to impute for unit nonresponse?</title>
-      <link>https://thomvolker.github.io/try_out/post/to-weight-or-to-impute-for-unit/</link>
+      <link>https://peterlugtig.github.io/post/to-weight-or-to-impute-for-unit/</link>
       <pubDate>Sun, 06 Oct 2013 21:49:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/to-weight-or-to-impute-for-unit/</guid>
+      <guid>https://peterlugtig.github.io/post/to-weight-or-to-impute-for-unit/</guid>
       <description>&lt;p&gt;This week, I have been reading the most recent issue of the 
 &lt;a href=&#34;http://www.jos.nu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Official Statistics&lt;/a&gt;
 , a journal that has been open access since the 1980s.  In this issue is a 
@@ -143,12 +143,12 @@ The question we actually wanted to answer was a different one: do respondents wh
 &lt;p&gt;+ The statistical properties of all design-based weighting procedures are well-known.&lt;br&gt;
 + Weighting works with complex sampling designs (at least theoretically).&lt;br&gt;
 + We need relatively little information on nonrespondents to be able to use weighting procedures. There is however a big BUT&amp;hellip;&lt;br&gt;
-- Weighting models mainly use socio-demographic data, because that is the kind of information we can add to our sampling frame. These variables are never highly correlated with our variable of interest, nor missingness due to nonresponse, so weighting is not very effective. That is, weighting theoretically works nicely, but in practice, it doesn&#39;t ameliorate the missing data problem we have because of unit nonresponse much.&lt;/p&gt;
+- Weighting models mainly use socio-demographic data, because that is the kind of information we can add to our sampling frame. These variables are never highly correlated with our variable of interest, nor missingness due to nonresponse, so weighting is not very effective. That is, weighting theoretically works nicely, but in practice, it doesn&amp;rsquo;t ameliorate the missing data problem we have because of unit nonresponse much.&lt;/p&gt;
 &lt;p&gt;Imputations are model based. Based on available information for respondents and nonrespondents, a prediction model is built for a variable which has missing information. The model can take an infinite number of shapes, depending on whether imputation is stochastic, how variables are related within the model, and what variables are being used. Based on this model, one or multiple values are imputed for every missing value on every variable for every case. The crucial difference is that weighting uses the same variables for correcting the entire dataset, whereas imputation models differ for every variable that is to be imputed.&lt;/p&gt;
 &lt;p&gt;+ Imputation models are flexible. This means that the imputation model can be optimized in such a way that it strongly predicts both the dependent variable to be imputed, and the missingness process.&lt;/p&gt;
 &lt;p&gt;- In the case of unit nonresponse, we often have limited data on nonrespondents. So, although a model-based approach may have advantages over design-based aproaches in terms of its ability to predict our variable(s) of interest, this depends on the quality of the covariates we use.&lt;/p&gt;
 &lt;p&gt;This then brings me, and the authors of the various papers in JoS back to the basic problem: 
-&lt;a href=&#34;http://www.peterlugtig.com/2013/09/nonresponse-workshop-2013.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;we don&#39;t understand the process on nonresponse in surveys&lt;/a&gt;
+&lt;a href=&#34;http://www.peterlugtig.com/2013/09/nonresponse-workshop-2013.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;we don&amp;rsquo;t understand the process on nonresponse in surveys&lt;/a&gt;
 . Next time, more on imputations and weighting for longitudinal surveys. And more on design vs. model based approaches in survey research.&lt;/p&gt;
 &lt;p&gt;p.s. This all assumes simple random sampling. If complex sampling designs are used, weighting is until now I think the best way to start dealing with nonresponse. I am unaware of imputation methods that can deal with complex sampling (other than straightforward multilevel structures).&lt;/p&gt;
 </description>
@@ -156,9 +156,9 @@ The question we actually wanted to answer was a different one: do respondents wh
     
     <item>
       <title>Publish your data</title>
-      <link>https://thomvolker.github.io/try_out/post/publish-your-data/</link>
+      <link>https://peterlugtig.github.io/post/publish-your-data/</link>
       <pubDate>Mon, 23 Sep 2013 12:27:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/publish-your-data/</guid>
+      <guid>https://peterlugtig.github.io/post/publish-your-data/</guid>
       <description>&lt;p&gt;This morning, an official enquiry into the scientific conduct of 
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Mart_Bax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;professor Mart Bax&lt;/a&gt;
  concluded that he had committed large-scale scientific fraud over a period of 15 years. Mart Bax is a now-retired professor of political anthropology at the Free University Amsterdam. In 2012 a journalist first accused him of fraud, and this spring, the Volkskrant, one of the big newspapers in the Netherlands reported they were not able to find any of the informants Mart Bax had used in his studies.&lt;/p&gt;
@@ -166,7 +166,7 @@ The question we actually wanted to answer was a different one: do respondents wh
 &lt;a href=&#34;https://www.dropbox.com/s/pjrwxvbw175cpo1/rapport%20Bax.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here (in Dutch)&lt;/a&gt;
 . In summary, Mart Bax most likely made up at least 64, mostly peer-reviewed articles and recycled his own articles using different titles in different journals. Although the investigation could not rule out that some studies were just done sloppily the overall picture from the report is one of overall scientific misconduct.&lt;/p&gt;
 &lt;p&gt;So, what to do about this? I have a clear opinion on this: 
-&lt;a href=&#34;http://www.peterlugtig.com/2013/09/how-to-improve-social-sciences.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Make your data available, and replicate other people&#39;s studies&lt;/a&gt;
+&lt;a href=&#34;http://www.peterlugtig.com/2013/09/how-to-improve-social-sciences.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Make your data available, and replicate other people&amp;rsquo;s studies&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;What strikes me, is that it seems normal to some social scientists not to store interviews (whether on tape or anonymized in scripts) or publish datasets. It may be a little more difficult for qualitative researchers than quantitative researchers to do this. Back in the 1990s, when Mart Bax committed this fraud, it may have been really complicated to publish such transcripts online. Nowadays, it is dead easy however, and some, although not many journals offer this service. See for some good examples in the social sciences:&lt;/p&gt;
 &lt;p&gt;- 
@@ -188,9 +188,9 @@ d. As social scientists, we have a long way to go to tackle fraud, and generally
     
     <item>
       <title>How to improve the social sciences</title>
-      <link>https://thomvolker.github.io/try_out/post/how-to-improve-social-sciences/</link>
+      <link>https://peterlugtig.github.io/post/how-to-improve-social-sciences/</link>
       <pubDate>Sat, 14 Sep 2013 15:37:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/how-to-improve-social-sciences/</guid>
+      <guid>https://peterlugtig.github.io/post/how-to-improve-social-sciences/</guid>
       <description>&lt;p&gt;Social scientists (and psychology in particular) have in recent years had somethings of a bad press, both in- and outside academia. To give some examples:&lt;/p&gt;
 &lt;p&gt;- There is a sense among some people that 
 &lt;a href=&#34;http://www.socialsciencespace.com/2013/07/attacks-on-us-federal-funding-of-the-social-sciences-will-continue-to-intensify/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;social science provides little societal or economical value.&lt;/a&gt;
@@ -207,8 +207,8 @@ d. As social scientists, we have a long way to go to tackle fraud, and generally
 &lt;a href=&#34;http://www.easp.eu/news/Statement%20EASP%20on%20Levelt_December_%202012.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;defensive attitude many social scientists&lt;/a&gt;
  take on fraud, opnness, and replicability. Instead of just being defensive, try do some something constructive with critique we receive as a field.&lt;/p&gt;
 &lt;p&gt;At this 
-&lt;a href=&#34;http://www.gesis.org/en/events/gesis-summer-school/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;year&#39;s GESIS summer school,&lt;/a&gt;
- I gave a talk about the topic of survey errors and how to improve social science as a whole. I think it is really time to change the way we as social scientists do our work. We have to be more open about what we do and how we do it. Not only so we can strenghthen the position of the social sciences in general, but more importantly to make progress as a field. Many theories in the social sciences are founded on empirical research findings, that can either not be replicated, are based on wrong statistical analyses, or are based on fraudulated data. Dreaming up data is the worst example of fraud, but I count as fraud also selectively deleting those cases that don&#39;t support your theory, or presenting exploratory analyses as confirmatory. This last point especially is common throughout the social sciences (and in other disciplines as well).&lt;/p&gt;
+&lt;a href=&#34;http://www.gesis.org/en/events/gesis-summer-school/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;year&amp;rsquo;s GESIS summer school,&lt;/a&gt;
+ I gave a talk about the topic of survey errors and how to improve social science as a whole. I think it is really time to change the way we as social scientists do our work. We have to be more open about what we do and how we do it. Not only so we can strenghthen the position of the social sciences in general, but more importantly to make progress as a field. Many theories in the social sciences are founded on empirical research findings, that can either not be replicated, are based on wrong statistical analyses, or are based on fraudulated data. Dreaming up data is the worst example of fraud, but I count as fraud also selectively deleting those cases that don&amp;rsquo;t support your theory, or presenting exploratory analyses as confirmatory. This last point especially is common throughout the social sciences (and in other disciplines as well).&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://3.bp.blogspot.com/-8jF-Uu_-d5A/UjRlcO3LhUI/AAAAAAAACm0/R1nCSlaMRnA/s1600/graphic2-for-blog3.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://3.bp.blogspot.com/-8jF-Uu_-d5A/UjRlcO3LhUI/AAAAAAAACm0/R1nCSlaMRnA/s400/graphic2-for-blog3.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;/p&gt;
@@ -230,9 +230,9 @@ _(source: &lt;a href=&#34;http://blogs.scientificamerican.com/talking-back/2013/
     
     <item>
       <title>Dependent Interviewing and the risk of correlated measurement errors</title>
-      <link>https://thomvolker.github.io/try_out/post/dependent-interviewing-and-risk-of/</link>
+      <link>https://peterlugtig.github.io/post/dependent-interviewing-and-risk-of/</link>
       <pubDate>Sat, 03 Aug 2013 16:22:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/dependent-interviewing-and-risk-of/</guid>
+      <guid>https://peterlugtig.github.io/post/dependent-interviewing-and-risk-of/</guid>
       <description>&lt;p&gt;Longitudinal surveys ask the same people the same questions over time. So questionnaires tend to be rather boring for respondents after a while. &amp;ldquo;Are you asking me this again, you asked that last year as well!&amp;rdquo; is what many respondents probably think during an interview. As methodologists who manage panel surveys, we know this process may be rather boring, but in order to document change over time, we just need to ask respondents the same questions over and over.&lt;/p&gt;
 &lt;p&gt;Some measures of change over time would become biased if we just repeat questions year-on-year. For example, we know that if we ask respondents twice about their occupation, less than half of all of them have the same occupational codes over time. We know from other statistics (e.g. tax returns), that that is not true. Most people stay in the same occupation over time. Now, you may think, dear reader, that that is probably due to the fact that occupation is rather difficult to measure and code in general, and you are right. Unreliable question will lead to a lot of spurious change over time.&lt;/p&gt;
 &lt;p&gt;Dependent Interviewing helps to make codes consistent over time and reduce such spurious change. The idea is that, instead of coding occupation independently year-on-year, you ask respondents in year 2 the question &amp;ldquo;last year, you said you were a bankteller, is that still the case?&amp;quot;. There are many different variants to ask this Dependent Interviewing question, and the exact wording is important for the outcomes. Especially, because we do not want respondent to say &amp;ldquo;yes&amp;rdquo; too easily to questions we ask.&lt;/p&gt;
@@ -242,7 +242,7 @@ _(source: &lt;a href=&#34;http://blogs.scientificamerican.com/talking-back/2013/
 &lt;p&gt;&lt;em&gt;&amp;ldquo;Last year, you told me you told me you worked as a bankteller, is that still the case?&amp;quot;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Recently, a paper I wrote on the effects of various forms of Dependent Interviewing came out in 
 &lt;a href=&#34;https://dl.dropboxusercontent.com/u/2839696/Lugtig%20and%20Lensvelt-Mulders%20%28preprint%29%20evaluating%20the%20effect%20of%20DI%20on%20the%20quality%20of%20measures%20of%20change.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Field Methods&lt;/a&gt;
-. It was actually the first paper I wrote for my Ph.D, and I started work on it in 2006. So, it has been quite a journey to get this story on paper and get it published. I am very happy to see it on paper now. We did an experiment, where we tried out different DI-designs in a four-wave panel study, to study effects of data quality of each different DI-design. Specifically, we looked at whether respondents might falsely confirm data from the previous year that we knew contained measurement error. The bottom line of the study is that when Dependent Interviewing is applied to income amount questions over time, it does improve data quality, and we don&#39;t need to worry so much about respondents wrongly agreeing to pre-loaded data from the  previous year. Read the full paper 
+. It was actually the first paper I wrote for my Ph.D, and I started work on it in 2006. So, it has been quite a journey to get this story on paper and get it published. I am very happy to see it on paper now. We did an experiment, where we tried out different DI-designs in a four-wave panel study, to study effects of data quality of each different DI-design. Specifically, we looked at whether respondents might falsely confirm data from the previous year that we knew contained measurement error. The bottom line of the study is that when Dependent Interviewing is applied to income amount questions over time, it does improve data quality, and we don&amp;rsquo;t need to worry so much about respondents wrongly agreeing to pre-loaded data from the  previous year. Read the full paper 
 &lt;a href=&#34;https://dl.dropboxusercontent.com/u/2839696/Lugtig%20and%20Lensvelt-Mulders%20%28preprint%29%20evaluating%20the%20effect%20of%20DI%20on%20the%20quality%20of%20measures%20of%20change.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;
 &lt;/p&gt;
 </description>
@@ -250,19 +250,19 @@ _(source: &lt;a href=&#34;http://blogs.scientificamerican.com/talking-back/2013/
     
     <item>
       <title>Interested in new mixed mode research project?</title>
-      <link>https://thomvolker.github.io/try_out/post/interested-in-new-mixed-mode-research/</link>
+      <link>https://peterlugtig.github.io/post/interested-in-new-mixed-mode-research/</link>
       <pubDate>Thu, 07 Mar 2013 15:04:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/interested-in-new-mixed-mode-research/</guid>
-      <description>&lt;p&gt;Mixed-mode research is still a hot topic among survey methodologists. At least at about every meeting I attend (some selection bias is likely here). Although we know a lot from experiments in the last decade, there is also a lot we don&#39;t know. For example, what designs reduce total survey error most? What is the optimal mix of survey modes when data quality and survey costs are both important? And, how can we compare mixed-mode studies across time, or countries, when the proportions of mode assignments changes over time or vary between countries?&lt;/p&gt;
+      <guid>https://peterlugtig.github.io/post/interested-in-new-mixed-mode-research/</guid>
+      <description>&lt;p&gt;Mixed-mode research is still a hot topic among survey methodologists. At least at about every meeting I attend (some selection bias is likely here). Although we know a lot from experiments in the last decade, there is also a lot we don&amp;rsquo;t know. For example, what designs reduce total survey error most? What is the optimal mix of survey modes when data quality and survey costs are both important? And, how can we compare mixed-mode studies across time, or countries, when the proportions of mode assignments changes over time or vary between countries?&lt;/p&gt;
 &lt;p&gt;Together with some researchers at National Statistical Institutes I am trying to form a European consortium to set up a programme for doing comparative mixed-mode research. One of the goals of this consortium would be to apply for funding at the next wave of EU funding (horizon 2020). We are however still looking for researchers in market research, official statistics and universities. And especially from countries in Northern, Central and Southern Europe. Want to know more? Write me at p.lugtig AT uu.nl&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Is panel attrition the same as nonresponse?</title>
-      <link>https://thomvolker.github.io/try_out/post/is-panel-attrition-same-as-nonresponse/</link>
+      <link>https://peterlugtig.github.io/post/is-panel-attrition-same-as-nonresponse/</link>
       <pubDate>Sat, 29 Sep 2012 10:49:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/is-panel-attrition-same-as-nonresponse/</guid>
+      <guid>https://peterlugtig.github.io/post/is-panel-attrition-same-as-nonresponse/</guid>
       <description>&lt;p&gt;All of my research is focused on the methods of assembling and analysis of panel survey data. One of the primary problems of panel survey projects is attrition or drop-out. Over the course of a panel survey, many respondents decide to no longer participate.&lt;/p&gt;
 &lt;p&gt;Last july I visited the panel survey methods workshop in Melbourne, at which we had extensive discussions about panel attrition. How to study it, what the consequences are (bias) for survey estimates, and how to prevent it from happening altogether.&lt;/p&gt;
 &lt;p&gt;These questions have a lot in common with the questions that are being discussed at another workshop for survey methodologists: the nonresponse workshop. The only difference is that at the nonresponse workshop we discuss one-off, cross-sectional surveys, and at the panel survey workshop, we dicuss what happens after the first wave of data collection.&lt;/p&gt;
@@ -272,7 +272,7 @@ _(source: &lt;a href=&#34;http://blogs.scientificamerican.com/talking-back/2013/
 &lt;a href=&#34;http://2.bp.blogspot.com/-bQM6mKwQHSQ/UGa00GA-Y0I/AAAAAAAACfM/nuzk9xKEmC0/s1600/graph&amp;#43;lca9.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://2.bp.blogspot.com/-bQM6mKwQHSQ/UGa00GA-Y0I/AAAAAAAACfM/nuzk9xKEmC0/s400/graph+lca9.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;em&gt;click on the Figure to enlarge&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;For the whole story you&#39;ll have to wait for book on &amp;lsquo;Internet panel surveys&amp;rsquo; to come out somewhere in 2013, but I&#39;ll focus here on comparing initial nonrespondents to respondents who do consent, but then never participate.&lt;br&gt;
+&lt;p&gt;For the whole story you&amp;rsquo;ll have to wait for book on &amp;lsquo;Internet panel surveys&amp;rsquo; to come out somewhere in 2013, but I&amp;rsquo;ll focus here on comparing initial nonrespondents to respondents who do consent, but then never participate.&lt;br&gt;
 These groups turn out to be different. Not just a little different, but hugely different. This was somewhat surprising to me, as many survey methodologists believe that early panel attrition is some kind of continuation of initial nonresponse. It turns out not to be. Fast attriters are very different from initial nonrespondents. My hypothesis for this is that some specific groups of people may &#39; accidentily&amp;rsquo;  say yes to a first survey request, but then try to get out of the survey as fast as they can. I am still not sure what this implies for panel research (comments very welcome): does it mean that the methods that we use to target nonrespondents (persuasion principles of Cialdini et al. 1991) might not work in panel surveys, and that we need to use different methods?&lt;/p&gt;
 &lt;p&gt;I think the first few waves of a panel study are extremely important for keeping attrition low in the long run. So, I think we should perhaps prolong some of the efforts that we use in the recruitment phase (advance letters, mixed-mode contact strategy), in the first waves as well, only to resort to a cheaper contact mode later, once panel members have developed a habit of responding to the different waves in a panel.&lt;/p&gt;
 </description>
@@ -280,16 +280,16 @@ These groups turn out to be different. Not just a little different, but hugely d
     
     <item>
       <title>why access panels cannot weight elections polls accurately</title>
-      <link>https://thomvolker.github.io/try_out/post/why-access-panels-cannot-weight/</link>
+      <link>https://peterlugtig.github.io/post/why-access-panels-cannot-weight/</link>
       <pubDate>Sat, 22 Sep 2012 16:05:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/why-access-panels-cannot-weight/</guid>
-      <description>&lt;p&gt;There are a lot of reasons why would not want to use acces panels for predicting electoral outcomes . These are well discussed in many places on- and offline. I&#39;ll shortly summarize them, before adding some thoughts to why access panels do so badly predicting election outcomes.&lt;/p&gt;
-&lt;p&gt;1. Access panels don&#39;t draw random samples, but rely on self-selected samples. A slightly better way to get panel respondents is a quota sample, but even these have problems, well discussed here, here and here for example. The bottom line is that access panel respondents are not &#39; normal&amp;rsquo; people, and so voting preferences of not-normal people are likely to be biased.&lt;/p&gt;
+      <guid>https://peterlugtig.github.io/post/why-access-panels-cannot-weight/</guid>
+      <description>&lt;p&gt;There are a lot of reasons why would not want to use acces panels for predicting electoral outcomes . These are well discussed in many places on- and offline. I&amp;rsquo;ll shortly summarize them, before adding some thoughts to why access panels do so badly predicting election outcomes.&lt;/p&gt;
+&lt;p&gt;1. Access panels don&amp;rsquo;t draw random samples, but rely on self-selected samples. A slightly better way to get panel respondents is a quota sample, but even these have problems, well discussed here, here and here for example. The bottom line is that access panel respondents are not &#39; normal&amp;rsquo; people, and so voting preferences of not-normal people are likely to be biased.&lt;/p&gt;
 &lt;p&gt;2. Because of these problems, survey managers use weighting. They correct their sample for known biases in the sample. If they know elderly people with low educations are underrepresented in an access panel, they weigh them up. I think this is bad practice. And it has been shown that weighting does not solve the problem,. and can sometimes make biases worse for general surveys. Here are some additional and specific problems, often neglected. In short, weighting only works if the weighting variables can predict the dependent variable to a great extent.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://1.bp.blogspot.com/-vjBRTegZb3Q/UF3EyedoEQI/AAAAAAAACe8/lc7kLoJxNis/s1600/Unbalanced_scales-too-far-right.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://1.bp.blogspot.com/-vjBRTegZb3Q/UF3EyedoEQI/AAAAAAAACe8/lc7kLoJxNis/s200/Unbalanced_scales-too-far-right.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;Weighting is usually done with socio-demographic variables. From political science research, we know that sociodemographics do a bad job of explaining voting behavior. Explained variances for regression models normally don&#39;t exceed 10%.&lt;br&gt;
+&lt;p&gt;Weighting is usually done with socio-demographic variables. From political science research, we know that sociodemographics do a bad job of explaining voting behavior. Explained variances for regression models normally don&amp;rsquo;t exceed 10%.&lt;br&gt;
 So, let me get down to the main point I would like to make in this post. A point which I have not seen discussed anywhere.&lt;/p&gt;
 &lt;p&gt;Panel survey managers have &amp;lsquo;resolved&amp;rsquo; the weakness of their weighting models by including a variable that does predict voring behavior fairly well: past voting behavior. If one knows that past Social Democrat voters are underrepresented, one can weight on that variable. This is all very well, if one has good data of past voting behavior for all panel members. The panels currently do not. Their information is wrong in two ways:&lt;/p&gt;
 &lt;p&gt;1. Access panels will never have information for people &lt;strong&gt;who did not vote previously&lt;/strong&gt;. These are mainly young people, or people who normally do not vote in elections. If these new voters vote like everyone else there is no problem, but new voters have very specific voting preferences.&lt;/p&gt;
@@ -301,9 +301,9 @@ So, let me get down to the main point I would like to make in this post. A point
     
     <item>
       <title>Dependent Interviewing, and stability in opinion polls</title>
-      <link>https://thomvolker.github.io/try_out/post/dependent-interviewing-and-longitudinal/</link>
+      <link>https://peterlugtig.github.io/post/dependent-interviewing-and-longitudinal/</link>
       <pubDate>Wed, 15 Aug 2012 19:13:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/dependent-interviewing-and-longitudinal/</guid>
+      <guid>https://peterlugtig.github.io/post/dependent-interviewing-and-longitudinal/</guid>
       <description>&lt;p&gt;I was re-reading one of the papers I wrote as part of my dissertation on survey data quality in panel surveys. The paper deals with the effects of the introduction of an interviewing technique called Dependent Interviewing in the British Household Panel Survey. I wrote this paper together with Annette Jackle, and if you are interested after reading the next bit, you can download a working paper version of it 
 &lt;a href=&#34;https://www.iser.essex.ac.uk/publications/working-papers/iser/2011-23.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;
 &lt;/p&gt;
@@ -312,16 +312,16 @@ So, let me get down to the main point I would like to make in this post. A point
 &lt;p&gt;There are of course multiple ways in which you can use information like this, and the BHPS actually uses Dependent Interviewing in a slightly more sophisticated way, but the basic idea is in my opinion quite intuitive. Why would you ask the same questions time and time again, when you already know so much about respondents?&lt;/p&gt;
 &lt;p&gt;The paper we wrote documents the effects on data quality, and specifically investigates what the effect of Dependent Interviewing is on measures of household income. In short, the effects are not huge, but it turns out that Dependent Interviewing is especially effective for poorer households. These households depend for a large part on different kinds of government transfers, and these are easily forgotten or underreported. When the effects of Dependent Interviewing are taken into account, the poorer households become a little richer, and so, all in all, poverty is actually a little lower than was previously estimated.&lt;/p&gt;
 &lt;p&gt;Perhaps interesting to Dutch readers, one of the main pollers in the Netherlands, Maurice de Hond, is also using Dependent Interviewing in his surveys (on all questions!). I am a member of his panel, and when I complete a survey, I only have to change answers if I want to, and otherwise just confirm my answers from the previous waves.&lt;/p&gt;
-&lt;p&gt;I see why Maurice de Hond has chosen to do this. Electoral preferences are very volatile, and panel surveys on voter preferences are perhaps too volatile. But I have serious doubts whether Dependent Interviewing here solves volatility. It rather creates articficial stability. In the first week of july, Maurice de Hond polled an average weekly change of seats of 10. Ipsos Synovate (see my earlier posts on why I trust them most), 12. Actually a small difference. There are many newspapers following and criticising the actual poll results. I&#39;ll try to keep you updated on volatility across the polls, meanwhile trying to answer the question whether one should trust stable polls, or volatile polls.&lt;/p&gt;
+&lt;p&gt;I see why Maurice de Hond has chosen to do this. Electoral preferences are very volatile, and panel surveys on voter preferences are perhaps too volatile. But I have serious doubts whether Dependent Interviewing here solves volatility. It rather creates articficial stability. In the first week of july, Maurice de Hond polled an average weekly change of seats of 10. Ipsos Synovate (see my earlier posts on why I trust them most), 12. Actually a small difference. There are many newspapers following and criticising the actual poll results. I&amp;rsquo;ll try to keep you updated on volatility across the polls, meanwhile trying to answer the question whether one should trust stable polls, or volatile polls.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>how to use Internet panels for polling</title>
-      <link>https://thomvolker.github.io/try_out/post/how-to-use-internet-panels-for-polling/</link>
+      <link>https://peterlugtig.github.io/post/how-to-use-internet-panels-for-polling/</link>
       <pubDate>Thu, 10 Feb 2011 11:13:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/how-to-use-internet-panels-for-polling/</guid>
-      <description>&lt;p&gt;Before people believe I&#39;m old-fashioned, I do think that Internet-surveys, even panel surveys are the future of survey research. John Krosnick makes some good points in a video shot by the people from 
+      <guid>https://peterlugtig.github.io/post/how-to-use-internet-panels-for-polling/</guid>
+      <description>&lt;p&gt;Before people believe I&amp;rsquo;m old-fashioned, I do think that Internet-surveys, even panel surveys are the future of survey research. John Krosnick makes some good points in a video shot by the people from 
 &lt;a href=&#34;http://www.blogger.com/www.pollster.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.pollster.com&lt;/a&gt;
 &lt;/p&gt;
 </description>
@@ -329,11 +329,11 @@ So, let me get down to the main point I would like to make in this post. A point
     
     <item>
       <title>checklist for quality of opinion polls</title>
-      <link>https://thomvolker.github.io/try_out/post/checklist-for-quality-of-opinion-polls/</link>
+      <link>https://peterlugtig.github.io/post/checklist-for-quality-of-opinion-polls/</link>
       <pubDate>Thu, 10 Feb 2011 10:38:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/checklist-for-quality-of-opinion-polls/</guid>
+      <guid>https://peterlugtig.github.io/post/checklist-for-quality-of-opinion-polls/</guid>
       <description>&lt;p&gt;1. Is it clear who ordered and financed the poll?&lt;br&gt;
-2. Is there a report documenting the poll&#39;s procedures?&lt;br&gt;
+2. Is there a report documenting the poll&amp;rsquo;s procedures?&lt;br&gt;
 3. Is the target population clearly described?&lt;br&gt;
 4. is the questionnaire available and has it been tested?&lt;br&gt;
 5. what were the sampling procedures?&lt;br&gt;
@@ -355,9 +355,9 @@ So, let me get down to the main point I would like to make in this post. A point
     
     <item>
       <title>the influence of polls on voting behavior</title>
-      <link>https://thomvolker.github.io/try_out/post/influence-of-polls-on-voting-behavior/</link>
+      <link>https://peterlugtig.github.io/post/influence-of-polls-on-voting-behavior/</link>
       <pubDate>Thu, 10 Feb 2011 10:11:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/influence-of-polls-on-voting-behavior/</guid>
+      <guid>https://peterlugtig.github.io/post/influence-of-polls-on-voting-behavior/</guid>
       <description>&lt;p&gt;Many opinion pollers do badly when it comes to predicting elections. This is mainly because they let their respondents self-select them into their polls. So what, who cares? The polls make for some good entertainment and easily fill the talk-shows on television. If everyone knows they cannot be trusted, why care?&lt;/p&gt;
 &lt;p&gt;We should care. In the Dutch electoral system - with 
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Proportional_representation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poportional respresentation&lt;/a&gt;
@@ -381,9 +381,9 @@ So, let me get down to the main point I would like to make in this post. A point
     
     <item>
       <title>predicting elections</title>
-      <link>https://thomvolker.github.io/try_out/post/predicting-elections/</link>
+      <link>https://peterlugtig.github.io/post/predicting-elections/</link>
       <pubDate>Mon, 17 Jan 2011 17:45:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/predicting-elections/</guid>
+      <guid>https://peterlugtig.github.io/post/predicting-elections/</guid>
       <description>&lt;p&gt;Opinion pollers do a lousy job of predicting elections. For a good read, see for example the prediction of the 
 &lt;a href=&#34;http://en.wikipedia.org/wiki/New_Hampshire_Democratic_primary,_2008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Hampshere primary&lt;/a&gt;
  in 2008, when all polls predicted Obama to win, but it was Clinton who won (albeit by a slim margin).&lt;/p&gt;
@@ -402,19 +402,19 @@ So, let me get down to the main point I would like to make in this post. A point
  did a lot better, and only missed the true result by 3 seats. I will discuss why this is in a next post, but it is just a matter of speed and low costs versus quality.&lt;/p&gt;
 &lt;p&gt;And we have known for a long, long time how to do exit polls. Although there was public outcry in the UK, when the exit poll 
 &lt;a href=&#34;http://news.bbc.co.uk/2/hi/uk_news/politics/election_2010/8666266.stm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;predicted the liberal democrats not to win the elections&lt;/a&gt;
-, it was spot on. If we know how to do it, then why don&#39;t we?&lt;/p&gt;
+, it was spot on. If we know how to do it, then why don&amp;rsquo;t we?&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>first past the post</title>
-      <link>https://thomvolker.github.io/try_out/post/first-past-post/</link>
+      <link>https://peterlugtig.github.io/post/first-past-post/</link>
       <pubDate>Mon, 10 Jan 2011 17:14:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/first-past-post/</guid>
+      <guid>https://peterlugtig.github.io/post/first-past-post/</guid>
       <description>&lt;p&gt;Dear all,&lt;/p&gt;
-&lt;p&gt;With a new year come new year&#39;s resolutions. I have been working as a survey methodologist for about the last 5 years. I teach and I do research. Teaching gives instant rewards, or at least instant feedback. I like that. Doing research is however a different matter. It is a slow and sometimes agonizing process of muddling through (for me).&lt;/p&gt;
-&lt;p&gt;Studies remain in review forever, sometimes don&#39;t make it at all into a publication, while some of my ideas or views just never make onto paper at all. I hope this blog fills that gap.&lt;/p&gt;
-&lt;p&gt;I will write in English, but might occasionally do so in Dutch if I feel like it. As far as content goes, I&#39;m not sure where all of this will lead. I might post very academic-like things very frequently, but could also publish every once in a while.&lt;/p&gt;
+&lt;p&gt;With a new year come new year&amp;rsquo;s resolutions. I have been working as a survey methodologist for about the last 5 years. I teach and I do research. Teaching gives instant rewards, or at least instant feedback. I like that. Doing research is however a different matter. It is a slow and sometimes agonizing process of muddling through (for me).&lt;/p&gt;
+&lt;p&gt;Studies remain in review forever, sometimes don&amp;rsquo;t make it at all into a publication, while some of my ideas or views just never make onto paper at all. I hope this blog fills that gap.&lt;/p&gt;
+&lt;p&gt;I will write in English, but might occasionally do so in Dutch if I feel like it. As far as content goes, I&amp;rsquo;m not sure where all of this will lead. I might post very academic-like things very frequently, but could also publish every once in a while.&lt;/p&gt;
 &lt;p&gt;As a survey methodologist my view is that data matter. Policy makers, and academics use data too often without really knowing how the data were gathered, and whether they are trustworthy. Over the past five years it is my experience that data quality is often low, leading to badly informed or even wrong decisions. Data quality is far more important that fancy statistical models or cool graphs. Hopefully you will enjoy my adventures in the jungle of improving survey data quality.&lt;/p&gt;
 &lt;p&gt;Your singalong survey methodologist,&lt;/p&gt;
 &lt;p&gt;Peter&lt;/p&gt;

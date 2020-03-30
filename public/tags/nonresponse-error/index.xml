@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nonresponse error | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/tags/nonresponse-error/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/tags/nonresponse-error/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/tags/nonresponse-error/</link>
+      <atom:link href="https://peterlugtig.github.io/tags/nonresponse-error/index.xml" rel="self" type="application/rss+xml" />
     <description>nonresponse error</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 26 Jun 2018 11:16:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>nonresponse error</title>
-      <link>https://thomvolker.github.io/try_out/tags/nonresponse-error/</link>
+      <link>https://peterlugtig.github.io/tags/nonresponse-error/</link>
     </image>
     
     <item>
       <title>Which survey error source is larger: measurement or nonresponse?</title>
-      <link>https://thomvolker.github.io/try_out/post/which-survey-error-source-is-larger/</link>
+      <link>https://peterlugtig.github.io/post/which-survey-error-source-is-larger/</link>
       <pubDate>Tue, 26 Jun 2018 11:16:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/which-survey-error-source-is-larger/</guid>
+      <guid>https://peterlugtig.github.io/post/which-survey-error-source-is-larger/</guid>
       <description>&lt;p&gt;As a survey methodologist I get paid to develop survey methods that generaly minimize survey errors, and advise people on how to field surveys in a specific setting. A question that has been bugging me for a long time is what survey error we should worry about most. The 
 &lt;a href=&#34;https://en.wikipedia.org/wiki/Total_survey_error&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Total Survey Error (TSE) framework&lt;/a&gt;
  is very helpful for thinking which type of survey error may impact survey estimates&lt;br&gt;
 But which error source is generally larger?  Nonresponse or measurement errors?&lt;/p&gt;
 &lt;p&gt;Thankfully, no one has ever asked me this question yet, because I would find it impossible to answer anything then &amp;ldquo;well, that depends&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;The reason why we don&#39;t know what error source is larger is that we can usually assess observational errors only for the people we have actually observed. There are several ways to do this. Sometimes we know the truth, and so we can compare survey answers (&amp;ldquo;do you have a valid driver&#39;s license?&amp;quot;) to data that we know from administrative records. If we are interested in attitudes, we can use psychometric models. The people behind the 
+&lt;p&gt;The reason why we don&amp;rsquo;t know what error source is larger is that we can usually assess observational errors only for the people we have actually observed. There are several ways to do this. Sometimes we know the truth, and so we can compare survey answers (&amp;ldquo;do you have a valid driver&amp;rsquo;s license?&amp;quot;) to data that we know from administrative records. If we are interested in attitudes, we can use psychometric models. The people behind the 
 &lt;a href=&#34;http://sqp.upf.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;computer programme SQP&lt;/a&gt;
  have summarised a huge number of question experiments and 
 &lt;a href=&#34;http://davidakenny.net/cm/mtmm.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MTMM models&lt;/a&gt;
@@ -56,9 +56,9 @@ But which error source is generally larger?  Nonresponse or measurement errors?
     
     <item>
       <title>Adaptive designs: 4 ways to improve panel surveys</title>
-      <link>https://thomvolker.github.io/try_out/post/adaptive-designs-4-ways-to-improve/</link>
+      <link>https://peterlugtig.github.io/post/adaptive-designs-4-ways-to-improve/</link>
       <pubDate>Wed, 20 May 2015 15:00:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/adaptive-designs-4-ways-to-improve/</guid>
+      <guid>https://peterlugtig.github.io/post/adaptive-designs-4-ways-to-improve/</guid>
       <description>&lt;p&gt;This is a follow-up on why 
 &lt;a href=&#34;http://www.peterlugtig.com/2015/01/why-panel-surveys-need-to-go-adaptive.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I think panel surveys need to adapt their data collection strategies to target individual respondents&lt;/a&gt;
 . Let me first note that apart from limiting nonresponse error, there are other reasons why we would want to do this. We can limit survey costs by using expensive survey resources only for people who need them.&lt;br&gt;
@@ -88,16 +88,18 @@ The effects of targeted letters on response in panel surveys are often small, an
 &lt;p&gt;4. Targeted tracking. I am not aware of any survey doing targeted tracking. Tracking is done during fieldwork. Respondents who are not located by an interviewer (or advance letter which bounce), are sent back to the study coordinating team, after which tracking methods are used to locate the respondent at an alternative address. From the literature we know that it is mainly people who move house who need tracking. If we can successfully predict the likelihood to move, we could potentially save time (and money) in fieldwork, by putting cases into preventive tracking. We could also potentially use a targeted order of tracking procedures, 
 &lt;a href=&#34;http://jameswagnersurv.blogspot.nl/2014/05/tracking-does-sequence-matter.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;as James Wagner has done.&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;[](&lt;a href=&#34;http://poq.oxfordjournals.org/content/77/3/696&#34;&gt;http://poq.oxfordjournals.org/content/77/3/696&lt;/a&gt;)&lt;br&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://poq.oxfordjournals.org/content/77/3/696&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;
+&lt;br&gt;
 -&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Personality predicts the likelihood and process of attrition in a panel survey</title>
-      <link>https://thomvolker.github.io/try_out/post/personality-predicts-likelihood-and/</link>
+      <link>https://peterlugtig.github.io/post/personality-predicts-likelihood-and/</link>
       <pubDate>Fri, 07 Feb 2014 17:12:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/personality-predicts-likelihood-and/</guid>
+      <guid>https://peterlugtig.github.io/post/personality-predicts-likelihood-and/</guid>
       <description>&lt;p&gt;Studies into the correlates of nonresponse often have to rely on socio-demographic variables to study whether respondents and nonrespondents in surveys differ. Often there is no other information available on sampling frames that researchers can use.&lt;/p&gt;
 &lt;p&gt;That is unfortunate, for two reasons. First, the  variables we are currently using to predict nonrespons, usually explain a very limited amount of variance of survey nonresponse. Therefore, these variables are also not effective correctors for nonresponse. So, socio-demographic variables are not that interesting to have as sampling frame data. See my earlier posts 
 &lt;a href=&#34;http://www.peterlugtig.com/2013/10/to-weight-or-to-impute-for-unit.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
@@ -129,10 +131,10 @@ The effects of targeted letters on response in panel surveys are often small, an
     
     <item>
       <title>A great lecturer, and the contextuality of nonresponse</title>
-      <link>https://thomvolker.github.io/try_out/post/a-great-lecturer-and-contextuality-of/</link>
+      <link>https://peterlugtig.github.io/post/a-great-lecturer-and-contextuality-of/</link>
       <pubDate>Mon, 21 Oct 2013 16:24:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/a-great-lecturer-and-contextuality-of/</guid>
-      <description>&lt;p&gt;I love watching videos from Richard Feynman on Youtube. Apart from being entertaining, Feynman in the video below does explain quite subtly about what constitutes a good scientific theory, and what doesn&#39;t. He is right about the fact that good theories are precise theories.&lt;/p&gt;
+      <guid>https://peterlugtig.github.io/post/a-great-lecturer-and-contextuality-of/</guid>
+      <description>&lt;p&gt;I love watching videos from Richard Feynman on Youtube. Apart from being entertaining, Feynman in the video below does explain quite subtly about what constitutes a good scientific theory, and what doesn&amp;rsquo;t. He is right about the fact that good theories are precise theories.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Richard Feynman: fragment from a class on the Philosophy of science (source: Youtube)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The video also makes me jealous of natural scientists. In the social sciences, almost all processes and causal relationships are contextual, as opposed to the natural sciences. For example: in survey methods, nonresponse is one of the phenomena 
 &lt;a href=&#34;http://www.peterlugtig.com/2013/09/nonresponse-workshop-2013.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;that is contextual&lt;/a&gt;
@@ -144,9 +146,9 @@ The effects of targeted letters on response in panel surveys are often small, an
     
     <item>
       <title>Imagine we have great covariates for correcting for unit nonresponse...</title>
-      <link>https://thomvolker.github.io/try_out/post/imagine-we-have-great-covariates-for/</link>
+      <link>https://peterlugtig.github.io/post/imagine-we-have-great-covariates-for/</link>
       <pubDate>Mon, 14 Oct 2013 10:41:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/imagine-we-have-great-covariates-for/</guid>
+      <guid>https://peterlugtig.github.io/post/imagine-we-have-great-covariates-for/</guid>
       <description>&lt;p&gt;I am continuing on the recent article and commentaries on weighting to correct for unit nonresponse by Michael Brick, as published in the recent issue of the Journal of Official Statistics (
 &lt;a href=&#34;http://www.jos.nu/Articles/abstract.asp?article=293329&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 ).&lt;/p&gt;
@@ -154,9 +156,9 @@ The effects of targeted letters on response in panel surveys are often small, an
 &lt;p&gt;1. They should explain missingness.&lt;br&gt;
 2. They should highly correlate with our variable of interest.&lt;/p&gt;
 &lt;p&gt;In other words, these are the two assumptions for a  Missing At Random process of missing data.&lt;/p&gt;
-&lt;p&gt;The variables (covariates) we currently use for nonresponse adjustments do neither. Gender, age, ethnicity, region, (and if we&#39;re lucky) education, household composition and house characterics do not explain missingness, nor our variable of interest. Would it ever be conceivable to obtain covariates that do this? What are the candidates?&lt;/p&gt;
+&lt;p&gt;The variables (covariates) we currently use for nonresponse adjustments do neither. Gender, age, ethnicity, region, (and if we&amp;rsquo;re lucky) education, household composition and house characterics do not explain missingness, nor our variable of interest. Would it ever be conceivable to obtain covariates that do this? What are the candidates?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1. covariates (X) that explain missingness (R):&lt;/strong&gt;&lt;br&gt;
-Paradata are currently our best bet. Those may be interviewer observations or call data during fieldwork (note the absence of sample level paradata for self-administered surveys - here lies a task for us). Paradata don&#39;t explain missingness very well at the moment, but I think everyone in survey research agrees we can try to collect more.&lt;br&gt;
+Paradata are currently our best bet. Those may be interviewer observations or call data during fieldwork (note the absence of sample level paradata for self-administered surveys - here lies a task for us). Paradata don&amp;rsquo;t explain missingness very well at the moment, but I think everyone in survey research agrees we can try to collect more.&lt;br&gt;
 Another set of candidates are variables that we obtain by enriching sampling frames. We can use marketing data, social networks, or census data to get more information on our sampling units.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2. covariates (X) that explain our variable of interest (Y)&lt;/strong&gt;:&lt;br&gt;
 Even if we find covariates that explain missingness, we also want those covariates to be highly correlated to our variable of interest. It is very unlikely that a fixed set of for example paradata variables can ever achieve that. Enriched frame data may be more promising, but is unlikely that this will generally work. I think it is a huge problem that our nonresponse adjustment variables (X) are not related to Y, and one that is not likely to ever be resolved for cross-sectional surveys.&lt;/p&gt;
@@ -174,9 +176,9 @@ Even if we find covariates that explain missingness, we also want those covariat
     
     <item>
       <title>To weight or to impute for unit nonresponse?</title>
-      <link>https://thomvolker.github.io/try_out/post/to-weight-or-to-impute-for-unit/</link>
+      <link>https://peterlugtig.github.io/post/to-weight-or-to-impute-for-unit/</link>
       <pubDate>Sun, 06 Oct 2013 21:49:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/to-weight-or-to-impute-for-unit/</guid>
+      <guid>https://peterlugtig.github.io/post/to-weight-or-to-impute-for-unit/</guid>
       <description>&lt;p&gt;This week, I have been reading the most recent issue of the 
 &lt;a href=&#34;http://www.jos.nu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Official Statistics&lt;/a&gt;
 , a journal that has been open access since the 1980s.  In this issue is a 
@@ -198,12 +200,12 @@ Even if we find covariates that explain missingness, we also want those covariat
 &lt;p&gt;+ The statistical properties of all design-based weighting procedures are well-known.&lt;br&gt;
 + Weighting works with complex sampling designs (at least theoretically).&lt;br&gt;
 + We need relatively little information on nonrespondents to be able to use weighting procedures. There is however a big BUT&amp;hellip;&lt;br&gt;
-- Weighting models mainly use socio-demographic data, because that is the kind of information we can add to our sampling frame. These variables are never highly correlated with our variable of interest, nor missingness due to nonresponse, so weighting is not very effective. That is, weighting theoretically works nicely, but in practice, it doesn&#39;t ameliorate the missing data problem we have because of unit nonresponse much.&lt;/p&gt;
+- Weighting models mainly use socio-demographic data, because that is the kind of information we can add to our sampling frame. These variables are never highly correlated with our variable of interest, nor missingness due to nonresponse, so weighting is not very effective. That is, weighting theoretically works nicely, but in practice, it doesn&amp;rsquo;t ameliorate the missing data problem we have because of unit nonresponse much.&lt;/p&gt;
 &lt;p&gt;Imputations are model based. Based on available information for respondents and nonrespondents, a prediction model is built for a variable which has missing information. The model can take an infinite number of shapes, depending on whether imputation is stochastic, how variables are related within the model, and what variables are being used. Based on this model, one or multiple values are imputed for every missing value on every variable for every case. The crucial difference is that weighting uses the same variables for correcting the entire dataset, whereas imputation models differ for every variable that is to be imputed.&lt;/p&gt;
 &lt;p&gt;+ Imputation models are flexible. This means that the imputation model can be optimized in such a way that it strongly predicts both the dependent variable to be imputed, and the missingness process.&lt;/p&gt;
 &lt;p&gt;- In the case of unit nonresponse, we often have limited data on nonrespondents. So, although a model-based approach may have advantages over design-based aproaches in terms of its ability to predict our variable(s) of interest, this depends on the quality of the covariates we use.&lt;/p&gt;
 &lt;p&gt;This then brings me, and the authors of the various papers in JoS back to the basic problem: 
-&lt;a href=&#34;http://www.peterlugtig.com/2013/09/nonresponse-workshop-2013.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;we don&#39;t understand the process on nonresponse in surveys&lt;/a&gt;
+&lt;a href=&#34;http://www.peterlugtig.com/2013/09/nonresponse-workshop-2013.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;we don&amp;rsquo;t understand the process on nonresponse in surveys&lt;/a&gt;
 . Next time, more on imputations and weighting for longitudinal surveys. And more on design vs. model based approaches in survey research.&lt;/p&gt;
 &lt;p&gt;p.s. This all assumes simple random sampling. If complex sampling designs are used, weighting is until now I think the best way to start dealing with nonresponse. I am unaware of imputation methods that can deal with complex sampling (other than straightforward multilevel structures).&lt;/p&gt;
 </description>
@@ -211,17 +213,17 @@ Even if we find covariates that explain missingness, we also want those covariat
     
     <item>
       <title>Nonresponse Workshop 2013</title>
-      <link>https://thomvolker.github.io/try_out/post/nonresponse-workshop-2013/</link>
+      <link>https://peterlugtig.github.io/post/nonresponse-workshop-2013/</link>
       <pubDate>Mon, 09 Sep 2013 16:48:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/nonresponse-workshop-2013/</guid>
+      <guid>https://peterlugtig.github.io/post/nonresponse-workshop-2013/</guid>
       <description>&lt;p&gt;One of the greatest challenges in survey research are declining response rates. Around the globe, it appears to become harder and harder to convince people to participate in surveys. As to why response rates are declining, researchers are unsure. A general worsening of the &amp;lsquo;survey climate&amp;rsquo;, due to increased time pressures on people in general, and direct marketing are usually blamed.&lt;/p&gt;
-&lt;p&gt;This year&#39;s 
+&lt;p&gt;This year&amp;rsquo;s 
 &lt;a href=&#34;http://www.nonresponse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nonresponse workshop&lt;/a&gt;
  was held in London last week. This was the 24th edition, and all we talk about at the workshop is how to predict, prevent or adjust for nonreponse in panel surveys.&lt;/p&gt;
-&lt;p&gt;Even though we are all concerned about declining nonresponse rates, presenters at the nonresponse workshop have found throughout the years that nonresponse cannot be predicted using respondent characteristics. The explained variance of any model rarely exceeds 0.20. Because of this, we don&#39;t really know how to predict or adjust for nonresponse either. We fortunately also find that generally, 
+&lt;p&gt;Even though we are all concerned about declining nonresponse rates, presenters at the nonresponse workshop have found throughout the years that nonresponse cannot be predicted using respondent characteristics. The explained variance of any model rarely exceeds 0.20. Because of this, we don&amp;rsquo;t really know how to predict or adjust for nonresponse either. We fortunately also find that generally, 
 &lt;a href=&#34;http://poq.oxfordjournals.org/content/72/2/167.short&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the link between nonresponse rates and nonresponse bias is wea&lt;/a&gt;
 k. In other words, high nonresponse rates are not per se biasing our substantive research findings.&lt;/p&gt;
-&lt;p&gt;At this year&#39;s nonresponse workshop presentations focused on two topics. At other survey methods conferences (
+&lt;p&gt;At this year&amp;rsquo;s nonresponse workshop presentations focused on two topics. At other survey methods conferences (
 &lt;a href=&#34;http://www.europeansurveyresearch.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESRA&lt;/a&gt;
 , 
 &lt;a href=&#34;http://www.peterlugtig.com/2013/05/aapor-2013.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAPOR&lt;/a&gt;
@@ -234,21 +236,25 @@ k. In other words, high nonresponse rates are not per se biasing our substantive
 ), and paradata during fieldwork using decision-rules (
 &lt;a href=&#34;http://jameswagnersurv.blogspot.co.uk/2010/09/responsive-design-and-adaptive-design.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;responsive designs)&lt;/a&gt;
 .&lt;/p&gt;
-&lt;p&gt;[](&lt;a href=&#34;http://www.blogger.com/blogger.g?blogID=7827313755221690631)%5B!%5B%5D(http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s400/cartoon.jpg)%5D(http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s1600/cartoon.jpg&#34;&gt;http://www.blogger.com/blogger.g?blogID=7827313755221690631)[![](http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s400/cartoon.jpg)](http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s1600/cartoon.jpg&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.blogger.com/blogger.g?blogID=7827313755221690631&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;
+
+&lt;a href=&#34;http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s1600/cartoon.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://3.bp.blogspot.com/-LsN6mFofS6k/Ui4Q3EI4XCI/AAAAAAAACmk/-Ga_L9ZC6ag/s400/cartoon.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2. Efficiency:&lt;/strong&gt; Responsive designs can be used to increase response rates or limit nonresponse bias. However, they can also be used to limit survey costs. If respondents can be contacted with fewer contact attempts, this saves money. Similarly, we can limit the amount of effort we put into groups of cases for which we already have a high response rate, and devote our resources to hard-to-get cases.&lt;/p&gt;
-&lt;p&gt;There are many interesting studies than can be done into both these areas. With time, I think we will see that succesful stratgies will be developed that limit noncontact rates, nonresponse and even nonresponse bias to some extent. Also, survey might become cheaper using responsive designs, especially if the surveys use Face-to-Face or telephone interviewing. At this year&#39;s workshop, there were no presentations on using a responsive design approach for converting soft refusals. But I can see the field moving in that direction too eventually.&lt;/p&gt;
-&lt;p&gt;Just one note of general disappointment with myself and our field remains after attending the workshop (and I&#39;ve had this feeling before):&lt;/p&gt;
+&lt;p&gt;There are many interesting studies than can be done into both these areas. With time, I think we will see that succesful stratgies will be developed that limit noncontact rates, nonresponse and even nonresponse bias to some extent. Also, survey might become cheaper using responsive designs, especially if the surveys use Face-to-Face or telephone interviewing. At this year&amp;rsquo;s workshop, there were no presentations on using a responsive design approach for converting soft refusals. But I can see the field moving in that direction too eventually.&lt;/p&gt;
+&lt;p&gt;Just one note of general disappointment with myself and our field remains after attending the workshop (and I&amp;rsquo;ve had this feeling before):&lt;/p&gt;
 &lt;p&gt;If we cannot predict nonresponse at all, and if we find that nonresponse generally has a weak effect on our survey estimates, what are we doing wrong? What are we not understanding? It feels, 
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Thomas_Kuhn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in philosophical terms,&lt;/a&gt;
- as if we survey methodologists are perhaps all using the wrong paradigm for studying and understanding the problem. Perhaps we need radically different ideas, and analytical models to study the problem of nonresponse. What these should be is perhaps anyone&#39;s guess. And if not anyone&#39;s, at least my guess.&lt;/p&gt;
+ as if we survey methodologists are perhaps all using the wrong paradigm for studying and understanding the problem. Perhaps we need radically different ideas, and analytical models to study the problem of nonresponse. What these should be is perhaps anyone&amp;rsquo;s guess. And if not anyone&amp;rsquo;s, at least my guess.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>measurement and nonresponse error in panel surveys</title>
-      <link>https://thomvolker.github.io/try_out/post/measurement-and-nonresponse-error-in/</link>
+      <link>https://peterlugtig.github.io/post/measurement-and-nonresponse-error-in/</link>
       <pubDate>Thu, 04 Jul 2013 11:57:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/measurement-and-nonresponse-error-in/</guid>
+      <guid>https://peterlugtig.github.io/post/measurement-and-nonresponse-error-in/</guid>
       <description>&lt;p&gt;I am spending time at the Institute for Social and Economic Research in Colchester, UK where I will work on a research project that investigates whether there is a tradeoff between nonresponse and measurement errors in panel surveys.&lt;/p&gt;
 &lt;p&gt;Survey methodologists have long believed that multiple survey errors have a common cause. For example, when a respondent is less motivated, this may result in nonresponse (in a panel study attrition), or in reduced cognitive effort during the interview, which in turn leads to measurement errors. Lower cognitive abilities and language problems might be other examples of common caused that lead to either nonresponse or measurement error. Understanding these common error sources is important to know whether our efforts to reduce 1 survey error source are not offset by an increase in another one. It follows from the idea that good survey design minimize 
 &lt;a href=&#34;http://poq.oxfordjournals.org/content/74/5.toc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Total Survey Error&lt;/a&gt;
@@ -256,7 +262,9 @@ k. In other words, high nonresponse rates are not per se biasing our substantive
 &lt;p&gt;Studying the trade-off has proven to be very difficult. This is because nonrespondents are by definition not observed. So, we never know how nonrespondents would answer questions, and how much measurement error is included in those answers. We can only observe measurement errors for respondents, but can not compare these to the potential measurement error of nonrespondents.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;data:image/png;base64,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&#34; alt=&#34;&#34;&gt;&lt;br&gt;
 &lt;em&gt;Hypothetical continuum of timing of survey response&lt;/em&gt;&lt;br&gt;
-[](&lt;a href=&#34;http://www.blogger.com/blogger.g?blogID=7827313755221690631&#34;&gt;http://www.blogger.com/blogger.g?blogID=7827313755221690631&lt;/a&gt;)&lt;br&gt;
+
+&lt;a href=&#34;http://www.blogger.com/blogger.g?blogID=7827313755221690631&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;
+&lt;br&gt;
 To overcome this problem, most methodologists have compared &amp;lsquo;early&amp;rsquo; respondents (people who respond very quickly in the fieldwork period) to &amp;lsquo;late&amp;rsquo; respondents (those who only participate after being reminded for example). The idea behind this, is that the probability of response is:&lt;/p&gt;
 &lt;p&gt;a) a linear continuum from very early response on the one extreme, and nonresponse on the other.&lt;br&gt;
 b) that hypothetically, nonrespondents could be converted into respondents if extreme amounts of efforts are used to do so (Voogt 2005 showed in a small-scale study in the Dutch locality of Zaandam that this is actually possible)&lt;/p&gt;
@@ -269,15 +277,15 @@ b) that hypothetically, nonrespondents could be converted into respondents if ex
     
     <item>
       <title>AAPOR 2013</title>
-      <link>https://thomvolker.github.io/try_out/post/aapor-2013/</link>
+      <link>https://peterlugtig.github.io/post/aapor-2013/</link>
       <pubDate>Thu, 23 May 2013 12:18:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/aapor-2013/</guid>
+      <guid>https://peterlugtig.github.io/post/aapor-2013/</guid>
       <description>&lt;p&gt;The 
 &lt;a href=&#34;http://www.aapor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAPOR conference&lt;/a&gt;
  last week gave an overview of what survey methodologists worry about. There were relatively few people from Europe this year, and I found that the issues methodologists worry about are sometimes different in Europe and the USA. At the upcoming 
 &lt;a href=&#34;http://www.europeansurveyresearch.org/conference&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESRA conference&lt;/a&gt;
  for example there are more than 10 sessions on the topic of mixing survey modes. At AAPOR, mixing modes was definitely not &amp;lsquo;hot&amp;rsquo;.&lt;/p&gt;
-&lt;p&gt;With 8 parallel sessions at most times, I have only seen bits and pieces of all the things that went on. So the list below is just my take on what&#39;s innovative and hot in survey research in 2013. RTI composed 
+&lt;p&gt;With 8 parallel sessions at most times, I have only seen bits and pieces of all the things that went on. So the list below is just my take on what&amp;rsquo;s innovative and hot in survey research in 2013. RTI composed 
 &lt;a href=&#34;https://blogs.rti.org/surveypost/2013/05/22/aapor-2013-the-view-from-the-twittersphere/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a summary of all tweets&lt;/a&gt;
  for a different take on what mattered at AAPOR this year&lt;/p&gt;
 &lt;p&gt;1. Probability based surveys vs. non-probability surveys. AAPOR published 
@@ -298,9 +306,9 @@ The idea of responsive designs has been around for about 15 years. I had until n
     
     <item>
       <title>Is panel attrition the same as nonresponse?</title>
-      <link>https://thomvolker.github.io/try_out/post/is-panel-attrition-same-as-nonresponse/</link>
+      <link>https://peterlugtig.github.io/post/is-panel-attrition-same-as-nonresponse/</link>
       <pubDate>Sat, 29 Sep 2012 10:49:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/is-panel-attrition-same-as-nonresponse/</guid>
+      <guid>https://peterlugtig.github.io/post/is-panel-attrition-same-as-nonresponse/</guid>
       <description>&lt;p&gt;All of my research is focused on the methods of assembling and analysis of panel survey data. One of the primary problems of panel survey projects is attrition or drop-out. Over the course of a panel survey, many respondents decide to no longer participate.&lt;/p&gt;
 &lt;p&gt;Last july I visited the panel survey methods workshop in Melbourne, at which we had extensive discussions about panel attrition. How to study it, what the consequences are (bias) for survey estimates, and how to prevent it from happening altogether.&lt;/p&gt;
 &lt;p&gt;These questions have a lot in common with the questions that are being discussed at another workshop for survey methodologists: the nonresponse workshop. The only difference is that at the nonresponse workshop we discuss one-off, cross-sectional surveys, and at the panel survey workshop, we dicuss what happens after the first wave of data collection.&lt;/p&gt;
@@ -310,7 +318,7 @@ The idea of responsive designs has been around for about 15 years. I had until n
 &lt;a href=&#34;http://2.bp.blogspot.com/-bQM6mKwQHSQ/UGa00GA-Y0I/AAAAAAAACfM/nuzk9xKEmC0/s1600/graph&amp;#43;lca9.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://2.bp.blogspot.com/-bQM6mKwQHSQ/UGa00GA-Y0I/AAAAAAAACfM/nuzk9xKEmC0/s400/graph+lca9.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;em&gt;click on the Figure to enlarge&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;For the whole story you&#39;ll have to wait for book on &amp;lsquo;Internet panel surveys&amp;rsquo; to come out somewhere in 2013, but I&#39;ll focus here on comparing initial nonrespondents to respondents who do consent, but then never participate.&lt;br&gt;
+&lt;p&gt;For the whole story you&amp;rsquo;ll have to wait for book on &amp;lsquo;Internet panel surveys&amp;rsquo; to come out somewhere in 2013, but I&amp;rsquo;ll focus here on comparing initial nonrespondents to respondents who do consent, but then never participate.&lt;br&gt;
 These groups turn out to be different. Not just a little different, but hugely different. This was somewhat surprising to me, as many survey methodologists believe that early panel attrition is some kind of continuation of initial nonresponse. It turns out not to be. Fast attriters are very different from initial nonrespondents. My hypothesis for this is that some specific groups of people may &#39; accidentily&amp;rsquo;  say yes to a first survey request, but then try to get out of the survey as fast as they can. I am still not sure what this implies for panel research (comments very welcome): does it mean that the methods that we use to target nonrespondents (persuasion principles of Cialdini et al. 1991) might not work in panel surveys, and that we need to use different methods?&lt;/p&gt;
 &lt;p&gt;I think the first few waves of a panel study are extremely important for keeping attrition low in the long run. So, I think we should perhaps prolong some of the efforts that we use in the recruitment phase (advance letters, mixed-mode contact strategy), in the first waves as well, only to resort to a cheaper contact mode later, once panel members have developed a habit of responding to the different waves in a panel.&lt;/p&gt;
 </description>
@@ -318,9 +326,9 @@ These groups turn out to be different. Not just a little different, but hugely d
     
     <item>
       <title>The trouble with nonresponse studies</title>
-      <link>https://thomvolker.github.io/try_out/post/trouble-of-nonresponse-studies/</link>
+      <link>https://peterlugtig.github.io/post/trouble-of-nonresponse-studies/</link>
       <pubDate>Fri, 21 Oct 2011 14:01:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/trouble-of-nonresponse-studies/</guid>
+      <guid>https://peterlugtig.github.io/post/trouble-of-nonresponse-studies/</guid>
       <description>&lt;p&gt;Gerry Nicolaas (of Natcen) has just written a good review on the nonresponse workshop we both attended this year. See 
 &lt;a href=&#34;http://natcenblog.blogspot.com/2011/10/challenges-to-current-practice-of.html#comment-form&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://natcenblog.blogspot.com/2011/10/challenges-to-current-practice-of.html#comment-form&lt;/a&gt;
 &lt;br&gt;
@@ -330,10 +338,10 @@ The Nonresponse Workshops are a great place to meet and discuss with survey rese
     
     <item>
       <title>matching to correct for self-selection bias in mixed-mode surveys</title>
-      <link>https://thomvolker.github.io/try_out/post/matching-to-correct-for-self-selection/</link>
+      <link>https://peterlugtig.github.io/post/matching-to-correct-for-self-selection/</link>
       <pubDate>Tue, 15 Mar 2011 21:57:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/matching-to-correct-for-self-selection/</guid>
-      <description>&lt;p&gt;Mixed mode surveys have shown to attract different types of respondents. This may imply that they are succesful. Internet surveys attract the young and telephone surveys the old, so any combination of the two can lead to better population estimates for the variable you&#39;re interested in. In other words, mixed-mode surveys can potentially ameliorate the problem that neither telephone, nor Internet surveys are able to cover the entire population.&lt;/p&gt;
+      <guid>https://peterlugtig.github.io/post/matching-to-correct-for-self-selection/</guid>
+      <description>&lt;p&gt;Mixed mode surveys have shown to attract different types of respondents. This may imply that they are succesful. Internet surveys attract the young and telephone surveys the old, so any combination of the two can lead to better population estimates for the variable you&amp;rsquo;re interested in. In other words, mixed-mode surveys can potentially ameliorate the problem that neither telephone, nor Internet surveys are able to cover the entire population.&lt;/p&gt;
 &lt;p&gt;The bad news is that mode-effects (see posts below) coincide with selection effect in mixed-mode surveys. For that reason, it is hard to determine how succesful mixed-mode surveys are, and more importantly, really hard to combine results when there are large differences in the dependent variable across the survey modes.&lt;/p&gt;
 &lt;p&gt;I think that matching is one of the few methods to adequately deal with this issue: the idea is straightforward. In any survey among the general population, there will be 1. people who are able and willing to only answer in a specific survey mode (i.e. the Internet or telephone), 2. respondents who would respond in both and 3. respondents who would not participate at all. This means that the composition of the telephone and Internet-samples in a mixed-mode survey will contain people unique to that mode, and people who can also be found in the other mode (see below - the match part).&lt;br&gt;
 
@@ -350,9 +358,9 @@ Matching can be easily done using the package
     
     <item>
       <title>studying mode effects</title>
-      <link>https://thomvolker.github.io/try_out/post/studying-mode-effects/</link>
+      <link>https://peterlugtig.github.io/post/studying-mode-effects/</link>
       <pubDate>Mon, 28 Feb 2011 18:55:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/studying-mode-effects/</guid>
+      <guid>https://peterlugtig.github.io/post/studying-mode-effects/</guid>
       <description>&lt;p&gt;Mode effects - the fact that respondents respond differently to a survey question, solely because of the mode of interviewing - are hard to study. This is because mode-effects interact with nonresponse effects. An Internet survey will atract different respondents than a telephone survey. Because of this, any differences that result from this survey, could be either due to differences in the type of respondents, or because of a mode effect.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://lh5.googleusercontent.com/-t8DHUwWDM84/TWvhBKu9KzI/AAAAAAAACW0/FoKmRyS0oVk/s1600/Survey1.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://lh5.googleusercontent.com/-t8DHUwWDM84/TWvhBKu9KzI/AAAAAAAACW0/FoKmRyS0oVk/s200/Survey1.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
@@ -361,8 +369,10 @@ Matching can be easily done using the package
 &lt;a href=&#34;http://scholar.google.nl/scholar?q=mixed&amp;#43;mode&amp;#43;survey&amp;#43;mode&amp;#43;effect&amp;amp;hl=nl&amp;amp;btnG=Zoeken&amp;amp;lr=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;google scholar search. &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;This type of design is popular, but in my view it has a great drawback: we know Internet samples and telephone surveys do only cover a part of the population. Landline telephone coverage is rapidly declining, while Internet use remains limited to about 80 per cent of the general population in Western countries. There are two alternative approaches, that deal with this issue.&lt;/p&gt;
-&lt;p&gt;[&lt;br&gt;
-](&lt;a href=&#34;https://lh3.googleusercontent.com/-DtdXWE8W930/TWvg_zBwXqI/AAAAAAAACWs/-0DfGoKAlM8/s1600/14635-Pretty-Blond-Woman-With-Tall-Hair-Wearing-Pearls-And-A-Red-Dress-And-Talking-On-A-Rotary-Dial-Landline-Telephone-Clipart-Illustration.jpg&#34;&gt;https://lh3.googleusercontent.com/-DtdXWE8W930/TWvg_zBwXqI/AAAAAAAACWs/-0DfGoKAlM8/s1600/14635-Pretty-Blond-Woman-With-Tall-Hair-Wearing-Pearls-And-A-Red-Dress-And-Talking-On-A-Rotary-Dial-Landline-Telephone-Clipart-Illustration.jpg&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://lh3.googleusercontent.com/-DtdXWE8W930/TWvg_zBwXqI/AAAAAAAACWs/-0DfGoKAlM8/s1600/14635-Pretty-Blond-Woman-With-Tall-Hair-Wearing-Pearls-And-A-Red-Dress-And-Talking-On-A-Rotary-Dial-Landline-Telephone-Clipart-Illustration.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;br&gt;
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://lh4.googleusercontent.com/-BWZRwWect0o/TWvhAhfyBkI/AAAAAAAACWw/60kUYH31A68/s1600/face&amp;#43;to&amp;#43;face&amp;#43;interview.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-BWZRwWect0o/TWvhAhfyBkI/AAAAAAAACWw/60kUYH31A68/s200/face+to+face+interview.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 
@@ -381,9 +391,9 @@ I am not aware of any mixed-mode studies that have used validation data to study
     
     <item>
       <title>mode effects</title>
-      <link>https://thomvolker.github.io/try_out/post/mode-effects/</link>
+      <link>https://peterlugtig.github.io/post/mode-effects/</link>
       <pubDate>Mon, 21 Feb 2011 08:45:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/mode-effects/</guid>
+      <guid>https://peterlugtig.github.io/post/mode-effects/</guid>
       <description>&lt;p&gt;One of the most interesting issues in survey research is the 
 &lt;a href=&#34;http://surveynet.ac.uk/sqb/datacollection/modeeffectsfactsheet.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mode effect.&lt;/a&gt;
  A mode effect can occur in mixed-mode surveys, where different questionnaire administration methods are combined. The reasons for mixing survey modes are multifold, but usually survey researchers mix modes to limit nonresponse, reach particular hard-to-reach types of respondents, or limit measurement error. It is more common today to mix modes than not mix them, for some good reasons:&lt;/p&gt;
@@ -392,10 +402,10 @@ I am not aware of any mixed-mode studies that have used validation data to study
 1. 
 &lt;a href=&#34;http://poq.oxfordjournals.org/content/70/5/637.full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nonresponse&lt;/a&gt;
  to survey requests is ever increasing. In the 1970s it was feasible to achieve a 70% response rate without too much effort in the U.S. and the Netherlands. Nowadays, this is very difficult. In order to limit costs and increase the likelihood of a response, survey organisations use a mix of consecutive modes. For example, it starts by mailing a cheap questionnaire by mail, perhaps with an URL included in the mail. Nonrespondents are then followed up by more expensive modes: they are phoned, and/or later visited at home to make sure response rates go up.&lt;/p&gt;
-&lt;p&gt;2. there are few survey modes that are able to reach everyone. In the 1990s, almost everyone had a landline phone, now only 65% does so. Internet penetration is at about 85%, but does not seem to get higher. In order to reach everyone, we have to mix modes. On top of that, certain types of respondents may have mode preferences. Young people are commonly believed to like web-surveys (I&#39;m not too sure of that), while older people like phone or face-to-face surveys.&lt;/p&gt;
+&lt;p&gt;2. there are few survey modes that are able to reach everyone. In the 1990s, almost everyone had a landline phone, now only 65% does so. Internet penetration is at about 85%, but does not seem to get higher. In order to reach everyone, we have to mix modes. On top of that, certain types of respondents may have mode preferences. Young people are commonly believed to like web-surveys (I&amp;rsquo;m not too sure of that), while older people like phone or face-to-face surveys.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://4.bp.blogspot.com/-qTCiUxUSzOM/TWIg-gW188I/AAAAAAAACWc/DXyqmohB4vI/s1600/cwln216l.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://4.bp.blogspot.com/-qTCiUxUSzOM/TWIg-gW188I/AAAAAAAACWc/DXyqmohB4vI/s320/cwln216l.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-3. for some questions, we know it is better to ask them in particular modes. Sensitive behaviors and attitudes, like drug use, committing fraud, or attitudes towards relationships, are better measured when the survey is anonymous (i.e. when no interviewer is present). For questions that are difficult and require explanation the opposite is true: interviewers are necessary for exmple to get a detailed view of someone&#39;s income.&lt;/p&gt;
+3. for some questions, we know it is better to ask them in particular modes. Sensitive behaviors and attitudes, like drug use, committing fraud, or attitudes towards relationships, are better measured when the survey is anonymous (i.e. when no interviewer is present). For questions that are difficult and require explanation the opposite is true: interviewers are necessary for exmple to get a detailed view of someone&amp;rsquo;s income.&lt;/p&gt;
 &lt;p&gt;Mixing survey modes seems to be a good idea from all these angles. One problematic feature however is that people react differently when they answer a question on the web or on the phone. This is because it makes a difference whether a questions is read out to you (phone), or whether you can read the question yourself. Also, it matters whether an interviewer is present or not, and whether you have to tell your answer or whether you can write it down. These differences between survey modes lead to all kinds of differences in the data: the mode effect. Although differences between survey modes are well documented, the problem is that mode effects and other effects are confounded: the different modes attract different people. People on the phone might be less likely to give a negative answer due to the interviewer being present, but it could also be that phone surveys attract older people, &lt;em&gt;who are also&lt;/em&gt; less likely to answer negatively. The fact that measurement errors and non-measurement errors interact in mixed-mode surveys makes it very difficult to estimate how problematic mode effects are in practice, and whether we should be worried about them. In my next post I will outline some ways how mode-effects could in my view be studied and better understood&lt;/p&gt;
 </description>
     </item>

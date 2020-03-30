@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latent Gold | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/tags/latent-gold/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/tags/latent-gold/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/tags/latent-gold/</link>
+      <atom:link href="https://peterlugtig.github.io/tags/latent-gold/index.xml" rel="self" type="application/rss+xml" />
     <description>Latent Gold</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Wed, 19 Oct 2011 11:55:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Latent Gold</title>
-      <link>https://thomvolker.github.io/try_out/tags/latent-gold/</link>
+      <link>https://peterlugtig.github.io/tags/latent-gold/</link>
     </image>
     
     <item>
       <title>SEM software</title>
-      <link>https://thomvolker.github.io/try_out/post/sem-software/</link>
+      <link>https://peterlugtig.github.io/post/sem-software/</link>
       <pubDate>Wed, 19 Oct 2011 11:55:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/sem-software/</guid>
-      <description>&lt;p&gt;I&#39;m not dead! In fact, I have been very alive over the past half a year: moving, finishing my Ph.D and starting a new job. With all that settled, I am determined to start where I left off.&lt;/p&gt;
-&lt;p&gt;I often get questions about software to do Structural Equation Modeling. There are quite a few packages out there, some more user-friendly or sophisticated than others. Here is an overview of existing packages and my opinion on the pro&#39;s and cons of each.&lt;br&gt;
+      <guid>https://peterlugtig.github.io/post/sem-software/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m not dead! In fact, I have been very alive over the past half a year: moving, finishing my Ph.D and starting a new job. With all that settled, I am determined to start where I left off.&lt;/p&gt;
+&lt;p&gt;I often get questions about software to do Structural Equation Modeling. There are quite a few packages out there, some more user-friendly or sophisticated than others. Here is an overview of existing packages and my opinion on the pro&amp;rsquo;s and cons of each.&lt;br&gt;
 
 &lt;a href=&#34;http://3.bp.blogspot.com/-VbHwXVzP5cM/Tp6fdypvVFI/AAAAAAAACdI/cdqarK5Rmw4/s1600/meetmodel&amp;#43;3&amp;#43;indicatoren.bmp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://3.bp.blogspot.com/-VbHwXVzP5cM/Tp6fdypvVFI/AAAAAAAACdI/cdqarK5Rmw4/s200/meetmodel+3+indicatoren.bmp&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;br&gt;
@@ -29,7 +29,7 @@ I was trained to work with LISREL as a student.
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Karl_Gustav_J%C3%B6reskog&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Karl Joreskog&lt;/a&gt;
 , one of the great pioneers of SEM and 
 &lt;a href=&#34;http://www.linkedin.com/pub/dag-s%C3%B6rbom/17/572/85b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dag Sorbom&lt;/a&gt;
-. Although it hasn&#39;t been updated for over 5 years, it is still one of the most widely used software packages. The great thing about LISREL is that it allows flexibility. It can handle categorical data and multilevel-data. The LISREL language has been adopted by other SEM-packages. LISREL requires users to know some matrix algebra, to understand what specific parameters to estimate.&lt;/p&gt;
+. Although it hasn&amp;rsquo;t been updated for over 5 years, it is still one of the most widely used software packages. The great thing about LISREL is that it allows flexibility. It can handle categorical data and multilevel-data. The LISREL language has been adopted by other SEM-packages. LISREL requires users to know some matrix algebra, to understand what specific parameters to estimate.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://www.vcu.edu/mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mx&lt;/a&gt;
  and 
@@ -65,7 +65,7 @@ Since 2000 some new software packages have taken over the role of LISREL, Mx and
 &lt;a href=&#34;http://openmx.psyc.virginia.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenMx&lt;/a&gt;
  (mentioned earlier) and 
 &lt;a href=&#34;http://lavaan.ugent.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lavaan&lt;/a&gt;
- seem to the two packages that are currently most advanced. I&#39;ve heard mixed opinions about the 
+ seem to the two packages that are currently most advanced. I&amp;rsquo;ve heard mixed opinions about the 
 &lt;a href=&#34;http://socserv.mcmaster.ca/jfox/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sem&lt;/a&gt;
  package in R, so would not opt for that package&lt;/p&gt;
 </description>

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>exit poll | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/tags/exit-poll/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/tags/exit-poll/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/tags/exit-poll/</link>
+      <atom:link href="https://peterlugtig.github.io/tags/exit-poll/index.xml" rel="self" type="application/rss+xml" />
     <description>exit poll</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 13 Sep 2012 11:57:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>exit poll</title>
-      <link>https://thomvolker.github.io/try_out/tags/exit-poll/</link>
+      <link>https://peterlugtig.github.io/tags/exit-poll/</link>
     </image>
     
     <item>
       <title>Dutch elections 2012 - poll results</title>
-      <link>https://thomvolker.github.io/try_out/post/dutch-elections-2012-poll-results/</link>
+      <link>https://peterlugtig.github.io/post/dutch-elections-2012-poll-results/</link>
       <pubDate>Thu, 13 Sep 2012 11:57:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/dutch-elections-2012-poll-results/</guid>
+      <guid>https://peterlugtig.github.io/post/dutch-elections-2012-poll-results/</guid>
       <description>&lt;p&gt;The night after the election, one can conclude that all pollsters in the Netherlands did a bad job of predicting the election results. All polls were at least off by 20 seats (out of 150), and I expect the newspapers to make headlines of this in the next days. See the table below for the final predictions (before election day), the exit poll and final election results. The last row shows how much each poll was off (in the number of seats&lt;/p&gt;
 &lt;p&gt;Actually, I think the pollsters did pretty well this time. The only thing all of them mispredicted, was a large number of PVV voters moving to VVD, and a lot of SP voters moving to the PvdA, This movement was visible in the last polls leading up to the elections, but the pollsters either underestimated it, or a lot of people switched for the winner on election date.&lt;/p&gt;
 &lt;p&gt;So, I predicted Synovate would do best, but that did not turn out to be the case. Well, they share first place with Maurice de Hond, but are not clearly better than others. There are lots of blogs, articles and news items about Internet Panels these days. I spent some blogposts on that issue in 2009 myself. Although the largest reason why pollers generally do so badly is that they do not draw random samples, I think there are two more reasons why pollsters do badly. I plan to spend my next two blog posts on these topics, so stay tuned for more on the following issue.&lt;/p&gt;
-&lt;p&gt;Pollsters use statistical weighting to account for the unrepresentativity of their panel. They do this on sociodemographic characteristics and past voting behavior. I believe it is wrong to weight (in general), and specifically to do so on past voting behavior. I&#39;ll show you why in the next days.&lt;/p&gt;
+&lt;p&gt;Pollsters use statistical weighting to account for the unrepresentativity of their panel. They do this on sociodemographic characteristics and past voting behavior. I believe it is wrong to weight (in general), and specifically to do so on past voting behavior. I&amp;rsquo;ll show you why in the next days.&lt;/p&gt;
 &lt;p&gt;No. of seats in partliament 2012&lt;/p&gt;
 &lt;p&gt; Maurice de Hond (peil.nl)&lt;/p&gt;
 &lt;p&gt;Intomart/de stemming&lt;/p&gt;
@@ -63,7 +63,7 @@
 &lt;p&gt;12&lt;/p&gt;
 &lt;p&gt;13&lt;/p&gt;
 &lt;p&gt;13&lt;/p&gt;
-&lt;p&gt;D&#39;66 (center liberals)&lt;/p&gt;
+&lt;p&gt;D&amp;rsquo;66 (center liberals)&lt;/p&gt;
 &lt;p&gt;11&lt;/p&gt;
 &lt;p&gt;11&lt;/p&gt;
 &lt;p&gt;10&lt;/p&gt;
@@ -116,9 +116,9 @@
     
     <item>
       <title>the influence of polls on voting behavior</title>
-      <link>https://thomvolker.github.io/try_out/post/influence-of-polls-on-voting-behavior/</link>
+      <link>https://peterlugtig.github.io/post/influence-of-polls-on-voting-behavior/</link>
       <pubDate>Thu, 10 Feb 2011 10:11:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/influence-of-polls-on-voting-behavior/</guid>
+      <guid>https://peterlugtig.github.io/post/influence-of-polls-on-voting-behavior/</guid>
       <description>&lt;p&gt;Many opinion pollers do badly when it comes to predicting elections. This is mainly because they let their respondents self-select them into their polls. So what, who cares? The polls make for some good entertainment and easily fill the talk-shows on television. If everyone knows they cannot be trusted, why care?&lt;/p&gt;
 &lt;p&gt;We should care. In the Dutch electoral system - with 
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Proportional_representation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poportional respresentation&lt;/a&gt;
@@ -142,11 +142,11 @@
     
     <item>
       <title>how to do an exit-poll</title>
-      <link>https://thomvolker.github.io/try_out/post/how-to-do-exit-poll/</link>
+      <link>https://peterlugtig.github.io/post/how-to-do-exit-poll/</link>
       <pubDate>Mon, 24 Jan 2011 11:05:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/how-to-do-exit-poll/</guid>
+      <guid>https://peterlugtig.github.io/post/how-to-do-exit-poll/</guid>
       <description>&lt;p&gt;There are several ways to do an exit poll, but they all come down to asking people what they voted, right after they went into the voting booth. The first succesfull modern exit poll was conducted in 
-&lt;a href=&#34;http://www.buzzle.com/articles/history-of-exit-polls.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1967 to predict the governor&#39;s election of Kentucky&lt;/a&gt;
+&lt;a href=&#34;http://www.buzzle.com/articles/history-of-exit-polls.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1967 to predict the governor&amp;rsquo;s election of Kentucky&lt;/a&gt;
 .&lt;/p&gt;
 &lt;p&gt;One of the difficulties in exit polling, is that some people might not want to say whom they vote for, especially if this person is politically controversial. This might be one of the reasons 
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Party_for_Freedom&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;why Geert Wilders, and the PVV&lt;/a&gt;
@@ -167,9 +167,9 @@ Wisely, the Dutch news stations (ANP, NOS, RTL) chose to do a proper, old-school
     
     <item>
       <title>predicting elections</title>
-      <link>https://thomvolker.github.io/try_out/post/predicting-elections/</link>
+      <link>https://peterlugtig.github.io/post/predicting-elections/</link>
       <pubDate>Mon, 17 Jan 2011 17:45:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/predicting-elections/</guid>
+      <guid>https://peterlugtig.github.io/post/predicting-elections/</guid>
       <description>&lt;p&gt;Opinion pollers do a lousy job of predicting elections. For a good read, see for example the prediction of the 
 &lt;a href=&#34;http://en.wikipedia.org/wiki/New_Hampshire_Democratic_primary,_2008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Hampshere primary&lt;/a&gt;
  in 2008, when all polls predicted Obama to win, but it was Clinton who won (albeit by a slim margin).&lt;/p&gt;
@@ -188,7 +188,7 @@ Wisely, the Dutch news stations (ANP, NOS, RTL) chose to do a proper, old-school
  did a lot better, and only missed the true result by 3 seats. I will discuss why this is in a next post, but it is just a matter of speed and low costs versus quality.&lt;/p&gt;
 &lt;p&gt;And we have known for a long, long time how to do exit polls. Although there was public outcry in the UK, when the exit poll 
 &lt;a href=&#34;http://news.bbc.co.uk/2/hi/uk_news/politics/election_2010/8666266.stm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;predicted the liberal democrats not to win the elections&lt;/a&gt;
-, it was spot on. If we know how to do it, then why don&#39;t we?&lt;/p&gt;
+, it was spot on. If we know how to do it, then why don&amp;rsquo;t we?&lt;/p&gt;
 </description>
     </item>
     

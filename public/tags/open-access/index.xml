@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>open access | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/tags/open-access/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/tags/open-access/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/tags/open-access/</link>
+      <atom:link href="https://peterlugtig.github.io/tags/open-access/index.xml" rel="self" type="application/rss+xml" />
     <description>open access</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 17 Oct 2013 10:09:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>open access</title>
-      <link>https://thomvolker.github.io/try_out/tags/open-access/</link>
+      <link>https://peterlugtig.github.io/tags/open-access/</link>
     </image>
     
     <item>
       <title>My prayers on peer-reviewed datasets are instantly answered</title>
-      <link>https://thomvolker.github.io/try_out/post/my-prayers-on-peer-reviewed-datasets/</link>
+      <link>https://peterlugtig.github.io/post/my-prayers-on-peer-reviewed-datasets/</link>
       <pubDate>Thu, 17 Oct 2013 10:09:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/my-prayers-on-peer-reviewed-datasets/</guid>
+      <guid>https://peterlugtig.github.io/post/my-prayers-on-peer-reviewed-datasets/</guid>
       <description>&lt;p&gt;Three weeks ago, I wrote about the fact that I think that it would be great if we could have 
 &lt;a href=&#34;http://www.peterlugtig.com/2013/09/publish-your-data.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a journal on peer-reviewed datasets&lt;/a&gt;
  (along with data being accessible).&lt;/p&gt;
@@ -32,9 +32,9 @@
     
     <item>
       <title>Publish your data</title>
-      <link>https://thomvolker.github.io/try_out/post/publish-your-data/</link>
+      <link>https://peterlugtig.github.io/post/publish-your-data/</link>
       <pubDate>Mon, 23 Sep 2013 12:27:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/publish-your-data/</guid>
+      <guid>https://peterlugtig.github.io/post/publish-your-data/</guid>
       <description>&lt;p&gt;This morning, an official enquiry into the scientific conduct of 
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Mart_Bax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;professor Mart Bax&lt;/a&gt;
  concluded that he had committed large-scale scientific fraud over a period of 15 years. Mart Bax is a now-retired professor of political anthropology at the Free University Amsterdam. In 2012 a journalist first accused him of fraud, and this spring, the Volkskrant, one of the big newspapers in the Netherlands reported they were not able to find any of the informants Mart Bax had used in his studies.&lt;/p&gt;
@@ -42,7 +42,7 @@
 &lt;a href=&#34;https://www.dropbox.com/s/pjrwxvbw175cpo1/rapport%20Bax.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here (in Dutch)&lt;/a&gt;
 . In summary, Mart Bax most likely made up at least 64, mostly peer-reviewed articles and recycled his own articles using different titles in different journals. Although the investigation could not rule out that some studies were just done sloppily the overall picture from the report is one of overall scientific misconduct.&lt;/p&gt;
 &lt;p&gt;So, what to do about this? I have a clear opinion on this: 
-&lt;a href=&#34;http://www.peterlugtig.com/2013/09/how-to-improve-social-sciences.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Make your data available, and replicate other people&#39;s studies&lt;/a&gt;
+&lt;a href=&#34;http://www.peterlugtig.com/2013/09/how-to-improve-social-sciences.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Make your data available, and replicate other people&amp;rsquo;s studies&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;What strikes me, is that it seems normal to some social scientists not to store interviews (whether on tape or anonymized in scripts) or publish datasets. It may be a little more difficult for qualitative researchers than quantitative researchers to do this. Back in the 1990s, when Mart Bax committed this fraud, it may have been really complicated to publish such transcripts online. Nowadays, it is dead easy however, and some, although not many journals offer this service. See for some good examples in the social sciences:&lt;/p&gt;
 &lt;p&gt;- 
@@ -64,9 +64,9 @@ d. As social scientists, we have a long way to go to tackle fraud, and generally
     
     <item>
       <title>How to improve the social sciences</title>
-      <link>https://thomvolker.github.io/try_out/post/how-to-improve-social-sciences/</link>
+      <link>https://peterlugtig.github.io/post/how-to-improve-social-sciences/</link>
       <pubDate>Sat, 14 Sep 2013 15:37:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/how-to-improve-social-sciences/</guid>
+      <guid>https://peterlugtig.github.io/post/how-to-improve-social-sciences/</guid>
       <description>&lt;p&gt;Social scientists (and psychology in particular) have in recent years had somethings of a bad press, both in- and outside academia. To give some examples:&lt;/p&gt;
 &lt;p&gt;- There is a sense among some people that 
 &lt;a href=&#34;http://www.socialsciencespace.com/2013/07/attacks-on-us-federal-funding-of-the-social-sciences-will-continue-to-intensify/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;social science provides little societal or economical value.&lt;/a&gt;
@@ -83,8 +83,8 @@ d. As social scientists, we have a long way to go to tackle fraud, and generally
 &lt;a href=&#34;http://www.easp.eu/news/Statement%20EASP%20on%20Levelt_December_%202012.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;defensive attitude many social scientists&lt;/a&gt;
  take on fraud, opnness, and replicability. Instead of just being defensive, try do some something constructive with critique we receive as a field.&lt;/p&gt;
 &lt;p&gt;At this 
-&lt;a href=&#34;http://www.gesis.org/en/events/gesis-summer-school/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;year&#39;s GESIS summer school,&lt;/a&gt;
- I gave a talk about the topic of survey errors and how to improve social science as a whole. I think it is really time to change the way we as social scientists do our work. We have to be more open about what we do and how we do it. Not only so we can strenghthen the position of the social sciences in general, but more importantly to make progress as a field. Many theories in the social sciences are founded on empirical research findings, that can either not be replicated, are based on wrong statistical analyses, or are based on fraudulated data. Dreaming up data is the worst example of fraud, but I count as fraud also selectively deleting those cases that don&#39;t support your theory, or presenting exploratory analyses as confirmatory. This last point especially is common throughout the social sciences (and in other disciplines as well).&lt;/p&gt;
+&lt;a href=&#34;http://www.gesis.org/en/events/gesis-summer-school/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;year&amp;rsquo;s GESIS summer school,&lt;/a&gt;
+ I gave a talk about the topic of survey errors and how to improve social science as a whole. I think it is really time to change the way we as social scientists do our work. We have to be more open about what we do and how we do it. Not only so we can strenghthen the position of the social sciences in general, but more importantly to make progress as a field. Many theories in the social sciences are founded on empirical research findings, that can either not be replicated, are based on wrong statistical analyses, or are based on fraudulated data. Dreaming up data is the worst example of fraud, but I count as fraud also selectively deleting those cases that don&amp;rsquo;t support your theory, or presenting exploratory analyses as confirmatory. This last point especially is common throughout the social sciences (and in other disciplines as well).&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://3.bp.blogspot.com/-8jF-Uu_-d5A/UjRlcO3LhUI/AAAAAAAACm0/R1nCSlaMRnA/s1600/graphic2-for-blog3.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://3.bp.blogspot.com/-8jF-Uu_-d5A/UjRlcO3LhUI/AAAAAAAACm0/R1nCSlaMRnA/s400/graphic2-for-blog3.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;/p&gt;
@@ -106,10 +106,10 @@ _(source: &lt;a href=&#34;http://blogs.scientificamerican.com/talking-back/2013/
     
     <item>
       <title>Open access: things we can learn from the natural sciences</title>
-      <link>https://thomvolker.github.io/try_out/post/open-access-things-we-can-learn-from/</link>
+      <link>https://peterlugtig.github.io/post/open-access-things-we-can-learn-from/</link>
       <pubDate>Mon, 01 Apr 2013 10:05:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/open-access-things-we-can-learn-from/</guid>
-      <description>&lt;p&gt;I was  pointed to an interview with two Harvard professors, one of them my (former) idol Gary King, talking about the need for open access publishing. I&#39;m re-posting it here as a reminder to myself, and to anyone from the social sciences (or survey methods), that we should be more open about what we do and write. Too often, papers take years to appear in print-journals, and even then, these articles probably don&#39;t make it to those people without subscriptions to all the main publishers.&lt;/p&gt;
+      <guid>https://peterlugtig.github.io/post/open-access-things-we-can-learn-from/</guid>
+      <description>&lt;p&gt;I was  pointed to an interview with two Harvard professors, one of them my (former) idol Gary King, talking about the need for open access publishing. I&amp;rsquo;m re-posting it here as a reminder to myself, and to anyone from the social sciences (or survey methods), that we should be more open about what we do and write. Too often, papers take years to appear in print-journals, and even then, these articles probably don&amp;rsquo;t make it to those people without subscriptions to all the main publishers.&lt;/p&gt;
 &lt;p&gt;One practical question to anyone reading this: the natural sciences have ArXiv: a system where everyone published work-in-progress. Does anyone know of initiatives in this direction in the social sciences?&lt;/p&gt;
 </description>
     </item>

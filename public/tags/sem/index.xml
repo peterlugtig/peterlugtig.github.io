@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SEM | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/tags/sem/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/tags/sem/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/tags/sem/</link>
+      <atom:link href="https://peterlugtig.github.io/tags/sem/index.xml" rel="self" type="application/rss+xml" />
     <description>SEM</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 04 Jul 2013 11:57:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>SEM</title>
-      <link>https://thomvolker.github.io/try_out/tags/sem/</link>
+      <link>https://peterlugtig.github.io/tags/sem/</link>
     </image>
     
     <item>
       <title>measurement and nonresponse error in panel surveys</title>
-      <link>https://thomvolker.github.io/try_out/post/measurement-and-nonresponse-error-in/</link>
+      <link>https://peterlugtig.github.io/post/measurement-and-nonresponse-error-in/</link>
       <pubDate>Thu, 04 Jul 2013 11:57:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/measurement-and-nonresponse-error-in/</guid>
+      <guid>https://peterlugtig.github.io/post/measurement-and-nonresponse-error-in/</guid>
       <description>&lt;p&gt;I am spending time at the Institute for Social and Economic Research in Colchester, UK where I will work on a research project that investigates whether there is a tradeoff between nonresponse and measurement errors in panel surveys.&lt;/p&gt;
 &lt;p&gt;Survey methodologists have long believed that multiple survey errors have a common cause. For example, when a respondent is less motivated, this may result in nonresponse (in a panel study attrition), or in reduced cognitive effort during the interview, which in turn leads to measurement errors. Lower cognitive abilities and language problems might be other examples of common caused that lead to either nonresponse or measurement error. Understanding these common error sources is important to know whether our efforts to reduce 1 survey error source are not offset by an increase in another one. It follows from the idea that good survey design minimize 
 &lt;a href=&#34;http://poq.oxfordjournals.org/content/74/5.toc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Total Survey Error&lt;/a&gt;
@@ -24,7 +24,9 @@
 &lt;p&gt;Studying the trade-off has proven to be very difficult. This is because nonrespondents are by definition not observed. So, we never know how nonrespondents would answer questions, and how much measurement error is included in those answers. We can only observe measurement errors for respondents, but can not compare these to the potential measurement error of nonrespondents.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;data:image/png;base64,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&#34; alt=&#34;&#34;&gt;&lt;br&gt;
 &lt;em&gt;Hypothetical continuum of timing of survey response&lt;/em&gt;&lt;br&gt;
-[](&lt;a href=&#34;http://www.blogger.com/blogger.g?blogID=7827313755221690631&#34;&gt;http://www.blogger.com/blogger.g?blogID=7827313755221690631&lt;/a&gt;)&lt;br&gt;
+
+&lt;a href=&#34;http://www.blogger.com/blogger.g?blogID=7827313755221690631&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;
+&lt;br&gt;
 To overcome this problem, most methodologists have compared &amp;lsquo;early&amp;rsquo; respondents (people who respond very quickly in the fieldwork period) to &amp;lsquo;late&amp;rsquo; respondents (those who only participate after being reminded for example). The idea behind this, is that the probability of response is:&lt;/p&gt;
 &lt;p&gt;a) a linear continuum from very early response on the one extreme, and nonresponse on the other.&lt;br&gt;
 b) that hypothetically, nonrespondents could be converted into respondents if extreme amounts of efforts are used to do so (Voogt 2005 showed in a small-scale study in the Dutch locality of Zaandam that this is actually possible)&lt;/p&gt;
@@ -37,10 +39,10 @@ b) that hypothetically, nonrespondents could be converted into respondents if ex
     
     <item>
       <title>Bayesian Structural Equation Modeling</title>
-      <link>https://thomvolker.github.io/try_out/post/bayesian-structural-equation-modeling/</link>
+      <link>https://peterlugtig.github.io/post/bayesian-structural-equation-modeling/</link>
       <pubDate>Mon, 08 Oct 2012 14:26:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/bayesian-structural-equation-modeling/</guid>
-      <description>&lt;p&gt;In August, I organised a three-week summerschool with my colleagues in Utrecht on new features in MPLUS 7, the software we use to build Structural Equation Models. Video&#39;s of all lectures can be found 
+      <guid>https://peterlugtig.github.io/post/bayesian-structural-equation-modeling/</guid>
+      <description>&lt;p&gt;In August, I organised a three-week summerschool with my colleagues in Utrecht on new features in MPLUS 7, the software we use to build Structural Equation Models. Video&amp;rsquo;s of all lectures can be found 
 &lt;a href=&#34;http://mplus.fss.uu.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;The 
@@ -52,11 +54,11 @@ b) that hypothetically, nonrespondents could be converted into respondents if ex
     
     <item>
       <title>SEM software</title>
-      <link>https://thomvolker.github.io/try_out/post/sem-software/</link>
+      <link>https://peterlugtig.github.io/post/sem-software/</link>
       <pubDate>Wed, 19 Oct 2011 11:55:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/sem-software/</guid>
-      <description>&lt;p&gt;I&#39;m not dead! In fact, I have been very alive over the past half a year: moving, finishing my Ph.D and starting a new job. With all that settled, I am determined to start where I left off.&lt;/p&gt;
-&lt;p&gt;I often get questions about software to do Structural Equation Modeling. There are quite a few packages out there, some more user-friendly or sophisticated than others. Here is an overview of existing packages and my opinion on the pro&#39;s and cons of each.&lt;br&gt;
+      <guid>https://peterlugtig.github.io/post/sem-software/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m not dead! In fact, I have been very alive over the past half a year: moving, finishing my Ph.D and starting a new job. With all that settled, I am determined to start where I left off.&lt;/p&gt;
+&lt;p&gt;I often get questions about software to do Structural Equation Modeling. There are quite a few packages out there, some more user-friendly or sophisticated than others. Here is an overview of existing packages and my opinion on the pro&amp;rsquo;s and cons of each.&lt;br&gt;
 
 &lt;a href=&#34;http://3.bp.blogspot.com/-VbHwXVzP5cM/Tp6fdypvVFI/AAAAAAAACdI/cdqarK5Rmw4/s1600/meetmodel&amp;#43;3&amp;#43;indicatoren.bmp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://3.bp.blogspot.com/-VbHwXVzP5cM/Tp6fdypvVFI/AAAAAAAACdI/cdqarK5Rmw4/s200/meetmodel+3+indicatoren.bmp&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;br&gt;
@@ -67,7 +69,7 @@ I was trained to work with LISREL as a student.
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Karl_Gustav_J%C3%B6reskog&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Karl Joreskog&lt;/a&gt;
 , one of the great pioneers of SEM and 
 &lt;a href=&#34;http://www.linkedin.com/pub/dag-s%C3%B6rbom/17/572/85b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dag Sorbom&lt;/a&gt;
-. Although it hasn&#39;t been updated for over 5 years, it is still one of the most widely used software packages. The great thing about LISREL is that it allows flexibility. It can handle categorical data and multilevel-data. The LISREL language has been adopted by other SEM-packages. LISREL requires users to know some matrix algebra, to understand what specific parameters to estimate.&lt;/p&gt;
+. Although it hasn&amp;rsquo;t been updated for over 5 years, it is still one of the most widely used software packages. The great thing about LISREL is that it allows flexibility. It can handle categorical data and multilevel-data. The LISREL language has been adopted by other SEM-packages. LISREL requires users to know some matrix algebra, to understand what specific parameters to estimate.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://www.vcu.edu/mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mx&lt;/a&gt;
  and 
@@ -103,7 +105,7 @@ Since 2000 some new software packages have taken over the role of LISREL, Mx and
 &lt;a href=&#34;http://openmx.psyc.virginia.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenMx&lt;/a&gt;
  (mentioned earlier) and 
 &lt;a href=&#34;http://lavaan.ugent.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lavaan&lt;/a&gt;
- seem to the two packages that are currently most advanced. I&#39;ve heard mixed opinions about the 
+ seem to the two packages that are currently most advanced. I&amp;rsquo;ve heard mixed opinions about the 
 &lt;a href=&#34;http://socserv.mcmaster.ca/jfox/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sem&lt;/a&gt;
  package in R, so would not opt for that package&lt;/p&gt;
 </description>
@@ -111,9 +113,9 @@ Since 2000 some new software packages have taken over the role of LISREL, Mx and
     
     <item>
       <title>Statistical modeling: SEM</title>
-      <link>https://thomvolker.github.io/try_out/post/statistical-modeling-recent-advances/</link>
+      <link>https://peterlugtig.github.io/post/statistical-modeling-recent-advances/</link>
       <pubDate>Tue, 10 May 2011 14:34:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/statistical-modeling-recent-advances/</guid>
+      <guid>https://peterlugtig.github.io/post/statistical-modeling-recent-advances/</guid>
       <description>&lt;p&gt;Sorry for the long silence: have been caught up in work and other things that were always more pressing than writing blog posts. Perhaps it is also because I found it hard to write about statistical modeling. Statistical models are usually complex, and therefore it is difficult to write about them in an accessible way.&lt;/p&gt;
 &lt;p&gt;Statistical models are everywhere; their goal is to summarize our world in such a way as to capture the essence, and leave out the irrelevant complexities. Therefore, I see graphs, figures and visualisation tools themselves as models not very differently from statistical models.&lt;br&gt;
 In the social sciences, I think statistical models are complex in two ways, that make them different from models in physics.&lt;br&gt;

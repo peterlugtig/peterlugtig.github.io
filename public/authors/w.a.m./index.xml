@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>W.A.M. | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/authors/w.a.m./</link>
-      <atom:link href="https://thomvolker.github.io/try_out/authors/w.a.m./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/authors/w.a.m./</link>
+      <atom:link href="https://peterlugtig.github.io/authors/w.a.m./index.xml" rel="self" type="application/rss+xml" />
     <description>W.A.M.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 11 Oct 2016 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>W.A.M.</title>
-      <link>https://thomvolker.github.io/try_out/authors/w.a.m./</link>
+      <link>https://peterlugtig.github.io/authors/w.a.m./</link>
     </image>
     
     <item>
       <title>Incidence and recurrence of common mental disorders after abortion: Results from a prospective cohort study</title>
-      <link>https://thomvolker.github.io/try_out/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</link>
+      <link>https://peterlugtig.github.io/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</guid>
+      <guid>https://peterlugtig.github.io/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential effects of baseline drinking status: Effects of an alcohol prevention program targeting students and/or parents (PAS) among weekly drinking students</title>
-      <link>https://thomvolker.github.io/try_out/publication/2014_koning_differential_effects_of_baseline_drinking/</link>
+      <link>https://peterlugtig.github.io/publication/2014_koning_differential_effects_of_baseline_drinking/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/publication/2014_koning_differential_effects_of_baseline_drinking/</guid>
+      <guid>https://peterlugtig.github.io/publication/2014_koning_differential_effects_of_baseline_drinking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prevalence and predictors of transitions into co-occurring risk behaviour patterns in adolescence: The TRAILS study</title>
-      <link>https://thomvolker.github.io/try_out/publication/2012_monshouwer_prevalence_and_predictors/</link>
+      <link>https://peterlugtig.github.io/publication/2012_monshouwer_prevalence_and_predictors/</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/publication/2012_monshouwer_prevalence_and_predictors/</guid>
+      <guid>https://peterlugtig.github.io/publication/2012_monshouwer_prevalence_and_predictors/</guid>
       <description></description>
     </item>
     

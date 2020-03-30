@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>De Ridder | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/authors/de-ridder/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/authors/de-ridder/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/authors/de-ridder/</link>
+      <atom:link href="https://peterlugtig.github.io/authors/de-ridder/index.xml" rel="self" type="application/rss+xml" />
     <description>De Ridder</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Sat, 12 Feb 2011 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>De Ridder</title>
-      <link>https://thomvolker.github.io/try_out/authors/de-ridder/</link>
+      <link>https://peterlugtig.github.io/authors/de-ridder/</link>
     </image>
     
     <item>
       <title>Not doing bad things is not equivalent to doing the right thing: Distinguishing between inhibitory and initiatory self-control</title>
-      <link>https://thomvolker.github.io/try_out/publication/2011_de_ridder_not_doing_bad_things/</link>
+      <link>https://peterlugtig.github.io/publication/2011_de_ridder_not_doing_bad_things/</link>
       <pubDate>Sat, 12 Feb 2011 00:00:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/publication/2011_de_ridder_not_doing_bad_things/</guid>
+      <guid>https://peterlugtig.github.io/publication/2011_de_ridder_not_doing_bad_things/</guid>
       <description></description>
     </item>
     

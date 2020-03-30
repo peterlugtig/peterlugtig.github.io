@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>coverage error | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/tags/coverage-error/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/tags/coverage-error/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/tags/coverage-error/</link>
+      <atom:link href="https://peterlugtig.github.io/tags/coverage-error/index.xml" rel="self" type="application/rss+xml" />
     <description>coverage error</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Sun, 06 Oct 2013 21:49:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>coverage error</title>
-      <link>https://thomvolker.github.io/try_out/tags/coverage-error/</link>
+      <link>https://peterlugtig.github.io/tags/coverage-error/</link>
     </image>
     
     <item>
       <title>To weight or to impute for unit nonresponse?</title>
-      <link>https://thomvolker.github.io/try_out/post/to-weight-or-to-impute-for-unit/</link>
+      <link>https://peterlugtig.github.io/post/to-weight-or-to-impute-for-unit/</link>
       <pubDate>Sun, 06 Oct 2013 21:49:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/to-weight-or-to-impute-for-unit/</guid>
+      <guid>https://peterlugtig.github.io/post/to-weight-or-to-impute-for-unit/</guid>
       <description>&lt;p&gt;This week, I have been reading the most recent issue of the 
 &lt;a href=&#34;http://www.jos.nu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Official Statistics&lt;/a&gt;
 , a journal that has been open access since the 1980s.  In this issue is a 
@@ -38,12 +38,12 @@
 &lt;p&gt;+ The statistical properties of all design-based weighting procedures are well-known.&lt;br&gt;
 + Weighting works with complex sampling designs (at least theoretically).&lt;br&gt;
 + We need relatively little information on nonrespondents to be able to use weighting procedures. There is however a big BUT&amp;hellip;&lt;br&gt;
-- Weighting models mainly use socio-demographic data, because that is the kind of information we can add to our sampling frame. These variables are never highly correlated with our variable of interest, nor missingness due to nonresponse, so weighting is not very effective. That is, weighting theoretically works nicely, but in practice, it doesn&#39;t ameliorate the missing data problem we have because of unit nonresponse much.&lt;/p&gt;
+- Weighting models mainly use socio-demographic data, because that is the kind of information we can add to our sampling frame. These variables are never highly correlated with our variable of interest, nor missingness due to nonresponse, so weighting is not very effective. That is, weighting theoretically works nicely, but in practice, it doesn&amp;rsquo;t ameliorate the missing data problem we have because of unit nonresponse much.&lt;/p&gt;
 &lt;p&gt;Imputations are model based. Based on available information for respondents and nonrespondents, a prediction model is built for a variable which has missing information. The model can take an infinite number of shapes, depending on whether imputation is stochastic, how variables are related within the model, and what variables are being used. Based on this model, one or multiple values are imputed for every missing value on every variable for every case. The crucial difference is that weighting uses the same variables for correcting the entire dataset, whereas imputation models differ for every variable that is to be imputed.&lt;/p&gt;
 &lt;p&gt;+ Imputation models are flexible. This means that the imputation model can be optimized in such a way that it strongly predicts both the dependent variable to be imputed, and the missingness process.&lt;/p&gt;
 &lt;p&gt;- In the case of unit nonresponse, we often have limited data on nonrespondents. So, although a model-based approach may have advantages over design-based aproaches in terms of its ability to predict our variable(s) of interest, this depends on the quality of the covariates we use.&lt;/p&gt;
 &lt;p&gt;This then brings me, and the authors of the various papers in JoS back to the basic problem: 
-&lt;a href=&#34;http://www.peterlugtig.com/2013/09/nonresponse-workshop-2013.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;we don&#39;t understand the process on nonresponse in surveys&lt;/a&gt;
+&lt;a href=&#34;http://www.peterlugtig.com/2013/09/nonresponse-workshop-2013.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;we don&amp;rsquo;t understand the process on nonresponse in surveys&lt;/a&gt;
 . Next time, more on imputations and weighting for longitudinal surveys. And more on design vs. model based approaches in survey research.&lt;/p&gt;
 &lt;p&gt;p.s. This all assumes simple random sampling. If complex sampling designs are used, weighting is until now I think the best way to start dealing with nonresponse. I am unaware of imputation methods that can deal with complex sampling (other than straightforward multilevel structures).&lt;/p&gt;
 </description>
@@ -51,9 +51,9 @@
     
     <item>
       <title>studying mode effects</title>
-      <link>https://thomvolker.github.io/try_out/post/studying-mode-effects/</link>
+      <link>https://peterlugtig.github.io/post/studying-mode-effects/</link>
       <pubDate>Mon, 28 Feb 2011 18:55:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/studying-mode-effects/</guid>
+      <guid>https://peterlugtig.github.io/post/studying-mode-effects/</guid>
       <description>&lt;p&gt;Mode effects - the fact that respondents respond differently to a survey question, solely because of the mode of interviewing - are hard to study. This is because mode-effects interact with nonresponse effects. An Internet survey will atract different respondents than a telephone survey. Because of this, any differences that result from this survey, could be either due to differences in the type of respondents, or because of a mode effect.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://lh5.googleusercontent.com/-t8DHUwWDM84/TWvhBKu9KzI/AAAAAAAACW0/FoKmRyS0oVk/s1600/Survey1.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://lh5.googleusercontent.com/-t8DHUwWDM84/TWvhBKu9KzI/AAAAAAAACW0/FoKmRyS0oVk/s200/Survey1.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
@@ -62,8 +62,10 @@
 &lt;a href=&#34;http://scholar.google.nl/scholar?q=mixed&amp;#43;mode&amp;#43;survey&amp;#43;mode&amp;#43;effect&amp;amp;hl=nl&amp;amp;btnG=Zoeken&amp;amp;lr=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;google scholar search. &lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;This type of design is popular, but in my view it has a great drawback: we know Internet samples and telephone surveys do only cover a part of the population. Landline telephone coverage is rapidly declining, while Internet use remains limited to about 80 per cent of the general population in Western countries. There are two alternative approaches, that deal with this issue.&lt;/p&gt;
-&lt;p&gt;[&lt;br&gt;
-](&lt;a href=&#34;https://lh3.googleusercontent.com/-DtdXWE8W930/TWvg_zBwXqI/AAAAAAAACWs/-0DfGoKAlM8/s1600/14635-Pretty-Blond-Woman-With-Tall-Hair-Wearing-Pearls-And-A-Red-Dress-And-Talking-On-A-Rotary-Dial-Landline-Telephone-Clipart-Illustration.jpg&#34;&gt;https://lh3.googleusercontent.com/-DtdXWE8W930/TWvg_zBwXqI/AAAAAAAACWs/-0DfGoKAlM8/s1600/14635-Pretty-Blond-Woman-With-Tall-Hair-Wearing-Pearls-And-A-Red-Dress-And-Talking-On-A-Rotary-Dial-Landline-Telephone-Clipart-Illustration.jpg&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://lh3.googleusercontent.com/-DtdXWE8W930/TWvg_zBwXqI/AAAAAAAACWs/-0DfGoKAlM8/s1600/14635-Pretty-Blond-Woman-With-Tall-Hair-Wearing-Pearls-And-A-Red-Dress-And-Talking-On-A-Rotary-Dial-Landline-Telephone-Clipart-Illustration.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;br&gt;
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://lh4.googleusercontent.com/-BWZRwWect0o/TWvhAhfyBkI/AAAAAAAACWw/60kUYH31A68/s1600/face&amp;#43;to&amp;#43;face&amp;#43;interview.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-BWZRwWect0o/TWvhAhfyBkI/AAAAAAAACWw/60kUYH31A68/s200/face+to+face+interview.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 

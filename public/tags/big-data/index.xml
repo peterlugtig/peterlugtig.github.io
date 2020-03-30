@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>big data | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/tags/big-data/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/tags/big-data/</link>
+      <atom:link href="https://peterlugtig.github.io/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
     <description>big data</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 26 May 2014 17:05:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>big data</title>
-      <link>https://thomvolker.github.io/try_out/tags/big-data/</link>
+      <link>https://peterlugtig.github.io/tags/big-data/</link>
     </image>
     
     <item>
       <title>AAPOR 2014</title>
-      <link>https://thomvolker.github.io/try_out/post/aapor-2014/</link>
+      <link>https://peterlugtig.github.io/post/aapor-2014/</link>
       <pubDate>Mon, 26 May 2014 17:05:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/aapor-2014/</guid>
+      <guid>https://peterlugtig.github.io/post/aapor-2014/</guid>
       <description>&lt;p&gt;Big data and new technologies to do survey research. These were in my view the two themes of the 
 &lt;a href=&#34;http://www.aapor.org/AAPOR_Annual_Conference.htm#.U4NUUi-prs0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2014 AAPOR conference&lt;/a&gt;
-. The conference organisation tried to push the theme ‘Measurement and the role of pubic opinion in a democracy’, but I don&#39;t think the theme was really reflected in the talks at the conference. Or perhaps I have missed those talks, the conference was huge as always (&amp;gt; 1000 participants).&lt;/p&gt;
+. The conference organisation tried to push the theme ‘Measurement and the role of pubic opinion in a democracy’, but I don&amp;rsquo;t think the theme was really reflected in the talks at the conference. Or perhaps I have missed those talks, the conference was huge as always (&amp;gt; 1000 participants).&lt;/p&gt;
 &lt;p&gt;The profession of survey research is surely changing. Mick Couper last year argued that the 
 &lt;a href=&#34;https://ojs.ub.uni-konstanz.de/srm/article/view/5751&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;‘sky wasn’t falling’&lt;/a&gt;
- on survey research, but it is evolving. Big data may potentially replace parts of survey research, especially if we don&#39;t adapt to new technologies (mobile), and learn to use some of the data that are now found everywhere. Big data and survey research in fact have the same basic goal. To extract meaningful information out of datasets (big data) or people (survey research), and use that to inform policy making.&lt;/p&gt;
+ on survey research, but it is evolving. Big data may potentially replace parts of survey research, especially if we don&amp;rsquo;t adapt to new technologies (mobile), and learn to use some of the data that are now found everywhere. Big data and survey research in fact have the same basic goal. To extract meaningful information out of datasets (big data) or people (survey research), and use that to inform policy making.&lt;/p&gt;
 &lt;p&gt;Big data can certainly be useful for policy-making. Out of the 10 or so presentations that I have seen at AAPOR, most were however just talking about potential possibilities over using big data to inform policy makers.&lt;br&gt;
 What was in my opinion missing at AAPOR were good case studies that showed how big data can replace survey research and provide valid inferences. I have seen many good earlier examples when it comes to predictions at the level of an individual using big data. When Amazon tries to recommend me books that relate to a book I have previously bought, I find these useful and accurate predictions of what I really like. In politics, voter registration records data can help politicians target likely voters for their party, as the 
 &lt;a href=&#34;http://www.technologyreview.com/featuredstory/509026/how-obamas-team-used-big-data-to-rally-voters/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2012 Obama campaign showed&lt;/a&gt;

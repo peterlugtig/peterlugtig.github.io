@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>attrition | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/tags/attrition/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/tags/attrition/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/tags/attrition/</link>
+      <atom:link href="https://peterlugtig.github.io/tags/attrition/index.xml" rel="self" type="application/rss+xml" />
     <description>attrition</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Wed, 21 Jan 2015 15:21:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>attrition</title>
-      <link>https://thomvolker.github.io/try_out/tags/attrition/</link>
+      <link>https://peterlugtig.github.io/tags/attrition/</link>
     </image>
     
     <item>
       <title>why panel surveys need to go &#39;adaptive&#39;</title>
-      <link>https://thomvolker.github.io/try_out/post/why-panel-surveys-need-to-go-adaptive/</link>
+      <link>https://peterlugtig.github.io/post/why-panel-surveys-need-to-go-adaptive/</link>
       <pubDate>Wed, 21 Jan 2015 15:21:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/why-panel-surveys-need-to-go-adaptive/</guid>
+      <guid>https://peterlugtig.github.io/post/why-panel-surveys-need-to-go-adaptive/</guid>
       <description>&lt;p&gt;Last week, I gave a talk at Statistics Netherlands (slides 
 &lt;a href=&#34;https://www.dropbox.com/s/ul9msor9d6f9ak7/Lugtig%20-%20panel%20dropout%20%28talk%20at%20CBS%20January%202015%29.ppt.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 ) about panel attrition. Initial and nonresponse and dropout from panel surveys have always been a problem. A famous study by Groves and Peytcheva (
 &lt;a href=&#34;http://poq.oxfordjournals.org/content/70/5/646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
-) showed that in cross-sectional studies, nonresponse rates and nonresponse bias are only weakly correlated. In panel surveys however, all the signs are there that dropout in a panel study is often related to change. Those respondents undergoing most change, are also most likely to drop out. This is probably partly because of respondents (e.g. a move of house could be a good reason to change other things as well, like survey participation), but it is also because of how surveys deal with such moves. Movers are much harder to contact (if we don&#39;t have accurate contact details anymore). Movers are often assigned to a different interviewer. This will all lead to an underestimate of the number of people who move house in panel studies. Moving house is associated with lots of other life events (change in household composition, change in work, income etc.). In short dropout is a serious problem in longitudinal studies.&lt;/p&gt;
+) showed that in cross-sectional studies, nonresponse rates and nonresponse bias are only weakly correlated. In panel surveys however, all the signs are there that dropout in a panel study is often related to change. Those respondents undergoing most change, are also most likely to drop out. This is probably partly because of respondents (e.g. a move of house could be a good reason to change other things as well, like survey participation), but it is also because of how surveys deal with such moves. Movers are much harder to contact (if we don&amp;rsquo;t have accurate contact details anymore). Movers are often assigned to a different interviewer. This will all lead to an underestimate of the number of people who move house in panel studies. Moving house is associated with lots of other life events (change in household composition, change in work, income etc.). In short dropout is a serious problem in longitudinal studies.&lt;/p&gt;
 &lt;p&gt;The figure below shows the cumulative response rates for some large-scale panel studies. The selection of panel studies is a bit selective. I have tried to focus on large panel studies (so excluding cohort studies), which are still existing today, with a focus on Western Europe. &lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://3.bp.blogspot.com/-hQrr9XFijnI/VL-0qshxygI/AAAAAAAACts/lG8A-ZdO2Ho/s1600/Rplot08.tiff&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://3.bp.blogspot.com/-hQrr9XFijnI/VL-0qshxygI/AAAAAAAACts/lG8A-ZdO2Ho/s1600/Rplot08.tiff&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
@@ -38,11 +38,11 @@
     
     <item>
       <title>Are item-missings related to later attrition?</title>
-      <link>https://thomvolker.github.io/try_out/post/are-item-missings-related-to-later/</link>
+      <link>https://peterlugtig.github.io/post/are-item-missings-related-to-later/</link>
       <pubDate>Tue, 29 Apr 2014 14:08:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/are-item-missings-related-to-later/</guid>
+      <guid>https://peterlugtig.github.io/post/are-item-missings-related-to-later/</guid>
       <description>&lt;p&gt;A follow up on 
-&lt;a href=&#34;http://www.peterlugtig.com/2014/03/do-respondents-become-sloppy-before.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;last month&#39;s post&lt;/a&gt;
+&lt;a href=&#34;http://www.peterlugtig.com/2014/03/do-respondents-become-sloppy-before.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;last month&amp;rsquo;s post&lt;/a&gt;
 . Respondents do seem to be less compliant in the waves before they drop out from a panel survey. This may however not neccesarily lead to worse data. So, what else do we see before attrition takes place? Let have a look at missing data:&lt;/p&gt;
 &lt;p&gt;First, we look at missing data in a sensitive question on income amounts. Earlier studies (
 &lt;a href=&#34;http://www.jos.nu/Articles/abstract.asp?article=260145&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
@@ -50,7 +50,7 @@
 &lt;a href=&#34;http://www.jstor.org.proxy.library.uu.nl/stable/146438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here,&lt;/a&gt;
  
 &lt;a href=&#34;http://www.jstor.org.proxy.library.uu.nl/stable/1392158&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
-) have already found that item nonresponse on sensitive questions predicts later attrition. I find that item nonresponse does increase before attrition, but only because of the fact that respondents are more likely to refuse to give an answer. And that increase is largely due to respondents who will later refuse to participate in the study as a whole. So, &lt;em&gt;item&lt;/em&gt; refusals are a good predictor of later &lt;em&gt;study&lt;/em&gt; refusals. The proportion of &amp;ldquo;Don&#39;t know&amp;rdquo; respondents does not increase over time.&lt;/p&gt;
+) have already found that item nonresponse on sensitive questions predicts later attrition. I find that item nonresponse does increase before attrition, but only because of the fact that respondents are more likely to refuse to give an answer. And that increase is largely due to respondents who will later refuse to participate in the study as a whole. So, &lt;em&gt;item&lt;/em&gt; refusals are a good predictor of later &lt;em&gt;study&lt;/em&gt; refusals. The proportion of &amp;ldquo;Don&amp;rsquo;t know&amp;rdquo; respondents does not increase over time.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://1.bp.blogspot.com/-ZLkf9j9-qUk/U1-RxvTaZTI/AAAAAAAACqc/OqCXDLSAX1s/s1600/missings&amp;#43;PAYGL.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://1.bp.blogspot.com/-ZLkf9j9-qUk/U1-RxvTaZTI/AAAAAAAACqc/OqCXDLSAX1s/s1600/missings+PAYGL.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;/p&gt;
@@ -58,8 +58,10 @@
 &lt;p&gt;Does this finding for a sensitive question extend to all survey questions? No. Over all questions combined, I find that refusals  increase before attrition takes place, but  from a very low base (see the Y-axis scale in the figure below). Moreover, there is no difference between the groups, meaning that those who drop out of the survey do not have more item-missings than those respondents who are &amp;ldquo;always interviewed&amp;rdquo;. It may seem odd that item missings increase for respondents who always happily participate. I suspect however that this may be related to the fact that both interviewers and respondents may have known in the last wave(s) 
 &lt;a href=&#34;https://www.iser.essex.ac.uk/bhps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;that the BHPS was coming to an end after 18 years of interviewing.&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;[&lt;br&gt;
-](&lt;a href=&#34;http://4.bp.blogspot.com/-S-ht4QK3lzQ/U1-TBeejkWI/AAAAAAAACqo/suuoODyJAik/s1600/dkplot.png&#34;&gt;http://4.bp.blogspot.com/-S-ht4QK3lzQ/U1-TBeejkWI/AAAAAAAACqo/suuoODyJAik/s1600/dkplot.png&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://4.bp.blogspot.com/-S-ht4QK3lzQ/U1-TBeejkWI/AAAAAAAACqo/suuoODyJAik/s1600/dkplot.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;br&gt;
+&lt;/a&gt;
+&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://2.bp.blogspot.com/-LkHjq_AVszE/U1-TBdKdzbI/AAAAAAAACqk/0HLk_2un_0c/s1600/refuseplot.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://2.bp.blogspot.com/-LkHjq_AVszE/U1-TBdKdzbI/AAAAAAAACqk/0HLk_2un_0c/s1600/refuseplot.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;/p&gt;
@@ -70,9 +72,9 @@
     
     <item>
       <title>Do respondents become sloppy before attrition?</title>
-      <link>https://thomvolker.github.io/try_out/post/do-respondents-become-sloppy-before/</link>
+      <link>https://peterlugtig.github.io/post/do-respondents-become-sloppy-before/</link>
       <pubDate>Fri, 28 Mar 2014 15:33:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/do-respondents-become-sloppy-before/</guid>
+      <guid>https://peterlugtig.github.io/post/do-respondents-become-sloppy-before/</guid>
       <description>&lt;p&gt;I am working on a paper that aims to link measurement errors to attrition error in a panel survey. For this, I am using the British Household Panel Survey. 
 &lt;a href=&#34;http://www.peterlugtig.com/2013/11/longitudinal-interview-outcome-data.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In an earlier post&lt;/a&gt;
  I already argued that attrition can occur for many reasons, which I summarized in 5 categories.&lt;/p&gt;
@@ -99,9 +101,9 @@
     
     <item>
       <title>Personality predicts the likelihood and process of attrition in a panel survey</title>
-      <link>https://thomvolker.github.io/try_out/post/personality-predicts-likelihood-and/</link>
+      <link>https://peterlugtig.github.io/post/personality-predicts-likelihood-and/</link>
       <pubDate>Fri, 07 Feb 2014 17:12:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/personality-predicts-likelihood-and/</guid>
+      <guid>https://peterlugtig.github.io/post/personality-predicts-likelihood-and/</guid>
       <description>&lt;p&gt;Studies into the correlates of nonresponse often have to rely on socio-demographic variables to study whether respondents and nonrespondents in surveys differ. Often there is no other information available on sampling frames that researchers can use.&lt;/p&gt;
 &lt;p&gt;That is unfortunate, for two reasons. First, the  variables we are currently using to predict nonrespons, usually explain a very limited amount of variance of survey nonresponse. Therefore, these variables are also not effective correctors for nonresponse. So, socio-demographic variables are not that interesting to have as sampling frame data. See my earlier posts 
 &lt;a href=&#34;http://www.peterlugtig.com/2013/10/to-weight-or-to-impute-for-unit.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
@@ -133,9 +135,9 @@
     
     <item>
       <title>Longitudinal interview outcome data reduction: Latent Class and Sequence analyses</title>
-      <link>https://thomvolker.github.io/try_out/post/longitudinal-interview-outcome-data/</link>
+      <link>https://peterlugtig.github.io/post/longitudinal-interview-outcome-data/</link>
       <pubDate>Mon, 04 Nov 2013 16:22:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/longitudinal-interview-outcome-data/</guid>
+      <guid>https://peterlugtig.github.io/post/longitudinal-interview-outcome-data/</guid>
       <description>&lt;p&gt;Frauke Kreuter once commented on a presentation I gave that I should really be looking at sequence analysis for studying attrition in panel surveys. She had written an article on the topic with Ulrich Kohler (
 &lt;a href=&#34;http://www.jos.nu/Articles/abstract.asp?article=252203&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 ) in 2009, and as of late there are more people exploring the technique (e.g. Mark Hanly at Bristol, and 
@@ -160,16 +162,16 @@
 &lt;a href=&#34;http://4.bp.blogspot.com/-5-Z64s2GcV4/Une6APMFHsI/AAAAAAAACoA/JQ-QJeO7S0A/s1600/6-cluster&amp;#43;solution&amp;#43;from&amp;#43;sequence&amp;#43;analysis&amp;#43;on&amp;#43;BHPS&amp;#43;attrition&amp;#43;data.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://4.bp.blogspot.com/-5-Z64s2GcV4/Une6APMFHsI/AAAAAAAACoA/JQ-QJeO7S0A/s640/6-cluster+solution+from+sequence+analysis+on+BHPS+attrition+data.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Figure 2: 6-cluster solution for sequence analysis on BHPS attrition patterns&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;The differences between sequence analysis and LCA are really minimal, and probably result from the fact that the Optimal Matching algorithm used in sequence analysis is more flexible (in that it would allow deletion, additions, substitutions etc to match), than Latent Class Analysis. But in practice, for my analyses, it doesn&#39;t matter what technique I use. My results are equivalent. Personally, I like Latent Class analysis more, because it offers the option of linking the Latent Classes of attrition to substantive research data in one model.&lt;/p&gt;
+&lt;p&gt;The differences between sequence analysis and LCA are really minimal, and probably result from the fact that the Optimal Matching algorithm used in sequence analysis is more flexible (in that it would allow deletion, additions, substitutions etc to match), than Latent Class Analysis. But in practice, for my analyses, it doesn&amp;rsquo;t matter what technique I use. My results are equivalent. Personally, I like Latent Class analysis more, because it offers the option of linking the Latent Classes of attrition to substantive research data in one model.&lt;/p&gt;
 &lt;p&gt;Attrition data bear a resemblence to contact data recorded in a telephone or face-to-face survey. Interviewers make call or interview attempts, that bear a lot of information about the survey proecess, and could improve fieldwork, and reduce nonresponse and costs. I am imagining a paper where one links contact data at every wave, and combines that with attrition analyses, in a series of linked-sequence data analysis. That way, you can learn how specific sequences of call and contact data, lead to specific sequences of interview outcomes at later stages of the panel survey. It can be done if you have a lot of time.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Imagine we have great covariates for correcting for unit nonresponse...</title>
-      <link>https://thomvolker.github.io/try_out/post/imagine-we-have-great-covariates-for/</link>
+      <link>https://peterlugtig.github.io/post/imagine-we-have-great-covariates-for/</link>
       <pubDate>Mon, 14 Oct 2013 10:41:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/imagine-we-have-great-covariates-for/</guid>
+      <guid>https://peterlugtig.github.io/post/imagine-we-have-great-covariates-for/</guid>
       <description>&lt;p&gt;I am continuing on the recent article and commentaries on weighting to correct for unit nonresponse by Michael Brick, as published in the recent issue of the Journal of Official Statistics (
 &lt;a href=&#34;http://www.jos.nu/Articles/abstract.asp?article=293329&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 ).&lt;/p&gt;
@@ -177,9 +179,9 @@
 &lt;p&gt;1. They should explain missingness.&lt;br&gt;
 2. They should highly correlate with our variable of interest.&lt;/p&gt;
 &lt;p&gt;In other words, these are the two assumptions for a  Missing At Random process of missing data.&lt;/p&gt;
-&lt;p&gt;The variables (covariates) we currently use for nonresponse adjustments do neither. Gender, age, ethnicity, region, (and if we&#39;re lucky) education, household composition and house characterics do not explain missingness, nor our variable of interest. Would it ever be conceivable to obtain covariates that do this? What are the candidates?&lt;/p&gt;
+&lt;p&gt;The variables (covariates) we currently use for nonresponse adjustments do neither. Gender, age, ethnicity, region, (and if we&amp;rsquo;re lucky) education, household composition and house characterics do not explain missingness, nor our variable of interest. Would it ever be conceivable to obtain covariates that do this? What are the candidates?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1. covariates (X) that explain missingness (R):&lt;/strong&gt;&lt;br&gt;
-Paradata are currently our best bet. Those may be interviewer observations or call data during fieldwork (note the absence of sample level paradata for self-administered surveys - here lies a task for us). Paradata don&#39;t explain missingness very well at the moment, but I think everyone in survey research agrees we can try to collect more.&lt;br&gt;
+Paradata are currently our best bet. Those may be interviewer observations or call data during fieldwork (note the absence of sample level paradata for self-administered surveys - here lies a task for us). Paradata don&amp;rsquo;t explain missingness very well at the moment, but I think everyone in survey research agrees we can try to collect more.&lt;br&gt;
 Another set of candidates are variables that we obtain by enriching sampling frames. We can use marketing data, social networks, or census data to get more information on our sampling units.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2. covariates (X) that explain our variable of interest (Y)&lt;/strong&gt;:&lt;br&gt;
 Even if we find covariates that explain missingness, we also want those covariates to be highly correlated to our variable of interest. It is very unlikely that a fixed set of for example paradata variables can ever achieve that. Enriched frame data may be more promising, but is unlikely that this will generally work. I think it is a huge problem that our nonresponse adjustment variables (X) are not related to Y, and one that is not likely to ever be resolved for cross-sectional surveys.&lt;/p&gt;
@@ -197,9 +199,9 @@ Even if we find covariates that explain missingness, we also want those covariat
     
     <item>
       <title>measurement and nonresponse error in panel surveys</title>
-      <link>https://thomvolker.github.io/try_out/post/measurement-and-nonresponse-error-in/</link>
+      <link>https://peterlugtig.github.io/post/measurement-and-nonresponse-error-in/</link>
       <pubDate>Thu, 04 Jul 2013 11:57:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/measurement-and-nonresponse-error-in/</guid>
+      <guid>https://peterlugtig.github.io/post/measurement-and-nonresponse-error-in/</guid>
       <description>&lt;p&gt;I am spending time at the Institute for Social and Economic Research in Colchester, UK where I will work on a research project that investigates whether there is a tradeoff between nonresponse and measurement errors in panel surveys.&lt;/p&gt;
 &lt;p&gt;Survey methodologists have long believed that multiple survey errors have a common cause. For example, when a respondent is less motivated, this may result in nonresponse (in a panel study attrition), or in reduced cognitive effort during the interview, which in turn leads to measurement errors. Lower cognitive abilities and language problems might be other examples of common caused that lead to either nonresponse or measurement error. Understanding these common error sources is important to know whether our efforts to reduce 1 survey error source are not offset by an increase in another one. It follows from the idea that good survey design minimize 
 &lt;a href=&#34;http://poq.oxfordjournals.org/content/74/5.toc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Total Survey Error&lt;/a&gt;
@@ -207,7 +209,9 @@ Even if we find covariates that explain missingness, we also want those covariat
 &lt;p&gt;Studying the trade-off has proven to be very difficult. This is because nonrespondents are by definition not observed. So, we never know how nonrespondents would answer questions, and how much measurement error is included in those answers. We can only observe measurement errors for respondents, but can not compare these to the potential measurement error of nonrespondents.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA2IAAABYCAIAAAAYxNOTAAANkUlEQVR4nO3dq3bbWhCAYT9VH8hPERBSEBDWPIRoSg4vCQgoalGh1woNyFrmPmBkeV9mpG1dbO3R/7Ej62LJ2sd/ZdnZnQAAAIDM7nQ6/fv37/n5+QGb9/z8/Pv373ufkwCAOyAG0Ol6YHc6nZ6enu79fLAWj4+P9/4/FRbx8vJy75MLq/Dy8nLvkxErRQwgJD2wO51O934mWJd7/58Ki3h4eDgCxyNjHJZ7v/lgdU5JJjbYsPC0gD8PZCKOxyOZCBsxAEEmQkEm+kYmQjDGYSEGIMhEKMhE38hECMY4LMQABJkIBZnoG5kIwRiHhRiAIBOhIBN9IxMhGOOwEAMQZCIUZKJvZCIEYxwWYgCCTISCTPSNTIRgjMNCDECQiVCQib6RiRCMcViIAQgyEQoy0TcyEYIxDgsxAEEmQkEm+kYmQjDGYSEGIMhEKMhE38hECMY4LMQABJkIBZnoG5kIwRiHhRiAIBOhIBN9IxMhGOOwEAMQZCIUZKJvZCIEYxwWYgCCTISCTPSNTIRgjMNCDECQiVCQib6RiRCMcViIAQgyEQoy0TcyEYIxDgsxAOEmE98OBef94W3WrX39/W+m9a0Nmeibi0x83e92u93+dc71zbe2SjDGYak2BlRtIdhv2v/9/TqdZowER8jECVsjE1EnMnHhtVWDMQ5LtTGg6grBetsmE03OMvFWLzGZiJqRiQuvrRqMcViqjQFVcCFJf+MmE01k4oStkYmoE5m48NqqwRiHpdoYUMWfNyqlQCaaNp6J2UfVSfm9HdppwYyHtzgT7WSs97wjE33bXibKzIFvz39KHlNmSB+tGmMclmpjQHUuhPNbefa2bL1dt9PPsnf6IACinnB0FWm7mZi8+IFgJZKJh8NX8miUhlYn1luJZKJzm8rEP8/fdrp22b5MtBb2ctmRMQ5LtTGguhSCEYra+7X1lYdwpvb9/0vriRrf/BVbzcRzJKrnxKX4rNte4zLUO1E2Uec/KchE3zaUiefOi+Y7h2F2STFZmzJft0IfFxUZ47BUGwOqsBDUUMwzMQ+Cy9UlJRLC+ZRFK+YsE3sFr791oa9dSzfd+hJ9EoZaJ9ZciWSic9vJxDbqsrnaALxMV9ZmLds+4KITGeOwVBsDqvhCkhKKaRS0/529hafTjYuTaUvUbKOZaEnPFOulTrswz86qK5FMdG47mWjJEjBfm1mJnjqRMQ5LtTGgSj9vzOoueRPvuWdM+zAxm7Hie84yzjJx/Gui33xq3XaYTdf7stZKJBOd23ImRnciXkovX1t2y6LHGxQZ47BUGwOqvBCSUEzew3vewuM5jRnJxBW6PhPt77CMyMSyM6caZKJv28pE+zssZCJjHJZqY0ClFUIUimSiaauZmH1GLUvqtx2UZGJ0VtReiWSicxvKxCz2ZIE2HYcz0cMnyz0Y47BUGwMqvRCCUCQTTdvMROvm1OwrK1dkYnBa3PanvpdAJvq2mUzMajBeuDcTe+5N9IMxDku1MaCy3pW7UPw76d5EMrEGV6VZf/2NzMTuORyqr0Qy0bnNZKJ1RTD/pRv7m87K9UQ/FxoZ47BUGwMquxCMv88y8E3nocuOZOIKjbmaqN7PGr3k12Vi+rda6kUm+raZTNR+NTH8GDrNxKT8ulm15V1cZmSMw1JtDKj6CiF88x/5u4lkYg0KfhAnfM302bu/5DN0f8LQ5cjaTw4y0TdHmTj0BRN9rv1r+sOJ0fdcLgVofv3FRSSSibBVGwOq/gtJlyAY+1dYyMQKXJmJTfpNZ/1Gg2sz0ctvapKJvm0oE49p6p0vGGaXD4PZrIuK6qNVY4zDUm0MqIY+b1T/MFv4QGvob20ki9WeAk3TOMrElZA/Al3vV5xbZKJvLjIRM2CMw0IMQJCJc6r7T68EyETfyEQIxjgsxAAEmTij6n8usUMm+kYmQjDGYSEGIMjEGahfkq4amegbmQjBGIeFGIAgE2dwucfVxf2qTdM8PDw8PT39+PHj/f394+NDdu7j4+P9/Z0pDqZ0mfj19fX5+fn5+fn19cWUDU7pMnElZyZT1jPl6emJGEBDJkJFJvqeQiYyhUxkSv8UMhGCTISCTPQ9hUxkCpnIlP4pZCIEmQgF9yb6xr2JEIxxWIgBCDIRCjLRNzIRgjEOCzEAQSZCQSb6RiZCMMZhIQYgyEQoyETfyEQIxjgsxAAEmQgFmegbmQjBGIeFGIAgE+ew9J9feTvc+CcZyUTfyMQxXve73W737fnPguvfvy60cgNjHBZiYCTXPUAmjrXsaSFrJxMxGzJxjGUzUdZOJmItiIGRXPcAmTiW69MC/pCJY5CJ2BJiYCTXPUAmjuX6tIA/ZOIYZCK2hBgYyXUPzJeJb4f2KMkendLdCiZbh/Pyd5LVedqHD2/JnMZLM7C28HWNnpu+umiWw5t5WgzsZsFG4zUkKxnaqQnIRN/mycTXfVtNUji7NHOCyVZe/Xn+1jdP+/D+NZnTSLWBtYWdFz03fXXRLPtXMxMHdrNgo/EakpUM7dQ0jHFYZstEeqBkNyvpgbkz8XAInvb5rEj2JXu8Zx7lkBz+KrMmxyc7tMoW21foS9tunO3a2trlel6ysRs1T4uCQzQFmejbnJm43wcZc67EpG2yx3vmURJp/6zMmvRSllrKFtti+6ZtN76Mp62tXa4n4cZu1MzEgkM0EWMclpkzkR6YvNE19MDMmag9zfMD2hHsprUzBUfwPMtlUnhYLitTVq9M6pbNFxxa9DxJfSK9zyPfzSs3Gp2dJYdoCjLRtxkzUcuW8wNaUXXT2pmCojrPcpkUZtJlZcrqlUndsvmCQ4ueJ6lPpPd55Lt55UajWi05RBMxxmGZNxNPJ3rAQw/Mnok9V4Yb5YF2dvWKbbqo8tJGm25nbGfLojqdnr/cysqstaUveNlulm5UOy2KDtEUZKJvs2ZizyfFR+WBdnb1E9x0USX1ok23M7azZRfZ0ul5/ikrs9aWBmDZbpZuVMvEokM0EWMclrkzkR7o2c1qemD2TEyeYc/zDg9Y94r37aAdy+Eh69lifGT1J5wsP/Byn1dWuJuFG22006LoEE1BJvo2ayYmxdLTMWFAdQXYFzz2xbMwoXq2GJeW/oST5Qfy77yywt0s3OhRy8SiQzQRYxyWuTORHujZzWp6YO5MtK4w24Y+gb+w/lnQREex5xtH8cE3ZiyaKX3kyt0c2GijnRZFh2gKMtG3OTPR+sTZNnRH3oV1mfAYVVXPN5DjGDNmLJopfeTK3RzY6FH90LnkEE3EGIdl5kykB0p2c/U9sJpMbIxbMvP7CQb+XXCr00K5SL7waVFwiKYgE31bRSYeja9o5PcXDlwnvFUmKh+aL5yJBYdoIsY4LGvJxIYeWFEP3CYTr3ziyUFObguwT4ub/uth+F4Ke9dGnxbJerJDNAWZ6NvymXhlyCTRldwmaGfiTa8mDt9bae/a6ExM1pMdookY47DcJBPpgfiJrr4Hls7ESfdUJjcf2BeZJ9yLMPAK2WuLFi/ezblOi2TBOc4LMtG3JTNx0ncskpsR7Q+dJ9ybOFBs9tqixYt3c65MTBacqRMZ47AsnIn0QN9TMDba3L0Hls7EstfSOqrqS5TPF2964JtN3dJlr9B132waOGUnnBZlh2gKMtG3JTOxrO2sylKTLZ8v3vTAN527pcuK7bpvOg8k7IRMLDtEEzHGYVk4E+mBKntg8UwMrofmX+fOXvFo8fR1DD+ITw9gtPbzpPw+hvwni0pfoXDO4Ikov4DUs5vXbjScr+gQTUEm+rZoJgafj2p/kyUpwGjxtOvCG/PSoIrWfs3vJpYWWzhn7+8m9u3mtRvt/w1G5RBNxBiHZelMpAeiaZX0wA0y0bjRMtmbgnnOx+6g3B+aHBfrFtL8JRt+hfTn1j4L7YXr22rpRqN1pf96Gtj5kchE3xbORPvPk2g/Fd0zz7ml9sr3RfTfIeydrbTY9OfWPouSv8KSF+zwRqN1pVdTB3Z+PMY4LMtnIj1QXw/cJBODxzv2XaDm/gbHLpzT2mSytmy28tMiXVvfN6gGdnPUuaj9K2jeU6JpyETvFs/E4PGO/a0Qs3+Mv+lsbfKKv+lsbMVaW983qgd2c1SbaldFZ0/E45FMhO0WmRg83qEHBjZ61x6YLxOXN9/H7lCQib7Nk4nLm/lPjiDDGIellhho6IGFkYlQkIm+kYkQjHFYaomBhh5YGJkIBZnoG5kIwRiHpZYYaOiBhZGJUJCJvpGJEIxxWGqJgYYeWBiZCAWZ6BuZCMEYh6WWGGjogYXVmolYFJnoWy2ZiKUxxmEhBiDIRCjIRN/IRAjGOCzEAASZCAWZ6BuZCMEYh4UYgCAToSATfSMTIRjjsBADEGQiFGSib2QiBGMcFmIAgkyEgkz0jUyEYIzDQgxAkIlQkIm+kYkQjHFYiAEIMhEKMtE3MhGCMQ4LMQBBJkJBJvpGJkIwxmEhBiDIRCjIRN/IRAjGOCzEAASZCAWZ6BuZCMEYh4UYgCAToSATfSMTIRjjsBADEGYmAg+8hTj1QCbieDySibDd+80Hq3OSTHx8fLz3M8GK3Pv/VFjE9+/f731mYRW+f/9+75MRK0UMIHGSTPz169e9nwnW4ufPn/f+PxUA4A6IAYSkB3b3Pi0BAACwRv8DJaFPJnI913cAAAAASUVORK5CYII=&#34; alt=&#34;&#34;&gt;&lt;br&gt;
 &lt;em&gt;Hypothetical continuum of timing of survey response&lt;/em&gt;&lt;br&gt;
-[](&lt;a href=&#34;http://www.blogger.com/blogger.g?blogID=7827313755221690631&#34;&gt;http://www.blogger.com/blogger.g?blogID=7827313755221690631&lt;/a&gt;)&lt;br&gt;
+
+&lt;a href=&#34;http://www.blogger.com/blogger.g?blogID=7827313755221690631&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;
+&lt;br&gt;
 To overcome this problem, most methodologists have compared &amp;lsquo;early&amp;rsquo; respondents (people who respond very quickly in the fieldwork period) to &amp;lsquo;late&amp;rsquo; respondents (those who only participate after being reminded for example). The idea behind this, is that the probability of response is:&lt;/p&gt;
 &lt;p&gt;a) a linear continuum from very early response on the one extreme, and nonresponse on the other.&lt;br&gt;
 b) that hypothetically, nonrespondents could be converted into respondents if extreme amounts of efforts are used to do so (Voogt 2005 showed in a small-scale study in the Dutch locality of Zaandam that this is actually possible)&lt;/p&gt;
@@ -220,9 +224,9 @@ b) that hypothetically, nonrespondents could be converted into respondents if ex
     
     <item>
       <title>Is panel attrition the same as nonresponse?</title>
-      <link>https://thomvolker.github.io/try_out/post/is-panel-attrition-same-as-nonresponse/</link>
+      <link>https://peterlugtig.github.io/post/is-panel-attrition-same-as-nonresponse/</link>
       <pubDate>Sat, 29 Sep 2012 10:49:00 +0200</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/is-panel-attrition-same-as-nonresponse/</guid>
+      <guid>https://peterlugtig.github.io/post/is-panel-attrition-same-as-nonresponse/</guid>
       <description>&lt;p&gt;All of my research is focused on the methods of assembling and analysis of panel survey data. One of the primary problems of panel survey projects is attrition or drop-out. Over the course of a panel survey, many respondents decide to no longer participate.&lt;/p&gt;
 &lt;p&gt;Last july I visited the panel survey methods workshop in Melbourne, at which we had extensive discussions about panel attrition. How to study it, what the consequences are (bias) for survey estimates, and how to prevent it from happening altogether.&lt;/p&gt;
 &lt;p&gt;These questions have a lot in common with the questions that are being discussed at another workshop for survey methodologists: the nonresponse workshop. The only difference is that at the nonresponse workshop we discuss one-off, cross-sectional surveys, and at the panel survey workshop, we dicuss what happens after the first wave of data collection.&lt;/p&gt;
@@ -232,7 +236,7 @@ b) that hypothetically, nonrespondents could be converted into respondents if ex
 &lt;a href=&#34;http://2.bp.blogspot.com/-bQM6mKwQHSQ/UGa00GA-Y0I/AAAAAAAACfM/nuzk9xKEmC0/s1600/graph&amp;#43;lca9.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://2.bp.blogspot.com/-bQM6mKwQHSQ/UGa00GA-Y0I/AAAAAAAACfM/nuzk9xKEmC0/s400/graph+lca9.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;em&gt;click on the Figure to enlarge&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;For the whole story you&#39;ll have to wait for book on &amp;lsquo;Internet panel surveys&amp;rsquo; to come out somewhere in 2013, but I&#39;ll focus here on comparing initial nonrespondents to respondents who do consent, but then never participate.&lt;br&gt;
+&lt;p&gt;For the whole story you&amp;rsquo;ll have to wait for book on &amp;lsquo;Internet panel surveys&amp;rsquo; to come out somewhere in 2013, but I&amp;rsquo;ll focus here on comparing initial nonrespondents to respondents who do consent, but then never participate.&lt;br&gt;
 These groups turn out to be different. Not just a little different, but hugely different. This was somewhat surprising to me, as many survey methodologists believe that early panel attrition is some kind of continuation of initial nonresponse. It turns out not to be. Fast attriters are very different from initial nonrespondents. My hypothesis for this is that some specific groups of people may &#39; accidentily&amp;rsquo;  say yes to a first survey request, but then try to get out of the survey as fast as they can. I am still not sure what this implies for panel research (comments very welcome): does it mean that the methods that we use to target nonrespondents (persuasion principles of Cialdini et al. 1991) might not work in panel surveys, and that we need to use different methods?&lt;/p&gt;
 &lt;p&gt;I think the first few waves of a panel study are extremely important for keeping attrition low in the long run. So, I think we should perhaps prolong some of the efforts that we use in the recruitment phase (advance letters, mixed-mode contact strategy), in the first waves as well, only to resort to a cheaper contact mode later, once panel members have developed a habit of responding to the different waves in a panel.&lt;/p&gt;
 </description>

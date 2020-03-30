@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>introduction | Peter Lugtig</title>
-    <link>https://thomvolker.github.io/try_out/tags/introduction/</link>
-      <atom:link href="https://thomvolker.github.io/try_out/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.github.io/tags/introduction/</link>
+      <atom:link href="https://peterlugtig.github.io/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
     <description>introduction</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 10 Jan 2011 17:14:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>introduction</title>
-      <link>https://thomvolker.github.io/try_out/tags/introduction/</link>
+      <link>https://peterlugtig.github.io/tags/introduction/</link>
     </image>
     
     <item>
       <title>first past the post</title>
-      <link>https://thomvolker.github.io/try_out/post/first-past-post/</link>
+      <link>https://peterlugtig.github.io/post/first-past-post/</link>
       <pubDate>Mon, 10 Jan 2011 17:14:00 +0100</pubDate>
-      <guid>https://thomvolker.github.io/try_out/post/first-past-post/</guid>
+      <guid>https://peterlugtig.github.io/post/first-past-post/</guid>
       <description>&lt;p&gt;Dear all,&lt;/p&gt;
-&lt;p&gt;With a new year come new year&#39;s resolutions. I have been working as a survey methodologist for about the last 5 years. I teach and I do research. Teaching gives instant rewards, or at least instant feedback. I like that. Doing research is however a different matter. It is a slow and sometimes agonizing process of muddling through (for me).&lt;/p&gt;
-&lt;p&gt;Studies remain in review forever, sometimes don&#39;t make it at all into a publication, while some of my ideas or views just never make onto paper at all. I hope this blog fills that gap.&lt;/p&gt;
-&lt;p&gt;I will write in English, but might occasionally do so in Dutch if I feel like it. As far as content goes, I&#39;m not sure where all of this will lead. I might post very academic-like things very frequently, but could also publish every once in a while.&lt;/p&gt;
+&lt;p&gt;With a new year come new year&amp;rsquo;s resolutions. I have been working as a survey methodologist for about the last 5 years. I teach and I do research. Teaching gives instant rewards, or at least instant feedback. I like that. Doing research is however a different matter. It is a slow and sometimes agonizing process of muddling through (for me).&lt;/p&gt;
+&lt;p&gt;Studies remain in review forever, sometimes don&amp;rsquo;t make it at all into a publication, while some of my ideas or views just never make onto paper at all. I hope this blog fills that gap.&lt;/p&gt;
+&lt;p&gt;I will write in English, but might occasionally do so in Dutch if I feel like it. As far as content goes, I&amp;rsquo;m not sure where all of this will lead. I might post very academic-like things very frequently, but could also publish every once in a while.&lt;/p&gt;
 &lt;p&gt;As a survey methodologist my view is that data matter. Policy makers, and academics use data too often without really knowing how the data were gathered, and whether they are trustworthy. Over the past five years it is my experience that data quality is often low, leading to badly informed or even wrong decisions. Data quality is far more important that fancy statistical models or cool graphs. Hopefully you will enjoy my adventures in the jungle of improving survey data quality.&lt;/p&gt;
 &lt;p&gt;Your singalong survey methodologist,&lt;/p&gt;
 &lt;p&gt;Peter&lt;/p&gt;
