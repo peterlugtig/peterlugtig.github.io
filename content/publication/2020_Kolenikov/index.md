@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A checklist for assessing the analysis documentation for public-use complex sample survey data sets"
-authors: [Kolenkov, S., West, B.T., & Lugtig, P.]
+authors: [Kolenkov, S., West, B.T., and Lugtig, P.]
 date: 2020-01-20
-doi: "1"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-04-03

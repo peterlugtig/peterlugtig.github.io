@@ -33,10 +33,10 @@
 ##  url = "agenda/"
 ##  weight = 60
   
-##[[main]]
-##  name = "Teaching"
-##  url = "teaching/"
-##  weight = 70
+[[main]]
+  name = "Teaching"
+  url = "teaching/"
+  weight = 70
   
 [[main]]
   name = "Contact"
