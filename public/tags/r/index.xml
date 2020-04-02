@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/tags/r/</link>
-      <atom:link href="https://peterlugtig.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/r/</link>
+      <atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 01 Dec 2015 13:51:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>R</title>
-      <link>https://peterlugtig.github.io/tags/r/</link>
+      <link>/tags/r/</link>
     </image>
     
     <item>
       <title>Which devices do respondents use over the course of a panel study?</title>
-      <link>https://peterlugtig.github.io/post/what-devices-do-respondents-use-over/</link>
+      <link>/post/what-devices-do-respondents-use-over/</link>
       <pubDate>Tue, 02 Dec 2014 15:44:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/post/what-devices-do-respondents-use-over/</guid>
+      <guid>/post/what-devices-do-respondents-use-over/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;http://www.uu.nl/staff/VToepoel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vera Toepoel&lt;/a&gt;
  and I have been writing a few articles over the last two years about how survey respondents are taking up tablet computers and smartphones. We were interested in studying whether people in a probability-based web panel (
@@ -41,9 +41,9 @@
     
     <item>
       <title>Longitudinal interview outcome data reduction: Latent Class and Sequence analyses</title>
-      <link>https://peterlugtig.github.io/post/longitudinal-interview-outcome-data/</link>
+      <link>/post/longitudinal-interview-outcome-data/</link>
       <pubDate>Mon, 04 Nov 2013 16:22:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/post/longitudinal-interview-outcome-data/</guid>
+      <guid>/post/longitudinal-interview-outcome-data/</guid>
       <description>&lt;p&gt;Frauke Kreuter once commented on a presentation I gave that I should really be looking at sequence analysis for studying attrition in panel surveys. She had written an article on the topic with Ulrich Kohler (
 &lt;a href=&#34;http://www.jos.nu/Articles/abstract.asp?article=252203&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 ) in 2009, and as of late there are more people exploring the technique (e.g. Mark Hanly at Bristol, and 
@@ -75,9 +75,9 @@
     
     <item>
       <title>SEM software</title>
-      <link>https://peterlugtig.github.io/post/sem-software/</link>
+      <link>/post/sem-software/</link>
       <pubDate>Wed, 19 Oct 2011 11:55:00 +0200</pubDate>
-      <guid>https://peterlugtig.github.io/post/sem-software/</guid>
+      <guid>/post/sem-software/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m not dead! In fact, I have been very alive over the past half a year: moving, finishing my Ph.D and starting a new job. With all that settled, I am determined to start where I left off.&lt;/p&gt;
 &lt;p&gt;I often get questions about software to do Structural Equation Modeling. There are quite a few packages out there, some more user-friendly or sophisticated than others. Here is an overview of existing packages and my opinion on the pro&amp;rsquo;s and cons of each.&lt;br&gt;
 

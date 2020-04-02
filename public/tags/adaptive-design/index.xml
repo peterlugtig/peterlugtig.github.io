@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>adaptive design | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/tags/adaptive-design/</link>
-      <atom:link href="https://peterlugtig.github.io/tags/adaptive-design/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/adaptive-design/</link>
+      <atom:link href="/tags/adaptive-design/index.xml" rel="self" type="application/rss+xml" />
     <description>adaptive design</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Wed, 20 May 2015 15:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>adaptive design</title>
-      <link>https://peterlugtig.github.io/tags/adaptive-design/</link>
+      <link>/tags/adaptive-design/</link>
     </image>
     
     <item>
       <title>Adaptive designs: 4 ways to improve panel surveys</title>
-      <link>https://peterlugtig.github.io/post/adaptive-designs-4-ways-to-improve/</link>
+      <link>/post/adaptive-designs-4-ways-to-improve/</link>
       <pubDate>Wed, 20 May 2015 15:00:00 +0200</pubDate>
-      <guid>https://peterlugtig.github.io/post/adaptive-designs-4-ways-to-improve/</guid>
+      <guid>/post/adaptive-designs-4-ways-to-improve/</guid>
       <description>&lt;p&gt;This is a follow-up on why 
 &lt;a href=&#34;http://www.peterlugtig.com/2015/01/why-panel-surveys-need-to-go-adaptive.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I think panel surveys need to adapt their data collection strategies to target individual respondents&lt;/a&gt;
 . Let me first note that apart from limiting nonresponse error, there are other reasons why we would want to do this. We can limit survey costs by using expensive survey resources only for people who need them.&lt;br&gt;
@@ -55,9 +55,9 @@ The effects of targeted letters on response in panel surveys are often small, an
     
     <item>
       <title>why panel surveys need to go &#39;adaptive&#39;</title>
-      <link>https://peterlugtig.github.io/post/why-panel-surveys-need-to-go-adaptive/</link>
+      <link>/post/why-panel-surveys-need-to-go-adaptive/</link>
       <pubDate>Wed, 21 Jan 2015 15:21:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/post/why-panel-surveys-need-to-go-adaptive/</guid>
+      <guid>/post/why-panel-surveys-need-to-go-adaptive/</guid>
       <description>&lt;p&gt;Last week, I gave a talk at Statistics Netherlands (slides 
 &lt;a href=&#34;https://www.dropbox.com/s/ul9msor9d6f9ak7/Lugtig%20-%20panel%20dropout%20%28talk%20at%20CBS%20January%202015%29.ppt.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 ) about panel attrition. Initial and nonresponse and dropout from panel surveys have always been a problem. A famous study by Groves and Peytcheva (

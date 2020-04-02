@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>covariates | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/tags/covariates/</link>
-      <atom:link href="https://peterlugtig.github.io/tags/covariates/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/covariates/</link>
+      <atom:link href="/tags/covariates/index.xml" rel="self" type="application/rss+xml" />
     <description>covariates</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Sat, 26 Mar 2011 12:26:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>covariates</title>
-      <link>https://peterlugtig.github.io/tags/covariates/</link>
+      <link>/tags/covariates/</link>
     </image>
     
     <item>
       <title>causality</title>
-      <link>https://peterlugtig.github.io/post/causality/</link>
+      <link>/post/causality/</link>
       <pubDate>Sat, 26 Mar 2011 12:26:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/post/causality/</guid>
+      <guid>/post/causality/</guid>
       <description>&lt;p&gt;A short post in between, so I can share two thoughts:&lt;br&gt;
 1. it is now possible to post reactions to my blog posts. Because I&amp;rsquo;m new to blogging, the settings were not very inviting previously. Now, you can react very easily. Please do if you feel like it. I believe in progress by debate.&lt;br&gt;
 2. I am not a specialist in the concept of causality myself, but I love 

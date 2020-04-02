@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>coverage error | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/tags/coverage-error/</link>
-      <atom:link href="https://peterlugtig.github.io/tags/coverage-error/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/coverage-error/</link>
+      <atom:link href="/tags/coverage-error/index.xml" rel="self" type="application/rss+xml" />
     <description>coverage error</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Sun, 06 Oct 2013 21:49:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>coverage error</title>
-      <link>https://peterlugtig.github.io/tags/coverage-error/</link>
+      <link>/tags/coverage-error/</link>
     </image>
     
     <item>
       <title>To weight or to impute for unit nonresponse?</title>
-      <link>https://peterlugtig.github.io/post/to-weight-or-to-impute-for-unit/</link>
+      <link>/post/to-weight-or-to-impute-for-unit/</link>
       <pubDate>Sun, 06 Oct 2013 21:49:00 +0200</pubDate>
-      <guid>https://peterlugtig.github.io/post/to-weight-or-to-impute-for-unit/</guid>
+      <guid>/post/to-weight-or-to-impute-for-unit/</guid>
       <description>&lt;p&gt;This week, I have been reading the most recent issue of the 
 &lt;a href=&#34;http://www.jos.nu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Official Statistics&lt;/a&gt;
 , a journal that has been open access since the 1980s.  In this issue is a 
@@ -51,9 +51,9 @@
     
     <item>
       <title>studying mode effects</title>
-      <link>https://peterlugtig.github.io/post/studying-mode-effects/</link>
+      <link>/post/studying-mode-effects/</link>
       <pubDate>Mon, 28 Feb 2011 18:55:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/post/studying-mode-effects/</guid>
+      <guid>/post/studying-mode-effects/</guid>
       <description>&lt;p&gt;Mode effects - the fact that respondents respond differently to a survey question, solely because of the mode of interviewing - are hard to study. This is because mode-effects interact with nonresponse effects. An Internet survey will atract different respondents than a telephone survey. Because of this, any differences that result from this survey, could be either due to differences in the type of respondents, or because of a mode effect.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://lh5.googleusercontent.com/-t8DHUwWDM84/TWvhBKu9KzI/AAAAAAAACW0/FoKmRyS0oVk/s1600/Survey1.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://lh5.googleusercontent.com/-t8DHUwWDM84/TWvhBKu9KzI/AAAAAAAACW0/FoKmRyS0oVk/s200/Survey1.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;

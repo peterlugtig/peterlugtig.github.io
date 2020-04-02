@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Smeets | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/authors/smeets/</link>
-      <atom:link href="https://peterlugtig.github.io/authors/smeets/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/smeets/</link>
+      <atom:link href="/authors/smeets/index.xml" rel="self" type="application/rss+xml" />
     <description>Smeets</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Smeets</title>
-      <link>https://peterlugtig.github.io/authors/smeets/</link>
+      <link>/authors/smeets/</link>
     </image>
     
     <item>
       <title>Automatic Travel Mode Prediction in a National Travel Survey</title>
-      <link>https://peterlugtig.github.io/publication/2019_smeets_automatic/</link>
+      <link>/publication/2019_smeets_automatic/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2019_smeets_automatic/</guid>
+      <guid>/publication/2019_smeets_automatic/</guid>
       <description></description>
     </item>
     

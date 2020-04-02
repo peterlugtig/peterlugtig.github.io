@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R. Frerichs and Greven | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/authors/r.-frerichs-and-greven/</link>
-      <atom:link href="https://peterlugtig.github.io/authors/r.-frerichs-and-greven/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/r.-frerichs-and-greven/</link>
+      <atom:link href="/authors/r.-frerichs-and-greven/index.xml" rel="self" type="application/rss+xml" />
     <description>R. Frerichs and Greven</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 01 Sep 2011 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>R. Frerichs and Greven</title>
-      <link>https://peterlugtig.github.io/authors/r.-frerichs-and-greven/</link>
+      <link>/authors/r.-frerichs-and-greven/</link>
     </image>
     
     <item>
       <title>Estimating nonresponse bias and mode effects in a mixed-mode survey</title>
-      <link>https://peterlugtig.github.io/publication/2011_lugtig_estimating_nonresponse/</link>
+      <link>/publication/2011_lugtig_estimating_nonresponse/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2011_lugtig_estimating_nonresponse/</guid>
+      <guid>/publication/2011_lugtig_estimating_nonresponse/</guid>
       <description></description>
     </item>
     

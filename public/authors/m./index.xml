@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/authors/m./</link>
-      <atom:link href="https://peterlugtig.github.io/authors/m./index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/m./</link>
+      <atom:link href="/authors/m./index.xml" rel="self" type="application/rss+xml" />
     <description>M.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>M.</title>
-      <link>https://peterlugtig.github.io/authors/m./</link>
+      <link>/authors/m./</link>
     </image>
     
     <item>
       <title>Recruiting young and urban groups into a probability-based online panel by promoting smartphone use</title>
-      <link>https://peterlugtig.github.io/publication/2019_lugtig_recruiting_smartphone/</link>
+      <link>/publication/2019_lugtig_recruiting_smartphone/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2019_lugtig_recruiting_smartphone/</guid>
+      <guid>/publication/2019_lugtig_recruiting_smartphone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can survey item characteristics relevant to mode-specific measurement error be coded reliably</title>
-      <link>https://peterlugtig.github.io/publication/2019_bais_can_survey_item_characteristics/</link>
+      <link>/publication/2019_bais_can_survey_item_characteristics/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2019_bais_can_survey_item_characteristics/</guid>
+      <guid>/publication/2019_bais_can_survey_item_characteristics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can we predict device use? An investigation into mobile device use in surveys</title>
-      <link>https://peterlugtig.github.io/publication/2019_haan_predict_device_use/</link>
+      <link>/publication/2019_haan_predict_device_use/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2019_haan_predict_device_use/</guid>
+      <guid>/publication/2019_haan_predict_device_use/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In Dutch: Het waarneem innovatie netwerk</title>
-      <link>https://peterlugtig.github.io/publication/dutch_2017_lugtig_het_waarneem/</link>
+      <link>/publication/dutch_2017_lugtig_het_waarneem/</link>
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/dutch_2017_lugtig_het_waarneem/</guid>
+      <guid>/publication/dutch_2017_lugtig_het_waarneem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incidence and recurrence of common mental disorders after abortion: Results from a prospective cohort study</title>
-      <link>https://peterlugtig.github.io/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</link>
+      <link>/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</guid>
+      <guid>/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining consumer intentions to use innovative medical and food applications: Test of an extended model of reasoned action in a survey study</title>
-      <link>https://peterlugtig.github.io/publication/2014_mulder_explaining_consumer_intentions/</link>
+      <link>/publication/2014_mulder_explaining_consumer_intentions/</link>
       <pubDate>Thu, 12 Jun 2014 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2014_mulder_explaining_consumer_intentions/</guid>
+      <guid>/publication/2014_mulder_explaining_consumer_intentions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nonresponse and attrition in a probability based Internet Panel for the general population</title>
-      <link>https://peterlugtig.github.io/publication/2014_lugtig_nonresponse_and_attrition_in_a_probability/</link>
+      <link>/publication/2014_lugtig_nonresponse_and_attrition_in_a_probability/</link>
       <pubDate>Fri, 11 Apr 2014 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2014_lugtig_nonresponse_and_attrition_in_a_probability/</guid>
+      <guid>/publication/2014_lugtig_nonresponse_and_attrition_in_a_probability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Separating selection bias and non-coverage in internet panels using propensity matching</title>
-      <link>https://peterlugtig.github.io/publication/2009_lensvelt_mulders_separating_selection_bias/</link>
+      <link>/publication/2009_lensvelt_mulders_separating_selection_bias/</link>
       <pubDate>Sat, 01 Aug 2009 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2009_lensvelt_mulders_separating_selection_bias/</guid>
+      <guid>/publication/2009_lensvelt_mulders_separating_selection_bias/</guid>
       <description></description>
     </item>
     

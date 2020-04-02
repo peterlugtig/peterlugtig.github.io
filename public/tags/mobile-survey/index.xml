@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mobile survey | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/tags/mobile-survey/</link>
-      <atom:link href="https://peterlugtig.github.io/tags/mobile-survey/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/mobile-survey/</link>
+      <atom:link href="/tags/mobile-survey/index.xml" rel="self" type="application/rss+xml" />
     <description>mobile survey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 27 Apr 2017 19:52:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>mobile survey</title>
-      <link>https://peterlugtig.github.io/tags/mobile-survey/</link>
+      <link>/tags/mobile-survey/</link>
     </image>
     
     <item>
       <title>Mobile-only web survey respondents</title>
-      <link>https://peterlugtig.github.io/post/mobile-only-web-survey-respondents/</link>
+      <link>/post/mobile-only-web-survey-respondents/</link>
       <pubDate>Thu, 27 Apr 2017 19:52:00 +0200</pubDate>
-      <guid>https://peterlugtig.github.io/post/mobile-only-web-survey-respondents/</guid>
+      <guid>/post/mobile-only-web-survey-respondents/</guid>
       <description>&lt;p&gt;My breaks between posts are getting longer and longer. Sorry my dear readers. Today, I am writing about research done over a year ago that I did with 
 &lt;a href=&#34;https://www.uu.nl/staff/VToepoel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vera Toepoel&lt;/a&gt;
  and 
@@ -45,9 +45,9 @@ A further 1% uses all devices, but we ignore these respondents here.&lt;/p&gt;
     
     <item>
       <title>Satisficing in mobile web surveys. Device-effect or selection effect?</title>
-      <link>https://peterlugtig.github.io/post/blog-post/</link>
+      <link>/post/blog-post/</link>
       <pubDate>Mon, 08 Dec 2014 20:47:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/post/blog-post/</guid>
+      <guid>/post/blog-post/</guid>
       <description>&lt;p&gt;Last week, I wrote about the fact 
 &lt;a href=&#34;http://www.peterlugtig.com/2014/12/what-devices-do-respondents-use-over.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;that respondents in panel surveys are now using tablets and smartphones to complete web surveys&lt;/a&gt;
 . We found that in the LISS panel, respondents who use tablets and smartphones are much more likely to switch devices over time and not participate in some months.&lt;br&gt;
@@ -76,9 +76,9 @@ The question we actually wanted to answer was a different one: do respondents wh
     
     <item>
       <title>Which devices do respondents use over the course of a panel study?</title>
-      <link>https://peterlugtig.github.io/post/what-devices-do-respondents-use-over/</link>
+      <link>/post/what-devices-do-respondents-use-over/</link>
       <pubDate>Tue, 02 Dec 2014 15:44:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/post/what-devices-do-respondents-use-over/</guid>
+      <guid>/post/what-devices-do-respondents-use-over/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;http://www.uu.nl/staff/VToepoel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vera Toepoel&lt;/a&gt;
  and I have been writing a few articles over the last two years about how survey respondents are taking up tablet computers and smartphones. We were interested in studying whether people in a probability-based web panel (
@@ -103,9 +103,9 @@ The question we actually wanted to answer was a different one: do respondents wh
     
     <item>
       <title>Can you push web survey respondents to complete questionnaires on their mobile phones?</title>
-      <link>https://peterlugtig.github.io/post/can-you-push-web-survey-respondents-to/</link>
+      <link>/post/can-you-push-web-survey-respondents-to/</link>
       <pubDate>Wed, 13 Aug 2014 19:06:00 +0200</pubDate>
-      <guid>https://peterlugtig.github.io/post/can-you-push-web-survey-respondents-to/</guid>
+      <guid>/post/can-you-push-web-survey-respondents-to/</guid>
       <description>&lt;p&gt;I am back from some great holidays, and am revisiting some of the research I did over the last 2 years. Back then, I would have not expected that I would become so interested in doing survey research on mobile phones. I do think that a little change of research topic does one good.&lt;/p&gt;
 &lt;p&gt;I have written two papers with Vera Toepoel on how to do surveys on mobile phones. The first question we had was whether people were actually likely to do a survey on a mobile phone. Last year, Marketresponse, a probability-based web panel in the Netherlands, had changed their survey software so that questionnaires would be dynamically adapted to mobile phone screen settings, and navigation methods. They then informed their respondents about it, and encouraged them to try a short survey on shopping behavior on their smartphone (if respondents had one).&lt;/p&gt;
 &lt;p&gt;We found that of those respondents who owned a smartphone, 59% chose to use it when encouraged and were positively surprised by this finding. Even with quite little encouragement, survey respondents are willing to try completing the survey on their mobile phone. Also, we found little reason to be worried about side-effects of encouraging mobile survey response.&lt;/p&gt;
@@ -124,9 +124,9 @@ The question we actually wanted to answer was a different one: do respondents wh
     
     <item>
       <title>AAPOR 2014</title>
-      <link>https://peterlugtig.github.io/post/aapor-2014/</link>
+      <link>/post/aapor-2014/</link>
       <pubDate>Mon, 26 May 2014 17:05:00 +0200</pubDate>
-      <guid>https://peterlugtig.github.io/post/aapor-2014/</guid>
+      <guid>/post/aapor-2014/</guid>
       <description>&lt;p&gt;Big data and new technologies to do survey research. These were in my view the two themes of the 
 &lt;a href=&#34;http://www.aapor.org/AAPOR_Annual_Conference.htm#.U4NUUi-prs0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2014 AAPOR conference&lt;/a&gt;
 . The conference organisation tried to push the theme ‘Measurement and the role of pubic opinion in a democracy’, but I don&amp;rsquo;t think the theme was really reflected in the talks at the conference. Or perhaps I have missed those talks, the conference was huge as always (&amp;gt; 1000 participants).&lt;/p&gt;

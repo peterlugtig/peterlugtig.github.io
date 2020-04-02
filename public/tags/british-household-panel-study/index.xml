@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>British Household Panel Study | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/tags/british-household-panel-study/</link>
-      <atom:link href="https://peterlugtig.github.io/tags/british-household-panel-study/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/british-household-panel-study/</link>
+      <atom:link href="/tags/british-household-panel-study/index.xml" rel="self" type="application/rss+xml" />
     <description>British Household Panel Study</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 29 Apr 2014 14:08:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>British Household Panel Study</title>
-      <link>https://peterlugtig.github.io/tags/british-household-panel-study/</link>
+      <link>/tags/british-household-panel-study/</link>
     </image>
     
     <item>
       <title>Are item-missings related to later attrition?</title>
-      <link>https://peterlugtig.github.io/post/are-item-missings-related-to-later/</link>
+      <link>/post/are-item-missings-related-to-later/</link>
       <pubDate>Tue, 29 Apr 2014 14:08:00 +0200</pubDate>
-      <guid>https://peterlugtig.github.io/post/are-item-missings-related-to-later/</guid>
+      <guid>/post/are-item-missings-related-to-later/</guid>
       <description>&lt;p&gt;A follow up on 
 &lt;a href=&#34;http://www.peterlugtig.com/2014/03/do-respondents-become-sloppy-before.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;last month&amp;rsquo;s post&lt;/a&gt;
 . Respondents do seem to be less compliant in the waves before they drop out from a panel survey. This may however not neccesarily lead to worse data. So, what else do we see before attrition takes place? Let have a look at missing data:&lt;/p&gt;
@@ -48,9 +48,9 @@
     
     <item>
       <title>Do respondents become sloppy before attrition?</title>
-      <link>https://peterlugtig.github.io/post/do-respondents-become-sloppy-before/</link>
+      <link>/post/do-respondents-become-sloppy-before/</link>
       <pubDate>Fri, 28 Mar 2014 15:33:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/post/do-respondents-become-sloppy-before/</guid>
+      <guid>/post/do-respondents-become-sloppy-before/</guid>
       <description>&lt;p&gt;I am working on a paper that aims to link measurement errors to attrition error in a panel survey. For this, I am using the British Household Panel Survey. 
 &lt;a href=&#34;http://www.peterlugtig.com/2013/11/longitudinal-interview-outcome-data.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In an earlier post&lt;/a&gt;
  I already argued that attrition can occur for many reasons, which I summarized in 5 categories.&lt;/p&gt;

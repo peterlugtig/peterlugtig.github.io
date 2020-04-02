@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>elections | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/tags/elections/</link>
-      <atom:link href="https://peterlugtig.github.io/tags/elections/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/elections/</link>
+      <atom:link href="/tags/elections/index.xml" rel="self" type="application/rss+xml" />
     <description>elections</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Sat, 22 Sep 2012 16:05:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>elections</title>
-      <link>https://peterlugtig.github.io/tags/elections/</link>
+      <link>/tags/elections/</link>
     </image>
     
     <item>
       <title>why access panels cannot weight elections polls accurately</title>
-      <link>https://peterlugtig.github.io/post/why-access-panels-cannot-weight/</link>
+      <link>/post/why-access-panels-cannot-weight/</link>
       <pubDate>Sat, 22 Sep 2012 16:05:00 +0200</pubDate>
-      <guid>https://peterlugtig.github.io/post/why-access-panels-cannot-weight/</guid>
+      <guid>/post/why-access-panels-cannot-weight/</guid>
       <description>&lt;p&gt;There are a lot of reasons why would not want to use acces panels for predicting electoral outcomes . These are well discussed in many places on- and offline. I&amp;rsquo;ll shortly summarize them, before adding some thoughts to why access panels do so badly predicting election outcomes.&lt;/p&gt;
 &lt;p&gt;1. Access panels don&amp;rsquo;t draw random samples, but rely on self-selected samples. A slightly better way to get panel respondents is a quota sample, but even these have problems, well discussed here, here and here for example. The bottom line is that access panel respondents are not &#39; normal&amp;rsquo; people, and so voting preferences of not-normal people are likely to be biased.&lt;/p&gt;
 &lt;p&gt;2. Because of these problems, survey managers use weighting. They correct their sample for known biases in the sample. If they know elderly people with low educations are underrepresented in an access panel, they weigh them up. I think this is bad practice. And it has been shown that weighting does not solve the problem,. and can sometimes make biases worse for general surveys. Here are some additional and specific problems, often neglected. In short, weighting only works if the weighting variables can predict the dependent variable to a great extent.&lt;/p&gt;
@@ -35,9 +35,9 @@ So, let me get down to the main point I would like to make in this post. A point
     
     <item>
       <title>Electoral volatility due to different questions?</title>
-      <link>https://peterlugtig.github.io/post/electoral-volatility-due-to-different/</link>
+      <link>/post/electoral-volatility-due-to-different/</link>
       <pubDate>Fri, 24 Aug 2012 13:15:00 +0200</pubDate>
-      <guid>https://peterlugtig.github.io/post/electoral-volatility-due-to-different/</guid>
+      <guid>/post/electoral-volatility-due-to-different/</guid>
       <description>&lt;p&gt;**Poll volatility **&lt;/p&gt;
 &lt;p&gt;Below, you find the summed changes in parliamentary seats over all parties in consecutive opinion polls for the four main polling firms in the Netherlands in the lead up to the 2012 elections. I will update the table below in the next weeks.&lt;br&gt;
 This overview follows from my earlier post on Dependent Interviewing. Maurice de Hond (peil.nl) is the only survey pre-loading earlier voter preferences into survey questions. I expect this to lead to less volatility in voter preferences for Maurice de Hond, as compared to the other polling firms.&lt;/p&gt;
@@ -134,9 +134,9 @@ This overview follows from my earlier post on Dependent Interviewing. Maurice de
     
     <item>
       <title>Dependent Interviewing, and stability in opinion polls</title>
-      <link>https://peterlugtig.github.io/post/dependent-interviewing-and-longitudinal/</link>
+      <link>/post/dependent-interviewing-and-longitudinal/</link>
       <pubDate>Wed, 15 Aug 2012 19:13:00 +0200</pubDate>
-      <guid>https://peterlugtig.github.io/post/dependent-interviewing-and-longitudinal/</guid>
+      <guid>/post/dependent-interviewing-and-longitudinal/</guid>
       <description>&lt;p&gt;I was re-reading one of the papers I wrote as part of my dissertation on survey data quality in panel surveys. The paper deals with the effects of the introduction of an interviewing technique called Dependent Interviewing in the British Household Panel Survey. I wrote this paper together with Annette Jackle, and if you are interested after reading the next bit, you can download a working paper version of it 
 &lt;a href=&#34;https://www.iser.essex.ac.uk/publications/working-papers/iser/2011-23.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;
 &lt;/p&gt;
@@ -151,9 +151,9 @@ This overview follows from my earlier post on Dependent Interviewing. Maurice de
     
     <item>
       <title>the influence of polls on voting behavior</title>
-      <link>https://peterlugtig.github.io/post/influence-of-polls-on-voting-behavior/</link>
+      <link>/post/influence-of-polls-on-voting-behavior/</link>
       <pubDate>Thu, 10 Feb 2011 10:11:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/post/influence-of-polls-on-voting-behavior/</guid>
+      <guid>/post/influence-of-polls-on-voting-behavior/</guid>
       <description>&lt;p&gt;Many opinion pollers do badly when it comes to predicting elections. This is mainly because they let their respondents self-select them into their polls. So what, who cares? The polls make for some good entertainment and easily fill the talk-shows on television. If everyone knows they cannot be trusted, why care?&lt;/p&gt;
 &lt;p&gt;We should care. In the Dutch electoral system - with 
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Proportional_representation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poportional respresentation&lt;/a&gt;
@@ -177,9 +177,9 @@ This overview follows from my earlier post on Dependent Interviewing. Maurice de
     
     <item>
       <title>how to do an exit-poll</title>
-      <link>https://peterlugtig.github.io/post/how-to-do-exit-poll/</link>
+      <link>/post/how-to-do-exit-poll/</link>
       <pubDate>Mon, 24 Jan 2011 11:05:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/post/how-to-do-exit-poll/</guid>
+      <guid>/post/how-to-do-exit-poll/</guid>
       <description>&lt;p&gt;There are several ways to do an exit poll, but they all come down to asking people what they voted, right after they went into the voting booth. The first succesfull modern exit poll was conducted in 
 &lt;a href=&#34;http://www.buzzle.com/articles/history-of-exit-polls.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1967 to predict the governor&amp;rsquo;s election of Kentucky&lt;/a&gt;
 .&lt;/p&gt;
@@ -202,9 +202,9 @@ Wisely, the Dutch news stations (ANP, NOS, RTL) chose to do a proper, old-school
     
     <item>
       <title>predicting elections</title>
-      <link>https://peterlugtig.github.io/post/predicting-elections/</link>
+      <link>/post/predicting-elections/</link>
       <pubDate>Mon, 17 Jan 2011 17:45:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/post/predicting-elections/</guid>
+      <guid>/post/predicting-elections/</guid>
       <description>&lt;p&gt;Opinion pollers do a lousy job of predicting elections. For a good read, see for example the prediction of the 
 &lt;a href=&#34;http://en.wikipedia.org/wiki/New_Hampshire_Democratic_primary,_2008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Hampshere primary&lt;/a&gt;
  in 2008, when all polls predicted Obama to win, but it was Clinton who won (albeit by a slim margin).&lt;/p&gt;

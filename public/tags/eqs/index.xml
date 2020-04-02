@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EQS | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/tags/eqs/</link>
-      <atom:link href="https://peterlugtig.github.io/tags/eqs/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/eqs/</link>
+      <atom:link href="/tags/eqs/index.xml" rel="self" type="application/rss+xml" />
     <description>EQS</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Wed, 19 Oct 2011 11:55:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>EQS</title>
-      <link>https://peterlugtig.github.io/tags/eqs/</link>
+      <link>/tags/eqs/</link>
     </image>
     
     <item>
       <title>SEM software</title>
-      <link>https://peterlugtig.github.io/post/sem-software/</link>
+      <link>/post/sem-software/</link>
       <pubDate>Wed, 19 Oct 2011 11:55:00 +0200</pubDate>
-      <guid>https://peterlugtig.github.io/post/sem-software/</guid>
+      <guid>/post/sem-software/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m not dead! In fact, I have been very alive over the past half a year: moving, finishing my Ph.D and starting a new job. With all that settled, I am determined to start where I left off.&lt;/p&gt;
 &lt;p&gt;I often get questions about software to do Structural Equation Modeling. There are quite a few packages out there, some more user-friendly or sophisticated than others. Here is an overview of existing packages and my opinion on the pro&amp;rsquo;s and cons of each.&lt;br&gt;
 

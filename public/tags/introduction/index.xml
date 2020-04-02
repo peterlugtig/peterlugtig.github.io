@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>introduction | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/tags/introduction/</link>
-      <atom:link href="https://peterlugtig.github.io/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/introduction/</link>
+      <atom:link href="/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
     <description>introduction</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 10 Jan 2011 17:14:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>introduction</title>
-      <link>https://peterlugtig.github.io/tags/introduction/</link>
+      <link>/tags/introduction/</link>
     </image>
     
     <item>
       <title>first past the post</title>
-      <link>https://peterlugtig.github.io/post/first-past-post/</link>
+      <link>/post/first-past-post/</link>
       <pubDate>Mon, 10 Jan 2011 17:14:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/post/first-past-post/</guid>
+      <guid>/post/first-past-post/</guid>
       <description>&lt;p&gt;Dear all,&lt;/p&gt;
 &lt;p&gt;With a new year come new year&amp;rsquo;s resolutions. I have been working as a survey methodologist for about the last 5 years. I teach and I do research. Teaching gives instant rewards, or at least instant feedback. I like that. Doing research is however a different matter. It is a slow and sometimes agonizing process of muddling through (for me).&lt;/p&gt;
 &lt;p&gt;Studies remain in review forever, sometimes don&amp;rsquo;t make it at all into a publication, while some of my ideas or views just never make onto paper at all. I hope this blog fills that gap.&lt;/p&gt;

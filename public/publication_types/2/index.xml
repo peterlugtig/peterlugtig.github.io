@@ -2,277 +2,285 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/publication_types/2/</link>
-      <atom:link href="https://peterlugtig.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2</title>
-      <link>https://peterlugtig.github.io/publication_types/2/</link>
+      <link>/publication_types/2/</link>
     </image>
     
     <item>
+      <title>A checklist for assessing the analysis documentation for public-use complex sample survey data sets</title>
+      <link>/publication/2020_kolenikov/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_kolenikov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Where you at? Using GPS location in an electronic Time Use diary study to derive functional locations</title>
-      <link>https://peterlugtig.github.io/publication/2019_elevelt_where_you/</link>
+      <link>/publication/2019_elevelt_where_you/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2019_elevelt_where_you/</guid>
+      <guid>/publication/2019_elevelt_where_you/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recruiting young and urban groups into a probability-based online panel by promoting smartphone use</title>
-      <link>https://peterlugtig.github.io/publication/2019_lugtig_recruiting_smartphone/</link>
+      <link>/publication/2019_lugtig_recruiting_smartphone/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2019_lugtig_recruiting_smartphone/</guid>
+      <guid>/publication/2019_lugtig_recruiting_smartphone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Barriers to ideal palliative care in multiple care settings: The nurses&#39; point of view</title>
-      <link>https://peterlugtig.github.io/publication/2019_uitdehaag_barriers/</link>
+      <link>/publication/2019_uitdehaag_barriers/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2019_uitdehaag_barriers/</guid>
+      <guid>/publication/2019_uitdehaag_barriers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can survey item characteristics relevant to mode-specific measurement error be coded reliably</title>
-      <link>https://peterlugtig.github.io/publication/2019_bais_can_survey_item_characteristics/</link>
+      <link>/publication/2019_bais_can_survey_item_characteristics/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2019_bais_can_survey_item_characteristics/</guid>
+      <guid>/publication/2019_bais_can_survey_item_characteristics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can we predict device use? An investigation into mobile device use in surveys</title>
-      <link>https://peterlugtig.github.io/publication/2019_haan_predict_device_use/</link>
+      <link>/publication/2019_haan_predict_device_use/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2019_haan_predict_device_use/</guid>
+      <guid>/publication/2019_haan_predict_device_use/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generating missing values for simulation purposes: A multivariate amputation procedure</title>
-      <link>https://peterlugtig.github.io/publication/2018_schouten_generating_missing/</link>
+      <link>/publication/2018_schouten_generating_missing/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2018_schouten_generating_missing/</guid>
+      <guid>/publication/2018_schouten_generating_missing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modularization in an era of mobile web: Investigating the effects of cutting a survey into smaller pieces on data quality</title>
-      <link>https://peterlugtig.github.io/publication/2018_toepoel_modularization/</link>
+      <link>/publication/2018_toepoel_modularization/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2018_toepoel_modularization/</guid>
+      <guid>/publication/2018_toepoel_modularization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The relative size of measurement error and attrition error in a panel survey. Comparing them using a new Multi-Trait Multi-Method model</title>
-      <link>https://peterlugtig.github.io/publication/2017_lugtig_the_relative_size_of_measurement_error/</link>
+      <link>/publication/2017_lugtig_the_relative_size_of_measurement_error/</link>
       <pubDate>Wed, 13 Dec 2017 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2017_lugtig_the_relative_size_of_measurement_error/</guid>
+      <guid>/publication/2017_lugtig_the_relative_size_of_measurement_error/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In Dutch: Het waarneem innovatie netwerk</title>
-      <link>https://peterlugtig.github.io/publication/dutch_2017_lugtig_het_waarneem/</link>
+      <link>/publication/dutch_2017_lugtig_het_waarneem/</link>
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/dutch_2017_lugtig_het_waarneem/</guid>
+      <guid>/publication/dutch_2017_lugtig_het_waarneem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The unique roles of intrapersonal and social factors in adolescent smoking development</title>
-      <link>https://peterlugtig.github.io/publication/2016_defoe_the_unique_role_of_cognitive/</link>
+      <link>/publication/2016_defoe_the_unique_role_of_cognitive/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2016_defoe_the_unique_role_of_cognitive/</guid>
+      <guid>/publication/2016_defoe_the_unique_role_of_cognitive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incidence and recurrence of common mental disorders after abortion: Results from a prospective cohort study</title>
-      <link>https://peterlugtig.github.io/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</link>
+      <link>/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</guid>
+      <guid>/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile-only web respondents</title>
-      <link>https://peterlugtig.github.io/publication/2016_lugtig_mobile_only_web_respondents/</link>
+      <link>/publication/2016_lugtig_mobile_only_web_respondents/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2016_lugtig_mobile_only_web_respondents/</guid>
+      <guid>/publication/2016_lugtig_mobile_only_web_respondents/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online surveys are Mixed-Device surveys. Issues associated with the use of different mobile devices in web surveys</title>
-      <link>https://peterlugtig.github.io/publication/2015_toepoel_online_surveys_are_mixed_device/</link>
+      <link>/publication/2015_toepoel_online_surveys_are_mixed_device/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2015_toepoel_online_surveys_are_mixed_device/</guid>
+      <guid>/publication/2015_toepoel_online_surveys_are_mixed_device/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Methodology turns 10</title>
-      <link>https://peterlugtig.github.io/publication/2015_lugtig_methodology_turns_10/</link>
+      <link>/publication/2015_lugtig_methodology_turns_10/</link>
       <pubDate>Tue, 29 Sep 2015 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2015_lugtig_methodology_turns_10/</guid>
+      <guid>/publication/2015_lugtig_methodology_turns_10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of perceived peer norms in the relationship between media violence exposure and adolescents’ aggression</title>
-      <link>https://peterlugtig.github.io/publication/2016_fikkers_the_role_of_perceived/</link>
+      <link>/publication/2016_fikkers_the_role_of_perceived/</link>
       <pubDate>Fri, 11 Sep 2015 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2016_fikkers_the_role_of_perceived/</guid>
+      <guid>/publication/2016_fikkers_the_role_of_perceived/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reducing underreports of behaviors in retrospective surveys: The effects of three different strategies</title>
-      <link>https://peterlugtig.github.io/publication/2015_lugtig_reducing_underreports_of_behaviors/</link>
+      <link>/publication/2015_lugtig_reducing_underreports_of_behaviors/</link>
       <pubDate>Sat, 05 Sep 2015 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2015_lugtig_reducing_underreports_of_behaviors/</guid>
+      <guid>/publication/2015_lugtig_reducing_underreports_of_behaviors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The use of PCs, smartphones and tablets in a probability-based panel survey. Effects on survey measurement error</title>
-      <link>https://peterlugtig.github.io/publication/2016_lugtig_the_use_of_pcs_smartphones/</link>
+      <link>/publication/2016_lugtig_the_use_of_pcs_smartphones/</link>
       <pubDate>Thu, 26 Feb 2015 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2016_lugtig_the_use_of_pcs_smartphones/</guid>
+      <guid>/publication/2016_lugtig_the_use_of_pcs_smartphones/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing and relaxing assumptions in quasi-simplex models</title>
-      <link>https://peterlugtig.github.io/publication/2014_cernat_assessing_and_relaxing_assumptions/</link>
+      <link>/publication/2014_cernat_assessing_and_relaxing_assumptions/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2014_cernat_assessing_and_relaxing_assumptions/</guid>
+      <guid>/publication/2014_cernat_assessing_and_relaxing_assumptions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining consumer intentions to use innovative medical and food applications: Test of an extended model of reasoned action in a survey study</title>
-      <link>https://peterlugtig.github.io/publication/2014_mulder_explaining_consumer_intentions/</link>
+      <link>/publication/2014_mulder_explaining_consumer_intentions/</link>
       <pubDate>Thu, 12 Jun 2014 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2014_mulder_explaining_consumer_intentions/</guid>
+      <guid>/publication/2014_mulder_explaining_consumer_intentions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What happens if you offer a mobile option to your web panel? Evidence from a probability-based panel of internet users</title>
-      <link>https://peterlugtig.github.io/publication/2014_toepoel_what_happens_if_you_offer/</link>
+      <link>/publication/2014_toepoel_what_happens_if_you_offer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2014_toepoel_what_happens_if_you_offer/</guid>
+      <guid>/publication/2014_toepoel_what_happens_if_you_offer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential effects of baseline drinking status: Effects of an alcohol prevention program targeting students and/or parents (PAS) among weekly drinking students</title>
-      <link>https://peterlugtig.github.io/publication/2014_koning_differential_effects_of_baseline_drinking/</link>
+      <link>/publication/2014_koning_differential_effects_of_baseline_drinking/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2014_koning_differential_effects_of_baseline_drinking/</guid>
+      <guid>/publication/2014_koning_differential_effects_of_baseline_drinking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adolescents’ use of nicotine replacement therapy for smoking cessation: Predictors of compliance trajectories</title>
-      <link>https://peterlugtig.github.io/publication/2014_scherphof_adolescents_use_of_nicotine/</link>
+      <link>/publication/2014_scherphof_adolescents_use_of_nicotine/</link>
       <pubDate>Wed, 05 Mar 2014 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2014_scherphof_adolescents_use_of_nicotine/</guid>
+      <guid>/publication/2014_scherphof_adolescents_use_of_nicotine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can I just check...? Effects of edit check questions on measurement error and survey estimates</title>
-      <link>https://peterlugtig.github.io/publication/2014_lugtig_in_interview_edit_checks/</link>
+      <link>/publication/2014_lugtig_in_interview_edit_checks/</link>
       <pubDate>Fri, 14 Feb 2014 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2014_lugtig_in_interview_edit_checks/</guid>
+      <guid>/publication/2014_lugtig_in_interview_edit_checks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Panel attrition: Separating stayers, fast attriters, gradual attriters and lurkers</title>
-      <link>https://peterlugtig.github.io/publication/2014_lugtig_panel_attrition_separating_stayers/</link>
+      <link>/publication/2014_lugtig_panel_attrition_separating_stayers/</link>
       <pubDate>Thu, 06 Feb 2014 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2014_lugtig_panel_attrition_separating_stayers/</guid>
+      <guid>/publication/2014_lugtig_panel_attrition_separating_stayers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facing off with Scylla and Charybdis: A comparison of scalar, partial, and the novel possibility of approximate measurement invariance</title>
-      <link>https://peterlugtig.github.io/publication/2013_schoot_facing_off_with_choosing/</link>
+      <link>/publication/2013_schoot_facing_off_with_choosing/</link>
       <pubDate>Wed, 23 Oct 2013 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2013_schoot_facing_off_with_choosing/</guid>
+      <guid>/publication/2013_schoot_facing_off_with_choosing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating data quality on the measurement of change using dependent interviewing</title>
-      <link>https://peterlugtig.github.io/publication/2014_lugtig_evaluating_data_quality_on/</link>
+      <link>/publication/2014_lugtig_evaluating_data_quality_on/</link>
       <pubDate>Wed, 24 Jul 2013 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2014_lugtig_evaluating_data_quality_on/</guid>
+      <guid>/publication/2014_lugtig_evaluating_data_quality_on/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In Dutch: Ontwikkelingstrajecten in en voorspellers voor het gebruik van seksueel expliciet internetmateriaal</title>
-      <link>https://peterlugtig.github.io/publication/dutch_2012_doornwaard_ontwikkelingstrajecten/</link>
+      <link>/publication/dutch_2012_doornwaard_ontwikkelingstrajecten/</link>
       <pubDate>Thu, 03 Jan 2013 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/dutch_2012_doornwaard_ontwikkelingstrajecten/</guid>
+      <guid>/publication/dutch_2012_doornwaard_ontwikkelingstrajecten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A checklist for testing measurement invariance</title>
-      <link>https://peterlugtig.github.io/publication/2012_schoot_a_checklist_for_testing/</link>
+      <link>/publication/2012_schoot_a_checklist_for_testing/</link>
       <pubDate>Tue, 15 May 2012 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2012_schoot_a_checklist_for_testing/</guid>
+      <guid>/publication/2012_schoot_a_checklist_for_testing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prevalence and predictors of transitions into co-occurring risk behaviour patterns in adolescence: The TRAILS study</title>
-      <link>https://peterlugtig.github.io/publication/2012_monshouwer_prevalence_and_predictors/</link>
+      <link>/publication/2012_monshouwer_prevalence_and_predictors/</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2012_monshouwer_prevalence_and_predictors/</guid>
+      <guid>/publication/2012_monshouwer_prevalence_and_predictors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimating nonresponse bias and mode effects in a mixed-mode survey</title>
-      <link>https://peterlugtig.github.io/publication/2011_lugtig_estimating_nonresponse/</link>
+      <link>/publication/2011_lugtig_estimating_nonresponse/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2011_lugtig_estimating_nonresponse/</guid>
+      <guid>/publication/2011_lugtig_estimating_nonresponse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Change, what change? Understanding longitudinal measurement invariance using mixed-methods</title>
-      <link>https://peterlugtig.github.io/publication/2012_lugtig_change_what_change/</link>
+      <link>/publication/2012_lugtig_change_what_change/</link>
       <pubDate>Fri, 05 Aug 2011 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2012_lugtig_change_what_change/</guid>
+      <guid>/publication/2012_lugtig_change_what_change/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Not doing bad things is not equivalent to doing the right thing: Distinguishing between inhibitory and initiatory self-control</title>
-      <link>https://peterlugtig.github.io/publication/2011_de_ridder_not_doing_bad_things/</link>
+      <link>/publication/2011_de_ridder_not_doing_bad_things/</link>
       <pubDate>Sat, 12 Feb 2011 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2011_de_ridder_not_doing_bad_things/</guid>
+      <guid>/publication/2011_de_ridder_not_doing_bad_things/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Separating selection bias and non-coverage in internet panels using propensity matching</title>
-      <link>https://peterlugtig.github.io/publication/2009_lensvelt_mulders_separating_selection_bias/</link>
+      <link>/publication/2009_lensvelt_mulders_separating_selection_bias/</link>
       <pubDate>Sat, 01 Aug 2009 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2009_lensvelt_mulders_separating_selection_bias/</guid>
+      <guid>/publication/2009_lensvelt_mulders_separating_selection_bias/</guid>
       <description></description>
     </item>
     

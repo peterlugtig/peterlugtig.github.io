@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>De Leeuw | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/authors/de-leeuw/</link>
-      <atom:link href="https://peterlugtig.github.io/authors/de-leeuw/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/de-leeuw/</link>
+      <atom:link href="/authors/de-leeuw/index.xml" rel="self" type="application/rss+xml" />
     <description>De Leeuw</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Fri, 18 Dec 2015 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>De Leeuw</title>
-      <link>https://peterlugtig.github.io/authors/de-leeuw/</link>
+      <link>/authors/de-leeuw/</link>
     </image>
     
     <item>
       <title>Dropouts in longitudinal surveys</title>
-      <link>https://peterlugtig.github.io/publication/2015_de_leeuw_dropouts_in_longitudinal_data/</link>
+      <link>/publication/2015_de_leeuw_dropouts_in_longitudinal_data/</link>
       <pubDate>Fri, 18 Dec 2015 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2015_de_leeuw_dropouts_in_longitudinal_data/</guid>
+      <guid>/publication/2015_de_leeuw_dropouts_in_longitudinal_data/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>access panels | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/tags/access-panels/</link>
-      <atom:link href="https://peterlugtig.github.io/tags/access-panels/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/access-panels/</link>
+      <atom:link href="/tags/access-panels/index.xml" rel="self" type="application/rss+xml" />
     <description>access panels</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 23 May 2013 12:18:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>access panels</title>
-      <link>https://peterlugtig.github.io/tags/access-panels/</link>
+      <link>/tags/access-panels/</link>
     </image>
     
     <item>
       <title>AAPOR 2013</title>
-      <link>https://peterlugtig.github.io/post/aapor-2013/</link>
+      <link>/post/aapor-2013/</link>
       <pubDate>Thu, 23 May 2013 12:18:00 +0200</pubDate>
-      <guid>https://peterlugtig.github.io/post/aapor-2013/</guid>
+      <guid>/post/aapor-2013/</guid>
       <description>&lt;p&gt;The 
 &lt;a href=&#34;http://www.aapor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAPOR conference&lt;/a&gt;
  last week gave an overview of what survey methodologists worry about. There were relatively few people from Europe this year, and I found that the issues methodologists worry about are sometimes different in Europe and the USA. At the upcoming 
@@ -43,9 +43,9 @@ The idea of responsive designs has been around for about 15 years. I had until n
     
     <item>
       <title>why access panels cannot weight elections polls accurately</title>
-      <link>https://peterlugtig.github.io/post/why-access-panels-cannot-weight/</link>
+      <link>/post/why-access-panels-cannot-weight/</link>
       <pubDate>Sat, 22 Sep 2012 16:05:00 +0200</pubDate>
-      <guid>https://peterlugtig.github.io/post/why-access-panels-cannot-weight/</guid>
+      <guid>/post/why-access-panels-cannot-weight/</guid>
       <description>&lt;p&gt;There are a lot of reasons why would not want to use acces panels for predicting electoral outcomes . These are well discussed in many places on- and offline. I&amp;rsquo;ll shortly summarize them, before adding some thoughts to why access panels do so badly predicting election outcomes.&lt;/p&gt;
 &lt;p&gt;1. Access panels don&amp;rsquo;t draw random samples, but rely on self-selected samples. A slightly better way to get panel respondents is a quota sample, but even these have problems, well discussed here, here and here for example. The bottom line is that access panel respondents are not &#39; normal&amp;rsquo; people, and so voting preferences of not-normal people are likely to be biased.&lt;/p&gt;
 &lt;p&gt;2. Because of these problems, survey managers use weighting. They correct their sample for known biases in the sample. If they know elderly people with low educations are underrepresented in an access panel, they weigh them up. I think this is bad practice. And it has been shown that weighting does not solve the problem,. and can sometimes make biases worse for general surveys. Here are some additional and specific problems, often neglected. In short, weighting only works if the weighting variables can predict the dependent variable to a great extent.&lt;/p&gt;
@@ -64,9 +64,9 @@ So, let me get down to the main point I would like to make in this post. A point
     
     <item>
       <title>Dutch elections 2012 - poll results</title>
-      <link>https://peterlugtig.github.io/post/dutch-elections-2012-poll-results/</link>
+      <link>/post/dutch-elections-2012-poll-results/</link>
       <pubDate>Thu, 13 Sep 2012 11:57:00 +0200</pubDate>
-      <guid>https://peterlugtig.github.io/post/dutch-elections-2012-poll-results/</guid>
+      <guid>/post/dutch-elections-2012-poll-results/</guid>
       <description>&lt;p&gt;The night after the election, one can conclude that all pollsters in the Netherlands did a bad job of predicting the election results. All polls were at least off by 20 seats (out of 150), and I expect the newspapers to make headlines of this in the next days. See the table below for the final predictions (before election day), the exit poll and final election results. The last row shows how much each poll was off (in the number of seats&lt;/p&gt;
 &lt;p&gt;Actually, I think the pollsters did pretty well this time. The only thing all of them mispredicted, was a large number of PVV voters moving to VVD, and a lot of SP voters moving to the PvdA, This movement was visible in the last polls leading up to the elections, but the pollsters either underestimated it, or a lot of people switched for the winner on election date.&lt;/p&gt;
 &lt;p&gt;So, I predicted Synovate would do best, but that did not turn out to be the case. Well, they share first place with Maurice de Hond, but are not clearly better than others. There are lots of blogs, articles and news items about Internet Panels these days. I spent some blogposts on that issue in 2009 myself. Although the largest reason why pollers generally do so badly is that they do not draw random samples, I think there are two more reasons why pollsters do badly. I plan to spend my next two blog posts on these topics, so stay tuned for more on the following issue.&lt;/p&gt;
@@ -166,9 +166,9 @@ So, let me get down to the main point I would like to make in this post. A point
     
     <item>
       <title>how to use Internet panels for polling</title>
-      <link>https://peterlugtig.github.io/post/how-to-use-internet-panels-for-polling/</link>
+      <link>/post/how-to-use-internet-panels-for-polling/</link>
       <pubDate>Thu, 10 Feb 2011 11:13:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/post/how-to-use-internet-panels-for-polling/</guid>
+      <guid>/post/how-to-use-internet-panels-for-polling/</guid>
       <description>&lt;p&gt;Before people believe I&amp;rsquo;m old-fashioned, I do think that Internet-surveys, even panel surveys are the future of survey research. John Krosnick makes some good points in a video shot by the people from 
 &lt;a href=&#34;http://www.blogger.com/www.pollster.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.pollster.com&lt;/a&gt;
 &lt;/p&gt;
@@ -177,9 +177,9 @@ So, let me get down to the main point I would like to make in this post. A point
     
     <item>
       <title>how to do an exit-poll</title>
-      <link>https://peterlugtig.github.io/post/how-to-do-exit-poll/</link>
+      <link>/post/how-to-do-exit-poll/</link>
       <pubDate>Mon, 24 Jan 2011 11:05:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/post/how-to-do-exit-poll/</guid>
+      <guid>/post/how-to-do-exit-poll/</guid>
       <description>&lt;p&gt;There are several ways to do an exit poll, but they all come down to asking people what they voted, right after they went into the voting booth. The first succesfull modern exit poll was conducted in 
 &lt;a href=&#34;http://www.buzzle.com/articles/history-of-exit-polls.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1967 to predict the governor&amp;rsquo;s election of Kentucky&lt;/a&gt;
 .&lt;/p&gt;

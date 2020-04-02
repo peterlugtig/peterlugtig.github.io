@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internet survey | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/tags/internet-survey/</link>
-      <atom:link href="https://peterlugtig.github.io/tags/internet-survey/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/internet-survey/</link>
+      <atom:link href="/tags/internet-survey/index.xml" rel="self" type="application/rss+xml" />
     <description>Internet survey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 21 Feb 2011 08:45:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Internet survey</title>
-      <link>https://peterlugtig.github.io/tags/internet-survey/</link>
+      <link>/tags/internet-survey/</link>
     </image>
     
     <item>
       <title>mode effects</title>
-      <link>https://peterlugtig.github.io/post/mode-effects/</link>
+      <link>/post/mode-effects/</link>
       <pubDate>Mon, 21 Feb 2011 08:45:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/post/mode-effects/</guid>
+      <guid>/post/mode-effects/</guid>
       <description>&lt;p&gt;One of the most interesting issues in survey research is the 
 &lt;a href=&#34;http://surveynet.ac.uk/sqb/datacollection/modeeffectsfactsheet.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mode effect.&lt;/a&gt;
  A mode effect can occur in mixed-mode surveys, where different questionnaire administration methods are combined. The reasons for mixing survey modes are multifold, but usually survey researchers mix modes to limit nonresponse, reach particular hard-to-reach types of respondents, or limit measurement error. It is more common today to mix modes than not mix them, for some good reasons:&lt;/p&gt;

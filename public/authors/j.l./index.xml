@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J.L. | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/authors/j.l./</link>
-      <atom:link href="https://peterlugtig.github.io/authors/j.l./index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/j.l./</link>
+      <atom:link href="/authors/j.l./index.xml" rel="self" type="application/rss+xml" />
     <description>J.L.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Wed, 05 Oct 2016 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>J.L.</title>
-      <link>https://peterlugtig.github.io/authors/j.l./</link>
+      <link>/authors/j.l./</link>
     </image>
     
     <item>
       <title>Trends and challenges for Methodology</title>
-      <link>https://peterlugtig.github.io/publication/2016_padilla_trends_and_challenges_for_methodology/</link>
+      <link>/publication/2016_padilla_trends_and_challenges_for_methodology/</link>
       <pubDate>Wed, 05 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2016_padilla_trends_and_challenges_for_methodology/</guid>
+      <guid>/publication/2016_padilla_trends_and_challenges_for_methodology/</guid>
       <description></description>
     </item>
     

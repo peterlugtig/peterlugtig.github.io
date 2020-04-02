@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L. | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/authors/l./</link>
-      <atom:link href="https://peterlugtig.github.io/authors/l./index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/l./</link>
+      <atom:link href="/authors/l./index.xml" rel="self" type="application/rss+xml" />
     <description>L.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>L.</title>
-      <link>https://peterlugtig.github.io/authors/l./</link>
+      <link>/authors/l./</link>
     </image>
     
     <item>
       <title>Recruiting young and urban groups into a probability-based online panel by promoting smartphone use</title>
-      <link>https://peterlugtig.github.io/publication/2019_lugtig_recruiting_smartphone/</link>
+      <link>/publication/2019_lugtig_recruiting_smartphone/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2019_lugtig_recruiting_smartphone/</guid>
+      <guid>/publication/2019_lugtig_recruiting_smartphone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The unique roles of intrapersonal and social factors in adolescent smoking development</title>
-      <link>https://peterlugtig.github.io/publication/2016_defoe_the_unique_role_of_cognitive/</link>
+      <link>/publication/2016_defoe_the_unique_role_of_cognitive/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2016_defoe_the_unique_role_of_cognitive/</guid>
+      <guid>/publication/2016_defoe_the_unique_role_of_cognitive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facing off with Scylla and Charybdis: A comparison of scalar, partial, and the novel possibility of approximate measurement invariance</title>
-      <link>https://peterlugtig.github.io/publication/2013_schoot_facing_off_with_choosing/</link>
+      <link>/publication/2013_schoot_facing_off_with_choosing/</link>
       <pubDate>Wed, 23 Oct 2013 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2013_schoot_facing_off_with_choosing/</guid>
+      <guid>/publication/2013_schoot_facing_off_with_choosing/</guid>
       <description></description>
     </item>
     

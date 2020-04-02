@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zandvliet | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/authors/zandvliet/</link>
-      <atom:link href="https://peterlugtig.github.io/authors/zandvliet/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/zandvliet/</link>
+      <atom:link href="/authors/zandvliet/index.xml" rel="self" type="application/rss+xml" />
     <description>Zandvliet</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Zandvliet</title>
-      <link>https://peterlugtig.github.io/authors/zandvliet/</link>
+      <link>/authors/zandvliet/</link>
     </image>
     
     <item>
       <title>Recruiting young and urban groups into a probability-based online panel by promoting smartphone use</title>
-      <link>https://peterlugtig.github.io/publication/2019_lugtig_recruiting_smartphone/</link>
+      <link>/publication/2019_lugtig_recruiting_smartphone/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/publication/2019_lugtig_recruiting_smartphone/</guid>
+      <guid>/publication/2019_lugtig_recruiting_smartphone/</guid>
       <description></description>
     </item>
     

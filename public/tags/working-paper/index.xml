@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>working paper | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/tags/working-paper/</link>
-      <atom:link href="https://peterlugtig.github.io/tags/working-paper/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/working-paper/</link>
+      <atom:link href="/tags/working-paper/index.xml" rel="self" type="application/rss+xml" />
     <description>working paper</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 01 Apr 2013 10:05:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>working paper</title>
-      <link>https://peterlugtig.github.io/tags/working-paper/</link>
+      <link>/tags/working-paper/</link>
     </image>
     
     <item>
       <title>Open access: things we can learn from the natural sciences</title>
-      <link>https://peterlugtig.github.io/post/open-access-things-we-can-learn-from/</link>
+      <link>/post/open-access-things-we-can-learn-from/</link>
       <pubDate>Mon, 01 Apr 2013 10:05:00 +0200</pubDate>
-      <guid>https://peterlugtig.github.io/post/open-access-things-we-can-learn-from/</guid>
+      <guid>/post/open-access-things-we-can-learn-from/</guid>
       <description>&lt;p&gt;I was  pointed to an interview with two Harvard professors, one of them my (former) idol Gary King, talking about the need for open access publishing. I&amp;rsquo;m re-posting it here as a reminder to myself, and to anyone from the social sciences (or survey methods), that we should be more open about what we do and write. Too often, papers take years to appear in print-journals, and even then, these articles probably don&amp;rsquo;t make it to those people without subscriptions to all the main publishers.&lt;/p&gt;
 &lt;p&gt;One practical question to anyone reading this: the natural sciences have ArXiv: a system where everyone published work-in-progress. Does anyone know of initiatives in this direction in the social sciences?&lt;/p&gt;
 </description>

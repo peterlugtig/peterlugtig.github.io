@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>workshop | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/tags/workshop/</link>
-      <atom:link href="https://peterlugtig.github.io/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/workshop/</link>
+      <atom:link href="/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     <description>workshop</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 09 Sep 2013 16:48:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>workshop</title>
-      <link>https://peterlugtig.github.io/tags/workshop/</link>
+      <link>/tags/workshop/</link>
     </image>
     
     <item>
       <title>Nonresponse Workshop 2013</title>
-      <link>https://peterlugtig.github.io/post/nonresponse-workshop-2013/</link>
+      <link>/post/nonresponse-workshop-2013/</link>
       <pubDate>Mon, 09 Sep 2013 16:48:00 +0200</pubDate>
-      <guid>https://peterlugtig.github.io/post/nonresponse-workshop-2013/</guid>
+      <guid>/post/nonresponse-workshop-2013/</guid>
       <description>&lt;p&gt;One of the greatest challenges in survey research are declining response rates. Around the globe, it appears to become harder and harder to convince people to participate in surveys. As to why response rates are declining, researchers are unsure. A general worsening of the &amp;lsquo;survey climate&amp;rsquo;, due to increased time pressures on people in general, and direct marketing are usually blamed.&lt;/p&gt;
 &lt;p&gt;This year&amp;rsquo;s 
 &lt;a href=&#34;http://www.nonresponse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nonresponse workshop&lt;/a&gt;
@@ -53,9 +53,9 @@ k. In other words, high nonresponse rates are not per se biasing our substantive
     
     <item>
       <title>panel conditioning</title>
-      <link>https://peterlugtig.github.io/post/panel-conditioning/</link>
+      <link>/post/panel-conditioning/</link>
       <pubDate>Thu, 12 Jan 2012 14:12:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/post/panel-conditioning/</guid>
+      <guid>/post/panel-conditioning/</guid>
       <description>&lt;p&gt;In late august of 2011 I attended the Internet Survey Methodology Workshop. There were people from academia, official statistics and market research agencies there. One of the issues discussed there has had me thinking since: the topic of panel conditioning. Some people seem really worried that respondents in panel surveys start behaving or thinking differently because of repeated participation in a survey.&lt;/p&gt;
 &lt;p&gt;Panel conditioning is closely linked with the issue of  &amp;lsquo;professional&amp;rsquo; respondents. These are respondents who know exactly how survey researchers design surveys, and use this knowledge to get most out of the survey (in terms of reward-schemes) against the least time possible.&lt;/p&gt;
 &lt;p&gt;Many market research firms throw out respondents after some time, mostly a couple of years, and then refresh their samples. But is this necessary? If so, after what time do respondents become conditioned? And for what topics is conditioning most problematic?&lt;/p&gt;
@@ -66,9 +66,9 @@ k. In other words, high nonresponse rates are not per se biasing our substantive
     
     <item>
       <title>The trouble with nonresponse studies</title>
-      <link>https://peterlugtig.github.io/post/trouble-of-nonresponse-studies/</link>
+      <link>/post/trouble-of-nonresponse-studies/</link>
       <pubDate>Fri, 21 Oct 2011 14:01:00 +0200</pubDate>
-      <guid>https://peterlugtig.github.io/post/trouble-of-nonresponse-studies/</guid>
+      <guid>/post/trouble-of-nonresponse-studies/</guid>
       <description>&lt;p&gt;Gerry Nicolaas (of Natcen) has just written a good review on the nonresponse workshop we both attended this year. See 
 &lt;a href=&#34;http://natcenblog.blogspot.com/2011/10/challenges-to-current-practice-of.html#comment-form&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://natcenblog.blogspot.com/2011/10/challenges-to-current-practice-of.html#comment-form&lt;/a&gt;
 &lt;br&gt;

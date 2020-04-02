@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sequence analysis | Peter Lugtig</title>
-    <link>https://peterlugtig.github.io/tags/sequence-analysis/</link>
-      <atom:link href="https://peterlugtig.github.io/tags/sequence-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/sequence-analysis/</link>
+      <atom:link href="/tags/sequence-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>sequence analysis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 04 Nov 2013 16:22:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>sequence analysis</title>
-      <link>https://peterlugtig.github.io/tags/sequence-analysis/</link>
+      <link>/tags/sequence-analysis/</link>
     </image>
     
     <item>
       <title>Longitudinal interview outcome data reduction: Latent Class and Sequence analyses</title>
-      <link>https://peterlugtig.github.io/post/longitudinal-interview-outcome-data/</link>
+      <link>/post/longitudinal-interview-outcome-data/</link>
       <pubDate>Mon, 04 Nov 2013 16:22:00 +0100</pubDate>
-      <guid>https://peterlugtig.github.io/post/longitudinal-interview-outcome-data/</guid>
+      <guid>/post/longitudinal-interview-outcome-data/</guid>
       <description>&lt;p&gt;Frauke Kreuter once commented on a presentation I gave that I should really be looking at sequence analysis for studying attrition in panel surveys. She had written an article on the topic with Ulrich Kohler (
 &lt;a href=&#34;http://www.jos.nu/Articles/abstract.asp?article=252203&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 ) in 2009, and as of late there are more people exploring the technique (e.g. Mark Hanly at Bristol, and 
