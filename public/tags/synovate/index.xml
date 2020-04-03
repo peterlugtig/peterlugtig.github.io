@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Synovate | Peter Lugtig</title>
-    <link>/tags/synovate/</link>
-      <atom:link href="/tags/synovate/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.com/tags/synovate/</link>
+      <atom:link href="https://peterlugtig.com/tags/synovate/index.xml" rel="self" type="application/rss+xml" />
     <description>Synovate</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 13 Sep 2012 11:57:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Synovate</title>
-      <link>/tags/synovate/</link>
+      <link>https://peterlugtig.com/tags/synovate/</link>
     </image>
     
     <item>
       <title>Dutch elections 2012 - poll results</title>
-      <link>/post/dutch-elections-2012-poll-results/</link>
+      <link>https://peterlugtig.com/post/dutch-elections-2012-poll-results/</link>
       <pubDate>Thu, 13 Sep 2012 11:57:00 +0200</pubDate>
-      <guid>/post/dutch-elections-2012-poll-results/</guid>
+      <guid>https://peterlugtig.com/post/dutch-elections-2012-poll-results/</guid>
       <description>&lt;p&gt;The night after the election, one can conclude that all pollsters in the Netherlands did a bad job of predicting the election results. All polls were at least off by 20 seats (out of 150), and I expect the newspapers to make headlines of this in the next days. See the table below for the final predictions (before election day), the exit poll and final election results. The last row shows how much each poll was off (in the number of seats&lt;/p&gt;
 &lt;p&gt;Actually, I think the pollsters did pretty well this time. The only thing all of them mispredicted, was a large number of PVV voters moving to VVD, and a lot of SP voters moving to the PvdA, This movement was visible in the last polls leading up to the elections, but the pollsters either underestimated it, or a lot of people switched for the winner on election date.&lt;/p&gt;
 &lt;p&gt;So, I predicted Synovate would do best, but that did not turn out to be the case. Well, they share first place with Maurice de Hond, but are not clearly better than others. There are lots of blogs, articles and news items about Internet Panels these days. I spent some blogposts on that issue in 2009 myself. Although the largest reason why pollers generally do so badly is that they do not draw random samples, I think there are two more reasons why pollsters do badly. I plan to spend my next two blog posts on these topics, so stay tuned for more on the following issue.&lt;/p&gt;
@@ -116,9 +116,9 @@
     
     <item>
       <title>Electoral volatility due to different questions?</title>
-      <link>/post/electoral-volatility-due-to-different/</link>
+      <link>https://peterlugtig.com/post/electoral-volatility-due-to-different/</link>
       <pubDate>Fri, 24 Aug 2012 13:15:00 +0200</pubDate>
-      <guid>/post/electoral-volatility-due-to-different/</guid>
+      <guid>https://peterlugtig.com/post/electoral-volatility-due-to-different/</guid>
       <description>&lt;p&gt;**Poll volatility **&lt;/p&gt;
 &lt;p&gt;Below, you find the summed changes in parliamentary seats over all parties in consecutive opinion polls for the four main polling firms in the Netherlands in the lead up to the 2012 elections. I will update the table below in the next weeks.&lt;br&gt;
 This overview follows from my earlier post on Dependent Interviewing. Maurice de Hond (peil.nl) is the only survey pre-loading earlier voter preferences into survey questions. I expect this to lead to less volatility in voter preferences for Maurice de Hond, as compared to the other polling firms.&lt;/p&gt;

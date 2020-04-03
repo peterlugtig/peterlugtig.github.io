@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>responsive design | Peter Lugtig</title>
-    <link>/tags/responsive-design/</link>
-      <atom:link href="/tags/responsive-design/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.com/tags/responsive-design/</link>
+      <atom:link href="https://peterlugtig.com/tags/responsive-design/index.xml" rel="self" type="application/rss+xml" />
     <description>responsive design</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Wed, 21 Jan 2015 15:21:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>responsive design</title>
-      <link>/tags/responsive-design/</link>
+      <link>https://peterlugtig.com/tags/responsive-design/</link>
     </image>
     
     <item>
       <title>why panel surveys need to go &#39;adaptive&#39;</title>
-      <link>/post/why-panel-surveys-need-to-go-adaptive/</link>
+      <link>https://peterlugtig.com/post/why-panel-surveys-need-to-go-adaptive/</link>
       <pubDate>Wed, 21 Jan 2015 15:21:00 +0100</pubDate>
-      <guid>/post/why-panel-surveys-need-to-go-adaptive/</guid>
+      <guid>https://peterlugtig.com/post/why-panel-surveys-need-to-go-adaptive/</guid>
       <description>&lt;p&gt;Last week, I gave a talk at Statistics Netherlands (slides 
 &lt;a href=&#34;https://www.dropbox.com/s/ul9msor9d6f9ak7/Lugtig%20-%20panel%20dropout%20%28talk%20at%20CBS%20January%202015%29.ppt.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 ) about panel attrition. Initial and nonresponse and dropout from panel surveys have always been a problem. A famous study by Groves and Peytcheva (
@@ -38,9 +38,9 @@
     
     <item>
       <title>Are item-missings related to later attrition?</title>
-      <link>/post/are-item-missings-related-to-later/</link>
+      <link>https://peterlugtig.com/post/are-item-missings-related-to-later/</link>
       <pubDate>Tue, 29 Apr 2014 14:08:00 +0200</pubDate>
-      <guid>/post/are-item-missings-related-to-later/</guid>
+      <guid>https://peterlugtig.com/post/are-item-missings-related-to-later/</guid>
       <description>&lt;p&gt;A follow up on 
 &lt;a href=&#34;http://www.peterlugtig.com/2014/03/do-respondents-become-sloppy-before.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;last month&amp;rsquo;s post&lt;/a&gt;
 . Respondents do seem to be less compliant in the waves before they drop out from a panel survey. This may however not neccesarily lead to worse data. So, what else do we see before attrition takes place? Let have a look at missing data:&lt;/p&gt;
@@ -72,9 +72,9 @@
     
     <item>
       <title>Do respondents become sloppy before attrition?</title>
-      <link>/post/do-respondents-become-sloppy-before/</link>
+      <link>https://peterlugtig.com/post/do-respondents-become-sloppy-before/</link>
       <pubDate>Fri, 28 Mar 2014 15:33:00 +0100</pubDate>
-      <guid>/post/do-respondents-become-sloppy-before/</guid>
+      <guid>https://peterlugtig.com/post/do-respondents-become-sloppy-before/</guid>
       <description>&lt;p&gt;I am working on a paper that aims to link measurement errors to attrition error in a panel survey. For this, I am using the British Household Panel Survey. 
 &lt;a href=&#34;http://www.peterlugtig.com/2013/11/longitudinal-interview-outcome-data.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In an earlier post&lt;/a&gt;
  I already argued that attrition can occur for many reasons, which I summarized in 5 categories.&lt;/p&gt;
@@ -101,9 +101,9 @@
     
     <item>
       <title>Nonresponse Workshop 2013</title>
-      <link>/post/nonresponse-workshop-2013/</link>
+      <link>https://peterlugtig.com/post/nonresponse-workshop-2013/</link>
       <pubDate>Mon, 09 Sep 2013 16:48:00 +0200</pubDate>
-      <guid>/post/nonresponse-workshop-2013/</guid>
+      <guid>https://peterlugtig.com/post/nonresponse-workshop-2013/</guid>
       <description>&lt;p&gt;One of the greatest challenges in survey research are declining response rates. Around the globe, it appears to become harder and harder to convince people to participate in surveys. As to why response rates are declining, researchers are unsure. A general worsening of the &amp;lsquo;survey climate&amp;rsquo;, due to increased time pressures on people in general, and direct marketing are usually blamed.&lt;/p&gt;
 &lt;p&gt;This year&amp;rsquo;s 
 &lt;a href=&#34;http://www.nonresponse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nonresponse workshop&lt;/a&gt;
@@ -140,9 +140,9 @@ k. In other words, high nonresponse rates are not per se biasing our substantive
     
     <item>
       <title>AAPOR 2013</title>
-      <link>/post/aapor-2013/</link>
+      <link>https://peterlugtig.com/post/aapor-2013/</link>
       <pubDate>Thu, 23 May 2013 12:18:00 +0200</pubDate>
-      <guid>/post/aapor-2013/</guid>
+      <guid>https://peterlugtig.com/post/aapor-2013/</guid>
       <description>&lt;p&gt;The 
 &lt;a href=&#34;http://www.aapor.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAPOR conference&lt;/a&gt;
  last week gave an overview of what survey methodologists worry about. There were relatively few people from Europe this year, and I found that the issues methodologists worry about are sometimes different in Europe and the USA. At the upcoming 

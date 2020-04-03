@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>and Teunissen | Peter Lugtig</title>
-    <link>/authors/and-teunissen/</link>
-      <atom:link href="/authors/and-teunissen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.com/authors/and-teunissen/</link>
+      <atom:link href="https://peterlugtig.com/authors/and-teunissen/index.xml" rel="self" type="application/rss+xml" />
     <description>and Teunissen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>and Teunissen</title>
-      <link>/authors/and-teunissen/</link>
+      <link>https://peterlugtig.com/authors/and-teunissen/</link>
     </image>
     
     <item>
       <title>Barriers to ideal palliative care in multiple care settings: The nurses&#39; point of view</title>
-      <link>/publication/2019_uitdehaag_barriers/</link>
+      <link>https://peterlugtig.com/publication/2019_uitdehaag_barriers/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0100</pubDate>
-      <guid>/publication/2019_uitdehaag_barriers/</guid>
+      <guid>https://peterlugtig.com/publication/2019_uitdehaag_barriers/</guid>
       <description></description>
     </item>
     

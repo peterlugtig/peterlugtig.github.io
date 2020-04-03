@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NPSO | Peter Lugtig</title>
-    <link>/tags/npso/</link>
-      <atom:link href="/tags/npso/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.com/tags/npso/</link>
+      <atom:link href="https://peterlugtig.com/tags/npso/index.xml" rel="self" type="application/rss+xml" />
     <description>NPSO</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 10 Feb 2011 10:38:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>NPSO</title>
-      <link>/tags/npso/</link>
+      <link>https://peterlugtig.com/tags/npso/</link>
     </image>
     
     <item>
       <title>checklist for quality of opinion polls</title>
-      <link>/post/checklist-for-quality-of-opinion-polls/</link>
+      <link>https://peterlugtig.com/post/checklist-for-quality-of-opinion-polls/</link>
       <pubDate>Thu, 10 Feb 2011 10:38:00 +0100</pubDate>
-      <guid>/post/checklist-for-quality-of-opinion-polls/</guid>
+      <guid>https://peterlugtig.com/post/checklist-for-quality-of-opinion-polls/</guid>
       <description>&lt;p&gt;1. Is it clear who ordered and financed the poll?&lt;br&gt;
 2. Is there a report documenting the poll&amp;rsquo;s procedures?&lt;br&gt;
 3. Is the target population clearly described?&lt;br&gt;
@@ -40,9 +40,9 @@
     
     <item>
       <title>the influence of polls on voting behavior</title>
-      <link>/post/influence-of-polls-on-voting-behavior/</link>
+      <link>https://peterlugtig.com/post/influence-of-polls-on-voting-behavior/</link>
       <pubDate>Thu, 10 Feb 2011 10:11:00 +0100</pubDate>
-      <guid>/post/influence-of-polls-on-voting-behavior/</guid>
+      <guid>https://peterlugtig.com/post/influence-of-polls-on-voting-behavior/</guid>
       <description>&lt;p&gt;Many opinion pollers do badly when it comes to predicting elections. This is mainly because they let their respondents self-select them into their polls. So what, who cares? The polls make for some good entertainment and easily fill the talk-shows on television. If everyone knows they cannot be trusted, why care?&lt;/p&gt;
 &lt;p&gt;We should care. In the Dutch electoral system - with 
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Proportional_representation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poportional respresentation&lt;/a&gt;

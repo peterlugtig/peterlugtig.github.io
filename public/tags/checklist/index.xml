@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>checklist | Peter Lugtig</title>
-    <link>/tags/checklist/</link>
-      <atom:link href="/tags/checklist/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.com/tags/checklist/</link>
+      <atom:link href="https://peterlugtig.com/tags/checklist/index.xml" rel="self" type="application/rss+xml" />
     <description>checklist</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 10 Feb 2011 10:38:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>checklist</title>
-      <link>/tags/checklist/</link>
+      <link>https://peterlugtig.com/tags/checklist/</link>
     </image>
     
     <item>
       <title>checklist for quality of opinion polls</title>
-      <link>/post/checklist-for-quality-of-opinion-polls/</link>
+      <link>https://peterlugtig.com/post/checklist-for-quality-of-opinion-polls/</link>
       <pubDate>Thu, 10 Feb 2011 10:38:00 +0100</pubDate>
-      <guid>/post/checklist-for-quality-of-opinion-polls/</guid>
+      <guid>https://peterlugtig.com/post/checklist-for-quality-of-opinion-polls/</guid>
       <description>&lt;p&gt;1. Is it clear who ordered and financed the poll?&lt;br&gt;
 2. Is there a report documenting the poll&amp;rsquo;s procedures?&lt;br&gt;
 3. Is the target population clearly described?&lt;br&gt;

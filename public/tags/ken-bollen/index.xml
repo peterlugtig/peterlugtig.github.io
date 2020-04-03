@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ken Bollen | Peter Lugtig</title>
-    <link>/tags/ken-bollen/</link>
-      <atom:link href="/tags/ken-bollen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.com/tags/ken-bollen/</link>
+      <atom:link href="https://peterlugtig.com/tags/ken-bollen/index.xml" rel="self" type="application/rss+xml" />
     <description>Ken Bollen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 10 May 2011 14:34:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Ken Bollen</title>
-      <link>/tags/ken-bollen/</link>
+      <link>https://peterlugtig.com/tags/ken-bollen/</link>
     </image>
     
     <item>
       <title>Statistical modeling: SEM</title>
-      <link>/post/statistical-modeling-recent-advances/</link>
+      <link>https://peterlugtig.com/post/statistical-modeling-recent-advances/</link>
       <pubDate>Tue, 10 May 2011 14:34:00 +0200</pubDate>
-      <guid>/post/statistical-modeling-recent-advances/</guid>
+      <guid>https://peterlugtig.com/post/statistical-modeling-recent-advances/</guid>
       <description>&lt;p&gt;Sorry for the long silence: have been caught up in work and other things that were always more pressing than writing blog posts. Perhaps it is also because I found it hard to write about statistical modeling. Statistical models are usually complex, and therefore it is difficult to write about them in an accessible way.&lt;/p&gt;
 &lt;p&gt;Statistical models are everywhere; their goal is to summarize our world in such a way as to capture the essence, and leave out the irrelevant complexities. Therefore, I see graphs, figures and visualisation tools themselves as models not very differently from statistical models.&lt;br&gt;
 In the social sciences, I think statistical models are complex in two ways, that make them different from models in physics.&lt;br&gt;

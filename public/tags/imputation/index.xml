@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>imputation | Peter Lugtig</title>
-    <link>/tags/imputation/</link>
-      <atom:link href="/tags/imputation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.com/tags/imputation/</link>
+      <atom:link href="https://peterlugtig.com/tags/imputation/index.xml" rel="self" type="application/rss+xml" />
     <description>imputation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 14 Oct 2013 10:41:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>imputation</title>
-      <link>/tags/imputation/</link>
+      <link>https://peterlugtig.com/tags/imputation/</link>
     </image>
     
     <item>
       <title>Imagine we have great covariates for correcting for unit nonresponse...</title>
-      <link>/post/imagine-we-have-great-covariates-for/</link>
+      <link>https://peterlugtig.com/post/imagine-we-have-great-covariates-for/</link>
       <pubDate>Mon, 14 Oct 2013 10:41:00 +0200</pubDate>
-      <guid>/post/imagine-we-have-great-covariates-for/</guid>
+      <guid>https://peterlugtig.com/post/imagine-we-have-great-covariates-for/</guid>
       <description>&lt;p&gt;I am continuing on the recent article and commentaries on weighting to correct for unit nonresponse by Michael Brick, as published in the recent issue of the Journal of Official Statistics (
 &lt;a href=&#34;http://www.jos.nu/Articles/abstract.asp?article=293329&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 ).&lt;/p&gt;
@@ -44,9 +44,9 @@ Even if we find covariates that explain missingness, we also want those covariat
     
     <item>
       <title>To weight or to impute for unit nonresponse?</title>
-      <link>/post/to-weight-or-to-impute-for-unit/</link>
+      <link>https://peterlugtig.com/post/to-weight-or-to-impute-for-unit/</link>
       <pubDate>Sun, 06 Oct 2013 21:49:00 +0200</pubDate>
-      <guid>/post/to-weight-or-to-impute-for-unit/</guid>
+      <guid>https://peterlugtig.com/post/to-weight-or-to-impute-for-unit/</guid>
       <description>&lt;p&gt;This week, I have been reading the most recent issue of the 
 &lt;a href=&#34;http://www.jos.nu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Official Statistics&lt;/a&gt;
 , a journal that has been open access since the 1980s.  In this issue is a 

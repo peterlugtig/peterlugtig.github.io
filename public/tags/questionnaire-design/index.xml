@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>questionnaire design | Peter Lugtig</title>
-    <link>/tags/questionnaire-design/</link>
-      <atom:link href="/tags/questionnaire-design/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.com/tags/questionnaire-design/</link>
+      <atom:link href="https://peterlugtig.com/tags/questionnaire-design/index.xml" rel="self" type="application/rss+xml" />
     <description>questionnaire design</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 27 Apr 2017 19:52:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>questionnaire design</title>
-      <link>/tags/questionnaire-design/</link>
+      <link>https://peterlugtig.com/tags/questionnaire-design/</link>
     </image>
     
     <item>
       <title>Mobile-only web survey respondents</title>
-      <link>/post/mobile-only-web-survey-respondents/</link>
+      <link>https://peterlugtig.com/post/mobile-only-web-survey-respondents/</link>
       <pubDate>Thu, 27 Apr 2017 19:52:00 +0200</pubDate>
-      <guid>/post/mobile-only-web-survey-respondents/</guid>
+      <guid>https://peterlugtig.com/post/mobile-only-web-survey-respondents/</guid>
       <description>&lt;p&gt;My breaks between posts are getting longer and longer. Sorry my dear readers. Today, I am writing about research done over a year ago that I did with 
 &lt;a href=&#34;https://www.uu.nl/staff/VToepoel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vera Toepoel&lt;/a&gt;
  and 
@@ -45,9 +45,9 @@ A further 1% uses all devices, but we ignore these respondents here.&lt;/p&gt;
     
     <item>
       <title>Dependent Interviewing and the risk of correlated measurement errors</title>
-      <link>/post/dependent-interviewing-and-risk-of/</link>
+      <link>https://peterlugtig.com/post/dependent-interviewing-and-risk-of/</link>
       <pubDate>Sat, 03 Aug 2013 16:22:00 +0200</pubDate>
-      <guid>/post/dependent-interviewing-and-risk-of/</guid>
+      <guid>https://peterlugtig.com/post/dependent-interviewing-and-risk-of/</guid>
       <description>&lt;p&gt;Longitudinal surveys ask the same people the same questions over time. So questionnaires tend to be rather boring for respondents after a while. &amp;ldquo;Are you asking me this again, you asked that last year as well!&amp;rdquo; is what many respondents probably think during an interview. As methodologists who manage panel surveys, we know this process may be rather boring, but in order to document change over time, we just need to ask respondents the same questions over and over.&lt;/p&gt;
 &lt;p&gt;Some measures of change over time would become biased if we just repeat questions year-on-year. For example, we know that if we ask respondents twice about their occupation, less than half of all of them have the same occupational codes over time. We know from other statistics (e.g. tax returns), that that is not true. Most people stay in the same occupation over time. Now, you may think, dear reader, that that is probably due to the fact that occupation is rather difficult to measure and code in general, and you are right. Unreliable question will lead to a lot of spurious change over time.&lt;/p&gt;
 &lt;p&gt;Dependent Interviewing helps to make codes consistent over time and reduce such spurious change. The idea is that, instead of coding occupation independently year-on-year, you ask respondents in year 2 the question &amp;ldquo;last year, you said you were a bankteller, is that still the case?&amp;quot;. There are many different variants to ask this Dependent Interviewing question, and the exact wording is important for the outcomes. Especially, because we do not want respondent to say &amp;ldquo;yes&amp;rdquo; too easily to questions we ask.&lt;/p&gt;
@@ -65,9 +65,9 @@ A further 1% uses all devices, but we ignore these respondents here.&lt;/p&gt;
     
     <item>
       <title>Designing mixed-mode surveys</title>
-      <link>/post/designing-mixed-mode-surveys/</link>
+      <link>https://peterlugtig.com/post/designing-mixed-mode-surveys/</link>
       <pubDate>Sat, 12 Jan 2013 10:24:00 +0100</pubDate>
-      <guid>/post/designing-mixed-mode-surveys/</guid>
+      <guid>https://peterlugtig.com/post/designing-mixed-mode-surveys/</guid>
       <description>&lt;p&gt;This weekend is the deadline for submitting a presentation proposal to this year&amp;rsquo;s conference of the European Survey Research Association. That&amp;rsquo;s one the two major the conferences for people who love to talk about things like nonresponse bias, total survey error, and mixing survey modes.&lt;/p&gt;
 &lt;p&gt;As in previous years, it looks like the most heated debates will be on mixed-mode surveys. As survey methodologists we have been struggling to combine multiple survey modes (Internet, telephone, face-to-face, mail) in a good way. And we no longer can rely on just one survey mode to do a good survey. Many people don&amp;rsquo;t have Internet, or landline phones, and face-to-face modes are becoming too expensive.&lt;/p&gt;
 &lt;p&gt;When we start mixing survey modes, we run into all kinds of problems. Different people respond in different survey modes, leading to differences in the variables we&amp;rsquo;re interested in (selection effects). And we also know that people respond differently to the same survey question when asked in two different modes (measurement or &amp;lsquo;mode&amp;rsquo;  effect).&lt;/p&gt;

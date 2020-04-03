@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arends-Toth | Peter Lugtig</title>
-    <link>/authors/arends-toth/</link>
-      <atom:link href="/authors/arends-toth/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.com/authors/arends-toth/</link>
+      <atom:link href="https://peterlugtig.com/authors/arends-toth/index.xml" rel="self" type="application/rss+xml" />
     <description>Arends-Toth</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Arends-Toth</title>
-      <link>/authors/arends-toth/</link>
+      <link>https://peterlugtig.com/authors/arends-toth/</link>
     </image>
     
     <item>
       <title>Can survey item characteristics relevant to mode-specific measurement error be coded reliably</title>
-      <link>/publication/2019_bais_can_survey_item_characteristics/</link>
+      <link>https://peterlugtig.com/publication/2019_bais_can_survey_item_characteristics/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      <guid>/publication/2019_bais_can_survey_item_characteristics/</guid>
+      <guid>https://peterlugtig.com/publication/2019_bais_can_survey_item_characteristics/</guid>
       <description></description>
     </item>
     

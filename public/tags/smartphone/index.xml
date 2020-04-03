@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>smartphone | Peter Lugtig</title>
-    <link>/tags/smartphone/</link>
-      <atom:link href="/tags/smartphone/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.com/tags/smartphone/</link>
+      <atom:link href="https://peterlugtig.com/tags/smartphone/index.xml" rel="self" type="application/rss+xml" />
     <description>smartphone</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 27 Apr 2017 19:52:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>smartphone</title>
-      <link>/tags/smartphone/</link>
+      <link>https://peterlugtig.com/tags/smartphone/</link>
     </image>
     
     <item>
       <title>Mobile-only web survey respondents</title>
-      <link>/post/mobile-only-web-survey-respondents/</link>
+      <link>https://peterlugtig.com/post/mobile-only-web-survey-respondents/</link>
       <pubDate>Thu, 27 Apr 2017 19:52:00 +0200</pubDate>
-      <guid>/post/mobile-only-web-survey-respondents/</guid>
+      <guid>https://peterlugtig.com/post/mobile-only-web-survey-respondents/</guid>
       <description>&lt;p&gt;My breaks between posts are getting longer and longer. Sorry my dear readers. Today, I am writing about research done over a year ago that I did with 
 &lt;a href=&#34;https://www.uu.nl/staff/VToepoel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vera Toepoel&lt;/a&gt;
  and 
@@ -45,9 +45,9 @@ A further 1% uses all devices, but we ignore these respondents here.&lt;/p&gt;
     
     <item>
       <title>The traditional web survey is dead</title>
-      <link>/post/the-old-web-survey-is-dead/</link>
+      <link>https://peterlugtig.com/post/the-old-web-survey-is-dead/</link>
       <pubDate>Wed, 10 Feb 2016 22:42:00 +0100</pubDate>
-      <guid>/post/the-old-web-survey-is-dead/</guid>
+      <guid>https://peterlugtig.com/post/the-old-web-survey-is-dead/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Why we should throw out most of what we know on how to visually design web surveys&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In 2000, web surveys looked like postal surveys stuck onto a screen. Survey researchers needed time to get used to the idea that web surveys should perhaps look differently from mail surveys. When I got into survey methodology in 2006, everyone was for example still figuring out whether to use drop down menus (no), how many questions to put on one screen (a few at most), let alone whether to use slider bars (it&amp;rsquo;s not going to reduce breakoffs).&lt;br&gt;
 We now know that good web surveys don&amp;rsquo;t look like mail surveys. Proponents of &amp;lsquo;gamification&amp;rsquo; in surveys argue that survey researchers are still underusing the potential of web surveys. Perhaps they are right. So, while web surveys are ubiquitous, and have been around for almost 20 years, we still don&amp;rsquo;t exactly know to to visually design them.&lt;/p&gt;

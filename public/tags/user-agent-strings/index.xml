@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>User agent strings | Peter Lugtig</title>
-    <link>/tags/user-agent-strings/</link>
-      <atom:link href="/tags/user-agent-strings/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.com/tags/user-agent-strings/</link>
+      <atom:link href="https://peterlugtig.com/tags/user-agent-strings/index.xml" rel="self" type="application/rss+xml" />
     <description>User agent strings</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 08 Dec 2014 20:47:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>User agent strings</title>
-      <link>/tags/user-agent-strings/</link>
+      <link>https://peterlugtig.com/tags/user-agent-strings/</link>
     </image>
     
     <item>
       <title>Satisficing in mobile web surveys. Device-effect or selection effect?</title>
-      <link>/post/blog-post/</link>
+      <link>https://peterlugtig.com/post/blog-post/</link>
       <pubDate>Mon, 08 Dec 2014 20:47:00 +0100</pubDate>
-      <guid>/post/blog-post/</guid>
+      <guid>https://peterlugtig.com/post/blog-post/</guid>
       <description>&lt;p&gt;Last week, I wrote about the fact 
 &lt;a href=&#34;http://www.peterlugtig.com/2014/12/what-devices-do-respondents-use-over.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;that respondents in panel surveys are now using tablets and smartphones to complete web surveys&lt;/a&gt;
 . We found that in the LISS panel, respondents who use tablets and smartphones are much more likely to switch devices over time and not participate in some months.&lt;br&gt;
@@ -45,9 +45,9 @@ The question we actually wanted to answer was a different one: do respondents wh
     
     <item>
       <title>Which devices do respondents use over the course of a panel study?</title>
-      <link>/post/what-devices-do-respondents-use-over/</link>
+      <link>https://peterlugtig.com/post/what-devices-do-respondents-use-over/</link>
       <pubDate>Tue, 02 Dec 2014 15:44:00 +0100</pubDate>
-      <guid>/post/what-devices-do-respondents-use-over/</guid>
+      <guid>https://peterlugtig.com/post/what-devices-do-respondents-use-over/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;http://www.uu.nl/staff/VToepoel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vera Toepoel&lt;/a&gt;
  and I have been writing a few articles over the last two years about how survey respondents are taking up tablet computers and smartphones. We were interested in studying whether people in a probability-based web panel (

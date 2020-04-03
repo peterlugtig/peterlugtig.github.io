@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ormel | Peter Lugtig</title>
-    <link>/authors/ormel/</link>
-      <atom:link href="/authors/ormel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://peterlugtig.com/authors/ormel/</link>
+      <atom:link href="https://peterlugtig.com/authors/ormel/index.xml" rel="self" type="application/rss+xml" />
     <description>Ormel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Sat, 17 Mar 2012 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Ormel</title>
-      <link>/authors/ormel/</link>
+      <link>https://peterlugtig.com/authors/ormel/</link>
     </image>
     
     <item>
       <title>Prevalence and predictors of transitions into co-occurring risk behaviour patterns in adolescence: The TRAILS study</title>
-      <link>/publication/2012_monshouwer_prevalence_and_predictors/</link>
+      <link>https://peterlugtig.com/publication/2012_monshouwer_prevalence_and_predictors/</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
-      <guid>/publication/2012_monshouwer_prevalence_and_predictors/</guid>
+      <guid>https://peterlugtig.com/publication/2012_monshouwer_prevalence_and_predictors/</guid>
       <description></description>
     </item>
     
