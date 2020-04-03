@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elevelt | Peter Lugtig</title>
-    <link>https://peterlugtig.com/authors/elevelt/</link>
-      <atom:link href="https://peterlugtig.com/authors/elevelt/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/elevelt/</link>
+      <atom:link href="/authors/elevelt/index.xml" rel="self" type="application/rss+xml" />
     <description>Elevelt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Elevelt</title>
-      <link>https://peterlugtig.com/authors/elevelt/</link>
+      <link>/authors/elevelt/</link>
     </image>
     
     <item>
       <title>Where you at? Using GPS location in an electronic Time Use diary study to derive functional locations</title>
-      <link>https://peterlugtig.com/publication/2019_elevelt_where_you/</link>
+      <link>/publication/2019_elevelt_where_you/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://peterlugtig.com/publication/2019_elevelt_where_you/</guid>
+      <guid>/publication/2019_elevelt_where_you/</guid>
       <description></description>
     </item>
     

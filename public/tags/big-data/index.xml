@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>big data | Peter Lugtig</title>
-    <link>https://peterlugtig.com/tags/big-data/</link>
-      <atom:link href="https://peterlugtig.com/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/big-data/</link>
+      <atom:link href="/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
     <description>big data</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 26 May 2014 17:05:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>big data</title>
-      <link>https://peterlugtig.com/tags/big-data/</link>
+      <link>/tags/big-data/</link>
     </image>
     
     <item>
       <title>AAPOR 2014</title>
-      <link>https://peterlugtig.com/post/aapor-2014/</link>
+      <link>/post/aapor-2014/</link>
       <pubDate>Mon, 26 May 2014 17:05:00 +0200</pubDate>
-      <guid>https://peterlugtig.com/post/aapor-2014/</guid>
+      <guid>/post/aapor-2014/</guid>
       <description>&lt;p&gt;Big data and new technologies to do survey research. These were in my view the two themes of the 
 &lt;a href=&#34;http://www.aapor.org/AAPOR_Annual_Conference.htm#.U4NUUi-prs0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2014 AAPOR conference&lt;/a&gt;
 . The conference organisation tried to push the theme ‘Measurement and the role of pubic opinion in a democracy’, but I don&amp;rsquo;t think the theme was really reflected in the talks at the conference. Or perhaps I have missed those talks, the conference was huge as always (&amp;gt; 1000 participants).&lt;/p&gt;

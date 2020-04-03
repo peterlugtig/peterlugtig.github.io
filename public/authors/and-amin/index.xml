@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>and Amin | Peter Lugtig</title>
-    <link>https://peterlugtig.com/authors/and-amin/</link>
-      <atom:link href="https://peterlugtig.com/authors/and-amin/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/and-amin/</link>
+      <atom:link href="/authors/and-amin/index.xml" rel="self" type="application/rss+xml" />
     <description>and Amin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>and Amin</title>
-      <link>https://peterlugtig.com/authors/and-amin/</link>
+      <link>/authors/and-amin/</link>
     </image>
     
     <item>
       <title>Mobile-only web respondents</title>
-      <link>https://peterlugtig.com/publication/2016_lugtig_mobile_only_web_respondents/</link>
+      <link>/publication/2016_lugtig_mobile_only_web_respondents/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2016_lugtig_mobile_only_web_respondents/</guid>
+      <guid>/publication/2016_lugtig_mobile_only_web_respondents/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ter Bogt | Peter Lugtig</title>
-    <link>https://peterlugtig.com/authors/ter-bogt/</link>
-      <atom:link href="https://peterlugtig.com/authors/ter-bogt/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/ter-bogt/</link>
+      <atom:link href="/authors/ter-bogt/index.xml" rel="self" type="application/rss+xml" />
     <description>ter Bogt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 03 Jan 2013 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>ter Bogt</title>
-      <link>https://peterlugtig.com/authors/ter-bogt/</link>
+      <link>/authors/ter-bogt/</link>
     </image>
     
     <item>
       <title>In Dutch: Ontwikkelingstrajecten in en voorspellers voor het gebruik van seksueel expliciet internetmateriaal</title>
-      <link>https://peterlugtig.com/publication/dutch_2012_doornwaard_ontwikkelingstrajecten/</link>
+      <link>/publication/dutch_2012_doornwaard_ontwikkelingstrajecten/</link>
       <pubDate>Thu, 03 Jan 2013 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/dutch_2012_doornwaard_ontwikkelingstrajecten/</guid>
+      <guid>/publication/dutch_2012_doornwaard_ontwikkelingstrajecten/</guid>
       <description></description>
     </item>
     

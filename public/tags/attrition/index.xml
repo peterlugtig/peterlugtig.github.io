@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>attrition | Peter Lugtig</title>
-    <link>https://peterlugtig.com/tags/attrition/</link>
-      <atom:link href="https://peterlugtig.com/tags/attrition/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/attrition/</link>
+      <atom:link href="/tags/attrition/index.xml" rel="self" type="application/rss+xml" />
     <description>attrition</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Wed, 21 Jan 2015 15:21:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>attrition</title>
-      <link>https://peterlugtig.com/tags/attrition/</link>
+      <link>/tags/attrition/</link>
     </image>
     
     <item>
       <title>why panel surveys need to go &#39;adaptive&#39;</title>
-      <link>https://peterlugtig.com/post/why-panel-surveys-need-to-go-adaptive/</link>
+      <link>/post/why-panel-surveys-need-to-go-adaptive/</link>
       <pubDate>Wed, 21 Jan 2015 15:21:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/post/why-panel-surveys-need-to-go-adaptive/</guid>
+      <guid>/post/why-panel-surveys-need-to-go-adaptive/</guid>
       <description>&lt;p&gt;Last week, I gave a talk at Statistics Netherlands (slides 
 &lt;a href=&#34;https://www.dropbox.com/s/ul9msor9d6f9ak7/Lugtig%20-%20panel%20dropout%20%28talk%20at%20CBS%20January%202015%29.ppt.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 ) about panel attrition. Initial and nonresponse and dropout from panel surveys have always been a problem. A famous study by Groves and Peytcheva (
@@ -38,9 +38,9 @@
     
     <item>
       <title>Are item-missings related to later attrition?</title>
-      <link>https://peterlugtig.com/post/are-item-missings-related-to-later/</link>
+      <link>/post/are-item-missings-related-to-later/</link>
       <pubDate>Tue, 29 Apr 2014 14:08:00 +0200</pubDate>
-      <guid>https://peterlugtig.com/post/are-item-missings-related-to-later/</guid>
+      <guid>/post/are-item-missings-related-to-later/</guid>
       <description>&lt;p&gt;A follow up on 
 &lt;a href=&#34;http://www.peterlugtig.com/2014/03/do-respondents-become-sloppy-before.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;last month&amp;rsquo;s post&lt;/a&gt;
 . Respondents do seem to be less compliant in the waves before they drop out from a panel survey. This may however not neccesarily lead to worse data. So, what else do we see before attrition takes place? Let have a look at missing data:&lt;/p&gt;
@@ -72,9 +72,9 @@
     
     <item>
       <title>Do respondents become sloppy before attrition?</title>
-      <link>https://peterlugtig.com/post/do-respondents-become-sloppy-before/</link>
+      <link>/post/do-respondents-become-sloppy-before/</link>
       <pubDate>Fri, 28 Mar 2014 15:33:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/post/do-respondents-become-sloppy-before/</guid>
+      <guid>/post/do-respondents-become-sloppy-before/</guid>
       <description>&lt;p&gt;I am working on a paper that aims to link measurement errors to attrition error in a panel survey. For this, I am using the British Household Panel Survey. 
 &lt;a href=&#34;http://www.peterlugtig.com/2013/11/longitudinal-interview-outcome-data.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In an earlier post&lt;/a&gt;
  I already argued that attrition can occur for many reasons, which I summarized in 5 categories.&lt;/p&gt;
@@ -101,9 +101,9 @@
     
     <item>
       <title>Personality predicts the likelihood and process of attrition in a panel survey</title>
-      <link>https://peterlugtig.com/post/personality-predicts-likelihood-and/</link>
+      <link>/post/personality-predicts-likelihood-and/</link>
       <pubDate>Fri, 07 Feb 2014 17:12:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/post/personality-predicts-likelihood-and/</guid>
+      <guid>/post/personality-predicts-likelihood-and/</guid>
       <description>&lt;p&gt;Studies into the correlates of nonresponse often have to rely on socio-demographic variables to study whether respondents and nonrespondents in surveys differ. Often there is no other information available on sampling frames that researchers can use.&lt;/p&gt;
 &lt;p&gt;That is unfortunate, for two reasons. First, the  variables we are currently using to predict nonrespons, usually explain a very limited amount of variance of survey nonresponse. Therefore, these variables are also not effective correctors for nonresponse. So, socio-demographic variables are not that interesting to have as sampling frame data. See my earlier posts 
 &lt;a href=&#34;http://www.peterlugtig.com/2013/10/to-weight-or-to-impute-for-unit.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
@@ -135,9 +135,9 @@
     
     <item>
       <title>Longitudinal interview outcome data reduction: Latent Class and Sequence analyses</title>
-      <link>https://peterlugtig.com/post/longitudinal-interview-outcome-data/</link>
+      <link>/post/longitudinal-interview-outcome-data/</link>
       <pubDate>Mon, 04 Nov 2013 16:22:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/post/longitudinal-interview-outcome-data/</guid>
+      <guid>/post/longitudinal-interview-outcome-data/</guid>
       <description>&lt;p&gt;Frauke Kreuter once commented on a presentation I gave that I should really be looking at sequence analysis for studying attrition in panel surveys. She had written an article on the topic with Ulrich Kohler (
 &lt;a href=&#34;http://www.jos.nu/Articles/abstract.asp?article=252203&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 ) in 2009, and as of late there are more people exploring the technique (e.g. Mark Hanly at Bristol, and 
@@ -169,9 +169,9 @@
     
     <item>
       <title>Imagine we have great covariates for correcting for unit nonresponse...</title>
-      <link>https://peterlugtig.com/post/imagine-we-have-great-covariates-for/</link>
+      <link>/post/imagine-we-have-great-covariates-for/</link>
       <pubDate>Mon, 14 Oct 2013 10:41:00 +0200</pubDate>
-      <guid>https://peterlugtig.com/post/imagine-we-have-great-covariates-for/</guid>
+      <guid>/post/imagine-we-have-great-covariates-for/</guid>
       <description>&lt;p&gt;I am continuing on the recent article and commentaries on weighting to correct for unit nonresponse by Michael Brick, as published in the recent issue of the Journal of Official Statistics (
 &lt;a href=&#34;http://www.jos.nu/Articles/abstract.asp?article=293329&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 ).&lt;/p&gt;
@@ -199,9 +199,9 @@ Even if we find covariates that explain missingness, we also want those covariat
     
     <item>
       <title>measurement and nonresponse error in panel surveys</title>
-      <link>https://peterlugtig.com/post/measurement-and-nonresponse-error-in/</link>
+      <link>/post/measurement-and-nonresponse-error-in/</link>
       <pubDate>Thu, 04 Jul 2013 11:57:00 +0200</pubDate>
-      <guid>https://peterlugtig.com/post/measurement-and-nonresponse-error-in/</guid>
+      <guid>/post/measurement-and-nonresponse-error-in/</guid>
       <description>&lt;p&gt;I am spending time at the Institute for Social and Economic Research in Colchester, UK where I will work on a research project that investigates whether there is a tradeoff between nonresponse and measurement errors in panel surveys.&lt;/p&gt;
 &lt;p&gt;Survey methodologists have long believed that multiple survey errors have a common cause. For example, when a respondent is less motivated, this may result in nonresponse (in a panel study attrition), or in reduced cognitive effort during the interview, which in turn leads to measurement errors. Lower cognitive abilities and language problems might be other examples of common caused that lead to either nonresponse or measurement error. Understanding these common error sources is important to know whether our efforts to reduce 1 survey error source are not offset by an increase in another one. It follows from the idea that good survey design minimize 
 &lt;a href=&#34;http://poq.oxfordjournals.org/content/74/5.toc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Total Survey Error&lt;/a&gt;
@@ -224,9 +224,9 @@ b) that hypothetically, nonrespondents could be converted into respondents if ex
     
     <item>
       <title>Is panel attrition the same as nonresponse?</title>
-      <link>https://peterlugtig.com/post/is-panel-attrition-same-as-nonresponse/</link>
+      <link>/post/is-panel-attrition-same-as-nonresponse/</link>
       <pubDate>Sat, 29 Sep 2012 10:49:00 +0200</pubDate>
-      <guid>https://peterlugtig.com/post/is-panel-attrition-same-as-nonresponse/</guid>
+      <guid>/post/is-panel-attrition-same-as-nonresponse/</guid>
       <description>&lt;p&gt;All of my research is focused on the methods of assembling and analysis of panel survey data. One of the primary problems of panel survey projects is attrition or drop-out. Over the course of a panel survey, many respondents decide to no longer participate.&lt;/p&gt;
 &lt;p&gt;Last july I visited the panel survey methods workshop in Melbourne, at which we had extensive discussions about panel attrition. How to study it, what the consequences are (bias) for survey estimates, and how to prevent it from happening altogether.&lt;/p&gt;
 &lt;p&gt;These questions have a lot in common with the questions that are being discussed at another workshop for survey methodologists: the nonresponse workshop. The only difference is that at the nonresponse workshop we discuss one-off, cross-sectional surveys, and at the panel survey workshop, we dicuss what happens after the first wave of data collection.&lt;/p&gt;

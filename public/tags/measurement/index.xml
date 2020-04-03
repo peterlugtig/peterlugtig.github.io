@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>measurement | Peter Lugtig</title>
-    <link>https://peterlugtig.com/tags/measurement/</link>
-      <atom:link href="https://peterlugtig.com/tags/measurement/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/measurement/</link>
+      <atom:link href="/tags/measurement/index.xml" rel="self" type="application/rss+xml" />
     <description>measurement</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 26 Jun 2018 11:16:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>measurement</title>
-      <link>https://peterlugtig.com/tags/measurement/</link>
+      <link>/tags/measurement/</link>
     </image>
     
     <item>
       <title>Retrospective reporting</title>
-      <link>https://peterlugtig.com/post/retrospective-reporting/</link>
+      <link>/post/retrospective-reporting/</link>
       <pubDate>Tue, 01 Dec 2015 13:51:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/post/retrospective-reporting/</guid>
+      <guid>/post/retrospective-reporting/</guid>
       <description>&lt;p&gt;Back after a long pause. Panel surveys traditionally interview respondents at regular intervals, for example monthly or yearly. This interval is mostly chosen for practical reasons: interviewing people more frequently would lead to a large respondent burden, and a burden on data processing and dissemination. For these practical reasons, panel surveys often space their interviews one year apart. Many of the changes (e.g. changes in household composition) we as researchers are interested in occur slowly, and annual interviews suffice to capture these changes.&lt;br&gt;
 Sometimes we want to get reports at a more detailed level, however. For example, we would like to know how often a respondents visits a doctor (general practitioner) in one year, or when a respondent went on holidays. In order to get at such an estimate, survey researchers can do one of several things:&lt;/p&gt;
 &lt;p&gt;1. we can ask a respondent to remember all doctor visits in the past year, and rely on &lt;strong&gt;retrospective recall&lt;/strong&gt;. We know that doesn&amp;rsquo;t work very well, because respondents cannot remember all visits. Instead, respondents will rely on rounding, guessing and estimation to come to an estimate.&lt;br&gt;
@@ -46,9 +46,9 @@ Sometimes we want to get reports at a more detailed level, however. For example,
     
     <item>
       <title>mixed-mode designs: cognitive equivalence</title>
-      <link>https://peterlugtig.com/post/mixed-mode-designs-cognitive/</link>
+      <link>/post/mixed-mode-designs-cognitive/</link>
       <pubDate>Wed, 23 Mar 2011 10:09:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/post/mixed-mode-designs-cognitive/</guid>
+      <guid>/post/mixed-mode-designs-cognitive/</guid>
       <description>&lt;p&gt;Instead of separating out mode effects from nonresponse and noncoverage effects through statistical modeling, it is perhaps better to design our mixed-mode surveys in such a way so that mode effects do not occur. The key principle in preventing the mode effects from occurring, is to make sure that questionnaires are cognitively equivalent to respondents. This means that no matter in which survey mode the respondents participate, they would give the same answer. In my opinion, there are two ways to achieve this.&lt;/p&gt;
 &lt;p&gt;1. choose a mix of modes that lead to a cognitively equivalent survey process. The survey process is very different in a questionnaire administered in a telephone vs. an Internet mode. Some mode combinations are can however be combined without great differences between they survey process across the modes:&lt;/p&gt;
 &lt;p&gt;- combine face-to-face with telephone modes: the mode of communication is in both modes aural with an interviewer asking and recording answers. The only difference is that the interviewer is physically present in the face-to-face survey, and not in the telephone survey.&lt;br&gt;

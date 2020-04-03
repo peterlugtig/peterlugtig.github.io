@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E.A.J. | Peter Lugtig</title>
-    <link>https://peterlugtig.com/authors/e.a.j./</link>
-      <atom:link href="https://peterlugtig.com/authors/e.a.j./index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/e.a.j./</link>
+      <atom:link href="/authors/e.a.j./index.xml" rel="self" type="application/rss+xml" />
     <description>E.A.J.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Sat, 12 Feb 2011 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>E.A.J.</title>
-      <link>https://peterlugtig.com/authors/e.a.j./</link>
+      <link>/authors/e.a.j./</link>
     </image>
     
     <item>
       <title>Not doing bad things is not equivalent to doing the right thing: Distinguishing between inhibitory and initiatory self-control</title>
-      <link>https://peterlugtig.com/publication/2011_de_ridder_not_doing_bad_things/</link>
+      <link>/publication/2011_de_ridder_not_doing_bad_things/</link>
       <pubDate>Sat, 12 Feb 2011 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2011_de_ridder_not_doing_bad_things/</guid>
+      <guid>/publication/2011_de_ridder_not_doing_bad_things/</guid>
       <description></description>
     </item>
     

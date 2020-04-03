@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. | Peter Lugtig</title>
-    <link>https://peterlugtig.com/authors/a./</link>
-      <atom:link href="https://peterlugtig.com/authors/a./index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/a./</link>
+      <atom:link href="/authors/a./index.xml" rel="self" type="application/rss+xml" />
     <description>A.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>A.</title>
-      <link>https://peterlugtig.com/authors/a./</link>
+      <link>/authors/a./</link>
     </image>
     
     <item>
       <title>Where you at? Using GPS location in an electronic Time Use diary study to derive functional locations</title>
-      <link>https://peterlugtig.com/publication/2019_elevelt_where_you/</link>
+      <link>/publication/2019_elevelt_where_you/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://peterlugtig.com/publication/2019_elevelt_where_you/</guid>
+      <guid>/publication/2019_elevelt_where_you/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile-only web respondents</title>
-      <link>https://peterlugtig.com/publication/2016_lugtig_mobile_only_web_respondents/</link>
+      <link>/publication/2016_lugtig_mobile_only_web_respondents/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2016_lugtig_mobile_only_web_respondents/</guid>
+      <guid>/publication/2016_lugtig_mobile_only_web_respondents/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reducing underreports of behaviors in retrospective surveys: The effects of three different strategies</title>
-      <link>https://peterlugtig.com/publication/2015_lugtig_reducing_underreports_of_behaviors/</link>
+      <link>/publication/2015_lugtig_reducing_underreports_of_behaviors/</link>
       <pubDate>Sat, 05 Sep 2015 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2015_lugtig_reducing_underreports_of_behaviors/</guid>
+      <guid>/publication/2015_lugtig_reducing_underreports_of_behaviors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing and relaxing assumptions in quasi-simplex models</title>
-      <link>https://peterlugtig.com/publication/2014_cernat_assessing_and_relaxing_assumptions/</link>
+      <link>/publication/2014_cernat_assessing_and_relaxing_assumptions/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2014_cernat_assessing_and_relaxing_assumptions/</guid>
+      <guid>/publication/2014_cernat_assessing_and_relaxing_assumptions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nonresponse and attrition in a probability based Internet Panel for the general population</title>
-      <link>https://peterlugtig.com/publication/2014_lugtig_nonresponse_and_attrition_in_a_probability/</link>
+      <link>/publication/2014_lugtig_nonresponse_and_attrition_in_a_probability/</link>
       <pubDate>Fri, 11 Apr 2014 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2014_lugtig_nonresponse_and_attrition_in_a_probability/</guid>
+      <guid>/publication/2014_lugtig_nonresponse_and_attrition_in_a_probability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can I just check...? Effects of edit check questions on measurement error and survey estimates</title>
-      <link>https://peterlugtig.com/publication/2014_lugtig_in_interview_edit_checks/</link>
+      <link>/publication/2014_lugtig_in_interview_edit_checks/</link>
       <pubDate>Fri, 14 Feb 2014 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2014_lugtig_in_interview_edit_checks/</guid>
+      <guid>/publication/2014_lugtig_in_interview_edit_checks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facing off with Scylla and Charybdis: A comparison of scalar, partial, and the novel possibility of approximate measurement invariance</title>
-      <link>https://peterlugtig.com/publication/2013_schoot_facing_off_with_choosing/</link>
+      <link>/publication/2013_schoot_facing_off_with_choosing/</link>
       <pubDate>Wed, 23 Oct 2013 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2013_schoot_facing_off_with_choosing/</guid>
+      <guid>/publication/2013_schoot_facing_off_with_choosing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prevalence and predictors of transitions into co-occurring risk behaviour patterns in adolescence: The TRAILS study</title>
-      <link>https://peterlugtig.com/publication/2012_monshouwer_prevalence_and_predictors/</link>
+      <link>/publication/2012_monshouwer_prevalence_and_predictors/</link>
       <pubDate>Sat, 17 Mar 2012 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2012_monshouwer_prevalence_and_predictors/</guid>
+      <guid>/publication/2012_monshouwer_prevalence_and_predictors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimating nonresponse bias and mode effects in a mixed-mode survey</title>
-      <link>https://peterlugtig.com/publication/2011_lugtig_estimating_nonresponse/</link>
+      <link>/publication/2011_lugtig_estimating_nonresponse/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2011_lugtig_estimating_nonresponse/</guid>
+      <guid>/publication/2011_lugtig_estimating_nonresponse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In-Interview edit checks: Effects on measurement error in non-labour income and estimates of household income and poverty</title>
-      <link>https://peterlugtig.com/publication/2011_lugtig_in_interview_edit_checks/</link>
+      <link>/publication/2011_lugtig_in_interview_edit_checks/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2011_lugtig_in_interview_edit_checks/</guid>
+      <guid>/publication/2011_lugtig_in_interview_edit_checks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Not doing bad things is not equivalent to doing the right thing: Distinguishing between inhibitory and initiatory self-control</title>
-      <link>https://peterlugtig.com/publication/2011_de_ridder_not_doing_bad_things/</link>
+      <link>/publication/2011_de_ridder_not_doing_bad_things/</link>
       <pubDate>Sat, 12 Feb 2011 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2011_de_ridder_not_doing_bad_things/</guid>
+      <guid>/publication/2011_de_ridder_not_doing_bad_things/</guid>
       <description></description>
     </item>
     

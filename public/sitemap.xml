@@ -3,1864 +3,1874 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://peterlugtig.com/courses/example/example1/</loc>
+    <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/courses/example/</loc>
+    <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/courses/example/example2/</loc>
+    <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/talk/example/</loc>
+    <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/</loc>
+    <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://peterlugtig.com/tags/data-quality/</loc>
+    <loc>/tags/data-quality/</loc>
     <lastmod>2020-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/new-website/</loc>
+    <loc>/post/new-website/</loc>
     <lastmod>2020-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/sampling/</loc>
+    <loc>/tags/sampling/</loc>
     <lastmod>2020-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/website/</loc>
+    <loc>/tags/website/</loc>
     <lastmod>2020-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication_types/2/</loc>
+    <loc>/publication_types/2/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2020_kolenikov/</loc>
+    <loc>/publication/2020_kolenikov/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/a./</loc>
+    <loc>/authors/a./</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-lugtig/</loc>
+    <loc>/authors/and-lugtig/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/b./</loc>
+    <loc>/authors/b./</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/b.t./</loc>
+    <loc>/authors/b.t./</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/k./</loc>
+    <loc>/authors/k./</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/kolenkov/</loc>
+    <loc>/authors/kolenkov/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/p./</loc>
+    <loc>/authors/p./</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/s./</loc>
+    <loc>/authors/s./</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/w./</loc>
+    <loc>/authors/w./</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/west/</loc>
+    <loc>/authors/west/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication_types/4/</loc>
+    <loc>/publication_types/4/</loc>
     <lastmod>2019-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-schouten/</loc>
+    <loc>/authors/and-schouten/</loc>
     <lastmod>2019-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2019_smeets_automatic/</loc>
+    <loc>/publication/2019_smeets_automatic/</loc>
     <lastmod>2019-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/j./</loc>
+    <loc>/authors/j./</loc>
     <lastmod>2019-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/j.g./</loc>
+    <loc>/authors/j.g./</loc>
     <lastmod>2019-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/l./</loc>
+    <loc>/authors/l./</loc>
     <lastmod>2019-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/l.m.s./</loc>
+    <loc>/authors/l.m.s./</loc>
     <lastmod>2019-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/lugtig/</loc>
+    <loc>/authors/lugtig/</loc>
     <lastmod>2019-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/smeets/</loc>
+    <loc>/authors/smeets/</loc>
     <lastmod>2019-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-ruiter/</loc>
+    <loc>/authors/and-ruiter/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/bernasco/</loc>
+    <loc>/authors/bernasco/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/elevelt/</loc>
+    <loc>/authors/elevelt/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/s.-de/</loc>
+    <loc>/authors/s.-de/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/t./</loc>
+    <loc>/authors/t./</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/toepoel/</loc>
+    <loc>/authors/toepoel/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/v./</loc>
+    <loc>/authors/v./</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2019_elevelt_where_you/</loc>
+    <loc>/publication/2019_elevelt_where_you/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/teaching/</loc>
+    <loc>/teaching/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/teaching/writing-technical-content/</loc>
+    <loc>/teaching/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-klein-kranenburg/</loc>
+    <loc>/authors/and-klein-kranenburg/</loc>
     <lastmod>2019-07-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/haan/</loc>
+    <loc>/authors/haan/</loc>
     <lastmod>2019-07-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/m./</loc>
+    <loc>/authors/m./</loc>
     <lastmod>2019-07-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/r./</loc>
+    <loc>/authors/r./</loc>
     <lastmod>2019-07-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2019_lugtig_recruiting_smartphone/</loc>
+    <loc>/publication/2019_lugtig_recruiting_smartphone/</loc>
     <lastmod>2019-07-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/z./</loc>
+    <loc>/authors/z./</loc>
     <lastmod>2019-07-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/zandvliet/</loc>
+    <loc>/authors/zandvliet/</loc>
     <lastmod>2019-07-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-teunissen/</loc>
+    <loc>/authors/and-teunissen/</loc>
     <lastmod>2019-06-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2019_uitdehaag_barriers/</loc>
+    <loc>/publication/2019_uitdehaag_barriers/</loc>
     <lastmod>2019-06-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/m.j./</loc>
+    <loc>/authors/m.j./</loc>
     <lastmod>2019-06-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/olden/</loc>
+    <loc>/authors/olden/</loc>
     <lastmod>2019-06-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/r.k./</loc>
+    <loc>/authors/r.k./</loc>
     <lastmod>2019-06-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/s.c./</loc>
+    <loc>/authors/s.c./</loc>
     <lastmod>2019-06-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/stellato/</loc>
+    <loc>/authors/stellato/</loc>
     <lastmod>2019-06-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/uitdehaag/</loc>
+    <loc>/authors/uitdehaag/</loc>
     <lastmod>2019-06-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/courses/</loc>
+    <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-vis/</loc>
+    <loc>/authors/and-vis/</loc>
     <lastmod>2019-05-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/arends-toth/</loc>
+    <loc>/authors/arends-toth/</loc>
     <lastmod>2019-05-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/bais/</loc>
+    <loc>/authors/bais/</loc>
     <lastmod>2019-05-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/c./</loc>
+    <loc>/authors/c./</loc>
     <lastmod>2019-05-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2019_bais_can_survey_item_characteristics/</loc>
+    <loc>/publication/2019_bais_can_survey_item_characteristics/</loc>
     <lastmod>2019-05-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/douhou/</loc>
+    <loc>/authors/douhou/</loc>
     <lastmod>2019-05-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/f./</loc>
+    <loc>/authors/f./</loc>
     <lastmod>2019-05-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/kieruj/</loc>
+    <loc>/authors/kieruj/</loc>
     <lastmod>2019-05-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/morren/</loc>
+    <loc>/authors/morren/</loc>
     <lastmod>2019-05-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/n./</loc>
+    <loc>/authors/n./</loc>
     <lastmod>2019-05-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/schouten/</loc>
+    <loc>/authors/schouten/</loc>
     <lastmod>2019-05-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2019_haan_predict_device_use/</loc>
+    <loc>/publication/2019_haan_predict_device_use/</loc>
     <lastmod>2019-03-25T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/admin/</loc>
+    <loc>/authors/admin/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/teaching/jupyter/</loc>
+    <loc>/teaching/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-vink/</loc>
+    <loc>/authors/and-vink/</loc>
     <lastmod>2018-07-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/g./</loc>
+    <loc>/authors/g./</loc>
     <lastmod>2018-07-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2018_schouten_generating_missing/</loc>
+    <loc>/publication/2018_schouten_generating_missing/</loc>
     <lastmod>2018-07-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/r.m./</loc>
+    <loc>/authors/r.m./</loc>
     <lastmod>2018-07-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2018_toepoel_modularization/</loc>
+    <loc>/publication/2018_toepoel_modularization/</loc>
     <lastmod>2018-07-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/peterlugtig/</loc>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/peterlugtig/</loc>
     <lastmod>2018-06-26T11:16:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/common-causes-of-survey-error/</loc>
+    <loc>/tags/common-causes-of-survey-error/</loc>
     <lastmod>2018-06-26T11:16:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/measurement/</loc>
+    <loc>/tags/measurement/</loc>
     <lastmod>2018-06-26T11:16:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/measurement-error/</loc>
+    <loc>/tags/measurement-error/</loc>
     <lastmod>2018-06-26T11:16:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/mtmm/</loc>
+    <loc>/tags/mtmm/</loc>
     <lastmod>2018-06-26T11:16:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/nonresponse/</loc>
+    <loc>/tags/nonresponse/</loc>
     <lastmod>2018-06-26T11:16:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/nonresponse-error/</loc>
+    <loc>/tags/nonresponse-error/</loc>
     <lastmod>2018-06-26T11:16:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/validation/</loc>
+    <loc>/tags/validation/</loc>
     <lastmod>2018-06-26T11:16:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/which-survey-error-source-is-larger/</loc>
+    <loc>/post/which-survey-error-source-is-larger/</loc>
     <lastmod>2018-06-26T11:16:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2017_lugtig_the_relative_size_of_measurement_error/</loc>
+    <loc>/publication/2017_lugtig_the_relative_size_of_measurement_error/</loc>
     <lastmod>2017-12-13T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/dutch_2017_lugtig_het_waarneem/</loc>
+    <loc>/publication/dutch_2017_lugtig_het_waarneem/</loc>
     <lastmod>2017-11-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/market-research/</loc>
+    <loc>/tags/market-research/</loc>
     <lastmod>2017-04-27T19:52:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/mixed-device/</loc>
+    <loc>/tags/mixed-device/</loc>
     <lastmod>2017-04-27T19:52:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/mobile-survey/</loc>
+    <loc>/tags/mobile-survey/</loc>
     <lastmod>2017-04-27T19:52:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/mobile-only-web-survey-respondents/</loc>
+    <loc>/post/mobile-only-web-survey-respondents/</loc>
     <lastmod>2017-04-27T19:52:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/panel-survey/</loc>
+    <loc>/tags/panel-survey/</loc>
     <lastmod>2017-04-27T19:52:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/questionnaire-design/</loc>
+    <loc>/tags/questionnaire-design/</loc>
     <lastmod>2017-04-27T19:52:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/smartphone/</loc>
+    <loc>/tags/smartphone/</loc>
     <lastmod>2017-04-27T19:52:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication_types/6/</loc>
+    <loc>/publication_types/6/</loc>
     <lastmod>2017-02-06T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/lynn/</loc>
+    <loc>/authors/lynn/</loc>
     <lastmod>2017-02-06T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2017_lynn_total_survey_error_for_longitudinal/</loc>
+    <loc>/publication/2017_lynn_total_survey_error_for_longitudinal/</loc>
     <lastmod>2017-02-06T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-van-aken/</loc>
+    <loc>/authors/and-van-aken/</loc>
     <lastmod>2016-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/defoe/</loc>
+    <loc>/authors/defoe/</loc>
     <lastmod>2016-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/dubas/</loc>
+    <loc>/authors/dubas/</loc>
     <lastmod>2016-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/i.n./</loc>
+    <loc>/authors/i.n./</loc>
     <lastmod>2016-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/j.s./</loc>
+    <loc>/authors/j.s./</loc>
     <lastmod>2016-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/m.a.g./</loc>
+    <loc>/authors/m.a.g./</loc>
     <lastmod>2016-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/somerville/</loc>
+    <loc>/authors/somerville/</loc>
     <lastmod>2016-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2016_defoe_the_unique_role_of_cognitive/</loc>
+    <loc>/publication/2016_defoe_the_unique_role_of_cognitive/</loc>
     <lastmod>2016-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-vollebergh/</loc>
+    <loc>/authors/and-vollebergh/</loc>
     <lastmod>2016-10-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/c.h.c.j.-van/</loc>
+    <loc>/authors/c.h.c.j.-van/</loc>
     <lastmod>2016-10-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/de-graaf/</loc>
+    <loc>/authors/de-graaf/</loc>
     <lastmod>2016-10-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</loc>
+    <loc>/publication/2017_van_ditzhuijzen_incidence_and_recurrence/</loc>
     <lastmod>2016-10-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/j.-van/</loc>
+    <loc>/authors/j.-van/</loc>
     <lastmod>2016-10-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/nijnatten/</loc>
+    <loc>/authors/nijnatten/</loc>
     <lastmod>2016-10-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/ten-have/</loc>
+    <loc>/authors/ten-have/</loc>
     <lastmod>2016-10-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/van-ditzhuijzen/</loc>
+    <loc>/authors/van-ditzhuijzen/</loc>
     <lastmod>2016-10-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/w.a.m./</loc>
+    <loc>/authors/w.a.m./</loc>
     <lastmod>2016-10-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication_types/0/</loc>
+    <loc>/publication_types/0/</loc>
     <lastmod>2016-10-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/j.l./</loc>
+    <loc>/authors/j.l./</loc>
     <lastmod>2016-10-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/padilla/</loc>
+    <loc>/authors/padilla/</loc>
     <lastmod>2016-10-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2016_padilla_trends_and_challenges_for_methodology/</loc>
+    <loc>/publication/2016_padilla_trends_and_challenges_for_methodology/</loc>
     <lastmod>2016-10-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-amin/</loc>
+    <loc>/authors/and-amin/</loc>
     <lastmod>2016-10-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2016_lugtig_mobile_only_web_respondents/</loc>
+    <loc>/publication/2016_lugtig_mobile_only_web_respondents/</loc>
     <lastmod>2016-10-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication_types/3/</loc>
+    <loc>/publication_types/3/</loc>
     <lastmod>2016-09-07T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2016_lynn_total_survey_error/</loc>
+    <loc>/publication/2016_lynn_total_survey_error/</loc>
     <lastmod>2016-09-07T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/deep-learning/</loc>
+    <loc>/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/demo/</loc>
+    <loc>/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/project/external-project/</loc>
+    <loc>/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/project/internal-project/</loc>
+    <loc>/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/academic/</loc>
+    <loc>/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/teaching/getting-started/</loc>
+    <loc>/teaching/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/categories/demo/</loc>
+    <loc>/categories/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/mixed-mode/</loc>
+    <loc>/tags/mixed-mode/</loc>
     <lastmod>2016-02-10T22:42:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/mode-effect/</loc>
+    <loc>/tags/mode-effect/</loc>
     <lastmod>2016-02-10T22:42:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/the-old-web-survey-is-dead/</loc>
+    <loc>/post/the-old-web-survey-is-dead/</loc>
     <lastmod>2016-02-10T22:42:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/de-leeuw/</loc>
+    <loc>/authors/de-leeuw/</loc>
     <lastmod>2015-12-18T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2015_de_leeuw_dropouts_in_longitudinal_data/</loc>
+    <loc>/publication/2015_de_leeuw_dropouts_in_longitudinal_data/</loc>
     <lastmod>2015-12-18T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/e.d./</loc>
+    <loc>/authors/e.d./</loc>
     <lastmod>2015-12-18T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/r/</loc>
+    <loc>/tags/r/</loc>
     <lastmod>2015-12-01T13:51:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/recall/</loc>
+    <loc>/tags/recall/</loc>
     <lastmod>2015-12-01T13:51:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/retrospective-reporting/</loc>
+    <loc>/post/retrospective-reporting/</loc>
     <lastmod>2015-12-01T13:51:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/survey-error/</loc>
+    <loc>/tags/survey-error/</loc>
     <lastmod>2015-12-01T13:51:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2015_toepoel_online_surveys_are_mixed_device/</loc>
+    <loc>/publication/2015_toepoel_online_surveys_are_mixed_device/</loc>
     <lastmod>2015-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-balluerka/</loc>
+    <loc>/authors/and-balluerka/</loc>
     <lastmod>2015-09-29T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2015_lugtig_methodology_turns_10/</loc>
+    <loc>/publication/2015_lugtig_methodology_turns_10/</loc>
     <lastmod>2015-09-29T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-valkenburg/</loc>
+    <loc>/authors/and-valkenburg/</loc>
     <lastmod>2015-09-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/fikkers/</loc>
+    <loc>/authors/fikkers/</loc>
     <lastmod>2015-09-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/j.t./</loc>
+    <loc>/authors/j.t./</loc>
     <lastmod>2015-09-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/k.m./</loc>
+    <loc>/authors/k.m./</loc>
     <lastmod>2015-09-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/p.m./</loc>
+    <loc>/authors/p.m./</loc>
     <lastmod>2015-09-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/piotrowski/</loc>
+    <loc>/authors/piotrowski/</loc>
     <lastmod>2015-09-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2016_fikkers_the_role_of_perceived/</loc>
+    <loc>/publication/2016_fikkers_the_role_of_perceived/</loc>
     <lastmod>2015-09-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-boeve/</loc>
+    <loc>/authors/and-boeve/</loc>
     <lastmod>2015-09-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/glasner/</loc>
+    <loc>/authors/glasner/</loc>
     <lastmod>2015-09-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2015_lugtig_reducing_underreports_of_behaviors/</loc>
+    <loc>/publication/2015_lugtig_reducing_underreports_of_behaviors/</loc>
     <lastmod>2015-09-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/teaching/2015-07-23-r-rmarkdown/</loc>
+    <loc>/teaching/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/plot/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/categories/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/r-markdown/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/regression/</loc>
+    <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/adaptive-design/</loc>
+    <loc>/tags/adaptive-design/</loc>
     <lastmod>2015-05-20T15:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/adaptive-designs-4-ways-to-improve/</loc>
+    <loc>/post/adaptive-designs-4-ways-to-improve/</loc>
     <lastmod>2015-05-20T15:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-toepoel/</loc>
+    <loc>/authors/and-toepoel/</loc>
     <lastmod>2015-02-26T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2016_lugtig_the_use_of_pcs_smartphones/</loc>
+    <loc>/publication/2016_lugtig_the_use_of_pcs_smartphones/</loc>
     <lastmod>2015-02-26T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/attrition/</loc>
+    <loc>/tags/attrition/</loc>
     <lastmod>2015-01-21T15:21:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/don-dillman/</loc>
+    <loc>/tags/don-dillman/</loc>
     <lastmod>2015-01-21T15:21:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/responsive-design/</loc>
+    <loc>/tags/responsive-design/</loc>
     <lastmod>2015-01-21T15:21:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/why-panel-surveys-need-to-go-adaptive/</loc>
+    <loc>/post/why-panel-surveys-need-to-go-adaptive/</loc>
     <lastmod>2015-01-21T15:21:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/blog-post/</loc>
+    <loc>/post/blog-post/</loc>
     <lastmod>2014-12-08T20:47:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/user-agent-strings/</loc>
+    <loc>/tags/user-agent-strings/</loc>
     <lastmod>2014-12-08T20:47:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/what-devices-do-respondents-use-over/</loc>
+    <loc>/post/what-devices-do-respondents-use-over/</loc>
     <lastmod>2014-12-02T15:44:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-watson/</loc>
+    <loc>/authors/and-watson/</loc>
     <lastmod>2014-09-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2014_cernat_assessing_and_relaxing_assumptions/</loc>
+    <loc>/publication/2014_cernat_assessing_and_relaxing_assumptions/</loc>
     <lastmod>2014-09-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/cernat/</loc>
+    <loc>/authors/cernat/</loc>
     <lastmod>2014-09-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/s.c.n./</loc>
+    <loc>/authors/s.c.n./</loc>
     <lastmod>2014-09-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/uhrig/</loc>
+    <loc>/authors/uhrig/</loc>
     <lastmod>2014-09-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/can-you-push-web-survey-respondents-to/</loc>
+    <loc>/post/can-you-push-web-survey-respondents-to/</loc>
     <lastmod>2014-08-13T19:06:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-bruin/</loc>
+    <loc>/authors/and-bruin/</loc>
     <lastmod>2014-06-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2014_mulder_explaining_consumer_intentions/</loc>
+    <loc>/publication/2014_mulder_explaining_consumer_intentions/</loc>
     <lastmod>2014-06-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/m.-de/</loc>
+    <loc>/authors/m.-de/</loc>
     <lastmod>2014-06-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/mulder/</loc>
+    <loc>/authors/mulder/</loc>
     <lastmod>2014-06-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/poortvliet/</loc>
+    <loc>/authors/poortvliet/</loc>
     <lastmod>2014-06-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/aapor/</loc>
+    <loc>/tags/aapor/</loc>
     <lastmod>2014-05-26T17:05:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/aapor-2014/</loc>
+    <loc>/post/aapor-2014/</loc>
     <lastmod>2014-05-26T17:05:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/big-data/</loc>
+    <loc>/tags/big-data/</loc>
     <lastmod>2014-05-26T17:05:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/conference/</loc>
+    <loc>/tags/conference/</loc>
     <lastmod>2014-05-26T17:05:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/are-item-missings-related-to-later/</loc>
+    <loc>/post/are-item-missings-related-to-later/</loc>
     <lastmod>2014-04-29T14:08:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/british-household-panel-study/</loc>
+    <loc>/tags/british-household-panel-study/</loc>
     <lastmod>2014-04-29T14:08:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/missing-data/</loc>
+    <loc>/tags/missing-data/</loc>
     <lastmod>2014-04-29T14:08:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/trade-off-between-survey-errors/</loc>
+    <loc>/tags/trade-off-between-survey-errors/</loc>
     <lastmod>2014-04-29T14:08:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-scherpenzeel/</loc>
+    <loc>/authors/and-scherpenzeel/</loc>
     <lastmod>2014-04-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/das/</loc>
+    <loc>/authors/das/</loc>
     <lastmod>2014-04-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2014_lugtig_nonresponse_and_attrition_in_a_probability/</loc>
+    <loc>/publication/2014_lugtig_nonresponse_and_attrition_in_a_probability/</loc>
     <lastmod>2014-04-11T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2014_toepoel_what_happens_if_you_offer/</loc>
+    <loc>/publication/2014_toepoel_what_happens_if_you_offer/</loc>
     <lastmod>2014-04-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2014_koning_differential_effects_of_baseline_drinking/</loc>
+    <loc>/publication/2014_koning_differential_effects_of_baseline_drinking/</loc>
     <lastmod>2014-04-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/i.m./</loc>
+    <loc>/authors/i.m./</loc>
     <lastmod>2014-04-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/koning/</loc>
+    <loc>/authors/koning/</loc>
     <lastmod>2014-04-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/compliance/</loc>
+    <loc>/tags/compliance/</loc>
     <lastmod>2014-03-28T15:33:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/do-respondents-become-sloppy-before/</loc>
+    <loc>/post/do-respondents-become-sloppy-before/</loc>
     <lastmod>2014-03-28T15:33:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/a.m./</loc>
+    <loc>/authors/a.m./</loc>
     <lastmod>2014-03-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2014_scherphof_adolescents_use_of_nicotine/</loc>
+    <loc>/publication/2014_scherphof_adolescents_use_of_nicotine/</loc>
     <lastmod>2014-03-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/c.s./</loc>
+    <loc>/authors/c.s./</loc>
     <lastmod>2014-03-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/eijnden/</loc>
+    <loc>/authors/eijnden/</loc>
     <lastmod>2014-03-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/engels/</loc>
+    <loc>/authors/engels/</loc>
     <lastmod>2014-03-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/r.c.m.e./</loc>
+    <loc>/authors/r.c.m.e./</loc>
     <lastmod>2014-03-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/r.j.j.m./</loc>
+    <loc>/authors/r.j.j.m./</loc>
     <lastmod>2014-03-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/r.j.j.m.-van-den/</loc>
+    <loc>/authors/r.j.j.m.-van-den/</loc>
     <lastmod>2014-03-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/scherphof/</loc>
+    <loc>/authors/scherphof/</loc>
     <lastmod>2014-03-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-jackle/</loc>
+    <loc>/authors/and-jackle/</loc>
     <lastmod>2014-02-14T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2014_lugtig_in_interview_edit_checks/</loc>
+    <loc>/publication/2014_lugtig_in_interview_edit_checks/</loc>
     <lastmod>2014-02-14T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/personality-predicts-likelihood-and/</loc>
+    <loc>/post/personality-predicts-likelihood-and/</loc>
     <lastmod>2014-02-07T17:12:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2014_lugtig_panel_attrition_separating_stayers/</loc>
+    <loc>/publication/2014_lugtig_panel_attrition_separating_stayers/</loc>
     <lastmod>2014-02-06T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/longitudinal-interview-outcome-data/</loc>
+    <loc>/post/longitudinal-interview-outcome-data/</loc>
     <lastmod>2013-11-04T16:22:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/sequence-analysis/</loc>
+    <loc>/tags/sequence-analysis/</loc>
     <lastmod>2013-11-04T16:22:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/statistical-modeling/</loc>
+    <loc>/tags/statistical-modeling/</loc>
     <lastmod>2013-11-04T16:22:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/a.g.j.-van-de/</loc>
+    <loc>/authors/a.g.j.-van-de/</loc>
     <lastmod>2013-10-23T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-muthen/</loc>
+    <loc>/authors/and-muthen/</loc>
     <lastmod>2013-10-23T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2013_schoot_facing_off_with_choosing/</loc>
+    <loc>/publication/2013_schoot_facing_off_with_choosing/</loc>
     <lastmod>2013-10-23T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/hox/</loc>
+    <loc>/authors/hox/</loc>
     <lastmod>2013-10-23T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/kluytmans/</loc>
+    <loc>/authors/kluytmans/</loc>
     <lastmod>2013-10-23T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/schoot/</loc>
+    <loc>/authors/schoot/</loc>
     <lastmod>2013-10-23T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/tummers/</loc>
+    <loc>/authors/tummers/</loc>
     <lastmod>2013-10-23T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/a-great-lecturer-and-contextuality-of/</loc>
+    <loc>/post/a-great-lecturer-and-contextuality-of/</loc>
     <lastmod>2013-10-21T16:24:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/richard-feynman/</loc>
+    <loc>/tags/richard-feynman/</loc>
     <lastmod>2013-10-21T16:24:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/teaching/</loc>
+    <loc>/tags/teaching/</loc>
     <lastmod>2013-10-21T16:24:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/my-prayers-on-peer-reviewed-datasets/</loc>
+    <loc>/post/my-prayers-on-peer-reviewed-datasets/</loc>
     <lastmod>2013-10-17T10:09:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/open-access/</loc>
+    <loc>/tags/open-access/</loc>
     <lastmod>2013-10-17T10:09:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/publishing/</loc>
+    <loc>/tags/publishing/</loc>
     <lastmod>2013-10-17T10:09:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/replication/</loc>
+    <loc>/tags/replication/</loc>
     <lastmod>2013-10-17T10:09:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/imagine-we-have-great-covariates-for/</loc>
+    <loc>/post/imagine-we-have-great-covariates-for/</loc>
     <lastmod>2013-10-14T10:41:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/imputation/</loc>
+    <loc>/tags/imputation/</loc>
     <lastmod>2013-10-14T10:41:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/weighting/</loc>
+    <loc>/tags/weighting/</loc>
     <lastmod>2013-10-14T10:41:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/coverage-error/</loc>
+    <loc>/tags/coverage-error/</loc>
     <lastmod>2013-10-06T21:49:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/to-weight-or-to-impute-for-unit/</loc>
+    <loc>/post/to-weight-or-to-impute-for-unit/</loc>
     <lastmod>2013-10-06T21:49:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/fraud/</loc>
+    <loc>/tags/fraud/</loc>
     <lastmod>2013-09-23T12:27:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/publish-your-data/</loc>
+    <loc>/post/publish-your-data/</loc>
     <lastmod>2013-09-23T12:27:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/gesis/</loc>
+    <loc>/tags/gesis/</loc>
     <lastmod>2013-09-14T15:37:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/how-to-improve-social-sciences/</loc>
+    <loc>/post/how-to-improve-social-sciences/</loc>
     <lastmod>2013-09-14T15:37:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/nonresponse-workshop-2013/</loc>
+    <loc>/post/nonresponse-workshop-2013/</loc>
     <lastmod>2013-09-09T16:48:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/workshop/</loc>
+    <loc>/tags/workshop/</loc>
     <lastmod>2013-09-09T16:48:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/dependent-interviewing/</loc>
+    <loc>/tags/dependent-interviewing/</loc>
     <lastmod>2013-08-03T16:22:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/dependent-interviewing-and-risk-of/</loc>
+    <loc>/post/dependent-interviewing-and-risk-of/</loc>
     <lastmod>2013-08-03T16:22:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/quasi-simplex-model/</loc>
+    <loc>/tags/quasi-simplex-model/</loc>
     <lastmod>2013-08-03T16:22:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-lensvelt-mulders/</loc>
+    <loc>/authors/and-lensvelt-mulders/</loc>
     <lastmod>2013-07-24T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2014_lugtig_evaluating_data_quality_on/</loc>
+    <loc>/publication/2014_lugtig_evaluating_data_quality_on/</loc>
     <lastmod>2013-07-24T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/g.j.l.m./</loc>
+    <loc>/authors/g.j.l.m./</loc>
     <lastmod>2013-07-24T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/measurement-and-nonresponse-error-in/</loc>
+    <loc>/post/measurement-and-nonresponse-error-in/</loc>
     <lastmod>2013-07-04T11:57:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/sem/</loc>
+    <loc>/tags/sem/</loc>
     <lastmod>2013-07-04T11:57:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/separating-error-sources/</loc>
+    <loc>/tags/separating-error-sources/</loc>
     <lastmod>2013-07-04T11:57:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/aapor-2013/</loc>
+    <loc>/post/aapor-2013/</loc>
     <lastmod>2013-05-23T12:18:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/access-panels/</loc>
+    <loc>/tags/access-panels/</loc>
     <lastmod>2013-05-23T12:18:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/open-access-things-we-can-learn-from/</loc>
+    <loc>/post/open-access-things-we-can-learn-from/</loc>
     <lastmod>2013-04-01T10:05:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/working-paper/</loc>
+    <loc>/tags/working-paper/</loc>
     <lastmod>2013-04-01T10:05:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/horizon-2020/</loc>
+    <loc>/tags/horizon-2020/</loc>
     <lastmod>2013-03-07T15:04:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/interested-in-new-mixed-mode-research/</loc>
+    <loc>/post/interested-in-new-mixed-mode-research/</loc>
     <lastmod>2013-03-07T15:04:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/mixed-mode-surveys-where-will-be-in-5/</loc>
+    <loc>/post/mixed-mode-surveys-where-will-be-in-5/</loc>
     <lastmod>2013-02-23T09:30:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/panel-conditioning/</loc>
+    <loc>/tags/panel-conditioning/</loc>
     <lastmod>2013-01-29T16:29:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/planned-missingness/</loc>
+    <loc>/post/planned-missingness/</loc>
     <lastmod>2013-01-29T16:29:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/planned-missingness/</loc>
+    <loc>/tags/planned-missingness/</loc>
     <lastmod>2013-01-29T16:29:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/designing-mixed-mode-surveys/</loc>
+    <loc>/post/designing-mixed-mode-surveys/</loc>
     <lastmod>2013-01-12T10:24:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/equivalence/</loc>
+    <loc>/tags/equivalence/</loc>
     <lastmod>2013-01-12T10:24:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/esra/</loc>
+    <loc>/tags/esra/</loc>
     <lastmod>2013-01-12T10:24:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-overbeek/</loc>
+    <loc>/authors/and-overbeek/</loc>
     <lastmod>2013-01-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/doornwaard/</loc>
+    <loc>/authors/doornwaard/</loc>
     <lastmod>2013-01-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/dutch_2012_doornwaard_ontwikkelingstrajecten/</loc>
+    <loc>/publication/dutch_2012_doornwaard_ontwikkelingstrajecten/</loc>
     <lastmod>2013-01-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/s.-m./</loc>
+    <loc>/authors/s.-m./</loc>
     <lastmod>2013-01-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/t.f.m./</loc>
+    <loc>/authors/t.f.m./</loc>
     <lastmod>2013-01-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/ter-bogt/</loc>
+    <loc>/authors/ter-bogt/</loc>
     <lastmod>2013-01-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/van-den-eijnden/</loc>
+    <loc>/authors/van-den-eijnden/</loc>
     <lastmod>2013-01-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/dutch_2012_lugtig_luiaards/</loc>
+    <loc>/publication/dutch_2012_lugtig_luiaards/</loc>
     <lastmod>2012-12-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/bayesian/</loc>
+    <loc>/tags/bayesian/</loc>
     <lastmod>2012-10-08T14:26:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/bayesian-structural-equation-modeling/</loc>
+    <loc>/post/bayesian-structural-equation-modeling/</loc>
     <lastmod>2012-10-08T14:26:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/mplus/</loc>
+    <loc>/tags/mplus/</loc>
     <lastmod>2012-10-08T14:26:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/software/</loc>
+    <loc>/tags/software/</loc>
     <lastmod>2012-10-08T14:26:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/is-panel-attrition-same-as-nonresponse/</loc>
+    <loc>/post/is-panel-attrition-same-as-nonresponse/</loc>
     <lastmod>2012-09-29T10:49:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/elections/</loc>
+    <loc>/tags/elections/</loc>
     <lastmod>2012-09-22T16:05:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/opinion-poll/</loc>
+    <loc>/tags/opinion-poll/</loc>
     <lastmod>2012-09-22T16:05:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/why-access-panels-cannot-weight/</loc>
+    <loc>/post/why-access-panels-cannot-weight/</loc>
     <lastmod>2012-09-22T16:05:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/dutch-elections-2012-poll-results/</loc>
+    <loc>/post/dutch-elections-2012-poll-results/</loc>
     <lastmod>2012-09-13T11:57:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/exit-poll/</loc>
+    <loc>/tags/exit-poll/</loc>
     <lastmod>2012-09-13T11:57:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/intomart/</loc>
+    <loc>/tags/intomart/</loc>
     <lastmod>2012-09-13T11:57:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/maurice-de-hond/</loc>
+    <loc>/tags/maurice-de-hond/</loc>
     <lastmod>2012-09-13T11:57:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/polls/</loc>
+    <loc>/tags/polls/</loc>
     <lastmod>2012-09-13T11:57:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/synovate/</loc>
+    <loc>/tags/synovate/</loc>
     <lastmod>2012-09-13T11:57:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/tns-nipo/</loc>
+    <loc>/tags/tns-nipo/</loc>
     <lastmod>2012-09-13T11:57:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/electoral-volatility-due-to-different/</loc>
+    <loc>/post/electoral-volatility-due-to-different/</loc>
     <lastmod>2012-08-24T13:15:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/annette-jackle/</loc>
+    <loc>/tags/annette-jackle/</loc>
     <lastmod>2012-08-15T19:13:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/dependent-interviewing-and-longitudinal/</loc>
+    <loc>/post/dependent-interviewing-and-longitudinal/</loc>
     <lastmod>2012-08-15T19:13:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/income/</loc>
+    <loc>/tags/income/</loc>
     <lastmod>2012-08-15T19:13:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/new-homepage/</loc>
+    <loc>/post/new-homepage/</loc>
     <lastmod>2012-07-26T21:40:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2012_schoot_a_checklist_for_testing/</loc>
+    <loc>/publication/2012_schoot_a_checklist_for_testing/</loc>
     <lastmod>2012-05-15T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-hox/</loc>
+    <loc>/authors/and-hox/</loc>
     <lastmod>2012-05-15T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/a.f./</loc>
+    <loc>/authors/a.f./</loc>
     <lastmod>2012-03-17T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/creemers/</loc>
+    <loc>/authors/creemers/</loc>
     <lastmod>2012-03-17T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/de-winter/</loc>
+    <loc>/authors/de-winter/</loc>
     <lastmod>2012-03-17T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/h.e./</loc>
+    <loc>/authors/h.e./</loc>
     <lastmod>2012-03-17T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/harakeh/</loc>
+    <loc>/authors/harakeh/</loc>
     <lastmod>2012-03-17T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/huizink/</loc>
+    <loc>/authors/huizink/</loc>
     <lastmod>2012-03-17T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/monshouwer/</loc>
+    <loc>/authors/monshouwer/</loc>
     <lastmod>2012-03-17T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/ormel/</loc>
+    <loc>/authors/ormel/</loc>
     <lastmod>2012-03-17T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2012_monshouwer_prevalence_and_predictors/</loc>
+    <loc>/publication/2012_monshouwer_prevalence_and_predictors/</loc>
     <lastmod>2012-03-17T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/reijneveld/</loc>
+    <loc>/authors/reijneveld/</loc>
     <lastmod>2012-03-17T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/s.a./</loc>
+    <loc>/authors/s.a./</loc>
     <lastmod>2012-03-17T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/van-oort/</loc>
+    <loc>/authors/van-oort/</loc>
     <lastmod>2012-03-17T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/panel-conditioning/</loc>
+    <loc>/post/panel-conditioning/</loc>
     <lastmod>2012-01-12T14:12:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/gerry-nicolaas/</loc>
+    <loc>/tags/gerry-nicolaas/</loc>
     <lastmod>2011-10-21T14:01:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/trouble-of-nonresponse-studies/</loc>
+    <loc>/post/trouble-of-nonresponse-studies/</loc>
     <lastmod>2011-10-21T14:01:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/amos/</loc>
+    <loc>/tags/amos/</loc>
     <lastmod>2011-10-19T11:55:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/eqs/</loc>
+    <loc>/tags/eqs/</loc>
     <lastmod>2011-10-19T11:55:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/latent-gold/</loc>
+    <loc>/tags/latent-gold/</loc>
     <lastmod>2011-10-19T11:55:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/lisrel/</loc>
+    <loc>/tags/lisrel/</loc>
     <lastmod>2011-10-19T11:55:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/mx/</loc>
+    <loc>/tags/mx/</loc>
     <lastmod>2011-10-19T11:55:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/review/</loc>
+    <loc>/tags/review/</loc>
     <lastmod>2011-10-19T11:55:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/sem-software/</loc>
+    <loc>/post/sem-software/</loc>
     <lastmod>2011-10-19T11:55:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2011_lugtig_estimating_nonresponse/</loc>
+    <loc>/publication/2011_lugtig_estimating_nonresponse/</loc>
     <lastmod>2011-09-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2011_lugtig_in_interview_edit_checks/</loc>
+    <loc>/publication/2011_lugtig_in_interview_edit_checks/</loc>
     <lastmod>2011-09-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/lensvelt-mulders/</loc>
+    <loc>/authors/lensvelt-mulders/</loc>
     <lastmod>2011-09-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/r.-frerichs-and-greven/</loc>
+    <loc>/authors/r.-frerichs-and-greven/</loc>
     <lastmod>2011-09-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/boeije/</loc>
+    <loc>/authors/boeije/</loc>
     <lastmod>2011-08-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2012_lugtig_change_what_change/</loc>
+    <loc>/publication/2012_lugtig_change_what_change/</loc>
     <lastmod>2011-08-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/h.r./</loc>
+    <loc>/authors/h.r./</loc>
     <lastmod>2011-08-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/ken-bollen/</loc>
+    <loc>/tags/ken-bollen/</loc>
     <lastmod>2011-05-10T14:34:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/statistical-modeling-recent-advances/</loc>
+    <loc>/post/statistical-modeling-recent-advances/</loc>
     <lastmod>2011-05-10T14:34:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/data-science/</loc>
+    <loc>/tags/data-science/</loc>
     <lastmod>2011-04-07T14:51:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/graphics/</loc>
+    <loc>/tags/graphics/</loc>
     <lastmod>2011-04-07T14:51:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/hans-rosling/</loc>
+    <loc>/tags/hans-rosling/</loc>
     <lastmod>2011-04-07T14:51:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/survey-methods-and-statistical-modeling/</loc>
+    <loc>/post/survey-methods-and-statistical-modeling/</loc>
     <lastmod>2011-04-07T14:51:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/causality/</loc>
+    <loc>/tags/causality/</loc>
     <lastmod>2011-03-26T12:26:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/causality/</loc>
+    <loc>/post/causality/</loc>
     <lastmod>2011-03-26T12:26:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/covariates/</loc>
+    <loc>/tags/covariates/</loc>
     <lastmod>2011-03-26T12:26:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/cognitive-effects/</loc>
+    <loc>/tags/cognitive-effects/</loc>
     <lastmod>2011-03-23T10:09:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/mixed-mode-designs-cognitive/</loc>
+    <loc>/post/mixed-mode-designs-cognitive/</loc>
     <lastmod>2011-03-23T10:09:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/matching/</loc>
+    <loc>/tags/matching/</loc>
     <lastmod>2011-03-15T21:57:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/matching-to-correct-for-self-selection/</loc>
+    <loc>/post/matching-to-correct-for-self-selection/</loc>
     <lastmod>2011-03-15T21:57:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/studying-mode-effects/</loc>
+    <loc>/post/studying-mode-effects/</loc>
     <lastmod>2011-02-28T18:55:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/internet-survey/</loc>
+    <loc>/tags/internet-survey/</loc>
     <lastmod>2011-02-21T08:45:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/mode-effects/</loc>
+    <loc>/post/mode-effects/</loc>
     <lastmod>2011-02-21T08:45:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-van-hooft/</loc>
+    <loc>/authors/and-van-hooft/</loc>
     <lastmod>2011-02-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/bakker/</loc>
+    <loc>/authors/bakker/</loc>
     <lastmod>2011-02-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/d.t.d/</loc>
+    <loc>/authors/d.t.d/</loc>
     <lastmod>2011-02-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/de-boer/</loc>
+    <loc>/authors/de-boer/</loc>
     <lastmod>2011-02-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/de-ridder/</loc>
+    <loc>/authors/de-ridder/</loc>
     <lastmod>2011-02-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/e.a.j./</loc>
+    <loc>/authors/e.a.j./</loc>
     <lastmod>2011-02-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2011_de_ridder_not_doing_bad_things/</loc>
+    <loc>/publication/2011_de_ridder_not_doing_bad_things/</loc>
     <lastmod>2011-02-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/how-to-use-internet-panels-for-polling/</loc>
+    <loc>/post/how-to-use-internet-panels-for-polling/</loc>
     <lastmod>2011-02-10T11:13:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/john-krosnick/</loc>
+    <loc>/tags/john-krosnick/</loc>
     <lastmod>2011-02-10T11:13:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/checklist/</loc>
+    <loc>/tags/checklist/</loc>
     <lastmod>2011-02-10T10:38:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/checklist-for-quality-of-opinion-polls/</loc>
+    <loc>/post/checklist-for-quality-of-opinion-polls/</loc>
     <lastmod>2011-02-10T10:38:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/impact/</loc>
+    <loc>/tags/impact/</loc>
     <lastmod>2011-02-10T10:38:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/jelke-bethlehem/</loc>
+    <loc>/tags/jelke-bethlehem/</loc>
     <lastmod>2011-02-10T10:38:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/journalists/</loc>
+    <loc>/tags/journalists/</loc>
     <lastmod>2011-02-10T10:38:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/npso/</loc>
+    <loc>/tags/npso/</loc>
     <lastmod>2011-02-10T10:38:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/bandwagon-effect/</loc>
+    <loc>/tags/bandwagon-effect/</loc>
     <lastmod>2011-02-10T10:11:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/push-polls/</loc>
+    <loc>/tags/push-polls/</loc>
     <lastmod>2011-02-10T10:11:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/influence-of-polls-on-voting-behavior/</loc>
+    <loc>/post/influence-of-polls-on-voting-behavior/</loc>
     <lastmod>2011-02-10T10:11:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/how-to-do-exit-poll/</loc>
+    <loc>/post/how-to-do-exit-poll/</loc>
     <lastmod>2011-01-24T11:05:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/predicting-elections/</loc>
+    <loc>/post/predicting-elections/</loc>
     <lastmod>2011-01-17T17:45:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/post/first-past-post/</loc>
+    <loc>/post/first-past-post/</loc>
     <lastmod>2011-01-10T17:14:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/tags/introduction/</loc>
+    <loc>/tags/introduction/</loc>
     <lastmod>2011-01-10T17:14:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/and-hubregtse/</loc>
+    <loc>/authors/and-hubregtse/</loc>
     <lastmod>2009-08-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2009_lensvelt_mulders_separating_selection_bias/</loc>
+    <loc>/publication/2009_lensvelt_mulders_separating_selection_bias/</loc>
     <lastmod>2009-08-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/publication/2008_lensvelt_assembling_an_access_panel/</loc>
+    <loc>/publication/2008_lensvelt_assembling_an_access_panel/</loc>
     <lastmod>2009-02-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/j.j./</loc>
+    <loc>/authors/j.j./</loc>
     <lastmod>2009-02-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/authors/peter_detailed/</loc>
+    <loc>/authors/peter_detailed/</loc>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/home/</loc>
+    <loc>/home/</loc>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>https://peterlugtig.com/shinygps/</loc>
+    <loc>/shinygps/</loc>
   </url>
   
 </urlset>

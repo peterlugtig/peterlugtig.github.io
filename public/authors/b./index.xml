@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>B. | Peter Lugtig</title>
-    <link>https://peterlugtig.com/authors/b./</link>
-      <atom:link href="https://peterlugtig.com/authors/b./index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/b./</link>
+      <atom:link href="/authors/b./index.xml" rel="self" type="application/rss+xml" />
     <description>B.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>B.</title>
-      <link>https://peterlugtig.com/authors/b./</link>
+      <link>/authors/b./</link>
     </image>
     
     <item>
       <title>In Dutch: Het waarneem innovatie netwerk</title>
-      <link>https://peterlugtig.com/publication/dutch_2017_lugtig_het_waarneem/</link>
+      <link>/publication/dutch_2017_lugtig_het_waarneem/</link>
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/dutch_2017_lugtig_het_waarneem/</guid>
+      <guid>/publication/dutch_2017_lugtig_het_waarneem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining consumer intentions to use innovative medical and food applications: Test of an extended model of reasoned action in a survey study</title>
-      <link>https://peterlugtig.com/publication/2014_mulder_explaining_consumer_intentions/</link>
+      <link>/publication/2014_mulder_explaining_consumer_intentions/</link>
       <pubDate>Thu, 12 Jun 2014 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2014_mulder_explaining_consumer_intentions/</guid>
+      <guid>/publication/2014_mulder_explaining_consumer_intentions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facing off with Scylla and Charybdis: A comparison of scalar, partial, and the novel possibility of approximate measurement invariance</title>
-      <link>https://peterlugtig.com/publication/2013_schoot_facing_off_with_choosing/</link>
+      <link>/publication/2013_schoot_facing_off_with_choosing/</link>
       <pubDate>Wed, 23 Oct 2013 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2013_schoot_facing_off_with_choosing/</guid>
+      <guid>/publication/2013_schoot_facing_off_with_choosing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Not doing bad things is not equivalent to doing the right thing: Distinguishing between inhibitory and initiatory self-control</title>
-      <link>https://peterlugtig.com/publication/2011_de_ridder_not_doing_bad_things/</link>
+      <link>/publication/2011_de_ridder_not_doing_bad_things/</link>
       <pubDate>Sat, 12 Feb 2011 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2011_de_ridder_not_doing_bad_things/</guid>
+      <guid>/publication/2011_de_ridder_not_doing_bad_things/</guid>
       <description></description>
     </item>
     

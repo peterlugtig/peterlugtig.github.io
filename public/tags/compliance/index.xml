@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>compliance | Peter Lugtig</title>
-    <link>https://peterlugtig.com/tags/compliance/</link>
-      <atom:link href="https://peterlugtig.com/tags/compliance/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/compliance/</link>
+      <atom:link href="/tags/compliance/index.xml" rel="self" type="application/rss+xml" />
     <description>compliance</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Fri, 28 Mar 2014 15:33:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>compliance</title>
-      <link>https://peterlugtig.com/tags/compliance/</link>
+      <link>/tags/compliance/</link>
     </image>
     
     <item>
       <title>Do respondents become sloppy before attrition?</title>
-      <link>https://peterlugtig.com/post/do-respondents-become-sloppy-before/</link>
+      <link>/post/do-respondents-become-sloppy-before/</link>
       <pubDate>Fri, 28 Mar 2014 15:33:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/post/do-respondents-become-sloppy-before/</guid>
+      <guid>/post/do-respondents-become-sloppy-before/</guid>
       <description>&lt;p&gt;I am working on a paper that aims to link measurement errors to attrition error in a panel survey. For this, I am using the British Household Panel Survey. 
 &lt;a href=&#34;http://www.peterlugtig.com/2013/11/longitudinal-interview-outcome-data.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In an earlier post&lt;/a&gt;
  I already argued that attrition can occur for many reasons, which I summarized in 5 categories.&lt;/p&gt;

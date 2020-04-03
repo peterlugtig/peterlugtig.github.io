@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Schoot | Peter Lugtig</title>
-    <link>https://peterlugtig.com/authors/schoot/</link>
-      <atom:link href="https://peterlugtig.com/authors/schoot/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/schoot/</link>
+      <atom:link href="/authors/schoot/index.xml" rel="self" type="application/rss+xml" />
     <description>Schoot</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Wed, 23 Oct 2013 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Schoot</title>
-      <link>https://peterlugtig.com/authors/schoot/</link>
+      <link>/authors/schoot/</link>
     </image>
     
     <item>
       <title>Facing off with Scylla and Charybdis: A comparison of scalar, partial, and the novel possibility of approximate measurement invariance</title>
-      <link>https://peterlugtig.com/publication/2013_schoot_facing_off_with_choosing/</link>
+      <link>/publication/2013_schoot_facing_off_with_choosing/</link>
       <pubDate>Wed, 23 Oct 2013 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2013_schoot_facing_off_with_choosing/</guid>
+      <guid>/publication/2013_schoot_facing_off_with_choosing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A checklist for testing measurement invariance</title>
-      <link>https://peterlugtig.com/publication/2012_schoot_a_checklist_for_testing/</link>
+      <link>/publication/2012_schoot_a_checklist_for_testing/</link>
       <pubDate>Tue, 15 May 2012 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2012_schoot_a_checklist_for_testing/</guid>
+      <guid>/publication/2012_schoot_a_checklist_for_testing/</guid>
       <description></description>
     </item>
     

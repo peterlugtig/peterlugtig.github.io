@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bandwagon effect | Peter Lugtig</title>
-    <link>https://peterlugtig.com/tags/bandwagon-effect/</link>
-      <atom:link href="https://peterlugtig.com/tags/bandwagon-effect/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/bandwagon-effect/</link>
+      <atom:link href="/tags/bandwagon-effect/index.xml" rel="self" type="application/rss+xml" />
     <description>bandwagon effect</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 10 Feb 2011 10:11:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>bandwagon effect</title>
-      <link>https://peterlugtig.com/tags/bandwagon-effect/</link>
+      <link>/tags/bandwagon-effect/</link>
     </image>
     
     <item>
       <title>the influence of polls on voting behavior</title>
-      <link>https://peterlugtig.com/post/influence-of-polls-on-voting-behavior/</link>
+      <link>/post/influence-of-polls-on-voting-behavior/</link>
       <pubDate>Thu, 10 Feb 2011 10:11:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/post/influence-of-polls-on-voting-behavior/</guid>
+      <guid>/post/influence-of-polls-on-voting-behavior/</guid>
       <description>&lt;p&gt;Many opinion pollers do badly when it comes to predicting elections. This is mainly because they let their respondents self-select them into their polls. So what, who cares? The polls make for some good entertainment and easily fill the talk-shows on television. If everyone knows they cannot be trusted, why care?&lt;/p&gt;
 &lt;p&gt;We should care. In the Dutch electoral system - with 
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Proportional_representation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poportional respresentation&lt;/a&gt;

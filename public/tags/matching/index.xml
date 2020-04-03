@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>matching | Peter Lugtig</title>
-    <link>https://peterlugtig.com/tags/matching/</link>
-      <atom:link href="https://peterlugtig.com/tags/matching/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/matching/</link>
+      <atom:link href="/tags/matching/index.xml" rel="self" type="application/rss+xml" />
     <description>matching</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Tue, 15 Mar 2011 21:57:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>matching</title>
-      <link>https://peterlugtig.com/tags/matching/</link>
+      <link>/tags/matching/</link>
     </image>
     
     <item>
       <title>matching to correct for self-selection bias in mixed-mode surveys</title>
-      <link>https://peterlugtig.com/post/matching-to-correct-for-self-selection/</link>
+      <link>/post/matching-to-correct-for-self-selection/</link>
       <pubDate>Tue, 15 Mar 2011 21:57:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/post/matching-to-correct-for-self-selection/</guid>
+      <guid>/post/matching-to-correct-for-self-selection/</guid>
       <description>&lt;p&gt;Mixed mode surveys have shown to attract different types of respondents. This may imply that they are succesful. Internet surveys attract the young and telephone surveys the old, so any combination of the two can lead to better population estimates for the variable you&amp;rsquo;re interested in. In other words, mixed-mode surveys can potentially ameliorate the problem that neither telephone, nor Internet surveys are able to cover the entire population.&lt;/p&gt;
 &lt;p&gt;The bad news is that mode-effects (see posts below) coincide with selection effect in mixed-mode surveys. For that reason, it is hard to determine how succesful mixed-mode surveys are, and more importantly, really hard to combine results when there are large differences in the dependent variable across the survey modes.&lt;/p&gt;
 &lt;p&gt;I think that matching is one of the few methods to adequately deal with this issue: the idea is straightforward. In any survey among the general population, there will be 1. people who are able and willing to only answer in a specific survey mode (i.e. the Internet or telephone), 2. respondents who would respond in both and 3. respondents who would not participate at all. This means that the composition of the telephone and Internet-samples in a mixed-mode survey will contain people unique to that mode, and people who can also be found in the other mode (see below - the match part).&lt;br&gt;

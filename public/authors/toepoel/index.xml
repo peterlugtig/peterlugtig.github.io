@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Toepoel | Peter Lugtig</title>
-    <link>https://peterlugtig.com/authors/toepoel/</link>
-      <atom:link href="https://peterlugtig.com/authors/toepoel/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/toepoel/</link>
+      <atom:link href="/authors/toepoel/index.xml" rel="self" type="application/rss+xml" />
     <description>Toepoel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 - 2020</copyright><lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Toepoel</title>
-      <link>https://peterlugtig.com/authors/toepoel/</link>
+      <link>/authors/toepoel/</link>
     </image>
     
     <item>
       <title>Where you at? Using GPS location in an electronic Time Use diary study to derive functional locations</title>
-      <link>https://peterlugtig.com/publication/2019_elevelt_where_you/</link>
+      <link>/publication/2019_elevelt_where_you/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://peterlugtig.com/publication/2019_elevelt_where_you/</guid>
+      <guid>/publication/2019_elevelt_where_you/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recruiting young and urban groups into a probability-based online panel by promoting smartphone use</title>
-      <link>https://peterlugtig.com/publication/2019_lugtig_recruiting_smartphone/</link>
+      <link>/publication/2019_lugtig_recruiting_smartphone/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2019_lugtig_recruiting_smartphone/</guid>
+      <guid>/publication/2019_lugtig_recruiting_smartphone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can survey item characteristics relevant to mode-specific measurement error be coded reliably</title>
-      <link>https://peterlugtig.com/publication/2019_bais_can_survey_item_characteristics/</link>
+      <link>/publication/2019_bais_can_survey_item_characteristics/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2019_bais_can_survey_item_characteristics/</guid>
+      <guid>/publication/2019_bais_can_survey_item_characteristics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can we predict device use? An investigation into mobile device use in surveys</title>
-      <link>https://peterlugtig.com/publication/2019_haan_predict_device_use/</link>
+      <link>/publication/2019_haan_predict_device_use/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2019_haan_predict_device_use/</guid>
+      <guid>/publication/2019_haan_predict_device_use/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modularization in an era of mobile web: Investigating the effects of cutting a survey into smaller pieces on data quality</title>
-      <link>https://peterlugtig.com/publication/2018_toepoel_modularization/</link>
+      <link>/publication/2018_toepoel_modularization/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2018_toepoel_modularization/</guid>
+      <guid>/publication/2018_toepoel_modularization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In Dutch: Het waarneem innovatie netwerk</title>
-      <link>https://peterlugtig.com/publication/dutch_2017_lugtig_het_waarneem/</link>
+      <link>/publication/dutch_2017_lugtig_het_waarneem/</link>
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/dutch_2017_lugtig_het_waarneem/</guid>
+      <guid>/publication/dutch_2017_lugtig_het_waarneem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile-only web respondents</title>
-      <link>https://peterlugtig.com/publication/2016_lugtig_mobile_only_web_respondents/</link>
+      <link>/publication/2016_lugtig_mobile_only_web_respondents/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2016_lugtig_mobile_only_web_respondents/</guid>
+      <guid>/publication/2016_lugtig_mobile_only_web_respondents/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online surveys are Mixed-Device surveys. Issues associated with the use of different mobile devices in web surveys</title>
-      <link>https://peterlugtig.com/publication/2015_toepoel_online_surveys_are_mixed_device/</link>
+      <link>/publication/2015_toepoel_online_surveys_are_mixed_device/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2015_toepoel_online_surveys_are_mixed_device/</guid>
+      <guid>/publication/2015_toepoel_online_surveys_are_mixed_device/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What happens if you offer a mobile option to your web panel? Evidence from a probability-based panel of internet users</title>
-      <link>https://peterlugtig.com/publication/2014_toepoel_what_happens_if_you_offer/</link>
+      <link>/publication/2014_toepoel_what_happens_if_you_offer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0100</pubDate>
-      <guid>https://peterlugtig.com/publication/2014_toepoel_what_happens_if_you_offer/</guid>
+      <guid>/publication/2014_toepoel_what_happens_if_you_offer/</guid>
       <description></description>
     </item>
     
