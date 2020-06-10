@@ -37,8 +37,8 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://content.sciendo.com/downloadpdf/journals/jos/30/1/article-p45.xml
-url_code: https://www.dropbox.com/sh/5qyj6wwh2h46ox3/AADBdde9kIPz30m2xtVrcAz8a?dl=0
-url_dataset: https://www.dropbox.com/sh/5qyj6wwh2h46ox3/AADBdde9kIPz30m2xtVrcAz8a?dl=0
+url_code: https://www.dropbox.com/sh/3s3o3ho5q4e8bqc/AACZTUnt9DHCAI17JC0sxyEOa?dl=0
+url_dataset: https://www.dropbox.com/sh/3s3o3ho5q4e8bqc/AACZTUnt9DHCAI17JC0sxyEOa?dl=0
 url_poster:
 url_project:
 url_slides:

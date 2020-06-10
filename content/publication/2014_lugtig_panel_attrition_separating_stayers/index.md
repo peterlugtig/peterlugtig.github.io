@@ -37,8 +37,8 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://journals.sagepub.com/doi/pdf/10.1177/0049124113520305?casa_token=y3tQSNbKY84AAAAA:QNVXVN0EslmUSGmwimwLjJrNrB8DCpTpndvZSv7a1O933NBfwi-JW4fq5HgompGMOwLp_n633sih
-url_code: https://www.dropbox.com/sh/6s9rl8mi11qaidh/AAAO6n2cHtJXX2GhvlVei6gda?dl=0
-url_dataset: https://www.dropbox.com/sh/6s9rl8mi11qaidh/AAAO6n2cHtJXX2GhvlVei6gda?dl=0
+url_code: https://www.dropbox.com/s/9qx62iv9n2n3nl7/replications%20Lugtig%20%282014%29%20attrition%20%28SMR%29.zip?dl=0
+url_dataset: https://www.dropbox.com/s/9qx62iv9n2n3nl7/replications%20Lugtig%20%282014%29%20attrition%20%28SMR%29.zip?dl=0
 url_poster:
 url_project:
 url_slides:
