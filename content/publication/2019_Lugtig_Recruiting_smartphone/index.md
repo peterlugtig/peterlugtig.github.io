@@ -37,8 +37,8 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://mda.gesis.org/index.php/mda/article/view/2019.04/258
-url_code: https://www.dropbox.com/sh/x38c73kgtpier7c/AAAgPiM88Y-cU9ducsPMeFosa?dl=0
-url_dataset: https://www.dropbox.com/sh/x38c73kgtpier7c/AAAgPiM88Y-cU9ducsPMeFosa?dl=0
+url_code: https://www.dropbox.com/sh/2p0fvq0g620nh8i/AACS_k-HPfylMFF5_g6r8zHIa?dl=0
+url_dataset: https://www.dropbox.com/sh/2p0fvq0g620nh8i/AACS_k-HPfylMFF5_g6r8zHIa?dl=0
 url_poster:
 url_project:
 url_slides:
