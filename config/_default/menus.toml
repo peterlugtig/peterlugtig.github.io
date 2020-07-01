@@ -44,8 +44,8 @@
   weight = 70
   
 [[main]]
-  name = "Shiny-GPS"
-  url = "shinygps/"
+  name = "Apps and software"
+  url = "apps/"
   weight = 90  
   
 [[main]]
