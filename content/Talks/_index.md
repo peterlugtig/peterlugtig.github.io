@@ -2,8 +2,6 @@
 header:
   caption: ""
   image: ""
-title: talks 
+title: Talks 
 view: 2
 ---
-
-test

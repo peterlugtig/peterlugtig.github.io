@@ -14,6 +14,16 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-Youtube recording of online webinar 'Smartphones: collecting better social data' delivered in City University/NATCEN seminar series on 26 June 2020
+Youtube recording of online webinar 'Smartphones: collecting better social data' delivered in City University/NATCEN seminar series on 26 June 2020 
 
-https://www.youtube.com/watch?v=HZZYVKzHTDA 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/watch?v=HZZYVKzHTDA"
+  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%: img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/Y8Wp3dafaMQ?autoplay=1><img src=https://img.youtube.com/vi/Y8Wp3dafaMQ/hqdefault.jpg alt='smartphone talk peter lugtig'><span>?</span></a>"
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+  title="Smartphones: collecting better social data"
+></iframe>
+
