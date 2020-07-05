@@ -16,13 +16,4 @@ url_video: ""
 ---
 Youtube recording of online webinar 'Smartphones: collecting better social data' delivered in City University/NATCEN seminar series on 26 June 2020 
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/watch?v=HZZYVKzHTDA"
-  frameborder="0"
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen
-  title="Smartphones: collecting better social data"
-></iframe>
-
+{{< youtube HZZYVKzHTDA >}}
