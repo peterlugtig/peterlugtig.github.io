@@ -15,7 +15,7 @@ url_slides: ""
 url_video: ""
 ---
 Youtube recording of invited talk at GESIS 'Why care about survey errors' delivered in Cologne, 15 August 2013
-
+ 
 - apologies about the sound quality -
 
 {{< youtube oGF0ViFphKQ >}}
