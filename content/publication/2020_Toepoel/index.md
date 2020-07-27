@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A checklist for assessing the analysis documentation for public-use complex sample survey data sets"
-authors: [Kolenikov, S., West, B.T., and Lugtig, P.]
-date: 2020-01-20
+title: "Active and passive measurement in mobile surveys"
+authors: [Toepoel, V., Lugtig, P. & Schouten, J.G.]
+date: 2020-07-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-04-03
+publishDate: 2020-07-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: 2020-04-03
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The Survey Statistician, 81*, 50-62"
+publication: "*The Survey Statistician, 82*, 14-26"
 publication_short: ""
 
-abstract: "We  document  our  understanding  of,  and  recommendations  for,  appropriate  best  practices  in documenting the complex sampling design settings for statistical software that enables design-based analyses of survey data. We discuss features of complex sample survey data such as stratification, clustering, unequal probabilities of selection, and calibration, and outline their impact on estimation procedures. We provide assessment guidelines and a checklist that will aid complex sample survey data  providers  in  aligning  their  level  of  documentation  with  best practices  andshow  how  existing surveys and their documentation score based on these guidelines."
+abstract: "In this paper we discuss the implications of using mobile devices for online survey completion. With more and more people accessing online surveys on mobile devices, online surveys need to be redesigned in order to be able to meet the characteristics of mobile device usage, such as small screens and short messaging. We discuss mobile friendly design by focussing on survey layout, the length of the survey, special features, and the decision of making the survey app or browser based. Further, we discuss the different sensors that can be used to augment or replace survey questions, and respondents’ willingness to share sensor data. We end with three examples of surveys conducted by Statistics Netherlands, where sensors are used for active and passive measurement in mobile surveys."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "http://isi-iass.org/home/wp-content/uploads/Survey_Statistician_2020_January_N81.pdf"
+url_pdf: "http://isi-iass.org/home/wp-content/uploads/Survey_Statistician_2020_July_N82_02.pdf "
 url_code:
 url_dataset:
 url_poster:
