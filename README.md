@@ -1,4 +1,4 @@
-# Personal website Peer Lugtig
+# Personal website Peter Lugtig
 website hosted on netlity.com
 built with Hugo (academic theme)
 maintained with RStudio, Markdown
