@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Testing sampling bias in estimates of adolescent social competence and behavioral control"
-authors: [M. Fakkel, M. Peeters, P. Lugtig, M.A.J. Zondervan-zwijnenburg, E. Blok, T. White, M. Van Der Meulen, S.T. Kevenaar, G. Willemsen, M. Bartels, D.I. Boomsma, H. Schmengler, S. Branje, W.A.M. Vollebergh 
+authors: [Fakkel, M., Peeters, M., Lugtig, P.,Zondervan-Zwijnenburg, M.A.J., Blok, E., White, T., Van Der Meulen, M., Kevenaar, S.T., Willemsen, G., Bartels, M., Boomsma, D.I., Schmengler, H., Branje, S. & Vollebergh, W.A.M.]
 date: 2020-12-01
 doi: "10.1016/j.dcn.2020.100872"
 
