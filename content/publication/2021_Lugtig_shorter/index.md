@@ -3,7 +3,7 @@
 
 title: "Barriers to ideal palliative care in multiple care settings: The nurses' point of view"
 authors: [Lugtig, P and Luiten. A.]
-date: 2020-02-13T00:00:00+01:00
+date: 2021-02-13T00:00:00+01:00
 doi: "https://doi.org/10.13094/SMIF-2021-00001"
 
 # Schedule page publish date (NOT publication's date).
@@ -38,7 +38,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: ""
+url_pdf: "https://surveyinsights.org/wp-content/uploads/2020/05/Do-shorter-stated-survey-length-and-inclusion-of-a-QR-code-in-an-invitation-letter-lead-to-better-response-rates-Survey-Methods-Insights-from-the-Field-SMIF.pdf"
 url_code:
 url_dataset:
 url_poster:

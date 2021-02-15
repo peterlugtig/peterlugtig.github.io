@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Barriers to ideal palliative care in multiple care settings: The nurses' point of view"
+title: "Understanding Willingness to Share Smartphone-Sensor Data"
 authors: [Struminskaya, B., Toepoel, V., Lugtig, P. Haan, M., Luiten, A. and Schouten, J.G.]
 date: 2021-02-13T00:00:00+01:00
 doi: "10.1093/poq/nfaa044"
@@ -16,8 +16,8 @@ publishDate:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Palliative Nursing, 25 (6)*, 294-305"
-publication_short: ""
+publication: "*Public Opinion Quarterly*, advance access"
+publication_short: "POQ"
 
 abstract: "The growing smartphone penetration and the integration of smartphones into people’s everyday practices offer researchers opportunities to augment survey measurement with smartphone-sensor measurement or to replace self-reports. Potential benefits include lower measurement error, a widening of research questions, collection of in situ data, and a lowered respondent burden. However, privacy considerations and other concerns may lead to nonparticipation. To date, little is known about the mechanisms of willingness to share sensor data by the general population, and no evidence is available concerning the stability of willingness. The present study focuses on survey respondents’ willingness to share data collected using smartphone sensors (GPS, camera, and wearables) in a probability-based online panel of the general population of the Netherlands. A randomized experiment varied study sponsor, framing of the request, the emphasis on control over the data collection process, and assurance of privacy and confidentiality. Respondents were asked repeatedly about their willingness to share the data collected using smartphone sensors, with varying periods before the second request. Willingness to participate in sensor-based data collection varied by the type of sensor, study sponsor, order of the request, respondent’s familiarity with the device, previous experience with participating in research involving smartphone sensors, and privacy concerns. Willingness increased when respondents were asked repeatedly and varied by sensor and task. The timing of the repeated request, one month or six months after the initial request, did not have a significant effect on willingness."
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: ""
+url_pdf: "https://poq/advance-article-pdf/doi/10.1093/poq/nfaa044/36252890/nfaa044.pdf"
 url_code:
 url_dataset:
 url_poster:
