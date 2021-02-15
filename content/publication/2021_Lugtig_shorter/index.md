@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Barriers to ideal palliative care in multiple care settings: The nurses' point of view"
+title: "Do shorter stated survey length and inclusion of a QR code in an invitation letter lead to better response rates?"
 authors: [Lugtig, P and Luiten. A.]
 date: 2021-02-13T00:00:00+01:00
 doi: "https://doi.org/10.13094/SMIF-2021-00001"
