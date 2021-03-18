@@ -26,14 +26,14 @@ Once the sample member has decided to participate in the survey, he or she has t
 
 In push-to-web surveys, unconditional incentives do not help in the first step: opening the letter. But in all of the next stages, incentives may help respondents to overcome these barriers, even when they face some troubles e.g. locating the survey. 
 
-**Figure** 
-[The 'customer journey' in participating in a push-to-web surveys](/img/pushtowebprocess.png)
+**Figure 1** 
+blogdown::shortcode("figure", src = "/img/pushtowebprocess.png", alt = "The 'customer journey' in participating in a push-to-web surveys")
 (Click to enlarge)
 
 In our survey, we found that a push-to-web survey with a 5 euro unconditional incentive did almost as well or better than a face-to-face survey without incentives. Response rates in the push-to-web survey were just 3% points lower in Germany, and actually 20% points higher in Croatia. A further findings was that combining unconditional and conditional incentives works even better. Adding a 25 euro conditional incentive to the push-to-web design led to a response rate that was 18% points higher than using just the unconditional incentive. And although paying 30 euros of incentives to web respondents sounds like a lot, the survey was still more cost-effective than the face-to-face survey.
 For the future, I think there is much more work to do on incentive structures. How do we comunicate the incentive on the envelope containing the invitation letter to ensure the letter is opened? What levels of incentives should we use, and how to combine unconditional and conditional incentives? Until now, there is a limited body of experimental push-to-web studies. Most of these show that push-to-web surveys show great promise, and careful experimentation can surely help us to improve push-to-web designs even more.
 
-**Figure** 
-[Response rate (AAPOR RR4) across incentives conditions in Germany](/img/DEplot.jpg)
+**Figure 2** 
+blogdown::shortcode("figure", src = "/img/DEplot.jpg", alt = "Response Rates (AAPOR 4 across contact attempts")
 (Click to enlarge)
 
