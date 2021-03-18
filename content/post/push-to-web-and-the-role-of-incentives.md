@@ -27,6 +27,7 @@ Once the sample member has decided to participate in the survey, he or she has t
 In push-to-web surveys, unconditional incentives do not help in the first step: opening the letter. But in all of the next stages, incentives may help respondents to overcome these barriers, even when they face some troubles e.g. locating the survey. 
 
 **Figure 1** 
+![The 'customer journey' in participating in a push-to-web surveys](/img/pushtowebprocess.png)
 blogdown::shortcode("figure", src = "/img/pushtowebprocess.png", alt = "The 'customer journey' in participating in a push-to-web surveys")
 (Click to enlarge)
 
