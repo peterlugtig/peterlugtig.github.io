@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.sciencedirect.com/science/article/pii/S1878929320300608/pdfft?md5=bb04bf9436f860ddf50b1bf9d659b69e&pid=1-s2.0-S1878929320300608-main.pdf "
+url_pdf: "https://www-sciencedirect-com.proxy.library.uu.nl/science/article/pii/S1878929320301225/pdfft?md5=0d8854bf5eced0cad0e9489d36a0bbc8&pid=1-s2.0-S1878929320301225-main.pdf"
 url_code:
 url_dataset:
 url_poster:
