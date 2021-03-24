@@ -30,7 +30,7 @@ social:
   link: https://www.linkedin.com/in/peter-lugtig-78896220/
 - icon: cv
   icon_pack: ai
-  link: /static/files/cv.pdf
+  link: /files/cv.pdf
 superuser: false
 user_groups:
 - Researchers
