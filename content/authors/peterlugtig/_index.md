@@ -44,7 +44,7 @@ social:
   link: https://www.linkedin.com/in/peter-lugtig-78896220/
 - icon: cv
   icon_pack: ai
-  link: https://www.dropbox.com/s/byx481zd9jw9pyd/CV-peter-lugtig.pdf?dl=0
+  link: static/files/cv.pdf
 superuser: true
 user_groups:
 - Researchers
