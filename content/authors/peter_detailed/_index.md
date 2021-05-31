@@ -39,11 +39,11 @@ user_groups:
 
 
 \
-Welcome! I (Peter Lugtig) am a survey methodologist working at the department of methods and statistics of Utrecht University. I teach and do research on the methodology of doing longitudinal research in the social sciences. You can find my full CV by clicking on the link at the left.
+Welcome! I (Peter Lugtig) am a survey methodologist working at the [department of Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) of Utrecht University. I teach and do research on the methodology of doing longitudinal research in the social sciences. You can find my full CV in the menu or main page.
 
 This personal webpage is about my research. I have the tendency to get distracted into too many side-projects (all fun and important), but my main research interests are:
 
-* Inference using a mix of survey data and big data. I am mainly interested to find out how mobile phone sensor data can complement survey data, and study the data quality of 'sensor' data (see below), like GPS and accelerometer data to infer human behavior. Topics are data fusion of survey and sensor data, nonresponse pattrens in sensor data, correlates of nonresponse, and what to do about these.
+* Inference using a mix of survey data and big data. I am mainly interested to find out how mobile phone sensor data can complement survey data, and study the data quality of 'sensor' data (see below), like GPS and accelerometer data to infer human behavior. Topics are data fusion of survey and sensor data, nonresponse pattrens in sensor data, correlates of nonresponse, and what to do about these. With Barry Schouten of Statistics Netherlands, I lead a [Data Collection Innovation Network] (https://win.sites.uu.nl/).
 
 * Panel Survey Methods: panel surveys follow people over time to document change, and I believe that this requires specific methodologies to make sure the resulting data are of high quality. For example, selective drop-out from the panel should be prevented. And specific types of survey questions that take into account the fact that respondents have been interviewed before, can also increase the quality of change estimates. [My dissertation](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwitsMjYxJfnAhVJblAKHYE7C1UQFjABegQIAxAB&url=https%3A%2F%2Fdspace.library.uu.nl%2Fbitstream%2Fhandle%2F1874%2F221962%2Flugtig.pdf%3Fsequence%3D2&usg=AOvVaw2MQtkcF4gW-AMyFT9alUVe) was about this topic.
 
