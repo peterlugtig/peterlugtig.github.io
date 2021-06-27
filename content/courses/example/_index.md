@@ -12,7 +12,7 @@ summary: "This course aims to give students a firm introduction in three broad, 
 1. Inference: how do we use small sets of data to produce knowledge about the world around us?
 2. Survey data analysis, in particular sampling and analyzing complex datasets.
 3. Survey design: why are surveys designed the way they are? We here focus on the overall design of a study, not on the design of individual survey questions."
-title: Overview
+title: Course Content
 toc: true
 type: docs
 weight: 1
