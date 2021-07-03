@@ -70,13 +70,42 @@ The course is presented at a moderately advanced statistical level. Mathematical
 
 By the end of the course students will:
 
--	Obtain knowledge and skills in designing and applying survey research methods
--	Understand the most important elements of design-based and model-based inference
--	Understand trade-offs between bias, variance, and costs of survey sampling designs
--	Understand the impact of survey design features on survey error and survey bias
--	Obtain knowledge on survey data collection methods 
--	Apply the understanding of the methods discussed in the course to critically analyse an existing complex survey data survey 
--	Understand how to perform the analysis in cases of missing data (item and unit-nonresponse)
--	Analyze survey data using the statistical software R
+-	Obtain knowledge and skills in designing and applying survey research methods;
+-	Understand the most important elements of design-based and model-based inference;
+-	Understand trade-offs between bias, variance, and costs of survey sampling designs;
+-	Understand the impact of survey design features on survey error and survey bias;
+-	Obtain knowledge on survey data collection methods;
+-	Apply the understanding of the methods discussed in the course to critically analyse an existing complex survey data survey;
+-	Understand how to perform the analysis in cases of missing data (item and unit-nonresponse);
+-	Analyze survey data using the statistical software R;
 -	Present the findings from survey analysis conducted in R in form of a research paper and presentation.
+
+## Literature
+
+<ins>Books Weeks 1-9:</ins>
+
+- Stuart, Alan (1984). The ideas of sampling. Available online. Do not buy this book before the course starts and wait for instructions on how to obtain it.
+
+Book for missing data (weeks 46,47)
+
+- Van Buuren, Stef (2018). [Flexible Imputation of Missing Data](https://stefvanbuuren.name/publication/2018-01-01_vanbuuuren2018/). CRC/Chapman & Hall, FL: Boca Raton. Freely available from [https://stefvanbuuren.name/fimd/](https://stefvanbuuren.name/fimd/).
+
+<ins>Articles to be used throughout the course:</ins>
+
+All articles below are available by searching for the title in a search engine for academic publications. Doing so from within the UU-domain will show direct links. [www.scholar.google.com](https://www.scholar.google.com) is the teacher's favorite search engine.
+
+1.	Biemer, P. P. (2010). Total survey error: Design, implementation, and evaluation. Public Opinion Quarterly, 74(5), 817-848.
+2.	Blumenthal, M., Clement, S., Clinton, J. D., Durand, C., Franklin, C., Miringoff, L., ... & Witt, G. E. (2017). An evaluation of 2016 election polls in the US. [link]
+3.	Meng, X. L. (2018). Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election. The Annals of Applied Statistics, 12(2), 685-726.
+4.	Groves, R. M., & Lyberg, L. (2010). Total survey error: Past, present, and future. Public opinion quarterly, 74(5), 849-879.
+5.	Lynn (1996) Weighting for nonresponse. Survey and Statistical Computing 1996, edited by R. Banks
+6.	Kalton, G., & Flores-Cervantes, I. (2003). Weighting methods. Journal of official statistics, 19(2), 81.
+7.	Brick, J. M. (2013). Unit nonresponse and weighting adjustments: A critical review. Journal of Official Statistics, 29(3), 329-353.
+8.	de Leeuw, E., Hox, J., & Luiten, A. (2018). International nonresponse trends across countries and years: an analysis of 36 years of Labour Force Survey data. Survey Methods: Insights from the Field, 1-11.
+9.	Little, R.J. (2004). To model or not to model? Competing modes of inference for finite population sampling. Journal of the American Statistical Association, 99, 546-556.  
+10.	Cornesse, C., Blom, A. G., Dutwin, D., Krosnick, J. A., De Leeuw, E. D., Legleye, S., ... & Struminskaya, B. (2020). A Review of Conceptual Approaches and Empirical Evidence on Probability and Nonprobability Sample Survey Research. Journal of Survey Statistics and Methodology.
+11.	Biemer Paul B., Edith de Leeuw Stephanie Eckman Brad Edwards Frauke Kreuter Lars E. Lyberg N. Clyde Tucker Brady T. West (eds.) (2017). Total Survey Error in Practice. Chapters 3 “Big Data: A Survey Research Perspective” and 2 “Total Twitter Error”. John Wiley & Sons. Available through UU library (DOI:10.1002/9781119041702)
+12.	De Leeuw, E.D. (2018). Mixed-Mode: Past, Present, and Future. Survey Research Methods, 12, 2, 75-89. https://ojs.ub.uni-konstanz.de/srm/article/view/7402/6582
+13.	Toepoel, de Leeuw & Hox (2019). Single- and mixed-mode survey data collection. Sage Research Methods foundations (on blackboard)
+14.	Kolenikov, S., & Kennedy, C. (2014). Evaluating Three Approaches to Statistically Adjust for Mode Effects. Journal of Survey Statistics and Methodology, 2(2). 
 
