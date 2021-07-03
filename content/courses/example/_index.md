@@ -37,6 +37,7 @@ If you have questions about course materials, please contact the instructor who 
 | Gerko Vink | [g.vink@uu.nl](mailto:g.vink@uu.nl) | office C.124 Mo-Fri |
 | Bella Struminskaya | [b.struminskaya@uu.nl](mailto:b.struminskaya@uu.nl) | office C.116 Mo-Fri |
 | Vera Toepoel | [v.toepoel@uu.nl](mailto:v.toepoel@uu.nl) | office C.116 Mo, Thu |
+|------|------|-----|
 
 
 
