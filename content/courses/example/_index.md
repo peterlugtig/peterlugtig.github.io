@@ -16,6 +16,30 @@ weight: 1
 
 # Contact details of instructors
 
+All instructors are based at the:
+
+Department of Methodology and Statistics | Utrecht University
+
+Postal address: Postbus 80.140, 3508 TC Utrecht
+
+Visiting address: Padualaan 14, 3584 CH Utrecht
+
+The instructors may be in their office, but it helps to e-mail first and make an appointment.
+
+For all matters related to the administration and organization of the course, as well as grades, please contact [p.lugtig@uu.nl](mailto:p.lugtig@uu.nl), call: 030-2537761 or stop by in office A.130. Peter is usually around Monday-Friday 09:00-17:00.
+
+If you have questions about course materials, please contact the instructor who is teaching that week (see the schedule below):
+
+{{< table >}}
+| Disk 0 | Disk 1 | Disk 2 | Disk 3 |
+|:------:|:------:|:------:|:-------:|
+|   A1   |   A2   |   A3   | Ap(1-3) |
+|   A4   |   A5   |   A6   | Ap(4-6) |
+|   B1   |   B2   |   B3   | Bp(1-3) |
+|   B4   |   B5   |   B6   | Bp(4-6) |
+{{< table />}}
+
+
 
 
 # Course Content
