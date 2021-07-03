@@ -30,6 +30,8 @@ For all matters related to the administration and organization of the course, as
 
 If you have questions about course materials, please contact the instructor who is teaching that week (see the schedule below):
 
+| Instructor | Email | Availability |
+| -----------| ----- | ------------ |
 | Peter Lugtig | [p.lugtig@uu.nl](mailto:p.lugtig@uu.nl) | office A.103 Mo-Fri |
 | Stef van Buuren | [s.vanbuuren@uu.nl](mailto:s.vanbuuren@uu.nl) | office C.119 Mo |
 | Gerko Vink | [g.vink@uu.nl](mailto:g.vink@uu.nl) | office C.124 Mo-Fri |
