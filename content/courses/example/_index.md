@@ -14,7 +14,7 @@ type: docs
 weight: 1
 ---
 
-# Contact details of instructors
+## Contact details of instructors
 
 All instructors are based at the:
 
@@ -30,19 +30,18 @@ For all matters related to the administration and organization of the course, as
 
 If you have questions about course materials, please contact the instructor who is teaching that week (see the schedule below):
 
-{{< table >}}
-| Disk 0 | Disk 1 | Disk 2 | Disk 3 |
-|:------:|:------:|:------:|:-------:|
-|   A1   |   A2   |   A3   | Ap(1-3) |
-|   A4   |   A5   |   A6   | Ap(4-6) |
-|   B1   |   B2   |   B3   | Bp(1-3) |
-|   B4   |   B5   |   B6   | Bp(4-6) |
-{{< table />}}
+| Peter Lugtig | [p.lugtig@uu.nl](mailto:p.lugtig@uu.nl) | office A.103 Mo-Fri |
+| Stef van Buuren | [s.vanbuuren@uu.nl](mailto:s.vanbuuren@uu.nl) | office C.119 Mo |
+| Gerko Vink | [g.vink@uu.nl](mailto:g.vink@uu.nl) | office C.124 Mo-Fri |
+| Bella Struminskaya | [b.struminskaya@uu.nl](mailto:b.struminskaya@uu.nl) | office C.116 Mo-Fri |
+| Vera Toepoel | [v.toepoel@uu.nl](mailto:v.toepoel@uu.nl) | office C.116 Mo, Thu |
 
 
 
 
-# Course Content
+
+
+## Course Content
 
 This course aims to give students a firm introduction in three broad, and related topics:
 
@@ -64,6 +63,6 @@ Throughout the course, practical exercises are conducted using the software pack
 
 The course is presented at a moderately advanced statistical level. Mathematical aspects of sampling theory will not be developed, but statistical notation and some small algebraic derivations will be discussed occasionally. Understanding of applied statistics is necessary, which includes a basic understanding of linear regression and ANOVA. The course builds on materials discussed in the other courses offered in the first semester of the Research Master Methodology and Statistics for the Social, Behavioural and Biomedical Sciences.
 
-# Aims of the course
+## Aims of the course
 
 
