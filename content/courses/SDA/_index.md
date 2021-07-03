@@ -86,7 +86,7 @@ By the end of the course students will:
 
 - Stuart, Alan (1984). The ideas of sampling. Available online. Do not buy this book before the course starts and wait for instructions on how to obtain it.
 
-Book for missing data (weeks 46,47)
+<ins>Book for missing data (weeks 46,47)</ins>
 
 - Van Buuren, Stef (2018). [Flexible Imputation of Missing Data](https://stefvanbuuren.name/publication/2018-01-01_vanbuuuren2018/). CRC/Chapman & Hall, FL: Boca Raton. Freely available from [https://stefvanbuuren.name/fimd/](https://stefvanbuuren.name/fimd/).
 
@@ -109,3 +109,23 @@ All articles below are available by searching for the title in a search engine f
 13.	Toepoel, de Leeuw & Hox (2019). Single- and mixed-mode survey data collection. Sage Research Methods foundations (on blackboard)
 14.	Kolenikov, S., & Kennedy, C. (2014). Evaluating Three Approaches to Statistically Adjust for Mode Effects. Journal of Survey Statistics and Methodology, 2(2). 
 
+<ins>Additional literature (to get more in-depth information during or after the course)</ins>
+
+- Lohr, Sharon (2009). Sampling: Design and Analysis (2nd ed.). Boston: Brooks/Cole.
+
+This book should be available for under $50. There are 2 versions of the 2nd edition (an alternative version published by Taylor & Francis); both are identical. Datasets and code (in `R`) referenced in the book are available through: [https://www.sharonlohr.com/sampling-design-and-analysis](https://www.sharonlohr.com/sampling-design-and-analysis).
+
+## Preparation and course structure
+
+The study load for this course is 210 hours (28 hours per EC). There are 15 weeks (week 37-51 with a class-free in week 43) with meetings in which we expect the average workload per week to be 12 hours. The remaining 30 hours should be spent preparing for the course, and/or finishing the final report after week 51. Some students may not need to prepare for the course, and some students will probably not need to work on the final report after week 51.
+
+## Expected time investment
+
+The course load is expected to be 12 hours per week on average. Every week has a 3-hour in-person meeting. These meetings will generally combine a lecture (approx. 75 min) a break (15 min), and one or more class exercises (90 minutes). Before every lecture, students need to: (1) read articles and/or book chapters in some detail (3 hours), and (2) prepare a take home exercise (2 hours), while sometimes, class exercises will need to be finished or reviewed prior to the meeting (1 hour). The remaining 3 hours per week are to be spent on preparing and reviewing class materials for the exam (week 45), or working on the final assignment (week 51). Please note that these time estimates are average estimates. They may vary by person or by week.
+
+Students are expected to read the literature before attending the respective meeting. Please plan the time to actually do this. Meetings will be much more productive and reach a higher level if everyone comes prepared for the meeting.
+
+All course materials will be available on the course website: [www.peterlugtig.com/courses/SDA]. The schedule (including rooms) can be found on Blackboard. In case there are last minute changes to the meeting (e.g. because of illness, or important updates to course materials), announcements will be sent via e-mail to your @students.uu.nl address. It is thus important to check your e-mail regularly.
+
+
+## 
