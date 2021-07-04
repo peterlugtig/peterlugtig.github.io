@@ -4,7 +4,7 @@ draft: false
 linktitle: "Total Survey Error and Modes"
 menu:
   example:
-    parent: 
+    parent: Survey Data Analysis
     weight: 2
 title: "Total Survey Error and Modes"
 toc: true
