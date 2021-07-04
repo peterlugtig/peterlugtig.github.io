@@ -199,5 +199,50 @@ Students need to get a 5.5 at the minimum for the two assignments, and achieve a
 | Analyze survey data using the statistical software R | DD2 | (Take home) exercises week 39-43,45-47<br>Group assignment in week 51 |
 | Present the findings from survey analysis conducted in R in form of a research paper and presentation | DD4 | Group assignment week 51 |
 
+## Course overview
+| Week | Date	| Topic of the week | Class exercise | Home exercise | Reading |
+| ---- | ---- | ----------------- | -------------- | ------------- | ------- | 
+| 36	 | 31/08 | 	No class	      | None           |               |         |
+| 37	 | 7/09	| Two models of inference: Design vs. model based |	American election survey dataset.<br>Exercises	| Adopt a survey | https://www.technologyreview.com/2020/02/14/844770/pollsters-got-it-wrong-in-the-2016-election-now-they-want-another-shot/ <br> Blumenthal, M., Clement, S., Clinton, J. D., Durand, C., Franklin, C., Miringoff, L., ... & Witt, G. E. (2017). An evaluation of 2016 election polls in the US. [link](https://www.aapor.org/Education-Resources/Reports/An-Evaluation-of-2016-Election-Polls-in-the-U-S.aspx?mod=article_inline) <br>	Meng, X. L. (2018). Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election. The Annals of Applied Statistics, 12(2), 685-726. <br> https://www.politico.com/news/2020/06/17/trump-polls-biden-324210 |
+
+38	14/09	Total Survey Error and modes 	Error and bias exercise in R	What is TSE in survey of your choice?	•	Groves, R. M., & Lyberg, L. (2010). Total survey error: Past, present, and future. Public opinion quarterly, 74(5), 849-879.
+
+•	Biemer, P. P. (2010). Total survey error: Design, implementation, and evaluation. Public Opinion Quarterly, 74(5), 817-848.
+
+39	21/09	Simple random sampling	Sampling exercise	Setting up Svydesign in R (learn R)	•	Lohr (2010) chapters 1 (intro), 2
+•	Stuart (1984) until page 34
+40	28/09	Stratified and cluster sampling	R exercises	sampling design of adopted survey	•	Lohr (2010) chapters 3, 5, 6
+•	Stuart (1984) p. 35-71
+41	5/10	R practical on svydesign	R exercise	More R exercises	Assignment 1: due 9/10
+42	12/10	Model assisted survey estimation	R exercise	R exercises	•	Lohr chapters 4, 7
+•	Stuart (1984) 71-90g 
+43	19/10	Class-free week
+
+44	26/10	Nonresponse and weighting	R exercise part 1	R exercise part 2	-	de Leeuw, E., Hox, J., & Luiten, A. (2018). International nonresponse trends across countries and years: an analysis of 36 years of Labour Force Survey data. Survey Methods: Insights from the Field, 1-11.
+-	Kalton, G., & Flores-Cervantes, I. (2003). Weighting methods. Journal of official statistics, 19(2), 81.
+-	Brick, J. M. (2013). Unit nonresponse and weighting adjustments: A critical review. Journal of Official Statistics, 29(3), 329-353.
+•	Optional: Bethlehem, J. G., & Keller, W. J. (1987). Linear weighting of sample survey data. Journal of official Statistics, 3(2), 141-153.
+•	Optional: Lynn (1996) Weighting for nonresponse. Survey and Statistical Computing 1996, edited by R. Banks
+45	02/11				
+46	09/11	Missing data 1	R exercise	R exercise	•	Chapters 1-3 from S. van Buuren. Flexible Imputation of Missing Data. Second Edition. CRC/Chapman & Hall, FL: Boca Raton, 2018.
+47	16/11	Missing data 2	R exercise	R exercise	•	Chapters 4-5 from S. van Buuren. Flexible Imputation of Missing Data. Second Edition. CRC/Chapman & Hall, FL: Boca Raton, 2018.
+
+Assignment 2 due: Friday 20/11
+48	23/11	Modes	students discuss alternatives to the mixed-mode presentations of their peers	Students prepare in groups a presentation about the mixed-mode implications of their dataset	•	De Leeuw, E.D. (2018). Mixed-Mode: Past, Present, and Future. Survey Research Methods, 12, 2, 75-89. https://ojs.ub.uni-konstanz.de/srm/article/view/7402/6582
+•	Toepoel, de Leeuw & Hox (2019). Single- and mixed-mode survey data collection. Sage Research Methods foundations (on blackboard)
+•	Kolenikov, S., & Kennedy, C. (2014). Evaluating Three Approaches to Statistically Adjust for Mode Effects. Journal of Survey Statistics and Methodology, 2(2). 
+
+49	30/11	Non-prob inference			•	Little, R.J. (2004). To model or not to model? Competing modes of inference for finite population sampling. Journal of the American Statistical Association, 99, 546-556.  
+•	https://www.youtube.com/watch?v=RIHGjjnE-jA
+•	Cornesse, C., Blom, A. G., Dutwin, D., Krosnick, J. A., De Leeuw, E. D., Legleye, S., ... & Struminskaya, B. (2020). A Review of Conceptual Approaches and Empirical Evidence on Probability and Nonprobability Sample Survey Research. Journal of Survey Statistics and Methodology.
+•	Meng
+50	07/12	Designed big data	Work out a scenario of combining surveys with passive data	Analysis of passively collected data in R	•	Biemer Paul B., Edith de Leeuw et al. (eds.) (2017). Total Survey Error in Practice. Available through UU library (DOI:10.1002/9781119041702)
+•	Chapter 3 “Big Data: A Survey Research Perspective” 
+•	Chapter 2 “Total Twitter Error”. John Wiley & Sons
+51	14/12	Presentations	Hand in with written feedback on Jan 15	•	Build a ‘presentation’
+•	Peer-review
+•	Discussion meeting
+3	15/01	Final assignment due at 17:00			
+
 
 
