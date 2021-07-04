@@ -169,6 +169,43 @@ A very easy (non-statistical) introduction in survey research methods; also know
 -	Valliant, R., Dever, J.A., and Kreuter, F. (2013). Practical Tools for Designing and Weighting Survey Samples. Springer. 
 This book is aimed at constructing a sample design; determination of sample size for single and multistage sampling. R-software PracTools to do the computations. 
 
+## Grading and Examination
+
+Two individual assignments (each 25% of your grade). The average of the two assignments should not be lower than 5.50. 
+
+-	Assignment 1 comprises weeks 37-41 and is focused on sampling designs in surveys. It combines some theoretical questions about the analysis of a fictitious dataset on icecream sales in Italy. We will here test your understanding of the theory of sampling, implications for sample design, and doing some basic analyses in R. 
+-	Assignment 2 comprises the materials of weeks 42-47. You here have to correct for both unit- and item nonresponse for an adopted survey. The goal of this assignment is to independently work through the survey documentation of a real-life survey to understand how the survey was designed with a focus on the sampling design, fieldwork and nonresponse. There are some exercises to prepare for this assignment in weeks 37-44.
+
+Final group assignment (50% of final grade)
+
+- A final assignment is a presentation of a group (of about four members), which concerns a survey data analysis using techniques discussed in the course. The final assignment will make up 50% of the final grade. The presentation and a technical report (showing how results are obtained in R), are included in the grading. Group work is supposed to reflect the work of all group members and each member should contribute to improve the level of the work. Inform the teacher when a member is not willing to contribute to the group work or is not investing enough effort and/or time. 
+
+A group presentation is due at the final meeting of the course in week 51. The final report is due before Monday January 15, 17:00. Both are part of the final assignment.
+
+Students need to get a 5.5 at the minimum for the two assignments, and achieve a weighted average of at least 5.5 as a final grade in order to pass the course. If a student does not make the minimum grade, there will be additional assignment that will allow the student to pass the course. Deadlines and requirements for any additional assignment will be discussed with the individual student.
+
+
+## Link between tests and course aims
+
+| Aims | Dublin Descriptors | How/where tested? |
+| ---- | ------------------ | ----------------- |
+|Obtain knowledge and skills in designing and applying survey research methods |	DD1	|	(Take home) exercises week 37-44,45-50<br>Assignment 1 |
+| Understand the most important elements of design-based and model-based inference |	DD1	|	(Take home) exercises week 37,38<br>Assignment 1 |
+
+
+Understand trade-offs between bias, variance, and costs of survey sampling designs	DD2	•	(Take home) exercises week 37,38,44
+•	Assignment 1
+Understand the impact of survey design features on survey error and survey bias	DD3	•	(Take home) exercises week 37,38,44,48-50
+•	Assignment 2
+Obtain knowledge on survey data collection methods 	DD1	•	(Take home) exercises week 37,38,44,48-50
+•	Assignment 2
+Apply the understanding of the methods discussed in the course to critically analyse an existing complex survey data survey 	DD3, DD5	•	Group assignment in week 51
+Understand how to perform the analysis in cases of missing data (item and unit-nonresponse)	DD2	•	(Take home) exercises week 45-46
+•	Assignment 2
+•	Group assignment in week 51
+Analyze survey data using the statistical software R	DD2	•	(Take home) exercises week 39-43,45-47
+•	Group assignment in week 51
+Present the findings from survey analysis conducted in R in form of a research paper and presentation.	DD4	•	Group assignment week 51
 
 
 
