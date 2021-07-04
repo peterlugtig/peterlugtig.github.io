@@ -226,6 +226,8 @@ Students need to get a 5.5 at the minimum for the two assignments, and achieve a
 
 **Prepare:** please see the document (preparation for semester 1 of the Research Master) that was e-mailed to you upon being accepted into the ReMa programme.
 
+---
+
 #### Week 37: Introduction to Survey Research - Two modes of inference
 
 **Topic:** The majority of studies in the social, behavioral and medical sciences uses some form of survey data. Often surveys based on a small sample are used to say something about a larger population. This step is called inference. Many of the developments in statistics in the 20th century centered around the developments of valid inference procedures. For example, p-values and Confidence Intervals are designed to reflect the uncertainty that surrounds the use of a small sample for saying something about the larger population. This model of inference is called design-based inference. Crucial in design based inference is the process of drawing a random sample in a controlled way from the population. 
@@ -244,6 +246,8 @@ A second model of inference does not a neat random sample, but uses ‘found’ 
 
 **Take home Exercise:** adopt a survey. Every student will adopt one survey (from a longlist). Every survey comes with documentation on the survey design, as well as survey dataset. on this in weeks 37-43), and then correct for unit- and item nonresponse for this survey. 
 There is also a list of suggestions of surveys to adopt in the exercise. 
+
+---
 
 #### Week 38: Total Survey Error and survey modes
 
@@ -265,6 +269,8 @@ There are many steps in this process where bias or error can be introduced. The 
 
 **Take home exercise:** Drawing simple random samples. Bring your results to the next class.
 
+--- 
+
 #### Week 39: Sampling 1: simple random sampling	
 
 **Topic:** Under a design-based model for inference, the process of drawing a sample is important. It is also the part of the research cycle that is entirely under the control of the researcher; nonresponse for example is much less so. Sampling is an important element of statistics and is therefore discussed in some detail in this course. In this week we focus on the most fundamental sampling principle, where every element of the population has an equal, non-zero chance of being selected into the sample.
@@ -281,6 +287,8 @@ There are many steps in this process where bias or error can be introduced. The 
 
 **Take Home exercise:** Statistical software packages assume that the data you use reflect a simple random sample and it is not necessary to tell the software how you drew the sample. In later weeks in the course, when we discuss more complex sampling procedures, you need to ‘tell’ the software what sampling design you used. You will practice with specifying a general survey design in R using the data you generated in the class exercise.
 
+--- 
+
 #### Week 40: Sampling 2: stratification and clustering
 
 **Topic:** In practice, real surveys seldomly use a simple random sampling design. We will discuss why stratification is often used to make the sample more efficient (allowing smaller samples), and why clustering is used to limit survey costs.
@@ -296,6 +304,8 @@ There are many steps in this process where bias or error can be introduced. The 
 **Class exercise:** Specify a stratified and clustering design in R
 
 **Take home exercise:** Review the survey documentation of your adopted design-based survey (see week 37). Work out the sampling design on paper (not in R!), and bring the results to class.
+
+--- 
 
 #### Week 41: Using R for analyzing survey datasets
 
@@ -314,7 +324,10 @@ There are many steps in this process where bias or error can be introduced. The 
 
 **Take home exercise:** further exercises on complex sampling designs (multistage)
 
+--- 
+
 #### Week 42: Model-assisted survey estimation
+
 Topic: We discuss two popular estimation methods that are often used in cluster and multistage sampling designs: Ratio and Regression estimation. The goal of these estimation methods is to make the estimation of a statistic of interest (e.g. mean) more efficient by using auxiliary variables. Inference is here not only using the inclusion probabilities anymore, but inference is being ‘assisted’ by the use of a statistical model. We introduce the idea of model-assisted inference. 	
 
 **Prepare for class:**
@@ -335,6 +348,8 @@ Exercise in class: Discussion – when is it a good idea to use ratio/regression
 
 Catch up on readings and exercises. Review parts of lectures/exercises again that you found difficult.
 
+--- 
+
 #### Week 44: Nonresponse and weighting
 
 **Topic:** Every survey suffers from nonresponse. Nonresponse rates are often large and are thought to be often the largest source of survey error. As long as information for the entire population or sample  is available, nonresponse error can to some degree be assessed and adjusted for.
@@ -352,6 +367,8 @@ Catch up on readings and exercises. Review parts of lectures/exercises again tha
 **Lecture:** We discuss how nonresponse can be assessed and nonresponse correction factors (weights) can be computed based on either target population or sample frame data. We discuss weighting by poststratification, linear weighting and raking. 
 
 **Exercise in class:** R exercise computing your own nonresponse weights using poststratification, linear weighting or raking.
+
+--- 
 
 #### Week 45: TEST (40% of grade)
 
@@ -372,6 +389,7 @@ You will also receive some theoretical problems (cases) where you are asked to r
 
 For the final assignment you will work in a group of about 4 (+- 1) on a real-life dataset. The goal is to apply all the materials covered in the course, answer a substantive research question and solve a ‘challenge’ that covers an advanced problem in survey research. You will receive an e-mail on your @students.uu.nl account with more information about group membership, the assignment itself and your group members this week. 
 
+--- 
 
 #### Week 46: Missing data 1 
 
@@ -385,6 +403,8 @@ For the final assignment you will work in a group of about 4 (+- 1) on a real-li
 
 **Exercise in class:** R exercise where use the R package mice to multiply impute an incomplete data set. 
 
+--- 
+
 #### Week 47: Missing data 2 
 
 **Topic:** We dive deeper into multiple imputation and explore multivariate imputation, passive imputation and imputation problems where the focus lies on finding plausible imputations when there is some restriction posed on the imputation model. 
@@ -397,7 +417,9 @@ For the final assignment you will work in a group of about 4 (+- 1) on a real-li
 
 **Exercise in class:** R exercise where we find the answer to a scientific question of interest on incomplete data via multiple imputation with the R package mice. 
 
-**Take Home Exercise (prepare for week 48):** Students work in groups to prepare a presentation or video in which they discuss the mixed-mode implications of the data set(s) they are working on for the final assignment. If their data contain a single mode, they will elaborate on how mixed-mode design can improve their data set
+**Take Home Exercise (prepare for week 48):** Students work in groups to prepare a presentation or video in which they discuss the mixed-mode implications of the data set(s) they are working on for the final assignment. If their data contain a single mode, they will elaborate on how mixed-mode design can improve their data set.
+
+--- 
 
 #### Week 48: Survey modes: design and estimation 
 
@@ -412,6 +434,8 @@ For the final assignment you will work in a group of about 4 (+- 1) on a real-li
 **Lecture:** In the lecture we discuss the design of mixed-mode surveys and its implications.
 
 **Exercise in class:** Students are assigned in groups to a presentation or video of their peers. They will discuss the pro’s and con’s of the peer presentation, and give suggestions for improvement (since there is often not one single road to Rome). They will present their findings at the end of the lecture.
+
+--- 
 
 #### Week 49: Inference for non-probability surveys 
 
@@ -428,6 +452,8 @@ For the final assignment you will work in a group of about 4 (+- 1) on a real-li
 
 **Take home exercise:** Finish your model: send it by e-mail before the lecture of week 50.
 
+--- 
+
 #### Week 50: Designed Big data 
 
 **Topic:** The increasing volume of Big Data produced by sensors and smart devices can transform the social and behavioral sciences. We will discuss how the true power of these data for the social sciences that lies in integrating Big Data with surveys. Using examples of successful existing studies that used digital data to provide new insights into social reality, we will focus on challenges and opportunities of integrating sensor- and app-based data collection into surveys. The Total Survey Error framework learned in Week 38 will serve as a basis for our discussion of introducing design to Big Data to gauge the inherent challenges of representativeness and measurement. Students will develop a scenario of combing Big Data and survey data, focusing on theoretical and practical aspects of such data integration. Students will have a chance to make decisions on preparing the raw data for analysis and obtaining inference. 
@@ -443,6 +469,7 @@ For the final assignment you will work in a group of about 4 (+- 1) on a real-li
 
 **Take home exercise:** You will have a chance to analyze smartphone sensor data that you yourself have produced (e.g., from Apple Health). This exercise is optional, if you perform it, send your insights into your behavior and a short discussion on a possible research question and construct validity to b.struminskaya@uu.nl for extra credit.
 
+--- 
 
 #### Week 51: Student presentations
 
@@ -462,6 +489,8 @@ You have to send the presentation to the course coordinator, and all other stude
 **Lecture:** There will be no lecture. However, we will go through the questions that are prepared by each of the groups (so 5/6 short discussions). After this we more generally discuss how every group dealt with the challenge(s) in the assignment.
 
 **After the lecture:** You have the opportunity to also hand in a draft of your report by 14 December at 17:00 latest. You will then receive written feedback on what can be improved before Friday 18 December 17:00. It is not obligatory to hand in a draft version.
+
+--- 
 
 #### Week 3
 
