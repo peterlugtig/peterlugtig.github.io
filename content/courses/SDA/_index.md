@@ -128,4 +128,47 @@ Students are expected to read the literature before attending the respective mee
 All course materials will be available on the course website: [www.peterlugtig.com/courses/SDA]. The schedule (including rooms) can be found on Blackboard. In case there are last minute changes to the meeting (e.g. because of illness, or important updates to course materials), announcements will be sent via e-mail to your @students.uu.nl address. It is thus important to check your e-mail regularly.
 
 
-## 
+## Attendance
+
+Lectures and practicals are compulsory. 
+It is important to attend all classes to fully understand the theory and to obtain required practical skills for survey data analysis. However, if you cannot attend a meeting, for example due to sickness, an exception can be made. Course materials and answer to exercises will be posted on the course website. When you cannot attend a meeting, you should inform the teacher by email (as soon as possible, preferably before the start of the class).
+
+## The impact of Covid-19 on the course
+
+Normally, teaching happens physically. In 2020, the course was organized fully online, but the idea (as of spring 2021!) is to deliver the course in person. We will however occasionally use Microsoft Teams to meet up in (sub) groups, especially in the 2nd half of the course. 
+
+This is usually about the point where most students have stopped reading the course manual, and search for the grading and homework sections. If you do end up actually reading this sentence (good on you!) please send me a picture of some ice cream. You will find out later what happens.
+
+## Links
+
+<ins>Software</ins>
+
+- [Microsoft Teams](https://www.microsoft.com/nl-be/microsoft-365/microsoft-teams/download-app)
+- [R](http://cran.r-project.org)
+- [RStudio](http://www.rstudio.com/)
+- [Survey Package](http://cran.r-project.org/web/packages/survey/index.html)
+- [Sampling Package](http://cran.r-project.org/web/packages/sampling/index.html)
+- [MICE package](www.cran.r-project.org/web/packages/mice/index.html)
+
+<ins>Example Datasets</ins>
+
+- [Complex surveys](http://r-survey.r-forge.r-project.org/survey/index.html)
+- [Sampling: Design and Analysis (SDaA)](http://cran.fhcrc.org/web/packages/SDaA/index.html)
+
+<ins>Supplemental Reading</ins>
+
+For those who want to read more about survey methodology in practice or the statistical treatment of survey methods; some suggestions for supplemental reading.
+
+-	Chambers, R. L. and Skinner, C.J. Eds. (2003). Analysis of survey data. Hoboken, NJ: Wiley.
+(The statistical book on survey methods that explains different methods in detail. Detailed equations and the book is meant for the professional (survey) statistician. 
+-	De Leeuw, E. D., Hox, J. J., and Dillman, D. A. Eds. (2008). International Handbook of Survey Methodology. Routledge Academic. (http://joophox.net/papers/SurveyHandbookCRC.pdf).
+(Reference book for survey researchers and practitioners, for those who collects and use survey data.) 
+-	Fowler, F. J. (2009). Survey research methods. Oakfield: Sage.
+A very easy (non-statistical) introduction in survey research methods; also known as the non-quantitative textbook on survey methods. 
+-	Groves, Fowler, Couper, Lepkowski, Singer, Tourangeau. (2009). Survey methodology. Hoboken, NJ: Wiley. More thorough discussion of data collection methods, often recommended to practicing survey methodologists.
+-	Valliant, R., Dever, J.A., and Kreuter, F. (2013). Practical Tools for Designing and Weighting Survey Samples. Springer. 
+This book is aimed at constructing a sample design; determination of sample size for single and multistage sampling. R-software PracTools to do the computations. 
+
+
+
+
