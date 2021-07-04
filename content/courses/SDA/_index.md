@@ -203,7 +203,11 @@ Students need to get a 5.5 at the minimum for the two assignments, and achieve a
 | Week | Date	| Topic of the week | Class exercise | Home exercise | Reading |
 | ---- | ---- | ----------------- | -------------- | ------------- | ------- | 
 | 36	 | 31/08 | 	No class	      | None           |               |         |
-| 37	 | 7/09	| Two models of inference: Design vs. model based |	American election survey dataset.<br>Exercises	| Adopt a survey | https://www.technologyreview.com/2020/02/14/844770/pollsters-got-it-wrong-in-the-2016-election-now-they-want-another-shot/ <br> Blumenthal, M., Clement, S., Clinton, J. D., Durand, C., Franklin, C., Miringoff, L., ... & Witt, G. E. (2017). An evaluation of 2016 election polls in the US. [link](https://www.aapor.org/Education-Resources/Reports/An-Evaluation-of-2016-Election-Polls-in-the-U-S.aspx?mod=article_inline) <br>	Meng, X. L. (2018). Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election. The Annals of Applied Statistics, 12(2), 685-726. <br> https://www.politico.com/news/2020/06/17/trump-polls-biden-324210 |
+| 37	 | 7/09	| Two models of inference: Design vs. model based |	American election survey dataset.<br>Exercises	| Adopt a survey | 
+- https://www.technologyreview.com/2020/02/14/844770/pollsters-got-it-wrong-in-the-2016-election-now-they-want-another-shot/ <br> 
+- Blumenthal, M., Clement, S., Clinton, J. D., Durand, C., Franklin, C., Miringoff, L., ... & Witt, G. E. (2017). An evaluation of 2016 election polls in the US. [link](https://www.aapor.org/Education-Resources/Reports/An-Evaluation-of-2016-Election-Polls-in-the-U-S.aspx?mod=article_inline) <br>	
+- Meng, X. L. (2018). Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election. The Annals of Applied Statistics, 12(2), 685-726. <br>
+- https://www.politico.com/news/2020/06/17/trump-polls-biden-324210 |
 
 38	14/09	Total Survey Error and modes 	Error and bias exercise in R	What is TSE in survey of your choice?	•	Groves, R. M., & Lyberg, L. (2010). Total survey error: Past, present, and future. Public opinion quarterly, 74(5), 849-879.
 
