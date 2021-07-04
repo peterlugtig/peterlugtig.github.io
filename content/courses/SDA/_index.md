@@ -1,7 +1,7 @@
 ---
-date: `r format(Sys.time(), '%B %d, %Y')`
+date: "July 04, 2021"
 draft: false
-lastmod: `r format(Sys.time(), '%B %d, %Y')`
+lastmod: "July 04, 2021"
 linktitle: Survey Data Analysis (MSBBSS01)
 menu:
   example:
