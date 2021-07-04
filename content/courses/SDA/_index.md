@@ -191,21 +191,13 @@ Students need to get a 5.5 at the minimum for the two assignments, and achieve a
 | ---- | ------------------ | ----------------- |
 |Obtain knowledge and skills in designing and applying survey research methods |	DD1	|	(Take home) exercises week 37-44,45-50<br>Assignment 1 |
 | Understand the most important elements of design-based and model-based inference |	DD1	|	(Take home) exercises week 37,38<br>Assignment 1 |
-
-
-Understand trade-offs between bias, variance, and costs of survey sampling designs	DD2	•	(Take home) exercises week 37,38,44
-•	Assignment 1
-Understand the impact of survey design features on survey error and survey bias	DD3	•	(Take home) exercises week 37,38,44,48-50
-•	Assignment 2
-Obtain knowledge on survey data collection methods 	DD1	•	(Take home) exercises week 37,38,44,48-50
-•	Assignment 2
-Apply the understanding of the methods discussed in the course to critically analyse an existing complex survey data survey 	DD3, DD5	•	Group assignment in week 51
-Understand how to perform the analysis in cases of missing data (item and unit-nonresponse)	DD2	•	(Take home) exercises week 45-46
-•	Assignment 2
-•	Group assignment in week 51
-Analyze survey data using the statistical software R	DD2	•	(Take home) exercises week 39-43,45-47
-•	Group assignment in week 51
-Present the findings from survey analysis conducted in R in form of a research paper and presentation.	DD4	•	Group assignment week 51
+| Understand trade-offs between bias, variance, and costs of survey sampling designs |	DD2	|	(Take home) exercises week 37,38,44<br>Assignment 1 |
+| Understand the impact of survey design features on survey error and survey bias |	DD3	|	(Take home) exercises week 37,38,44,48-50<br>Assignment 2 |
+| Obtain knowledge on survey data collection methods | DD1 | (Take home) exercises week 37,38,44,48-50<br>Assignment 2 |
+| Apply the understanding of the methods discussed in the course to critically analyse an existing complex survey data survey | DD3, DD5	|	Group assignment in week 51 |
+| Understand how to perform the analysis in cases of missing data (item and unit-nonresponse) |	DD2	|	(Take home) exercises week 45-46<br>Assignment 2<br>Group assignment in week 51 |
+| Analyze survey data using the statistical software R | DD2 | (Take home) exercises week 39-43,45-47<br>Group assignment in week 51 |
+| Present the findings from survey analysis conducted in R in form of a research paper and presentation | DD4 | Group assignment week 51 |
 
 
 
