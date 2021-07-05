@@ -4,6 +4,10 @@ date: 2021-03-18
 draft: false
 lastmod: "July 05, 2021"
 linktitle: "Summer school 'Advanced Survey Design'"
+menu:
+  IOPS_course:
+    name: Advanced Survey Design
+    weight: 1
 toc: true
 type: docs
 tags : [smartphones, survey design, web surveys, R, mixed mode, teaching]
