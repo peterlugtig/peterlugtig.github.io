@@ -4,7 +4,7 @@ draft: false
 linktitle: "Day 2 - Mixed modes"
 menu:
   example:
-    parent: Survey Data Analysis
+    parent: Advanced Survey Design
     weight: 2
 title: "Day 2 - Mixed modes"
 toc: true

@@ -4,7 +4,7 @@ draft: false
 linktitle: "Day 1 - Total Survey Error"
 menu:
   example:
-    parent: Survey Data Analysis
+    parent: Advanced Survey Design
     weight: 1
 title: "Day 1 - Total Survey Error"
 toc: true
