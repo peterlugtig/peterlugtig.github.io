@@ -6,7 +6,7 @@ tags : [User agent strings, measurement error, mobile survey, common causes of s
 ---
 
   
-Last week, I wrote about the fact [that respondents in panel surveys are now using tablets and smartphones to complete web surveys](http://www.peterlugtig.com/2014/12/what-devices-do-respondents-use-over.html). We found that in the LISS panel, respondents who use tablets and smartphones are much more likely to switch devices over time and not participate in some months.  
+Last week, I wrote about the fact [that respondents in panel surveys are now using tablets and smartphones to complete web surveys](https://www.peterlugtig.com/2014/12/what-devices-do-respondents-use-over.html). We found that in the LISS panel, respondents who use tablets and smartphones are much more likely to switch devices over time and not participate in some months.  
 The question we actually wanted to answer was a different one: do respondents who complete surveys on their smartphone or mobile give worse answers?  
   
 To do this, we used 6 months of data from the LISS panel, and in each month, coded the User Agent String. We then coded types of satisficing behavior that occur in surveys: the percentage of item missings, whether respondents complete (non-mandatory) open questions, how long their answers were, whether respondents straightline, whether they go for the first answers in a check-all-that-apply questions, and how many answers they click in a check-all-that apply question. We also looked at interview duration, and how much respondents liked the survey.  
@@ -14,7 +14,7 @@ To do this, we used 6 months of data from the LISS panel, and in each month, cod
 We found that respondents on a smartphone seem to do much worse. They take longer to complete the survey, are more negative about the survey, have more item missings, and have a much higher tendency to pick the first answer. On the other questions, differences were small, sometimes in favor of the smartphone user.  
   
 
-[![](http://3.bp.blogspot.com/-ugtwA4jujIY/VIYBnhikpVI/AAAAAAAACs4/y_99X9lD1Aw/s1600/Slide1.jpg)](http://3.bp.blogspot.com/-ugtwA4jujIY/VIYBnhikpVI/AAAAAAAACs4/y_99X9lD1Aw/s1600/Slide1.jpg)
+[![](https://3.bp.blogspot.com/-ugtwA4jujIY/VIYBnhikpVI/AAAAAAAACs4/y_99X9lD1Aw/s1600/Slide1.jpg)](https://3.bp.blogspot.com/-ugtwA4jujIY/VIYBnhikpVI/AAAAAAAACs4/y_99X9lD1Aw/s1600/Slide1.jpg)
 
 Click to enlarge: indicators of satisficing per device in LISS survey
 
@@ -23,7 +23,7 @@ Is this effect due to the fact that the smartphone and tablet are not made to co
 In order to answer this final question, we looked at device-transitions that respondents take within the LISS panel. In the 6 months of the LISS, respondents can make 5 transitions from using 1 device in the one month, to another (or the same) device in the next. For 7 out of 9 transitions (we have too few observations to analyze the tablet -> phone and phone -> tablet transitions), we can then look at the difference in measurement error that is associated with a change in device.  
   
 
-[![](http://3.bp.blogspot.com/-xyw5vo1H-28/VIYFOBkuBpI/AAAAAAAACtM/knp91jodOE4/s1600/plotbars3.png)](http://3.bp.blogspot.com/-xyw5vo1H-28/VIYFOBkuBpI/AAAAAAAACtM/knp91jodOE4/s1600/plotbars3.png)
+[![](https://3.bp.blogspot.com/-xyw5vo1H-28/VIYFOBkuBpI/AAAAAAAACtM/knp91jodOE4/s1600/plotbars3.png)](https://3.bp.blogspot.com/-xyw5vo1H-28/VIYFOBkuBpI/AAAAAAAACtM/knp91jodOE4/s1600/plotbars3.png)
 
 Click to enlarge. Changes in data quality (positive is better) associated with change in device.
 
