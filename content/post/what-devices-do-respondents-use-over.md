@@ -7,7 +7,7 @@ tags : [User agent strings, measurement error, mobile survey, R, mixed mode, pan
 
   
 
-[Vera Toepoel](http://www.uu.nl/staff/VToepoel) and I have been writing a few articles over the last two years about how survey respondents are taking up tablet computers and smartphones. We were interested in studying whether people in a probability-based web panel ([the LISS panel](http://www.lissdata.nl/)) use different devices over time, and whether siwtches in devices for completing surveys are associated with more or less measurement error.  
+[Vera Toepoel](https://www.uu.nl/staff/VToepoel) and I have been writing a few articles over the last two years about how survey respondents are taking up tablet computers and smartphones. We were interested in studying whether people in a probability-based web panel ([the LISS panel](https://www.lissdata.nl/)) use different devices over time, and whether siwtches in devices for completing surveys are associated with more or less measurement error.  
   
 In order to answer this question, we have coded the User Agent Strings of the devices used by more than 6.000 respondents over a six month period. (see the publication tab for a syntax on how to do this using R).  
   
@@ -18,7 +18,7 @@ The table below shows that PC users largely stick to their PC in all waves. For 
 
 **Table.** Devices used between April and September 2013 by LISS panel respondents.  
 
-[![](http://1.bp.blogspot.com/-GBK0uZ9jCuQ/VH3RelGgypI/AAAAAAAACsg/lKOeVcgPHb0/s1600/lugtig%2Band%2Btoepoel%2Btable%2B1.png)](http://1.bp.blogspot.com/-GBK0uZ9jCuQ/VH3RelGgypI/AAAAAAAACsg/lKOeVcgPHb0/s1600/lugtig%2Band%2Btoepoel%2Btable%2B1.png)
+[![](https://1.bp.blogspot.com/-GBK0uZ9jCuQ/VH3RelGgypI/AAAAAAAACsg/lKOeVcgPHb0/s1600/lugtig%2Band%2Btoepoel%2Btable%2B1.png)](https://1.bp.blogspot.com/-GBK0uZ9jCuQ/VH3RelGgypI/AAAAAAAACsg/lKOeVcgPHb0/s1600/lugtig%2Band%2Btoepoel%2Btable%2B1.png)
 
 N = 6,226. Click to enlarge
 

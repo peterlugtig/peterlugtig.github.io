@@ -38,11 +38,16 @@
 ##  url = "agenda/"
 ##  weight = 60
   
-[[main]]
-  name = "Teaching"
-  url = "teaching/"
-  weight = 70
+# [[main]]
+#  name = "Teaching"
+#  url = "teaching/"
+#  weight = 70
   
+[[main]]
+  name = "Courses"
+  url = "courses/"
+  weight = 80
+
 [[main]]
   name = "Apps and software"
   url = "apps/"
