@@ -12,7 +12,7 @@ There are a lot of reasons why would not want to use acces panels for predicting
 2\. Because of these problems, survey managers use weighting. They correct their sample for known biases in the sample. If they know elderly people with low educations are underrepresented in an access panel, they weigh them up. I think this is bad practice. And it has been shown that weighting does not solve the problem,. and can sometimes make biases worse for general surveys. Here are some additional and specific problems, often neglected. In short, weighting only works if the weighting variables can predict the dependent variable to a great extent.  
   
 
-[![](http://1.bp.blogspot.com/-vjBRTegZb3Q/UF3EyedoEQI/AAAAAAAACe8/lc7kLoJxNis/s200/Unbalanced_scales-too-far-right.png)](http://1.bp.blogspot.com/-vjBRTegZb3Q/UF3EyedoEQI/AAAAAAAACe8/lc7kLoJxNis/s1600/Unbalanced_scales-too-far-right.png)
+[![](https://1.bp.blogspot.com/-vjBRTegZb3Q/UF3EyedoEQI/AAAAAAAACe8/lc7kLoJxNis/s200/Unbalanced_scales-too-far-right.png)](http://1.bp.blogspot.com/-vjBRTegZb3Q/UF3EyedoEQI/AAAAAAAACe8/lc7kLoJxNis/s1600/Unbalanced_scales-too-far-right.png)
 
   
   
