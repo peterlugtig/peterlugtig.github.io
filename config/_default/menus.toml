@@ -63,3 +63,13 @@
     name = "CV"
     url = "files/cv.pdf"
     weight = 70
+    
+[[menu.docs]]
+  name = "Survey Data Analysis"
+  weight = 10
+  identifier = "SDA"
+  
+[[menu.docs]]
+  name = "Advanced Survey Design"
+  weight = 20
+  identifier = "IOPS_course"
