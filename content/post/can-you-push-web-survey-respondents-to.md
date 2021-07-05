@@ -17,7 +17,7 @@ We found that of those respondents who owned a smartphone, 59% chose to use it w
 \- We found no difference in the time it took them to complete the survey (see the figure below). In fact, the timings were so similar, we could scarcely believe the differences were so small.  
   
 
-[![](http://1.bp.blogspot.com/-09-2vnxn6mo/U-uZs9lpXGI/AAAAAAAACr0/1X1MWVccCtA/s1600/time%2Bto%2Bcomlete%2Bweb%2Bsurvey.png)](http://1.bp.blogspot.com/-09-2vnxn6mo/U-uZs9lpXGI/AAAAAAAACr0/1X1MWVccCtA/s1600/time%2Bto%2Bcomlete%2Bweb%2Bsurvey.png)
+[![](https://1.bp.blogspot.com/-09-2vnxn6mo/U-uZs9lpXGI/AAAAAAAACr0/1X1MWVccCtA/s1600/time%2Bto%2Bcomlete%2Bweb%2Bsurvey.png)](https://1.bp.blogspot.com/-09-2vnxn6mo/U-uZs9lpXGI/AAAAAAAACr0/1X1MWVccCtA/s1600/time%2Bto%2Bcomlete%2Bweb%2Bsurvey.png)
 
   
-The full paper can be found [here](http://ssc.sagepub.com/content/early/2014/04/02/0894439313510482.abstract). There are a few potential caveats in our study: we use a sample of experienced survey respondents and did not use experimental assignments, so self-selection into device could be selective beyond the variables we studied. So far however, it really seems that web surveys on a mobile phone are not very different for respondents than traditional web surveys.
+The full paper can be found [here](https://ssc.sagepub.com/content/early/2014/04/02/0894439313510482.abstract). There are a few potential caveats in our study: we use a sample of experienced survey respondents and did not use experimental assignments, so self-selection into device could be selective beyond the variables we studied. So far however, it really seems that web surveys on a mobile phone are not very different for respondents than traditional web surveys.
