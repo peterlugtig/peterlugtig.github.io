@@ -4,14 +4,11 @@ date: 2021-03-18
 draft: false
 lastmod: "July 05, 2021"
 linktitle: "Summer school 'Advanced Survey Design'"
-menu:
-  example:
-    name: Advanced Survey Design
-    weight: 2
 toc: true
 type: docs
 tags : [smartphones, survey design, web surveys, R, mixed mode, teaching]
 summary: "The course in survey design takes student beyond the introductory courses offered in BA and MA programmes, and discusses the state-of-the-art of one of the most important data collection techniques: surveys. The course focuses on the methodology of how to do surveys, and the use statistical techniques to analyse and correct for some specific survey errors. It combines short 1-hour lectures with exercises on most of the topics discussed. We assume course participants are proficient in working with R."
+weight: 2
 ---
 
 I teach an annual summerschool lasting five days titled: [Advanced survey design](https://www.uu.nl/professionals/programmas/advanced-survey-design). It is usually scheduled in teh first week of September and lasts 5 full days.
