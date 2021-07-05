@@ -3,10 +3,10 @@ title: "Summer school 'Advanced Survey Design'"
 date: 2021-03-18
 draft: false
 lastmod: "July 05, 2021"
-linktitle: "Advanced Survey Design"
+linktitle: Advanced Survey Design
 menu:
-  example:
-    name: "Advanced Survey Design"
+  example: IOPS_course
+    name: Advanced Survey Design
     weight: 2
 toc: true
 type: docs
