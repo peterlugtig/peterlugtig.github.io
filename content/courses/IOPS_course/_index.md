@@ -5,7 +5,7 @@ draft: false
 lastmod: "July 05, 2021"
 linktitle: Advanced Survey Design
 menu:
-  example: IOPS_course
+  example:
     name: Advanced Survey Design
     weight: 2
 toc: true
