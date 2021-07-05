@@ -3,7 +3,7 @@ date: "July 05, 2021"
 draft: false
 linktitle: "Day 2 - Mixed modes"
 menu:
-  example:
+  IOPS_course:
     parent: Advanced Survey Design
     weight: 2
 title: "Day 2 - Mixed modes"

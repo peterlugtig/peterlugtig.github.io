@@ -3,7 +3,7 @@ date: "July 05, 2021"
 draft: false
 linktitle: "Day 1 - Total Survey Error"
 menu:
-  example:
+  IOPS_course:
     parent: Advanced Survey Design
     weight: 1
 title: "Day 1 - Total Survey Error"
