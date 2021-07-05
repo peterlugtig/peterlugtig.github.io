@@ -11,7 +11,6 @@ summary: "This course aims to give students a firm introduction in three broad, 
 title: Survey Data Analysis
 toc: true
 type: docs
-weight: 1
 ---
 
 ## Contact details of instructors
