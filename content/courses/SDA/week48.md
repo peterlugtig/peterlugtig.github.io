@@ -3,7 +3,7 @@ date: "July 05, 2021"
 draft: false
 linktitle: "Survey modes: Design and estimation"
 menu:
-  example:
+  SDA:
     parent: Survey Data Analysis
     weight: 12
 title: "Survey modes: Design and estimation"

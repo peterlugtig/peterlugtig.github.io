@@ -3,7 +3,7 @@ date: "July 04, 2021"
 draft: false
 linktitle: "Two models of inference: Design vs. model based"
 menu:
-  example:
+  SDA:
     parent: Survey Data Analysis
     weight: 1
 title: "Two models of inference: Design vs. model based"

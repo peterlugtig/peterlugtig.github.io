@@ -3,7 +3,7 @@ date: "July 05, 2021"
 draft: false
 linktitle: "Missing data I"
 menu:
-  example:
+  SDA:
     parent: Survey Data Analysis
     weight: 10
 title: "Missing data I"

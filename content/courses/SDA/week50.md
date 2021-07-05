@@ -3,7 +3,7 @@ date: "July 05, 2021"
 draft: false
 linktitle: "Designed Big Data"
 menu:
-  example:
+  SDA:
     parent: Survey Data Analysis
     weight: 14
 title: "Designed Big Data"

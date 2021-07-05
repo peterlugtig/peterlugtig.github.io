@@ -3,7 +3,7 @@ date: "July 04, 2021"
 draft: false
 linktitle: "Simple random sampling"
 menu:
-  example:
+  SDA:
     parent: Survey Data Analysis
     weight: 2
 title: "Simple random sampling"

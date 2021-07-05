@@ -3,7 +3,7 @@ date: "July 04, 2021"
 draft: false
 linktitle: "Class-free week"
 menu:
-  example:
+  SDA:
     parent: Survey Data Analysis
     weight: 7
 title: "Class-free week"

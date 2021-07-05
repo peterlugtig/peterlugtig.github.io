@@ -3,7 +3,7 @@ date: "July 05, 2021"
 draft: false
 linktitle: "Inference for non-probability surveys"
 menu:
-  example:
+  SDA:
     parent: Survey Data Analysis
     weight: 13
 title: "Inference for non-probability surveys"

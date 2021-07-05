@@ -3,7 +3,7 @@ date: "July 05, 2021"
 draft: false
 linktitle: "Hand in written report"
 menu:
-  example:
+  SDA:
     parent: Survey Data Analysis
     weight: 16
 title: "Hand in written report"

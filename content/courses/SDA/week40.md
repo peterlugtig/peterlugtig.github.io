@@ -3,7 +3,7 @@ date: "July 04, 2021"
 draft: false
 linktitle: "Stratified and cluster sampling"
 menu:
-  example:
+  SDA:
     parent: Survey Data Analysis
     weight: 4
 title: "Stratified and cluster sampling"

@@ -3,7 +3,7 @@ date: "July 04, 2021"
 draft: false
 linktitle: "R practical on svydesign"
 menu:
-  example:
+  SDA:
     parent: Survey Data Analysis
     weight: 5
 title: "R practical on svydesign"

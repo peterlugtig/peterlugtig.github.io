@@ -3,7 +3,7 @@ date: "July 04, 2021"
 draft: false
 linktitle: "Total Survey Error and Modes"
 menu:
-  example:
+  SDA:
     parent: Survey Data Analysis
     weight: 2
 title: "Total Survey Error and Modes"

@@ -3,7 +3,7 @@ date: "July 05, 2021"
 draft: false
 linktitle: "Nonresponse and weighting"
 menu:
-  example:
+  SDA:
     parent: Survey Data Analysis
     weight: 8
 title: "Nonresponse and weighting"
