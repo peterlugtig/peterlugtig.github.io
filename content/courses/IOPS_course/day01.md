@@ -1,12 +1,12 @@
 ---
 date: "July 05, 2021"
 draft: false
-linktitle: "Day 1 - Total Survey Error"
+linktitle: "Day 1"
 menu:
   IOPS_course:
     parent: Advanced Survey Design
     weight: 1
-title: "Day 1 - Total Survey Error"
+title: "Day 1"
 toc: true
 type: docs
 weight: 1

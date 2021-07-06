@@ -1,15 +1,15 @@
 ---
-date: "July 05, 2021"
+date: "July 06, 2021"
 draft: false
-linktitle: "Day 2"
+linktitle: "Day 3 - Weighting"
 menu:
   IOPS_course:
     parent: Advanced Survey Design
-    weight: 2
-title: "Day 2"
+    weight: 3
+title: "Day 3 - Weighting"
 toc: true
 type: docs
-weight: 2
+weight: 3
 ---
 
 ## Introduction
