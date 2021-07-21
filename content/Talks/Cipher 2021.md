@@ -9,10 +9,10 @@ slides:
 summary:
 tags: []
 title: Cipher 2021
-url_code: "https://cesr.usc.edu/cipher_2021"
+url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=xChgWhhvI0A&t=1s"
+url_video: ""
 ---
 Live-recording of keynote: "What Internet panel surveys can learn from the design of smartphone-app studies."
 
