@@ -25,4 +25,4 @@ There are however many differences between panel studies and smartphone studies,
 dr. Lugtig will discuss existing design differences between panel studies and smartphone-app studies using examples from several existing studies. He will discuss the relative strengths of smartphone-apps and panel studies, and their relative weaknesses in the context of the Total Survey Error framework, and will discuss with an overview of what each type of study can learn from each other. To conclude, Dr. Lugtig will outline some possible designs for 'hybrid' studies that use the smartphone to study change over longer periods of time, while including 'measurement bursts' that can be employed to better study life events or short-term change.
 
 
-{{< youtube xChgWhhvI0A& >}}
+{{< youtube xChgWhhvI0A >}}
