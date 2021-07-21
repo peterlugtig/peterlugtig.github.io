@@ -1,8 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-  Bulletin of Sociological Methodology/Bulletin de Méthodologie Sociologique. 2021;151(1):74-95. doi:
-
 title: "Probing in online mixed-device surveys: Is a research messenger layout more effective than a traditional online layout, especially on mobile devices?"
 authors: [Toepoel V, Mathon K, Tussenbroek P, and Lugtig P.]
 date: 2021-07-07T00:00:00+01:00
