@@ -23,7 +23,7 @@ All instructors are based at the:
 
 The instructors may be in their office, but it helps to e-mail first and make an appointment.
 
-For all matters related to the administration and organization of the course, as well as grades, please contact [p.lugtig@uu.nl](mailto:p.lugtig@uu.nl), call: 030-2537761 or stop by in office A.130. Peter is usually around Monday-Friday 09:00-17:00.
+For all matters related to the administration and organization of the course, as well as grades, please contact [p.lugtig@uu.nl](mailto:p.lugtig@uu.nl), call: 030-2537761 or stop by in office A.103. Peter is usually around Monday-Friday 09:00-17:00.
 
 If you have questions about course materials, please contact the instructor who is teaching that week (see the schedule below):
 

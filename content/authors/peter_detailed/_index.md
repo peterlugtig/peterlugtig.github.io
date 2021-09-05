@@ -39,7 +39,7 @@ user_groups:
 
 
 \
-Welcome! I (Peter Lugtig) am a survey methodologist working at the [department of Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) of Utrecht University. I teach and do research on the methodology of doing longitudinal research in the social sciences. You can find my full CV in the menu or main page.
+Welcome! I (Peter Lugtig) am a survey methodologist working at the [department of Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) of Utrecht University. I teach and do research on the methodology of data collection in the social sciences; more specifically using  combination of surveys and (smartphone) sensors. You can find my full CV in the menu or main page.
 
 This personal webpage is about my research. I have the tendency to get distracted into too many side-projects (all fun and important), but my main research interests are:
 
