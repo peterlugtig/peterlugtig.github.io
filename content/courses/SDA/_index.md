@@ -190,10 +190,10 @@ Students need to get a 5.5 at the minimum for the two assignments, and achieve a
 | 36	 | 30/08 | 	No class	      | None           |               |         |
 | 37	 | 6/09	| Two models of inference: Design vs. model based |	American election survey dataset.<br>Exercises	| Adopt a survey | https://www.technologyreview.com/2020/02/14/844770/pollsters-got-it-wrong-in-the-2016-election-now-they-want-another-shot/ https://www.politico.com/news/2020/06/17/trump-polls-biden-324210  |
 | 38 | 13/09 | Total Survey Error and modes |	Error and bias exercise in R | What is TSE in survey of your choice? | Groves, R. M., & Lyberg, L. (2010). Total survey error: Past, present, and future. Public opinion quarterly, 74(5), 849-879. <br>  Biemer, P. P. (2010). Total survey error: Design, implementation, and evaluation. Public Opinion Quarterly, 74(5), 817-848. |
-| 39 | 20/09 | Simple random sampling | Sampling exercise | Setting up Svydesign in R (learn R)	|	Lohr (2010) chapters 1 (intro), 2 <br> Stuart (1984) until page 34 |
-| 40 | 27/09 | Stratified and cluster sampling | R exercises | Sampling design of adopted survey | Lohr (2010) chapters 3, 5, 6 <br> Stuart (1984) p. 35-71 |
+| 39 | 20/09 | Simple random sampling | Sampling exercise | Setting up Svydesign in R (learn R)	| Stuart (1984) until page 34 |
+| 40 | 27/09 | Stratified and cluster sampling | R exercises | Sampling design of adopted survey |  Stuart (1984) p. 35-71 |
 | 41 | 4/10 | R practical on svydesign | R exercise	| More R exercises |	`Assignment 1: due 9/10` |
-| 42 | 11/10 | Model assisted survey estimation | R exercise | R exercises | Lohr chapters 4, 7 <br> Stuart (1984) 71-90 |
+| 42 | 11/10 | Model assisted survey estimation | R exercise | R exercises | Stuart (1984) 71-90 |
 | 43 | 18/10 | Class-free week | | | |
 | 44 | 25/10 | Nonresponse and weighting | R exercise part 1 | R exercise part 2 | De Leeuw, E., Hox, J., & Luiten, A. (2018). International nonresponse trends across countries and years: an analysis of 36 years of Labour Force Survey data. Survey Methods: Insights from the Field, 1-11 <br> Kalton, G., & Flores-Cervantes, I. (2003). Weighting methods. Journal of official statistics, 19(2), 81.  |
 | 45 | 01/11 | Developing weights | Class Exercise: which variables| R exercises |<br> Brick, J. M. (2013). Unit nonresponse and weighting adjustments: A critical review. Journal of Official Statistics, 29(3), 329-353. <br> Optional: Bethlehem, J. G., & Keller, W. J. (1987). Linear weighting of sample survey data. Journal of official Statistics, 3(2), 141-153. <br> Optional: Lynn (1996) Weighting for nonresponse. Survey and Statistical Computing 1996, edited by R. Banks  |
