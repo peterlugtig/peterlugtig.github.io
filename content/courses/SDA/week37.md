@@ -25,12 +25,12 @@ Optional:
 
 ## Slides
 
-![lecture slides](/courses/history + inference wars.pdf)
+![](/courses/history + inference wars.pdf)
 
 ## Exercises
 
-![class exercise](/courses/class exercise week 1.pdf)
+![](/courses/class exercise week 1.pdf)
 
 ## Take home exercise
 
-![Take Home exercise](/courses/take home exercise week 1.pdf)
+![](/courses/take home exercise week 1.pdf)
