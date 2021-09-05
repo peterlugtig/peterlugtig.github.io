@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Bulletin de Methodologie Sociologique* " 
-publication_short: "BMS" 
+publication_short: "" 
 
 abstract: "This article compares the effectiveness of a research messenger layout to a traditional online layout with regards to probing. Responses to different types of probes (explanation, elaboration and category selection probes) were examined in terms of length and quality, measured by number of characters, number of themes, and an indicator for response quality. The research messenger layout, regardless of device being used, had a negative effect on both response length, number of themes and response quality. Further, we found that in both the traditional and research messenger layout, using a mobile device negatively affects the number of characters and themes used in probed responses. We conclude that probing is most effective when a traditional survey is completed on a computer. The research messenger layout was not able to generate responses of similar quality compared to the traditional layout, regardless of device being used."
 
