@@ -1,7 +1,7 @@
 ---
 date: "July 05, 2021"
 draft: false
-linktitle: "Survey modes: Design and estimation"
+linktitle: "week 48 - Survey modes: Design and estimation"
 menu:
   SDA:
     parent: Survey Data Analysis

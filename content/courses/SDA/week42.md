@@ -1,7 +1,7 @@
 ---
 date: "July 05, 2021"
 draft: false
-linktitle: "Model assisted survey estimation"
+linktitle: "week 42 - Model assisted survey estimation"
 menu:
   SDA:
     parent: Survey Data Analysis

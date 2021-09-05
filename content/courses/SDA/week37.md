@@ -1,7 +1,7 @@
 ---
 date: "July 04, 2021"
 draft: false
-linktitle: "Two models of inference: Design vs. model based"
+linktitle: "week 37 - Two models of inference: Design vs. model based"
 menu:
   SDA:
     parent: Survey Data Analysis
@@ -25,12 +25,12 @@ Optional:
 
 ## Slides
 
-/courses/SDA/history + inference wars.pdf
+(/courses/SDA/history + inference wars.pdf)
 
 ## Exercises
 
-/courses/SDA/class exercise week 1.pdf
+(/courses/SDA/class exercise week 1.pdf)
 
 ## Take home exercise
 
-/courses/SDA/take home exercise week 1.pdf
+ (/courses/SDA/take home exercise week 1.pdf)

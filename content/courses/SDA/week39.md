@@ -1,11 +1,11 @@
 ---
 date: "July 04, 2021"
 draft: false
-linktitle: "Simple random sampling"
+linktitle: "Week 39 - Simple random sampling"
 menu:
   SDA:
     parent: Survey Data Analysis
-    weight: 2
+    weight: 3
 title: "Simple random sampling"
 toc: true
 type: docs
