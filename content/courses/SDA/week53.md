@@ -1,7 +1,7 @@
 ---
 date: "July 05, 2021"
 draft: false
-linktitle: "Hand in written report"
+linktitle: "week 03 -Hand in written report"
 menu:
   SDA:
     parent: Survey Data Analysis

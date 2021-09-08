@@ -1,7 +1,7 @@
 ---
 date: "July 05, 2021"
 draft: false
-linktitle: "Student presentations"
+linktitle: "week 51 - Student presentations"
 menu:
   SDA:
     parent: Survey Data Analysis

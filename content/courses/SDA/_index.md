@@ -23,7 +23,7 @@ All instructors are based at the:
 
 The instructors may be in their office, but it helps to e-mail first and make an appointment.
 
-For all matters related to the administration and organization of the course, as well as grades, please contact [p.lugtig@uu.nl](mailto:p.lugtig@uu.nl), call: 030-2537761 or stop by in office A.130. Peter is usually around Monday-Friday 09:00-17:00.
+For all matters related to the administration and organization of the course, as well as grades, please contact [p.lugtig@uu.nl](mailto:p.lugtig@uu.nl).
 
 If you have questions about course materials, please contact the instructor who is teaching that week (see the schedule below):
 
@@ -33,10 +33,6 @@ If you have questions about course materials, please contact the instructor who 
 | Stef van Buuren | [s.vanbuuren@uu.nl](mailto:s.vanbuuren@uu.nl) | office C.119 Mo |
 | Gerko Vink | [g.vink@uu.nl](mailto:g.vink@uu.nl) | office C.124 Mo-Fri |
 | Bella Struminskaya | [b.struminskaya@uu.nl](mailto:b.struminskaya@uu.nl) | office C.116 Mo-Fri |
-| Vera Toepoel | [v.toepoel@uu.nl](mailto:v.toepoel@uu.nl) | office C.116 Mo, Thu |
-
-
-
 
 
 
@@ -91,18 +87,18 @@ By the end of the course students will:
 
 <ins>Articles to be used throughout the course:</ins>
 
-All articles below are available by searching for the title in a search engine for academic publications. Doing so from within the UU-domain will show direct links. [www.scholar.google.com](https://www.scholar.google.com) is the teacher's favorite search engine.
+All articles below are available by searching for the title in a search engine for academic publications. Doing so from within the UU-domain will show direct links. [www.scholar.google.com](https://www.scholar.google.com) is the teacher's favorite search engine.All articles below are available by searching for the title in a search engine for academic publications. Doing so from within the UU-domain will show direct links. www.scholar.google.com is the teacher’s favorite search engine.
 
 1.	Biemer, P. P. (2010). Total survey error: Design, implementation, and evaluation. Public Opinion Quarterly, 74(5), 817-848.
-2.	Blumenthal, M., Clement, S., Clinton, J. D., Durand, C., Franklin, C., Miringoff, L., ... & Witt, G. E. (2017). An evaluation of 2016 election polls in the US. [link]
-3.	Meng, X. L. (2018). Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election. The Annals of Applied Statistics, 12(2), 685-726.
-4.	Groves, R. M., & Lyberg, L. (2010). Total survey error: Past, present, and future. Public opinion quarterly, 74(5), 849-879.
-5.	Lynn (1996) Weighting for nonresponse. Survey and Statistical Computing 1996, edited by R. Banks
-6.	Kalton, G., & Flores-Cervantes, I. (2003). Weighting methods. Journal of official statistics, 19(2), 81.
-7.	Brick, J. M. (2013). Unit nonresponse and weighting adjustments: A critical review. Journal of Official Statistics, 29(3), 329-353.
-8.	de Leeuw, E., Hox, J., & Luiten, A. (2018). International nonresponse trends across countries and years: an analysis of 36 years of Labour Force Survey data. Survey Methods: Insights from the Field, 1-11.
-9.	Little, R.J. (2004). To model or not to model? Competing modes of inference for finite population sampling. Journal of the American Statistical Association, 99, 546-556.  
-10.	Cornesse, C., Blom, A. G., Dutwin, D., Krosnick, J. A., De Leeuw, E. D., Legleye, S., ... & Struminskaya, B. (2020). A Review of Conceptual Approaches and Empirical Evidence on Probability and Nonprobability Sample Survey Research. Journal of Survey Statistics and Methodology.
+2.	Groves, R. M., & Lyberg, L. (2010). Total survey error: Past, present, and future. Public opinion quarterly, 74(5), 849-879.
+3.	Lynn (1996) Weighting for nonresponse. Survey and Statistical Computing 1996, edited by R. Banks
+4.	Kalton, G., & Flores-Cervantes, I. (2003). Weighting methods. Journal of official statistics, 19(2), 81.
+5.	Brick, J. M. (2013). Unit nonresponse and weighting adjustments: A critical review. Journal of Official Statistics, 29(3), 329-353.
+6.	de Leeuw, E., Hox, J., & Luiten, A. (2018). International nonresponse trends across countries and years: an analysis of 36 years of Labour Force Survey data. Survey Methods: Insights from the Field, 1-11.
+7.	Kreuter, F. (2013). Improving surveys with paradata: Introduction. Improving surveys with paradata: Analytic uses of process information, 1-9.
+8.	Cornesse, C., Blom, A. G., Dutwin, D., Krosnick, J. A., De Leeuw, E. D., Legleye, S., ... & Struminskaya, B. (2020). A Review of Conceptual Approaches and Empirical Evidence on Probability and Nonprobability Sample Survey Research. Journal of Survey Statistics and Methodology.
+9.	Meng, X. L. (2018). Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election. The Annals of Applied Statistics, 12(2), 685-726.
+10.	Mercer, A. W., Kreuter, F., Keeter, S., & Stuart, E. A. (2017). Theory and practice in nonprobability surveys: parallels between causal inference and survey inference. Public Opinion Quarterly, 81(S1), 250-271.
 11.	Biemer Paul B., Edith de Leeuw Stephanie Eckman Brad Edwards Frauke Kreuter Lars E. Lyberg N. Clyde Tucker Brady T. West (eds.) (2017). Total Survey Error in Practice. Chapters 3 “Big Data: A Survey Research Perspective” and 2 “Total Twitter Error”. John Wiley & Sons. Available through UU library (DOI:10.1002/9781119041702)
 12.	De Leeuw, E.D. (2018). Mixed-Mode: Past, Present, and Future. Survey Research Methods, 12, 2, 75-89. https://ojs.ub.uni-konstanz.de/srm/article/view/7402/6582
 13.	Toepoel, de Leeuw & Hox (2019). Single- and mixed-mode survey data collection. Sage Research Methods foundations (on blackboard)
@@ -125,12 +121,6 @@ The course load is expected to be 12 hours per week on average. Every week has a
 Students are expected to read the literature before attending the respective meeting. Please plan the time to actually do this. Meetings will be much more productive and reach a higher level if everyone comes prepared for the meeting.
 
 All course materials will be available on the course website: [www.peterlugtig.com/courses/SDA]. The schedule (including rooms) can be found on Blackboard. In case there are last minute changes to the meeting (e.g. because of illness, or important updates to course materials), announcements will be sent via e-mail to your @students.uu.nl address. It is thus important to check your e-mail regularly.
-
-
-## Attendance
-
-Lectures and practicals are compulsory. 
-It is important to attend all classes to fully understand the theory and to obtain required practical skills for survey data analysis. However, if you cannot attend a meeting, for example due to sickness, an exception can be made. Course materials and answer to exercises will be posted on the course website. When you cannot attend a meeting, you should inform the teacher by email (as soon as possible, preferably before the start of the class).
 
 ## The impact of Covid-19 on the course
 
@@ -166,7 +156,9 @@ For those who want to read more about survey methodology in practice or the stat
 A very easy (non-statistical) introduction in survey research methods; also known as the non-quantitative textbook on survey methods. 
 -	Groves, Fowler, Couper, Lepkowski, Singer, Tourangeau. (2009). Survey methodology. Hoboken, NJ: Wiley. More thorough discussion of data collection methods, often recommended to practicing survey methodologists.
 -	Valliant, R., Dever, J.A., and Kreuter, F. (2013). Practical Tools for Designing and Weighting Survey Samples. Springer. 
-This book is aimed at constructing a sample design; determination of sample size for single and multistage sampling. R-software PracTools to do the computations. 
+
+This book is aimed at constructing a sample design; determination of sample size for single and multistage sampling. 
+
 
 ## Grading and Examination
 
@@ -201,22 +193,22 @@ Students need to get a 5.5 at the minimum for the two assignments, and achieve a
 ## Course overview
 | Week | Date	| Topic of the week | Class exercise | Home exercise | Reading |
 | ---- | ---- | ----------------- | -------------- | ------------- | ------- | 
-| 36	 | 31/08 | 	No class	      | None           |               |         |
-| 37	 | 7/09	| Two models of inference: Design vs. model based |	American election survey dataset.<br>Exercises	| Adopt a survey | https://www.technologyreview.com/2020/02/14/844770/pollsters-got-it-wrong-in-the-2016-election-now-they-want-another-shot/ <br> Blumenthal, M., Clement, S., Clinton, J. D., Durand, C., Franklin, C., Miringoff, L., ... & Witt, G. E. (2017). An evaluation of 2016 election polls in the US. [link](https://www.aapor.org/Education-Resources/Reports/An-Evaluation-of-2016-Election-Polls-in-the-U-S.aspx?mod=article_inline) <br>	Meng, X. L. (2018). Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election. The Annals of Applied Statistics, 12(2), 685-726. <br> https://www.politico.com/news/2020/06/17/trump-polls-biden-324210 |
-| 38 | 14/09 | Total Survey Error and modes |	Error and bias exercise in R | What is TSE in survey of your choice? | Groves, R. M., & Lyberg, L. (2010). Total survey error: Past, present, and future. Public opinion quarterly, 74(5), 849-879. <br>  Biemer, P. P. (2010). Total survey error: Design, implementation, and evaluation. Public Opinion Quarterly, 74(5), 817-848. |
-| 39 | 21/09 | Simple random sampling | Sampling exercise | Setting up Svydesign in R (learn R)	|	Lohr (2010) chapters 1 (intro), 2 <br> Stuart (1984) until page 34 |
-| 40 | 28/09 | Stratified and cluster sampling | R exercises | Sampling design of adopted survey | Lohr (2010) chapters 3, 5, 6 <br> Stuart (1984) p. 35-71 |
-| 41 | 5/10 | R practical on svydesign | R exercise	| More R exercises |	`Assignment 1: due 9/10` |
-| 42 | 12/10 | Model assisted survey estimation | R exercise | R exercises | Lohr chapters 4, 7 <br> Stuart (1984) 71-90 |
-| 43 | 19/10 | Class-free week | | | |
-| 44 | 26/10 | Nonresponse and weighting | R exercise part 1 | R exercise part 2 | De Leeuw, E., Hox, J., & Luiten, A. (2018). International nonresponse trends across countries and years: an analysis of 36 years of Labour Force Survey data. Survey Methods: Insights from the Field, 1-11 <br> Kalton, G., & Flores-Cervantes, I. (2003). Weighting methods. Journal of official statistics, 19(2), 81. <br> Brick, J. M. (2013). Unit nonresponse and weighting adjustments: A critical review. Journal of Official Statistics, 29(3), 329-353. <br> Optional: Bethlehem, J. G., & Keller, W. J. (1987). Linear weighting of sample survey data. Journal of official Statistics, 3(2), 141-153. <br> Optional: Lynn (1996) Weighting for nonresponse. Survey and Statistical Computing 1996, edited by R. Banks |
-| 45 | 02/11 | | | | |
-| 46 | 09/11 | Missing data 1 |	R exercise | R exercise |	Chapters 1-3 from S. van Buuren. Flexible Imputation of Missing Data. Second Edition. CRC/Chapman & Hall, FL: Boca Raton, 2018. |
-| 47 | 16/11 | Missing data 2 |	R exercise | R exercise	| Chapters 4-5 from S. van Buuren. Flexible Imputation of Missing Data. Second Edition. CRC/Chapman & Hall, FL: Boca Raton, 2018. <br> `Assignment 2 due: Friday 20/11` |
-| 48 | 23/11 | Modes | Students discuss alternatives to the mixed-mode presentations of their peers | Students prepare in groups a presentation about the mixed-mode implications of their dataset | De Leeuw, E.D. (2018). Mixed-Mode: Past, Present, and Future. Survey Research Methods, 12, 2, 75-89. https://ojs.ub.uni-konstanz.de/srm/article/view/7402/6582 <br> Toepoel, de Leeuw & Hox (2019). Single- and mixed-mode survey data collection. Sage Research Methods foundations (on blackboard) <br> Kolenikov, S., & Kennedy, C. (2014). Evaluating Three Approaches to Statistically Adjust for Mode Effects. Journal of Survey Statistics and Methodology, 2(2). |
-| 49 | 30/11 | Non-prob inference | | | Little, R.J. (2004). To model or not to model? Competing modes of inference for finite population sampling. Journal of the American Statistical Association, 99, 546-556. <br> https://www.youtube.com/watch?v=RIHGjjnE-jA <br> Cornesse, C., Blom, A. G., Dutwin, D., Krosnick, J. A., De Leeuw, E. D., Legleye, S., ... & Struminskaya, B. (2020). A Review of Conceptual Approaches and Empirical Evidence on Probability and Nonprobability Sample Survey Research. Journal of Survey Statistics and Methodology. <br>	Meng |
-| 50 | 07/12 | Designed big data | Work out a scenario of combining surveys with passive data | Analysis of passively collected data in R | Biemer Paul B., Edith de Leeuw et al. (eds.) (2017). Total Survey Error in Practice. Available through UU library (DOI:10.1002/9781119041702) <br> Chapter 3 “Big Data: A Survey Research Perspective” <br> Chapter 2 “Total Twitter Error”. John Wiley & Sons |
-| 51 | 14/12 | Presentations | `Hand in with written feedback on Jan 15` | | Build a ‘presentation’ <br> Peer-review <br> Discussion meeting |
+| 36	 | 30/08 | 	No class	      | None           |               |         |
+| 37	 | 6/09	| Two models of inference: Design vs. model based |	American election survey dataset.<br>Exercises	| Adopt a survey | https://www.technologyreview.com/2020/02/14/844770/pollsters-got-it-wrong-in-the-2016-election-now-they-want-another-shot/ https://www.politico.com/news/2020/06/17/trump-polls-biden-324210  |
+| 38 | 13/09 | Total Survey Error and modes |	Error and bias exercise in R | What is TSE in survey of your choice? | Groves, R. M., & Lyberg, L. (2010). Total survey error: Past, present, and future. Public opinion quarterly, 74(5), 849-879. <br>  Biemer, P. P. (2010). Total survey error: Design, implementation, and evaluation. Public Opinion Quarterly, 74(5), 817-848. |
+| 39 | 20/09 | Simple random sampling | Sampling exercise | Setting up Svydesign in R (learn R)	| Stuart (1984) until page 34 |
+| 40 | 27/09 | Stratified and cluster sampling | R exercises | Sampling design of adopted survey |  Stuart (1984) p. 35-71 |
+| 41 | 4/10 | R practical on svydesign | R exercise	| More R exercises |	`Assignment 1: due 9/10` |
+| 42 | 11/10 | Model assisted survey estimation | R exercise | R exercises | Stuart (1984) 71-90 |
+| 43 | 18/10 | Class-free week | | | |
+| 44 | 25/10 | Nonresponse and weighting | R exercise part 1 | R exercise part 2 | De Leeuw, E., Hox, J., & Luiten, A. (2018). International nonresponse trends across countries and years: an analysis of 36 years of Labour Force Survey data. Survey Methods: Insights from the Field, 1-11 <br> Kalton, G., & Flores-Cervantes, I. (2003). Weighting methods. Journal of official statistics, 19(2), 81.  |
+| 45 | 01/11 | Developing weights | Class Exercise: which variables| R exercises |<br> Brick, J. M. (2013). Unit nonresponse and weighting adjustments: A critical review. Journal of Official Statistics, 29(3), 329-353. <br> Optional: Bethlehem, J. G., & Keller, W. J. (1987). Linear weighting of sample survey data. Journal of official Statistics, 3(2), 141-153. <br> Optional: Lynn (1996) Weighting for nonresponse. Survey and Statistical Computing 1996, edited by R. Banks  |
+| 46 | 08/11 | Missing data 1 |	R exercise | R exercise |	Chapters 1-3 from S. van Buuren. Flexible Imputation of Missing Data. Second Edition. CRC/Chapman & Hall, FL: Boca Raton, 2018. |
+| 47 | 15/11 | Missing data 2 |	R exercise | R exercise	| Chapters 4-5 from S. van Buuren. Flexible Imputation of Missing Data. Second Edition. CRC/Chapman & Hall, FL: Boca Raton, 2018. <br> `Assignment 2 due: Friday 20/11` |
+| 48 | 22/11 | Modes | Students discuss alternatives to the mixed-mode presentations of their peers | Students prepare in groups a presentation about the mixed-mode implications of their dataset | De Leeuw, E.D. (2018). Mixed-Mode: Past, Present, and Future. Survey Research Methods, 12, 2, 75-89. https://ojs.ub.uni-konstanz.de/srm/article/view/7402/6582 <br> Toepoel, de Leeuw & Hox (2019). Single- and mixed-mode survey data collection. Sage Research Methods foundations (on blackboard) <br> Kolenikov, S., & Kennedy, C. (2014). Evaluating Three Approaches to Statistically Adjust for Mode Effects. Journal of Survey Statistics and Methodology, 2(2). |
+| 49 | 29/11 | Non-prob inference | | | Little, R.J. (2004). To model or not to model? Competing modes of inference for finite population sampling. Journal of the American Statistical Association, 99, 546-556. <br> https://www.youtube.com/watch?v=RIHGjjnE-jA <br> Cornesse, C., Blom, A. G., Dutwin, D., Krosnick, J. A., De Leeuw, E. D., Legleye, S., ... & Struminskaya, B. (2020). A Review of Conceptual Approaches and Empirical Evidence on Probability and Nonprobability Sample Survey Research. Journal of Survey Statistics and Methodology. <br>	Meng, X. L. (2018). Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election. The Annals of Applied Statistics, 12(2), 685-726. <br> https://www.politico.com/news/2020/06/17/trump-polls-biden-324210 |
+| 50 | 06/12 | Designed big data | Work out a scenario of combining surveys with passive data | Analysis of passively collected data in R | Biemer Paul B., Edith de Leeuw et al. (eds.) (2017). Total Survey Error in Practice. Available through UU library (DOI:10.1002/9781119041702) <br> Chapter 3 “Big Data: A Survey Research Perspective” <br> Chapter 2 “Total Twitter Error”. John Wiley & Sons |
+| 51 | 13/12 | Presentations | `Hand in with written feedback on Jan 15` | | Build a ‘presentation’ <br> Peer-review <br> Discussion meeting |
 | 3	| 15/01 |	`Final assignment due at 17:00` | | | |
 
 ## Week-by-week schedule
@@ -236,8 +228,10 @@ A second model of inference does not a neat random sample, but uses ‘found’ 
 
 -	https://www.technologyreview.com/2020/02/14/844770/pollsters-got-it-wrong-in-the-2016-election-now-they-want-another-shot/
 -	https://www.politico.com/news/2020/06/17/trump-polls-biden-324210 
+
+Optional: 
 -	Blumenthal, M., Clement, S., Clinton, J. D., Durand, C., Franklin, C., Miringoff, L., ... & Witt, G. E. (2017). An evaluation of 2016 election polls in the US. [link](https://www.aapor.org/Education-Resources/Reports/An-Evaluation-of-2016-Election-Polls-in-the-U-S.aspx?mod=article_inline)
--	Meng, X. L. (2018). Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election. The Annals of Applied Statistics, 12(2), 685-726.
+
 
 **Lecture:** Two models for inference. The 21st-century war in survey science.
 
@@ -276,7 +270,6 @@ There are many steps in this process where bias or error can be introduced. The 
 
 **Prepare for class:**
 
--	Lohr (2010) chapter 1 (intro, no need to close-read) chapter 2 and/or
 -	Stuart (1984) until page 34
 -	Finish the Take Home Exercise from the previous week. Bring the results to class.
 
@@ -294,11 +287,11 @@ There are many steps in this process where bias or error can be introduced. The 
 
 **Prepare for class:**
 
-- Lohr (2010) chapters 3,5 and 6
 - Stuart (1984) p. 35-71
 - Finish take home exercise week 39
 
-**Lecture:** We start by discussing the Take home exercise. After this, we illustrate the benefits of stratification for survey efficiency and clustering for survey costs using example data. We 
+**Lecture:** We start by discussing the Take home exercise. After this, we illustrate the benefits of stratification for survey efficiency and clustering for survey costs using example data. 
+
 
 **Class exercise:** Specify a stratified and clustering design in R
 
@@ -334,14 +327,15 @@ Topic: We discuss two popular estimation methods that are often used in cluster 
 -	Lohr chapters 4, 7
 -	Stuart (1984) 71-90
 -	Finish the take home exercise
--	Preparation for class discussion: find out what auxiliary data (at the sample level) is available for the survey you reviewed in week 40, and bring a list of auxiliary data to class. Think about the following question (after reading the literature): would it be a good idea for your survey to use ratio/regression estimation is you are interested in estimating one of the variables of interest in your survey? 
+-	Preparation for class discussion: find out what auxiliary data (at the sample level) is available for the survey you reviewed in week 37/40, and bring a list of auxiliary data to class. Think about the following question (after reading the literature): would it be a good idea for your survey to use ratio/regression estimation is you are interested in estimating one of the variables of interest in your survey? 
+
 
 **Lecture:** We discuss a practical and fictitious example where data are clustered to illustrate why ratio/regression estimation is sometimes so attractive. The bias-variance trade-off as a concept is discussed and illustrated.  
 
 **Class exercise 1:** Set up a ratio and/or regression estimation model for a cluster sample dataset	
 Exercise in class: Discussion – when is it a good idea to use ratio/regression estimation?
 
-**Take home exercise (for week 44):** R exercise to work with Nonresponse weights: In this exercise you learn how to work with existing nonresponse weights in R using the survey package.
+**Take home exercise (for week 44):** TBA.
 
 #### Week 43: Class-free Week. 
 
@@ -365,24 +359,24 @@ Catch up on readings and exercises. Review parts of lectures/exercises again tha
 
 **Lecture:** We discuss how nonresponse can be assessed and nonresponse correction factors (weights) can be computed based on either target population or sample frame data. We discuss weighting by poststratification, linear weighting and raking. 
 
-**Exercise in class:** R exercise computing your own nonresponse weights using poststratification, linear weighting or raking.
+**Class/Take Home exercise:** R exercise to work with Nonresponse weights: In this exercise you learn how to work with existing nonresponse weights in R using the survey package.
 
 --- 
 
-#### Week 45: TEST (40% of grade)
+#### Week 45: Designing weights
 
-Covering all materials from weeks 37-44 (slides, readings and exercises). The exam consists of an open-book Take-home exam. The exam will be available on Blackboard at 09:00. You then have until 14:00 to finish the exam, but I do not expect anyone to work for more than 3 hours on the exam, giving you about two hours for breaks and/or unexpected problems (i.e. coffee breaks, Internet problems, R issues, people ringing your doorbell etc.).
+Topic: in practice, nonresponse weights should be developed keeping in mind what the dependent variable is. In situations where many variables asked among respondents are also available for the population, there are many possible nonresponse weighting models. In this week, we will focus on the question of how to develop nonresponse weights. We discuss the concept of ‘paradata’
 
-**You will need:**
+**Prepare for class:** 
+-	Brick, J. M. (2013). Unit nonresponse and weighting adjustments: A critical review. Journal of Official Statistics, 29(3), 329-353.
+-	Kreuter, F. (2013). Improving surveys with paradata: Introduction. Improving surveys with paradata: Analytic uses of process information, 1-9.
 
--	A computer including R and MS word, connected to the Internet.
+**Lecture:** introduction to paradata. 
 
-**Content of the exam:** For some questions you will receive input in the form of .R syntax. Based on a dataset that will be generated using R-syntax, some questions will concern the syntax itself, the dataset, and an interpretation of the results of several analyses performed on the dataset. You will thus not be required to write R-syntax during the exam, but will be required to run analyses, and slightly adapt the syntax, as well as understand the results as they are presented in R. 
-You will also receive some theoretical problems (cases) where you are asked to reflect and use concepts covered in the course, and apply these to the theoretical problems. You may use the literature, slides, exercises, R, and the Internet to come up with your answers. You complete the answers in an answer sheet in MS Word and send the exam back by e-mail. You will receive a confirmation of receipt by e-mail. Wait for this confirmation before turning your computer off. In case there are issues during the exam, please send an e-mail to the course coordinator who will be on stand-by to help
+**Class exercise:** discussion about possible weighting variables given different dependent variables that are often of interest to scientists (e.g. voting behavior, attitudes towards vaccination).
 
-**What can I not do:**
+**Take home Exercise:** R exercises where you develop your own weights for a survey conducted in the Netherlands.
 
--	You are NOT allowed to contact your fellow students, or other human beings for help. In case answers are identical or very similar, this will be regarded as fraud. In case the answers of two students appear just similar (suspicious), the teacher will ask the respective students to participate in an extra individual oral exam.
 
 #### Before week 46
 
@@ -442,8 +436,10 @@ For the final assignment you will work in a group of about 4 (+- 1) on a real-li
 
 **Prepare for class:**
 
-- Meng 
-- Cornesse, C., Blom, A. G., Dutwin, D., Krosnick, J. A., De Leeuw, E. D., Legleye, S., ... & Struminskaya, B. (2020). A Review of Conceptual Approaches and Empirical Evidence on Probability and Nonprobability Sample Survey Research. Journal of Survey Statistics and Methodology.
+-	Meng, X. L. (2018). Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election. The Annals of Applied Statistics, 12(2), 685-726.
+-	Cornesse, C., Blom, A. G., Dutwin, D., Krosnick, J. A., De Leeuw, E. D., Legleye, S., ... & Struminskaya, B. (2020). A Review of Conceptual Approaches and Empirical Evidence on Probability and Nonprobability Sample Survey Research. Journal of Survey Statistics and Methodology.
+-	Mercer, A. W., Kreuter, F., Keeter, S., & Stuart, E. A. (2017). Theory and practice in nonprobability surveys: parallels between causal inference and survey inference. Public Opinion Quarterly, 81(S1), 250-271.
+
 
 **Lecture:** We review the U.S. presidential dataset again. How does one design a good inference model? The Total Survey Error Model is reviewed, with a focus on non-probability based datasets
 
