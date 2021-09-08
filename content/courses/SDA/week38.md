@@ -1,7 +1,7 @@
 ---
 date: "July 04, 2021"
 draft: false
-linktitle: "week 38 - Total Survey Error and Modes"
+linktitle: "Week 38 - Total Survey Error and Modes"
 menu:
   SDA:
     parent: Survey Data Analysis

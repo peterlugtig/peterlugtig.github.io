@@ -26,6 +26,7 @@ Topic: in practice, nonresponse weights should be developed keeping in mind what
 
 **Take home Exercise:** R exercises where you develop your own weights for a survey conducted in the Netherlands.
 
+
 **Before week 46**
 
 For the final assignment you will work in a group of about 4 (+- 1) on a real-life dataset. The goal is to apply all the materials covered in the course, answer a substantive research question and solve a ‘challenge’ that covers an advanced problem in survey research. You will receive an e-mail on your @students.uu.nl account with more information about group membership, the assignment itself and your group members this week.

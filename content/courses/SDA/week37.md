@@ -1,7 +1,7 @@
 ---
 date: "July 04, 2021"
 draft: false
-linktitle: "week 37 - Two models of inference: Design vs. model based"
+linktitle: "Week 37 - Two models of inference: Design vs. model based"
 menu:
   SDA:
     parent: Survey Data Analysis
@@ -20,6 +20,7 @@ The majority of studies in the social, behavioral and medical sciences uses some
 
 - https://www.technologyreview.com/2020/02/14/844770/pollsters-got-it-wrong-in-the-2016-election-now-they-want-another-shot/
 - https://www.politico.com/news/2020/06/17/trump-polls-biden-324210
+
 Optional:
 - Blumenthal, M., Clement, S., Clinton, J. D., Durand, C., Franklin, C., Miringoff, L., … & Witt, G. E. (2017). 
 
@@ -34,3 +35,4 @@ Optional:
 ## Take home exercise
 
 [take home exercise](/courses/take home exercise week 1.pdf)
+

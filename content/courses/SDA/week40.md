@@ -1,7 +1,7 @@
 ---
 date: "July 04, 2021"
 draft: false
-linktitle: "week 40 - Stratified and cluster sampling"
+linktitle: "Week 40 - Stratified and cluster sampling"
 menu:
   SDA:
     parent: Survey Data Analysis

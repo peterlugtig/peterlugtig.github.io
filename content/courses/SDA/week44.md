@@ -1,7 +1,7 @@
 ---
 date: "July 05, 2021"
 draft: false
-linktitle: "week 44 - Nonresponse and weighting"
+linktitle: "Week 44 - Nonresponse and weighting"
 menu:
   SDA:
     parent: Survey Data Analysis

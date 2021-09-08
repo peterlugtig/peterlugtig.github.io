@@ -122,6 +122,11 @@ Students are expected to read the literature before attending the respective mee
 
 All course materials will be available on the course website: [www.peterlugtig.com/courses/SDA]. The schedule (including rooms) can be found on Blackboard. In case there are last minute changes to the meeting (e.g. because of illness, or important updates to course materials), announcements will be sent via e-mail to your @students.uu.nl address. It is thus important to check your e-mail regularly.
 
+## The impact of Covid-19 on the course
+
+Normally, teaching happens physically. In 2020, the course was organized fully online, but the idea (as of spring 2021!) is to deliver the course in person. We will however occasionally use Microsoft Teams to meet up in (sub) groups, especially in the 2nd half of the course. 
+
+This is usually about the point where most students have stopped reading the course manual, and search for the grading and homework sections. If you do end up actually reading this sentence (good on you!) please send me a picture of some ice cream. You will find out later what happens.
 
 ## Links
 
@@ -153,6 +158,7 @@ A very easy (non-statistical) introduction in survey research methods; also know
 -	Valliant, R., Dever, J.A., and Kreuter, F. (2013). Practical Tools for Designing and Weighting Survey Samples. Springer. 
 
 This book is aimed at constructing a sample design; determination of sample size for single and multistage sampling. 
+
 
 ## Grading and Examination
 
@@ -222,6 +228,7 @@ A second model of inference does not a neat random sample, but uses ‘found’ 
 
 -	https://www.technologyreview.com/2020/02/14/844770/pollsters-got-it-wrong-in-the-2016-election-now-they-want-another-shot/
 -	https://www.politico.com/news/2020/06/17/trump-polls-biden-324210 
+
 Optional: 
 -	Blumenthal, M., Clement, S., Clinton, J. D., Durand, C., Franklin, C., Miringoff, L., ... & Witt, G. E. (2017). An evaluation of 2016 election polls in the US. [link](https://www.aapor.org/Education-Resources/Reports/An-Evaluation-of-2016-Election-Polls-in-the-U-S.aspx?mod=article_inline)
 
@@ -285,6 +292,7 @@ There are many steps in this process where bias or error can be introduced. The 
 
 **Lecture:** We start by discussing the Take home exercise. After this, we illustrate the benefits of stratification for survey efficiency and clustering for survey costs using example data. 
 
+
 **Class exercise:** Specify a stratified and clustering design in R
 
 **Take home exercise:** Review the survey documentation of your adopted design-based survey (see week 37). Work out the sampling design on paper (not in R!), and bring the results to class.
@@ -321,6 +329,7 @@ Topic: We discuss two popular estimation methods that are often used in cluster 
 -	Finish the take home exercise
 -	Preparation for class discussion: find out what auxiliary data (at the sample level) is available for the survey you reviewed in week 37/40, and bring a list of auxiliary data to class. Think about the following question (after reading the literature): would it be a good idea for your survey to use ratio/regression estimation is you are interested in estimating one of the variables of interest in your survey? 
 
+
 **Lecture:** We discuss a practical and fictitious example where data are clustered to illustrate why ratio/regression estimation is sometimes so attractive. The bias-variance trade-off as a concept is discussed and illustrated.  
 
 **Class exercise 1:** Set up a ratio and/or regression estimation model for a cluster sample dataset	
@@ -351,6 +360,7 @@ Catch up on readings and exercises. Review parts of lectures/exercises again tha
 **Lecture:** We discuss how nonresponse can be assessed and nonresponse correction factors (weights) can be computed based on either target population or sample frame data. We discuss weighting by poststratification, linear weighting and raking. 
 
 **Class/Take Home exercise:** R exercise to work with Nonresponse weights: In this exercise you learn how to work with existing nonresponse weights in R using the survey package.
+
 --- 
 
 #### Week 45: Designing weights
@@ -429,6 +439,7 @@ For the final assignment you will work in a group of about 4 (+- 1) on a real-li
 -	Meng, X. L. (2018). Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election. The Annals of Applied Statistics, 12(2), 685-726.
 -	Cornesse, C., Blom, A. G., Dutwin, D., Krosnick, J. A., De Leeuw, E. D., Legleye, S., ... & Struminskaya, B. (2020). A Review of Conceptual Approaches and Empirical Evidence on Probability and Nonprobability Sample Survey Research. Journal of Survey Statistics and Methodology.
 -	Mercer, A. W., Kreuter, F., Keeter, S., & Stuart, E. A. (2017). Theory and practice in nonprobability surveys: parallels between causal inference and survey inference. Public Opinion Quarterly, 81(S1), 250-271.
+
 
 **Lecture:** We review the U.S. presidential dataset again. How does one design a good inference model? The Total Survey Error Model is reviewed, with a focus on non-probability based datasets
 
