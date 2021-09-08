@@ -1,7 +1,7 @@
 ---
 date: "July 04, 2021"
 draft: false
-linktitle: "Two models of inference: Design vs. model based"
+linktitle: "Week 37 - Two models of inference: Design vs. model based"
 menu:
   SDA:
     parent: Survey Data Analysis
@@ -20,18 +20,19 @@ The majority of studies in the social, behavioral and medical sciences uses some
 
 - https://www.technologyreview.com/2020/02/14/844770/pollsters-got-it-wrong-in-the-2016-election-now-they-want-another-shot/
 - https://www.politico.com/news/2020/06/17/trump-polls-biden-324210
-- Blumenthal, M., Clement, S., Clinton, J. D., Durand, C., Franklin, C., Miringoff, L., … & Witt, G. E. (2017). An evaluation of 2016 election polls in the US. link
-- Meng, X. L. (2018). Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election. The Annals of Applied Statistics, 12(2), 685-726.
 
+Optional:
+- Blumenthal, M., Clement, S., Clinton, J. D., Durand, C., Franklin, C., Miringoff, L., … & Witt, G. E. (2017). 
 
 ## Slides
 
-TBA
+[slides](/courses/history + inference wars.pdf)
 
 ## Exercises
 
-TBA
+[class exercise](/courses/class exercise week 1.pdf)
 
 ## Take home exercise
 
-TBA
+[take home exercise](/courses/take home exercise week 1.pdf)
+
