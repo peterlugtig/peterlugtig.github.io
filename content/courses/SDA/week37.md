@@ -26,13 +26,13 @@ Optional:
 
 ## Slides
 
-[Slides](/files/SDA_week1/history_and_inference_wars.pdf)
+[Slides](/files/SDA/history_and_inference_wars.pdf)
 
 ## Exercises
 
-[Class exercise](/files/SDA_week1/class_exercise_week_1.pdf)
+[Class exercise](/files/SDA/class_exercise_week_1.pdf)
 
 ## Take home exercise
 
-[Take home exercise](/files/SDA_week1/take_home_exercise_week_1.pdf)
+[Take home exercise](/files/SDA/take_home_exercise_week_1.pdf)
 
