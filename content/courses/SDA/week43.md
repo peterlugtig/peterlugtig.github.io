@@ -12,6 +12,6 @@ type: docs
 weight: 7
 ---
 
-![](/courses/class_free.gif)
+![](/files/SDA/class_free.gif)
 
 Enjoy your free week!
