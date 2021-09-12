@@ -20,7 +20,6 @@ In practice, real surveys seldomly use a simple random sampling design. We will 
 
 ## Literature 
 
-- Lohr (2010) chapters 3,5 and 6
 - Stuart (1984) p. 35-71
 
 ## Slides

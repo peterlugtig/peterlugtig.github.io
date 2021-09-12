@@ -6,7 +6,7 @@ menu:
   SDA:
     parent: Survey Data Analysis
     weight: 9
-title: "Test"
+title: "Designing weights"
 toc: true
 type: docs
 weight: 9

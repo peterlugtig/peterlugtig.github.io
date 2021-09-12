@@ -20,7 +20,6 @@ Under a design-based model for inference, the process of drawing a sample is imp
 
 ## Literature
 
-- Lohr (2010) chapter 1 (intro, no need to close-read) chapter 2 and/or
 - Stuart (1984) until page 34
 
 
