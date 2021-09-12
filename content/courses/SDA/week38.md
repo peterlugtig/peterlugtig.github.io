@@ -27,12 +27,10 @@ There are many steps in this process where bias or error can be introduced. The 
 
 ## Slides
 
-TBA
+[Slides](/files/SDA/lecture_week_38_TSE.pdf)
 
-## Exercises
+## Take Home Exercise
 
-TBA
-
-## Take home exercise
-
-TBA
+[Take Home Exercise](/files/SDA/take_home_exercise_week_38.pdf)
+[R code](/files/SDA/take_home_exercise_week_38.r)
+[Simulation Cards]((/files/SDA/simulation_SRS_cards.r))
