@@ -1,0 +1,371 @@
+---
+title: "SRS sampling"
+author: "Peter Lugtig"
+date: "16 July 2021"
+output: pdf_document
+
+---
+This file is the product of an R Markdown file. If you are reading the pdf-file , open the .Rmd file as well in R just to see what R Markdown does. There is no need yet to understand exactly what R Markdown does. For now, the only thing that is worth knowing is that when you press "knit"  in R studio (and you have the right dataset in the same folder as the .Rmd file) you will get the .html file.
+You can also type text in the .Rmd file, and add R code snippets (or comment). Play around! More on R Markdown later in this course, and in the "Programming with R"  course.
+
+Today we are going to learn:
+i) how to sample from data using simple random sampling (exercise 1), 
+ii) work with the {survey package} and
+iii) do some exercises (can be done by hand or in R) on sample size calculations
+
+---
+
+**Exercise 1 - Sampling**
+
+Open the `boys.RDS` (orginal .sav file also available). Inspect the variable labels and make yourself familiar with the dataset. The key variables in the dataset are the height and weight for *all* 738 boys under the age of 21 living in an imaginary county (gemeente) in the Netherlands in 2014. In other words, we have the whole population, and the idea is we explore different hypothetical ways to sample from this population.The dataset stems from a surveillance system, in which every child is seen every few years. The following measures are available:
+
+|
+|age | Decimal age (0-21 years) |
+|hgt | Height (cm) |
+|wgt | Weight (kg) |
+|bmi | Body mass index |
+|hc | Head circumference (cm) |
+|gen | Genital Tanner stage (G1-G5) |
+|phb | Pubic hair (Tanner P1-P6) |
+|tv | Testicular volume (ml) |
+|Town | town1 to town5 |
+
+
+```{R load the data and libraries,message=F}
+library(tidyverse)
+library(survey)
+library(sampling)
+boys <- read_rds("boys.RDS")
+```
+
+*Getting to know the population*
+
+1. The variable town consists of five towns in the county, numbered town1 to town5. Investigate how age is distributed over the towns and write down the respective numbers of cases in the following crosstable 
+(HINT: create a new variable `agecat` that indicates the age categories. 
+It is also useful to ask for row, column and total percentages for each cell in the crosstable; you'll need them later). 
+
+```{R recode age} 
+# create agecat
+boys$agecat[boys$age<1] <- "under 1"
+boys$agecat[boys$age>=1] <- "1-5"
+boys$agecat[boys$age>=5] <- "5-10"
+boys$agecat[boys$age>=10] <- "over 10"
+# I am also adding an ID
+boys$id <- 1:748
+```
+
+and now create the crosstable:
+
+```{r create crosstable, results='hide'}
+table(boys$agecat,boys$town)
+prop.table(table(boys$agecat,boys$town))
+```
+
+|            | town1 | town2 | town3 |town4 |town5 | total|
+|:-----------|:-----:|:-----:|:----:|:-----:|:----:|:----:|
+|age < 1     |  34   |    7  |   52 |   22  |  19  |  134 |
+|age 1 - <5  |  50   |   14  |  44  |   34  |   12 |  154 |
+|age 5 - <10 |  18   |    5  |  22  |   18  |   5  |   68 |
+|age >=10    |  89   |    55 |  121 |   87  |  37  |  389 |
+|total       | 191   |    81 |  239 |   161 | 79   | 745  |
+
+2. Based on the above table, if we would draw a single person at random, this person most likely would live in town 3  and most likely belongs to age category `age >= 10`. 
+
+3. Based on the above table, what would be the least likely combination of characteristics if we would draw a single person at random ? 
+
+```{r answer, include=F}
+#answer: `town 5 between age 5-<10`
+```
+
+4. What is the mean age in the population?
+```{R compute mean age, results='hide'}
+mean(boys$age) # specify what you want to compute
+```
+ 
+5. Randomly sample 200 cases (without replacement) from the dataset and recompute the mean for the sample only. How large is the difference in your population mean? What is (for your single sample) the estimate of the mean age of the child? 
+
+*R code*
+
+```{r draw a sample of 200}
+library(sampling) # see THE week 37
+set.seed=123 #for replication purposes
+boys$sample <-srswor(200,nrow(boys)) 
+# explanation: we add an indicator (0,1), that will be 1 for sample 200 cases 
+# we sample here WithOut Replacement (WOR). 
+# Explore the sampling package for advanced settings that we will use later
+table(boys$sample) # check, does it work? Yes
+```
+
+You can also View the dataset with the {View()} command.
+
+```{r view dataset, results='hide'}
+#View(boys)
+```
+
+Now, lets compute the mean age of the child!     
+    
+```{r crosstable on sampled data, results='hide'}
+    srssample1 <- filter(boys,sample== 1)
+    # or write srssample1 <- boys[boys$sample==1]
+    mean(srssample1$age)
+    mean(boys$age)-  mean(srssample1$age) # bias!
+```
+
+Please note that the small bias that we observe here is due to random sampling error. Every time we sample we will get a slightly different estimate for the mean, but averaged over an infinite amount of samples we can draw, the bias will be 0. We can estimate the size of the random error (and empirically establish that our estimator is indeed unbiased) by running this code many times (see lecture). 
+However, the Central Limit Theorem posits that we can simply predict the average error, and summarize this in the *standard error* statistic (s.e) .
+
+6. We would normally always like to get an estimate of the standard error with our estimate of interest (in this case of the mean). The standard error is equal to: sample standard deviation (square root of variance / sqrt(n). Compute the standard error of the mean by hand (or in R).
+
+```{r compute se by hand, include=F}
+# the se. can also be computed by hand: ((var(x)) / sqrt(n) * sqrt(fpc)
+sesrssample1 <- sqrt(var(srssample1$age))/sqrt(nrow(srssample1))  * sqrt(1 - (nrow(srssample1)/nrow(boys)))
+```
+
+7. Can you also compute the 95% CI of the mean for the variable age in our srs?
+
+```{R Confidence interval, include=F}
+# confidence interval
+lowerbound <- mean(srssample1$age)- 1.96 *sesrssample1
+upperbound <- mean(srssample1$age)+ 1.96 *sesrssample1
+print(lowerbound,upperbound)
+```
+
+
+##############################################################################################################
+
+\newpage
+**Exercise 2 - The survey package**
+
+Most statistical packages compute the s.e. for us assuming we always use a simple random sample. You have probably done this before.However, we will soon start using more complicated sampling designs, where computing the se. accurately is complicated, so I will show here how we can compute the *correct*  standard error for any design using the  {survey} package in R. The survey package can also deal with more complicated sampling designs quite easily. Although not needed yet now, I will also show how we can compute means across categories, compute a General Linear Model (ANOVA, regression), or plot the data using the {survey} package. You can in later weeks look back to this exercise to get inspiration for 
+
+1. First, explore the Survey package by using the {help} function. 
+
+``` {r explore survey package}
+help(package="sampling")
+```
+
+2. The idea of the {survey} package is that you "tell" R what sampling design was used to generate a sample. The survey package will then compute accurate statistics for you, no matter how complicated your design is. There are there always two steps in analyses you do with the survey package:
+
+i. You tell R the structure of your sample using the {svydesign} function
+ii. You do some analysis
+
+This week we will stick with a simple random sample. You can tell this to R using the function:
+``` {r svydesign basic}
+library(survey)
+SomeName <- svydesign(ids=~1,fpc=NULL,data=srssample1)
+```
+The warning you get is normal and can be ignored. R "warns" us that our sample looks overly simple.
+
+The elements in the function mean the following:
+ids=~1. Here, you tell R there is no id variable. If you have an id-variable for people in your dataset, you can define this here. Later, the {ids=~} important when we use cluster sampling
+
+fpc=... Here you need to specify the size of the population that your sample was drawn from, so that R knows how to apply the Finite Population Correction. We left this out for now (NULL), so we have assumed that the population is of infinte size (or, we do not apply fpc.)
+
+data=... The original sample dataset.
+
+We would however like to use fpc correction. 
+We have to add the population size as a new variable to your dataset, and add that to the svydesign function.
+``` {r include fpc, include=F}
+srssample1$popsize <- 748
+srs1 <-svydesign(ids=~1,fpc=srssample1$popsize,data=srssample1)
+```
+
+3. In step 2 of the analysis you compute the thing you are interested in. In this exercise we are interested in the mean. The code below shows how to ask for a mean. Run the code, and compare your answer to the mean and standard error you computed in exercise 1. They should be the same (note the survey package rounds to 4 decimals).
+
+```{r survey package, results='hide'}
+svymean(~age,srs1) 
+```
+
+4. In the code below, I will show you some other useful functions of the {survey} package that we will use in later package. Feel free to explore these functions
+
+```{r survey extra functions}
+?svyby
+svyby(~age,~town, srs1,svymean) # as a bonus, this shows the age distribution across towns
+svyglm(hgt ~ age,srs1)
+svyglm(wgt ~ town+age+town:age,srs1) # formula can be more complicated, e.g. with interaction effects
+glm1 <- svyglm(wgt ~ town+age+town:age,srs1) 
+summary(glm1) # and we can get standard errors 
+
+# and plot the data using the survey package
+# svyplot(formula, design, style = c("bubble", "hex", "grayhex","subsample","transparent"),
+svyplot(wgt~hgt, design=srs1, style=c("bubble"))
+# try to play with the plot styles!
+
+# the plotting capabilities of the {survey} package are a bit limited. Therefore, you can also resort to using
+# ggplot2. However, functions like geom_smooth (below) will not be entirely correct.
+
+# compare with non-survey plot GGplot (note that s.e. may be wrong if you use something like geom_smooth)
+ggplot(data=subset(boys,sample==1),aes(y=wgt,x=hgt))+
+    geom_point()+
+    geom_smooth(method="loess")
+```
+
+
+**bonus** only do this if you feel like it 
+
+5. There are many cases where you in practice want to sample with unequal probabilities. This is now no longer a Simple Random Sample! 
+Consider a case where we want to give older kids a higher probability to be included into the sample. In the case of our dataset, there will perhaps by more variation in how boys grow during puberty, and for that reason, we may want to 'oversample' older boys. We can do this formally using stratification, which we will discuss next week. Here we will for now use the cumulative probability-distribution of the variable age (pdf) to different inclusion probabilities.
+
+```{r diff inclusion probabilities}
+# add the pdf to the population using a logistic function
+boys$ageincl <- (1 / (1 + exp(-boys$age)))*2-1
+hist(boys$ageincl) # plot it
+# now sample using the sample function from base r
+set.seed=123 #for replication purposes
+# adding an Id varianle (not strickly needed)
+boys$id <- 1:nrow(boys)
+# the code below samples proportional to the probability distribution 
+# using the {sample} function from base R
+sample2 <- boys[sample(nrow(boys),200, prob=boys$ageincl),] 
+
+# The mean in our sample 2 is now biased! (why?)
+mean(sample2$age) # way too high as we want
+
+# we now need to correct for the differences in inclusion probabilities!
+# we can do this in the survey package by including a {weight} variable that is the inverse 
+# of the inclusuon probabilities
+
+# compute the inverse of ageweight to use as weight
+sample2$ageweight <- 1/sample2$ageincl
+# specify the Svydesign object
+rsdesign2 <- svydesign(ids=~1, probs=NULL,strata=NULL,variables=NULL, fpc=sample2$popsize
+                           ,weights=~ageweight,data=sample2) # notice the large error here
+svymean(~age,rsdesign2) 
+# Notice the increase in the se! We oversample a lot!
+hist(sample2$ageweight) 
+
+# we may use trimming to reduce variance inflation here. 
+sample2$ageweighttrim <- sample2$ageweight
+sample2$ageweighttrim[sample2$ageweight>4] <- 4 
+rsdesign3 <- svydesign(ids=~1, probs=NULL,strata=NULL,variables=NULL, fpc=sample2$popsize
+                           ,weights=~ageweighttrim,data=sample2) # notice the large error here
+svymean(~age,rsdesign3) 
+
+```
+
+
+\newpage
+
+**Exercise 3 - sample size calculations, working with se**
+
+
+
+
+Imagine you are doing a survey to predict voting behavior in the upcoming Dutch elections (in March 2021). The Dutch electoral system is fully proportional, meaning that there is no threshold to acquire a seat in parliament. There are 150 seats, so whenever you reach 0.66% or a multiple thereof, you get a seat in parliament. For more info on the Dutch electoral system, see https://en.wikipedia.org/wiki/Elections_in_the_Netherlands
+
+In this exercise, we will assume that you can do a Simple Random Sample of all Dutch people who are 18 years and older (the eligible voting population). In practice, it is hard to do an SRS because both telephone and e-mail lists are of poor quality (or don’t exist), but we will return to this issue in a later week.
+
+The data are a bit artificial, but resemble how the different Dutch parties polled in August 2020.
+
+The polling data show the following in terms of the % voting for each party:
+|
+|VVD | 21% | liberal-conservatives |
+|PVV | 15% | anti-establishment right |
+|D66 | 9% | liberals |
+|CDA | 9% | christian democrats |
+|PvdA | 10% | social democrats |
+|SP | 8% | socialists |
+|GL | 8% | greens |
+|FvD | 7 % | anti-establishment right |
+|PvdD | 4% | animal rights party |
+|others | 9% | small christian parties, elderly, immigrant parties |
+|
+
+1.	The Table just shows the point estimates. What would be the Confidence Interval for the percentage of people voting for the VVD (liberal-right) in the population if this sample was based on 1500 respondents? Use the formula for the standard error for a proportion (see also Stuart p. 32) SEp = sqrt [ p(1 - p) / n ] and use  = .05
+
+```{r percentage vvd, include=F}
+#Answer: The point estimate is .21, implying that the s.e. is:
+seVVD2 <- sqrt(.21*(.79)/1500) 
+print(seVVD2)
+
+# the CI is
+print(c(.21 - 1.96*seVVD2,.21+1.96*seVVD2))
+```
+
+2.	And what about if the sample would be larger (n=2500) or smaller (n=700)? Compute the se again
+```{r alternative VVD, include=F}
+seVVD3 <- sqrt(.21*(.79)/2500)
+seVVD1 <- sqrt(.21*(.79)/700) 
+print(c(.21 - 1.96*seVVD1,.21+1.96*seVVD1,
+        .21 - 1.96*seVVD2,.21+1.96*seVVD2,
+        .21 - 1.96*seVVD3,.21+1.96*seVVD3))
+    
+# note the nonlinear decrease in the s.e. #it decreases by sqrt(n)
+```
+
+3.	The Netherlands has many smaller parties which usually only get a few seats. Please compute the confidence interval for the percentage of people voting for PvdD (animal rights party) who are polling at 4%. Please compare the width of the confidence interval to that of the VVD. What do you notice?
+
+```{r, include=F}
+sePvdd <- sqrt(.04*(.96)/1500) 
+print(.04 - 1.96*sePvdd)
+print(.04 + 1.96*sePvdd)
+
+# width of VVD
+3.92*seVVD2 # 1.96 * 2
+3.92*sePvdd # Pvdd width
+
+# or in number of seats (informative for next question)
+150*3.92*seVVD2 # ~6 seats!
+150*3.92*sePvdd # ~3 seats!
+# answer: the width is much smaller for the PvDD. This is because the variance is directly related to the proportion 
+# (and hence smaller)
+```
+
+
+4. Imagine that the PvdA would ask you to conduct a study for them. They don’t like the idea that estimates from samples are uncertain, and ask you to determine how large a sample should be so that the confidence interval is at most 4 seats (2.6%). Can you work out what the sample size should for a sample?
+
+```{r, include=F}
+sePvdA <- .026666/3.92
+# and now the sample size
+
+#sePvdA = sqrt(.*.85)/n) -> re-arrange
+(sqrt(.10*.90)/sePvdA)^2 # squaring to get to n
+# sample size = 1944
+
+```
+
+5.	After hearing your estimate, there is someone within the PvdA who has taken a statistics course, and has picked up that if you would use a different value for alpha the sample size would be different. 
+
+A)	What would the sample size be if you would use an alpha of .10? 
+
+```{r, include=F}
+# the width changes. With alpha =.10, the z-value is 1.645*2
+sePvdA2 <- .02666/(1.645*2)
+(sqrt(.10*.90)/sePvdA2)^2 # n= 1370
+```
+B)	And an alpha of .01?
+
+```{r, include=F}
+# the width changes. With alpha =.01 it is 2.58*2
+sePvdA3 <- .02666/(2.58*2)
+(sqrt(.10*.90)/sePvdA3)^2 # n= 3371
+```
+
+6.	Another way of expressing uncertainty is by using the margin of error, or the coefficient of variation. What would the required sample size need to be if the PvdA would stick to using an  of .05, but would ask you to instead of a confidence interval, use a margin of error of +- 1%,
+
+```{r,include=F}
+# MoE, means half the CI width = .01, which means the s.e = .01/1.96 (alpha = .05)
+sePvdA4 <- .01/1.96
+(sqrt(.10*.90)/sePvdA4)^2 # n= 3457
+```
+
+7.	Forming a government is a complicated matter that usually takes a lot of time and negotiations. Imagine the VVD would prefer to govern with the following three parties: CDA (14 seats), FvD (10 seats) and PVV (23 seats). Together the point estimate for the coalition would be 78, enough to form a government. Can you calculate the probability that such a coalition would indeed be able to achieve at least 76 seats? For now, assume that the votes for this bloc are independent of votes for another party. 
+
+```{r,include=F}
+# 78 seats = 78/1.5 = 52%
+# 76 seats = 76 / 1.5 = 50.6666%
+
+secoal <- sqrt(.52*.48/1500)
+
+# here you would like to do a Fisher exact test
+# there are functions for this in R, but for now, lets approximate with a z-test (as n is large)
+z<- (.52 - .5066666666)/secoal # z=1.03
+# p = .85 (look up)
+#or
+pnorm(z) # binomial distribution
+```
+
+
+
+
+

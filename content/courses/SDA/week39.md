@@ -24,13 +24,11 @@ Under a design-based model for inference, the process of drawing a sample is imp
 
 
 ## Slides
+[Slides](/files/SDA/lecture_week_39_SRS.pdf)
 
-TBA
 
 ## Exercises
 
-TBA
-
 ## Take home exercise
-
-TBA
+[R exercises](/files/SDA/take_home_exercises_week39.pdf)
+[R exercise solutions](/files/SDA/take_home_exercises_week39.Rmd)
