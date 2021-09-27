@@ -24,12 +24,14 @@ In practice, real surveys seldomly use a simple random sampling design. We will 
 
 ## Slides
 
-TBA
+[Slides](/files/SDA/lecture_week_40_unequal.pdf)
 
 ## Exercises
 
-TBA
+[R exercises](/files/SDA/class_exercise_week_40.pdf)
+[R exercise solutions](/files/SDA/class_exercise_week_40_answers.Rmd)
+
 
 ## Take home exercise
 
-TBA
+[R exercises](/files/SDA/take_home_exercise_week_40.pdf)
