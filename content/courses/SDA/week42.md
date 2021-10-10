@@ -18,20 +18,21 @@ We discuss two popular estimation methods that are often used in cluster and mul
 
 <ins>Before class, make sure to finish last week's take home exercise.</ins>
 
-<ins>Additionally, you are required to prepare for the class discussion. For this week, find out what auxiliary data (at the sample level) is available for the survey you reviewed in week 40, and bring a list of auxiliary data to class. Think about about the following question (after reading the literature): would it be a good idea for your survey to use ratio/regression estimation if you are interested in estimating one of the variables of interest in your survey?</ins>
 
 ## Literature
 
-- Lohr chapters 4, 7
 - Stuart (1984) 71-90
 
 ## Slides
 
-TBA
+[Slides](/files/SDA/lecture_week_42_regression.pdf)  
 
 ## Exercises
 
-TBA
+[R exercise ratio estimation](/files/SDA/class_exercise_week_42(1).pdf)  
+[R exercise ratio estimation solutions](/files/SDA/class_exercise_week_42(1)_answers.Rmd)  
+[R exercise regression estimation](/files/SDA/class_exercise_week_42(2).pdf)  
+[R exercise regression estimation solutions](/files/SDA/class_exercise_week_42(2)_answers.Rmd)  
 
 ## Take home exercise (for week 44)
 
