@@ -28,7 +28,7 @@ In practice, real surveys seldomly use a simple random sampling design. We will 
 
 ## Exercises
 
-[R exercises](/files/SDA/class_exercise_week_40.pdf)
+[R exercises](/files/SDA/class_exercise_week_40.pdf)  
 [R exercise solutions](/files/SDA/class_exercise_week_40_answers.Rmd)
 
 
