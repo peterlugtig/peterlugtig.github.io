@@ -31,14 +31,16 @@ Every survey suffers from nonresponse. Nonresponse rates are often large and are
 
 ## Slides
 
-TBA
+[Slides](/files/SDA/lecture_week_44_nonresponse.pdf)  
 
 ## Exercises
 
-TBA
+[R exercise weighting](/files/SDA/class_exercise_week_44.pdf)  
+[R exercise weighting solutions](/files/SDA/class_exercise_week_44_answers.Rmd)  
+[data for R exercise](/files/SDA/ESSR5_HUSK.RDS)  
 
 ## Take home exercise
 
-Prepare for the exam.
+Finish the class exercises.
 
 
