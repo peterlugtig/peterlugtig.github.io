@@ -21,10 +21,20 @@ Topic: in practice, nonresponse weights should be developed keeping in mind what
 -	Kreuter, F. (2013). Improving surveys with paradata: Introduction. Improving surveys with paradata: Analytic uses of process information, 1-9.
 
 **Lecture:** introduction to paradata. 
+## Slides
+[Slides](/files/SDA/lecture_week_45_designing_weights.pdf)
 
-**Class exercise:** discussion about possible weighting variables given different dependent variables that are often of interest to scientists (e.g. voting behavior, attitudes towards vaccination).
+##CLass Exercises
+Discussion about possible weighting variables given different dependent variables that are often of interest to scientists (e.g. voting behavior, health, finances) + an exercise where you develop weights for a survey.
 
-**Take home Exercise:** R exercises where you develop your own weights for a survey conducted in the Netherlands.
+[Class discussion weighting variables](/files/SDA/class_exercise_week_45(1).pdf)  
+[R exercise weighting](/files/SDA/class_exercise_week_45(2).pdf)  
+[R exercise weighting solutions](/files/SDA/class_exercise_week_45(2)_answers.Rmd)  
+[sample data for R exercise](/files/SDA/unit_non_response_information.RDS)  
+[respondent data for R exercise](/files/SDA/responders_data.RDS)  
+
+##Take home Exercise: 
+Finish the weighting exercise
 
 
 **Before week 46**
