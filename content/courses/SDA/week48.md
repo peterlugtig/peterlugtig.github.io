@@ -25,14 +25,13 @@ Mixed-mode surveys are almost inevitable today, especially for academic research
 
 ## Slides
 
-TBA
+[Slides](/files/SDA/lecture_week_48_mixedmode.pdf)
 
 ## Exercises
-
-TBA
+Class exercise on designing mixed-mode questions
+[Class Exercise](/files/SDA/class_exercise_week_48.pdf)
 
 ## Take home exercise
-
-TBA
+None. Prepare reading for next week
 
 
