@@ -18,19 +18,23 @@ In week 42 we discussed model-assisted survey inference. This week we go one ste
 
 ## Literature
 
-- Meng
-- Cornesse, C., Blom, A. G., Dutwin, D., Krosnick, J. A., De Leeuw, E. D., Legleye, S., … & Struminskaya, B. (2020). A Review of Conceptual Approaches and Empirical Evidence on Probability and Nonprobability Sample Survey Research. Journal of Survey Statistics and Methodology.
+-	Meng, X. L. (2018). Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election. The Annals of Applied Statistics, 12(2), 685-726.  
+-  Cornesse, C., Blom, A. G., Dutwin, D., Krosnick, J. A., De Leeuw, E. D., Legleye, S., ... & Struminskaya, B. (2020). A Review of Conceptual Approaches and Empirical Evidence on Probability and Nonprobability Sample Survey Research. Journal of Survey Statistics and Methodology.  
+- Mercer, A. W., Kreuter, F., Keeter, S., & Stuart, E. A. (2017). Theory and practice in nonprobability surveys: parallels between causal inference and survey inference. Public Opinion Quarterly, 81(S1), 250-271.  
+
 
 ## Slides
 
-TBA
+[Slides](/files/SDA/lecture_week_49_nonprob.pdf)
 
-## Exercises
+## Class and Take home exercises
 
-TBA
+[Class Exercise](/files/SDA/class_exercise_week_48.pdf)
+[Survey data](/files/SDA/PEW nonprob samples.RDS)
+[Population data](/files/SDA/PEW population data.RDS)
+[Mass imputaion population](/files/SDA/complete USA population with matched survey results.RDS)
 
-## Take home exercise
 
-TBA
+
 
 
