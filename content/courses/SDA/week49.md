@@ -29,10 +29,10 @@ In week 42 we discussed model-assisted survey inference. This week we go one ste
 
 ## Class and Take home exercises
 
-[Class Exercise](/files/SDA/class_exercise_week_48.pdf)
-[Survey data](/files/SDA/PEW nonprob samples.RDS)
-[Population data](/files/SDA/PEW population data.RDS)
-[Mass imputaion population](/files/SDA/complete USA population with matched survey results.RDS)
+[Class Exercise](/files/SDA/class_exercise_week_48.pdf)  
+[Survey data](/files/SDA/PEW nonprob samples.RDS)  
+[Population data](/files/SDA/PEW population data.RDS)  
+[Mass imputaion population](/files/SDA/complete USA population with matched survey results.RDS)  
 
 
 
