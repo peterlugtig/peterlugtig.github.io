@@ -3,7 +3,7 @@
 
 title: "Testing the Effects of Automated Navigation in a General Population Web Survey"
 authors: [Bakker, J., Haan, M., Schouten, J.G., Lugtig, P., Toepoel, V., Struminskaya, B., Giessen, D. and Meertens, V. ]
-date: 2021-12-13T00:00:00+01:00
+date: 2022-01-16T00:00:00+01:00
 doi: "doi: 10.12758/mda.2021.10"
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Methods, Data, Analysis*, 1-21"
+publication: "*Methods, Data, Analysis*, pp. 107-128"
 publication_short: 
 
 abstract: "This study investigates how an auto-forward design, where respondents navigate through a  web survey automatically, affects response times and navigation behavior in a long mixed- device web survey. We embedded an experiment in a health survey administered to the  general population in The Netherlands to test the auto-forward design against a manual-forward design. Analyses are based on detailed paradata that keep track of the respondents’ behavior in navigating the survey. 
