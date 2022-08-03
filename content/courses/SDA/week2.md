@@ -1,7 +1,7 @@
 ---
-date: "July 04, 2021"
+date: "`r Sys.Date()`"
 draft: false
-linktitle: "Week 38 - Total Survey Error and Modes"
+linktitle: "Week 2 - Total Survey Error and Modes"
 menu:
   SDA:
     parent: Survey Data Analysis

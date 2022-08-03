@@ -1,7 +1,7 @@
 ---
-date: "July 04, 2021"
+date: "`r Sys.Date()`"
 draft: false
-linktitle: "Week 39 - Simple random sampling"
+linktitle: "Week 3 - Simple random sampling"
 menu:
   SDA:
     parent: Survey Data Analysis

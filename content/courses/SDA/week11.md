@@ -1,7 +1,7 @@
 ---
-date: "July 05, 2021"
+date: "`r Sys.Date()`"
 draft: false
-linktitle: "week 47 - Missing data II"
+linktitle: "week 11 - Missing data II"
 menu:
   SDA:
     parent: Survey Data Analysis

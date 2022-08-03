@@ -1,7 +1,7 @@
 ---
-date: "July 05, 2021"
+date: "`r Sys.Date()`"
 draft: false
-linktitle: "week 48 - Survey modes: Design and estimation"
+linktitle: "week 12 - Survey modes: Design and estimation"
 menu:
   SDA:
     parent: Survey Data Analysis

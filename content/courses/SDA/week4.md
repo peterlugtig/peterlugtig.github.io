@@ -1,7 +1,7 @@
 ---
-date: "July 04, 2021"
+date: "`r Sys.Date()`"
 draft: false
-linktitle: "Week 40 - Stratified and cluster sampling"
+linktitle: "Week 4 - Stratified and cluster sampling"
 menu:
   SDA:
     parent: Survey Data Analysis

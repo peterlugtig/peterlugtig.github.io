@@ -1,5 +1,5 @@
 ---
-date: "July 05, 2021"
+date: "`r Sys.Date()`"
 draft: false
 linktitle: "week 03 -Hand in written report"
 menu:

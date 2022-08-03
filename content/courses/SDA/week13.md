@@ -1,7 +1,7 @@
 ---
-date: "July 05, 2021"
+date: "`r Sys.Date()`"
 draft: false
-linktitle: "Week 49 - Inference for non-probability surveys"
+linktitle: "Week 13 - Inference for non-probability surveys"
 menu:
   SDA:
     parent: Survey Data Analysis

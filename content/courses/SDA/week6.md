@@ -1,7 +1,7 @@
 ---
-date: "July 05, 2021"
+date: "`r Sys.Date()`"
 draft: false
-linktitle: "Week 42 - Model assisted survey estimation"
+linktitle: "Week 6 - Model assisted survey estimation"
 menu:
   SDA:
     parent: Survey Data Analysis

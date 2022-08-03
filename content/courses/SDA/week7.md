@@ -1,7 +1,7 @@
 ---
-date: "July 04, 2021"
+date: "`r Sys.Date()`"
 draft: false
-linktitle: "Week 43 - Class-free week"
+linktitle: "Week 7 - Class-free week"
 menu:
   SDA:
     parent: Survey Data Analysis

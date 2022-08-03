@@ -1,7 +1,7 @@
 ---
-date: "July 05, 2021"
+date: "`r Sys.Date()`"
 draft: false
-linktitle: "Week 50 - Designed Big Data"
+linktitle: "Week 14 - Designed Big Data"
 menu:
   SDA:
     parent: Survey Data Analysis

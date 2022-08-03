@@ -1,7 +1,7 @@
 ---
-date: "July 05, 2021"
+date: "`r Sys.Date()`"
 draft: false
-linktitle: "Week 44 - Nonresponse and weighting"
+linktitle: "Week  -8 Nonresponse and weighting"
 menu:
   SDA:
     parent: Survey Data Analysis
