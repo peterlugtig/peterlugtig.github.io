@@ -25,11 +25,16 @@ There are many steps in this process where bias or error can be introduced. The 
 - Groves, R. M., & Lyberg, L. (2010). Total survey error: Past, present, and future. Public opinion quarterly, 74(5), 849-879.
 - Biemer, P. P. (2010). Total survey error: Design, implementation, and evaluation. Public Opinion Quarterly, 74(5), 817-848.
 
-## Slides
-
+## Lecture
+Total Survey error and survey modes
 [Slides](/files/SDA/lecture_week_38_TSE.pdf)
 
+## Class exercise
+- What survey mode would you use (joint exercise)
+- Review the U.S. presidential election data. What is error and bias across survey modes?
+
 ## Take Home Exercise
+Drawing simple random samples. Bring your results to the next class.
 
 [Take Home Exercise](/files/SDA/take_home_exercise_week_38.pdf)  
 [R code](/files/SDA/take_home_exercise_week_38.r)  

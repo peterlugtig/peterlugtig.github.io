@@ -12,24 +12,15 @@ type: docs
 weight: 11
 ---
 
-## Introduction
+##Lecture: 
+We discuss why multiple imputation is the state of the art technique for drawing valid inferences from incomplete data.  
 
-We dive deeper into multiple imputation and explore multivariate imputation, passive imputation and imputation problems where the focus lies on finding plausible imputations when there is some restriction posed on the imputation model.
+[slides]
 
-## Literature
+##Exercise in class: 
+R exercise where we find the answer to a scientific question of interest on incomplete data via multiple imputation with the R package mice. 
 
-- Chapters 4-5 from S. van Buuren. Flexible Imputation of Missing Data. Second Edition. CRC/Chapman & Hall, FL: Boca Raton, 2018. Freely available from https://stefvanbuuren.name/fimd/
-
-## Slides
-
-TBA
-
-## Exercises
-
-TBA
-
-## Take home exercise
-
-TBA
+##Take Home Exercise (prepare for week ): 
+Finish the missing data exercises
 
 

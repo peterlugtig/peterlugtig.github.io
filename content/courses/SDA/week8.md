@@ -29,12 +29,12 @@ Every survey suffers from nonresponse. Nonresponse rates are often large and are
 - Bethlehem, J. G., & Keller, W. J. (1987). Linear weighting of sample survey data. Journal of official Statistics, 3(2), 141-153.
 - Lynn (1996) Weighting for nonresponse. Survey and Statistical Computing 1996, edited by R. Banks
 
-## Slides
-
+## Lecture
+We discuss how nonresponse can be assessed and nonresponse correction factors (weights) can be computed based on either target population or sample frame data. We discuss weighting by poststratification, linear weighting and raking. 
 [Slides](/files/SDA/lecture_week_44_nonresponse.pdf)  
 
-## Exercises
-
+## Class exercise
+R exercise to work with Nonresponse weights: In this exercise you learn how to work with existing nonresponse weights in R using the survey package.
 [R exercise weighting](/files/SDA/class_exercise_week_44.pdf)  
 [R exercise weighting solutions](/files/SDA/class_exercise_week_44_answers.Rmd)  
 [data for R exercise](/files/SDA/ESSR5_HUSK.RDS)  

@@ -22,7 +22,8 @@ Today, we will practice with using R for doing survey analysis, with a focus on 
 
 There is no new literature for this week. However, if you are behind on the readings from previous weeks, you can use this week to catch up.
 
-## Slides
+## Lecture
+There are no new materials, but the slides of this week are used to show how mixes of clustering and stratified designs can be used in practice Apart from specifying the specific survey design using clustering and stratification variables in R, correct inferences can also be done by directly using the inclusion probabilities of sample elements into the survey design. The Horvitz-Thompson estimator formalizes this idea, and can also be used in R directly. You will compute probabilities, and use these in R.
 
 [Slides](/files/SDA/lecture_week_41_together.pdf)  
 

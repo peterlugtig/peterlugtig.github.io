@@ -23,12 +23,15 @@ Under a design-based model for inference, the process of drawing a sample is imp
 - Stuart (1984) until page 34
 
 
-## Slides
+## Lecture
+In the lecture we will review the basic idea of simple random sampling. We discuss sampling with/without replacement and their effects. We will also discuss the population size (finite population), and introduce the idea of estimators. 
 [Slides](/files/SDA/lecture_week_39_SRS.pdf)
 
 
-## Exercises
+## Class exercise
+Drawing samples in R. We will discuss the basic idea of sampling, and how this can be done in R. The results from everyone's sample will be used to produce a sampling distribution that will be used to illustrate the concepts of bias and error again
 
 ## Take home exercise
+Statistical software packages assume that the data you use reflect a simple random sample and it is not necessary to tell the software how you drew the sample. In later weeks in the course, when we discuss more complex sampling procedures, you need to "tell" the software what sampling design you used. You will practice with specifying a general survey design in R using the data you generated in the class exercise.
 [R exercises](/files/SDA/take_home_exercise_week39.pdf)  
 [R exercise solutions](/files/SDA/take_home_exercise_week39.Rmd)

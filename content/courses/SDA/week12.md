@@ -23,8 +23,8 @@ Mixed-mode surveys are almost inevitable today, especially for academic research
 - Kolenikov, S., & Kennedy, C. (2014). Evaluating Three Approaches to Statistically Adjust for Mode Effects. Journal of Survey Statistics and Methodology, 2(2).
 
 
-## Slides
-
+## Lecture
+In the lecture we discuss the design of mixed-mode surveys and its implications.
 [Slides](/files/SDA/lecture_week_48_mixedmode.pdf)
 
 ## Exercises

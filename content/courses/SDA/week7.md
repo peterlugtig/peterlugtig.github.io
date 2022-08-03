@@ -14,4 +14,6 @@ weight: 7
 
 ![](/files/SDA/class_free.gif)
 
-Enjoy your free week!
+Enjoy your class-free week!
+
+Catch up on readings and exercises. Review parts of lectures/exercises again that you found difficult.

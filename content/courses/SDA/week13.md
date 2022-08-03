@@ -23,16 +23,17 @@ In week 42 we discussed model-assisted survey inference. This week we go one ste
 - Mercer, A. W., Kreuter, F., Keeter, S., & Stuart, E. A. (2017). Theory and practice in nonprobability surveys: parallels between causal inference and survey inference. Public Opinion Quarterly, 81(S1), 250-271.  
 
 
-## Slides
-
+## Lecture
+We review the U.S. presidential dataset again. How does one design a good inference model? The Total Survey Error Model is reviewed, with a focus on non-probability based datasets
 [Slides](/files/SDA/lecture_week_49_nonprob.pdf)
 
 ## Class and Take home exercises
+Can you model? We introduce a short competition. Who can design the best model? 
 
 [Class Exercise](/files/SDA/class_exercise_week_48.pdf)  
 [Survey data](/files/SDA/PEW nonprob samples.RDS)  
 [Population data](/files/SDA/PEW population data.RDS)  
-[Mass imputaion population](/files/SDA/complete USA population with matched survey results.RDS)  
+[Mass imputation population](/files/SDA/complete USA population with matched survey results.RDS)  
 
 
 
