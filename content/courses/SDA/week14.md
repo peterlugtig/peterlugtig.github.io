@@ -23,6 +23,7 @@ The increasing volume of Big Data produced by sensors and smart devices can tran
 
 ##Lecture:
 In the lecture, we will discuss the types of Big Data, how types of errors from the Total Survey Error relate to Big Data, and how to combine survey data with Big Data sources.
+[Slides](/files/SDA/week 14 - designed big data/lecture_week_10.pdf)
 
 ## Class Exercise:
 You will design a scenario that combines survey data with one or several Big Data sources.

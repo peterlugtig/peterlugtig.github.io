@@ -33,7 +33,7 @@ If you have questions about course materials, please contact the instructor who 
 | Stef van Buuren | [s.vanbuuren@uu.nl](mailto:s.vanbuuren@uu.nl) | office C.119 Mo |
 | Gerko Vink | [g.vink@uu.nl](mailto:g.vink@uu.nl) | office C.124 Mo-Fri |
 | Bella Struminskaya | [b.struminskaya@uu.nl](mailto:b.struminskaya@uu.nl) | office C.116 Mo-Fri |
-
+| Philip Brenner |[p.s.brenner@uu.nl](mailto:p.s.brenner@uu.nl) | office TBA Mo-Fri|
 
 
 
@@ -124,7 +124,7 @@ All course materials will be available on the course website: [www.peterlugtig.c
 
 ## The impact of Covid-19 on the course
 
-Normally, teaching happens physically. In 2021, the course was organized fully on-location, and the idea (as of of summer 2022) is to deliver the course in person again. We will however occasionally use Microsoft Teams to meet up in (sub) groups, especially in the 2nd half of the course. 
+Normally, teaching happens physically, on location in Utrecht. In 2021, the course was organized fully on-location, and the idea (as of of summer 2022) is to deliver the course in person again. We may however occasionally use Microsoft Teams to meet up in (sub) groups, especially in the 2nd half of the course. 
 
 This is usually about the point where most students have stopped reading the course manual, and search for the grading and homework sections. If you do end up actually reading this sentence (good on you!) please send me a picture of some ice cream :-)
 
@@ -182,9 +182,9 @@ Students need to get a 5.5 at the minimum for the two assignments, and achieve a
 | ---- | ------------------ | ----------------- |
 |Obtain knowledge and skills in designing and applying survey research methods |	DD1	|	(Take home) exercises week 1-8,9-14<br>Assignment 1 |
 | Understand the most important elements of design-based and model-based inference |	DD1	|	(Take home) exercises week 1,2 <br>Assignment 1 |
-| Understand trade-offs between bias, variance, and costs of survey sampling designs |	DD2	|	(Take home) exercises week 1,2,7 <br>Assignment 1 |
-| Understand the impact of survey design features on survey error and survey bias |	DD3	|	(Take home) exercises week 1,2,7-10 <br>Assignment 2 |
-| Obtain knowledge on survey data collection methods | DD1 | (Take home) exercises week 1,2,7-10<br>Assignment 2 |
+| Understand trade-offs between bias, variance, and costs of survey sampling designs |	DD2	|	(Take home) exercises week 1,2,8 <br>Assignment 1 |
+| Understand the impact of survey design features on survey error and survey bias |	DD3	|	(Take home) exercises week 1,2,8-10 <br>Assignment 2 |
+| Obtain knowledge on survey data collection methods | DD1 | (Take home) exercises week 1,2,8-10<br>Assignment 2 |
 | Apply the understanding of the methods discussed in the course to critically analyse an existing complex survey data survey | DD3, DD5	|	Group assignment in week 15 |
 | Understand how to perform the analysis in cases of missing data (item and unit-nonresponse) |	DD2	|	(Take home) exercises week 9-10<br>Assignment 2<br>Group assignment in week 15 |
 | Analyze survey data using the statistical software R | DD2 | (Take home) exercises week 3-5,8-10<br>Group assignment in week 15 |
@@ -197,15 +197,15 @@ Students need to get a 5.5 at the minimum for the two assignments, and achieve a
 | 1	 | 5/09	| Two models of inference: Design vs. model based |	American election survey dataset.<br>Exercises	| Adopt a survey | https://www.technologyreview.com/2020/02/14/844770/pollsters-got-it-wrong-in-the-2016-election-now-they-want-another-shot/ https://www.politico.com/news/2020/06/17/trump-polls-biden-324210  |
 | 2 | 12/09 | Total Survey Error and modes |	Error and bias exercise in R | What is TSE in survey of your choice? | Groves, R. M., & Lyberg, L. (2010). Total survey error: Past, present, and future. Public opinion quarterly, 74(5), 849-879. <br>  Biemer, P. P. (2010). Total survey error: Design, implementation, and evaluation. Public Opinion Quarterly, 74(5), 817-848. |
 | 3 | 19/09 | Simple random sampling | Sampling exercise | Setting up Svydesign in R (learn R)	| Stuart (1984) until page 34 |
-| 4 | 26/09 | Stratified and cluster sampling | R exercises | Sampling design of adopted survey |  Stuart (1984) p. 35-71 |
-| 5 | 3/10 | R practical on svydesign | R exercise	| More R exercises |	`Assignment 1: due 9/10` |
-| 6 | 10/10 | Model assisted survey estimation | R exercise | R exercises | Stuart (1984) 71-90 |
+| 4| 26/09 |	No class	      |            |               |         |
+| 5 | 3/10 | Stratified and cluster sampling | R exercises | Sampling design of adopted survey |  Stuart (1984) p. 35-71 
+ |6 | 10/10  R practical on svydesign | R exercise	| More R exercises |	`Assignment 1: due friday 21/10` |
 | 7 | 17/10 | Class-free week | | | |
-| 8 | 24/10 | Nonresponse and weighting | R exercise part 1 | R exercise part 2 | De Leeuw, E., Hox, J., & Luiten, A. (2018). International nonresponse trends across countries and years: an analysis of 36 years of Labour Force Survey data. Survey Methods: Insights from the Field, 1-11 <br> Kalton, G., & Flores-Cervantes, I. (2003). Weighting methods. Journal of official statistics, 19(2), 81.  |
-| 9 | 31/10 | Developing weights | Class Exercise: which variables| R exercises |<br> Brick, J. M. (2013). Unit nonresponse and weighting adjustments: A critical review. Journal of Official Statistics, 29(3), 329-353. <br> Optional: Bethlehem, J. G., & Keller, W. J. (1987). Linear weighting of sample survey data. Journal of official Statistics, 3(2), 141-153. <br> Optional: Lynn (1996) Weighting for nonresponse. Survey and Statistical Computing 1996, edited by R. Banks  |
-| 10 | 07/11 | Missing data 1 |	R exercise | R exercise |	Chapters 1-3 from S. van Buuren. Flexible Imputation of Missing Data. Second Edition. CRC/Chapman & Hall, FL: Boca Raton, 2018. |
-| 11 | 14/11 | Missing data 2 |	R exercise | R exercise	| Chapters 4-5 from S. van Buuren. Flexible Imputation of Missing Data. Second Edition. CRC/Chapman & Hall, FL: Boca Raton, 2018. <br> `Assignment 2 due: Friday 20/11` |
-| 12 | 21/11 | Modes | Students discuss alternatives to the mixed-mode presentations of their peers | Students prepare in groups a presentation about the mixed-mode implications of their dataset | De Leeuw, E.D. (2018). Mixed-Mode: Past, Present, and Future. Survey Research Methods, 12, 2, 75-89. https://ojs.ub.uni-konstanz.de/srm/article/view/7402/6582 <br> Toepoel, de Leeuw & Hox (2019). Single- and mixed-mode survey data collection. Sage Research Methods foundations (on blackboard) <br> Kolenikov, S., & Kennedy, C. (2014). Evaluating Three Approaches to Statistically Adjust for Mode Effects. Journal of Survey Statistics and Methodology, 2(2). |
+| 8 | 24/10 | Model assisted survey estimation | R exercise | R exercises | Stuart (1984) 71-90 |
+| 9 | 31/10 | Nonresponse and weighting | R exercise part 1 | R exercise part 2 | De Leeuw, E., Hox, J., & Luiten, A. (2018). International nonresponse trends across countries and years: an analysis of 36 years of Labour Force Survey data. Survey Methods: Insights from the Field, 1-11 <br> Kalton, G., & Flores-Cervantes, I. (2003). Weighting methods. Journal of official statistics, 19(2), 81.  
+| 10 | 07/11 |Developing weights | Class Exercise: which variables| R exercises |<br> Brick, J. M. (2013). Unit nonresponse and weighting adjustments: A critical review. Journal of Official Statistics, 29(3), 329-353. <br> Optional: Bethlehem, J. G., & Keller, W. J. (1987). Linear weighting of sample survey data. Journal of official Statistics, 3(2), 141-153. <br> Optional: Lynn (1996) Weighting for nonresponse. Survey and Statistical Computing 1996, edited by R. Banks  |
+| 11 | 14/11 | Missing data 1 |	R exercise | R exercise |	Chapters 1-3 from S. van Buuren. Flexible Imputation of Missing Data. Second Edition. CRC/Chapman & Hall, FL: Boca Raton, 2018. |
+| 12 | 21/11 | Missing data 2 |	R exercise | R exercise	| Chapters 4-5 from S. van Buuren. Flexible Imputation of Missing Data. Second Edition. CRC/Chapman & Hall, FL: Boca Raton, 2018. <br> `Assignment 2 due: wednesday 30/11` |
 | 13 | 28/11 | Non-prob inference | | | Little, R.J. (2004). To model or not to model? Competing modes of inference for finite population sampling. Journal of the American Statistical Association, 99, 546-556. <br> https://www.youtube.com/watch?v=RIHGjjnE-jA <br> Cornesse, C., Blom, A. G., Dutwin, D., Krosnick, J. A., De Leeuw, E. D., Legleye, S., ... & Struminskaya, B. (2020). A Review of Conceptual Approaches and Empirical Evidence on Probability and Nonprobability Sample Survey Research. Journal of Survey Statistics and Methodology. <br>	Meng, X. L. (2018). Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election. The Annals of Applied Statistics, 12(2), 685-726. <br> https://www.politico.com/news/2020/06/17/trump-polls-biden-324210 |
 | 14 | 05/12 | Designed big data | Work out a scenario of combining surveys with passive data | Analysis of passively collected data in R | Biemer Paul B., Edith de Leeuw et al. (eds.) (2017). Total Survey Error in Practice. Available through UU library (DOI:10.1002/9781119041702) <br> Chapter 3 - Big Data: A Survey Research Perspective <br> Chapter 2  - Total Twitter Error. John Wiley & Sons |
 | 15 | 12/12 | Presentations | `Hand in with written feedback on Jan 15` | | Build a presentation <br> Peer-review <br> Discussion meeting |

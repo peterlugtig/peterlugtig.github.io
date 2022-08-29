@@ -14,7 +14,7 @@ weight: 13
 
 ## Introduction
 
-In week 42 we discussed model-assisted survey inference. This week we go one step further and discuss model-based approaches. A statistical model is used as the basis for performing inference; inclusion probabilities no longer play a role.
+In week 8 we discussed model-assisted survey inference. This week we go one step further and discuss model-based approaches. A statistical model is used as the basis for performing inference; inclusion probabilities no longer play a role.
 
 ## Literature
 
@@ -25,15 +25,15 @@ In week 42 we discussed model-assisted survey inference. This week we go one ste
 
 ## Lecture
 We review the U.S. presidential dataset again. How does one design a good inference model? The Total Survey Error Model is reviewed, with a focus on non-probability based datasets
-[Slides](/files/SDA/lecture_week_49_nonprob.pdf)
+[Slides](/files/SDA/week 13 - non-prob inference/lecture_week_13.pdf)
 
 ## Class and Take home exercises
 Can you model? We introduce a short competition. Who can design the best model? 
 
-[Class Exercise](/files/SDA/class_exercise_week_48.pdf)  
-[Survey data](/files/SDA/PEW nonprob samples.RDS)  
-[Population data](/files/SDA/PEW population data.RDS)  
-[Mass imputation population](/files/SDA/complete USA population with matched survey results.RDS)  
+[Class Exercise](/files/SDA/week 13 - non-prob inference/exercise_non_probability_based_adjustment.pdf)  
+[Survey data](/files/SDA/week 13 - non-prob inference/PEW nonprob samples.RDS)  
+[Population data](/files/SDA/week 13 - non-prob inference/PEW population data.RDS)  
+[Mass imputation population](/files/SDA/week 13 - non-prob inference/complete USA population with matched survey results.RDS)  
 
 
 

@@ -1,12 +1,12 @@
 ---
 date: "`r Sys.Date()`"
 draft: false
-linktitle: "Week 6 - Model assisted survey estimation"
+linktitle: "Week 6 - R practical on svydesign"
 menu:
   SDA:
     parent: Survey Data Analysis
     weight: 6
-title: "Model assisted survey estimation"
+title: "R practical on svydesign"
 toc: true
 type: docs
 weight: 6
@@ -14,34 +14,27 @@ weight: 6
 
 ## Introduction
 
-Topic: We discuss two popular estimation methods that are often used in cluster and multistage sampling designs: Ratio and Regression estimation. The goal of these estimation methods is to make the estimation of a statistic of interest (e.g. mean) more efficient by using auxiliary variables. Inference is here not only using the inclusion probabilities anymore, but inference is being assisted by the use of a statistical model. We introduce the idea of model-assisted inference. 	
+Today, we will practice with using R for doing survey analysis, with a focus on stratified and clustered designs.We will also cover the HT estimator as a way to deal with complex survey designs.
 
-
-
-<ins>Before class, make sure to finish last week's take home exercise.</ins>
-
+<ins>Before class, make sure to finish the take home exercise of previous week.</ins>
 
 ## Literature
 
-- Stuart (1984) 71-90
--	Lohr chapters 4, 7
--	Finish the take home exercise
--	Preparation for class discussion: find out what auxiliary data (at the sample level) is available for the survey you reviewed in week 1/4, and bring a list of auxiliary data to class. Think about the following question (after reading the literature): would it be a good idea for your survey to use ratio/regression estimation is you are interested in estimating one of the variables of interest in your survey? 
+There is no new literature for this week. However, if you are behind on the readings from previous weeks, you can use this week to catch up.
 
+## Lecture
+There are no new materials, but the slides of this week are used to show how mixes of clustering and stratified designs can be used in practice Apart from specifying the specific survey design using clustering and stratification variables in R, correct inferences can also be done by directly using the inclusion probabilities of sample elements into the survey design. The Horvitz-Thompson estimator formalizes this idea, and can also be used in R directly. You will compute probabilities, and use these in R.
 
-## Slides
-We discuss a practical and fictitious example where data are clustered to illustrate why ratio/regression estimation is sometimes so attractive. The bias-variance trade-off as a concept is discussed and illustrated.  
-[Slides](/files/SDA/lecture_week_42_regression.pdf)  
+[Slides](/files/SDA/week 6 - R practical/lecture_week_6.pdf)  
 
-## Class exercises
-Set up a ratio and/or regression estimation model for a cluster sample dataset	
-[R exercise ratio estimation](/files/SDA/class_exercise_week_42(1).pdf)  
-[R exercise ratio estimation solutions](/files/SDA/class_exercise_week_42(1)_answers.Rmd)  
-[R exercise regression estimation](/files/SDA/class_exercise_week_42(2).pdf)  
-[R exercise regression estimation solutions](/files/SDA/class_exercise_week_42(2)_answers.Rmd)  
+## Exercises
 
-## Take home exercise (for week 8)
+[R exercise other statistics](/files/SDA/week 6 - R practical/computing-other-statistics-than-the-mean.pdf)  
+[R exercise other statistics solutions](/files/SDA/week 6 - R practical/computing other statistics than the mean.Rmd)  
+[R exercise HT estimator](/files/SDA/week 6 - R practical/exercise-probs_designweights.pdf)  
+[R exercise HT estimator solutions](/files/SDA/week 6 - R practical/exercise-probs-designweights.Rmd)  
+[R exercise stratified cluster](/files/SDA/week 6 - R practical/combinations_of_clusters_stratification.pdf)  
+[R exercise stratified cluster solutions](/files/SDA/week 6 - R practical/combinations_of_clusters_stratification.Rmd)  
 
-Catch up on readings and exercises. Review parts of lectures/exercises again that you found difficult.
-
-
+## Take home exercise
+[R exercises](/files/SDA/week 6 - R practical/take_home_exercise_week_6.pdf)  

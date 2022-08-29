@@ -1,12 +1,12 @@
 ---
 date: "`r Sys.Date()`"
 draft: false
-linktitle: "Week  -8 Nonresponse and weighting"
+linktitle: "Week 8 - Model assisted survey estimation"
 menu:
   SDA:
     parent: Survey Data Analysis
     weight: 8
-title: "Nonresponse and weighting"
+title: "Model assisted survey estimation"
 toc: true
 type: docs
 weight: 8
@@ -14,33 +14,34 @@ weight: 8
 
 ## Introduction
 
-Every survey suffers from nonresponse. Nonresponse rates are often large and are thought to be often the largest source of survey error. As long as information for the entire population or sample is available, nonresponse error can to some degree be assessed and adjusted for.
+Topic: We discuss two popular estimation methods that are often used in cluster and multistage sampling designs: Ratio and Regression estimation. The goal of these estimation methods is to make the estimation of a statistic of interest (e.g. mean) more efficient by using auxiliary variables. Inference is here not only using the inclusion probabilities anymore, but inference is being assisted by the use of a statistical model. We introduce the idea of model-assisted inference. 	
+
+
+
+<ins>Before class, make sure to finish last week's take home exercise.</ins>
+
 
 ## Literature
 
-#### Required readings
+- Stuart (1984) 71-90
+-	Lohr chapters 4, 7
+-	Finish the take home exercise
+-	Preparation for class discussion: find out what auxiliary data (at the sample level) is available for the survey you reviewed in week 1/4, and bring a list of auxiliary data to class. Think about the following question (after reading the literature): would it be a good idea for your survey to use ratio/regression estimation is you are interested in estimating one of the variables of interest in your survey? 
 
-- de Leeuw, E., Hox, J., & Luiten, A. (2018). International nonresponse trends across countries and years: an analysis of 36 years of Labour Force Survey data. Survey Methods: Insights from the Field, 1-11.
-- Kalton, G., & Flores-Cervantes, I. (2003). Weighting methods. Journal of official statistics, 19(2), 81.
-- Brick, J. M. (2013). Unit nonresponse and weighting adjustments: A critical review. Journal of Official Statistics, 29(3), 329-353.
 
-#### Optional readings
+## Slides
+We discuss a practical and fictitious example where data are clustered to illustrate why ratio/regression estimation is sometimes so attractive. The bias-variance trade-off as a concept is discussed and illustrated.  
+[Slides](/files/SDA/week 8 - model assisted estimation/lecture_week_8.pdf)  
 
-- Bethlehem, J. G., & Keller, W. J. (1987). Linear weighting of sample survey data. Journal of official Statistics, 3(2), 141-153.
-- Lynn (1996) Weighting for nonresponse. Survey and Statistical Computing 1996, edited by R. Banks
+## Class exercises
+Set up a ratio and/or regression estimation model for a cluster sample dataset	
+[R exercise ratio estimation](/files/SDA/week 8 - model assisted estimation/ratio-estimation.pdf)  
+[R exercise ratio estimation solutions](/files/SDA/week 8 - model assisted estimation/ratio estimation.Rmd)
+[R exercise regression estimation](/files/SDA/week 8 - model assisted estimation/regression-estimation.pdf)  
+[R exercise regression estimation solutions](/files/SDA/week 8 - model assisted estimation/regression estimation.Rmd)  
 
-## Lecture
-We discuss how nonresponse can be assessed and nonresponse correction factors (weights) can be computed based on either target population or sample frame data. We discuss weighting by poststratification, linear weighting and raking. 
-[Slides](/files/SDA/lecture_week_44_nonresponse.pdf)  
+## Take home exercise (for week 9)
 
-## Class exercise
-R exercise to work with Nonresponse weights: In this exercise you learn how to work with existing nonresponse weights in R using the survey package.
-[R exercise weighting](/files/SDA/class_exercise_week_44.pdf)  
-[R exercise weighting solutions](/files/SDA/class_exercise_week_44_answers.Rmd)  
-[data for R exercise](/files/SDA/ESSR5_HUSK.RDS)  
-
-## Take home exercise
-
-Finish the class exercises.
+Catch up on readings and exercises. Review parts of lectures/exercises again that you found difficult.
 
 

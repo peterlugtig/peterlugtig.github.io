@@ -27,7 +27,7 @@ There are many steps in this process where bias or error can be introduced. The 
 
 ## Lecture
 Total Survey error and survey modes
-[Slides](/files/SDA/lecture_week_38_TSE.pdf)
+[Slides](/files/SDA/week 2 - TSE/lecture_week_2.pdf)
 
 ## Class exercise
 - What survey mode would you use (joint exercise)
@@ -36,6 +36,6 @@ Total Survey error and survey modes
 ## Take Home Exercise
 Drawing simple random samples. Bring your results to the next class.
 
-[Take Home Exercise](/files/SDA/take_home_exercise_week_38.pdf)  
-[R code](/files/SDA/take_home_exercise_week_38.r)  
-[Simulation Cards](/files/SDA/simulation_SRS_cards.r)
+[Take Home Exercise](/files/SDA/week 2 - TSE/take_home_exercise_week_2.pdf)  
+[R code](/files/SDA/week 2 - TSE/take_home_exercise_week_2.r)  
+[Simulation Cards](/files/SDA/week 2 - TSE/simulation_SRS_cards.r)

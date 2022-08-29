@@ -1,12 +1,12 @@
 ---
 date: "`r Sys.Date()`"
 draft: false
-linktitle: "Week 10 - Missing data I"
+linktitle: "Week 10 - Designing weights"
 menu:
   SDA:
     parent: Survey Data Analysis
     weight: 10
-title: "Missing data I"
+title: "Designing weights"
 toc: true
 type: docs
 weight: 10
@@ -14,24 +14,31 @@ weight: 10
 
 ## Introduction
 
-Missing data form a ubiquitous source of problems that most scientists or researchers cannot escape. For example, in survey applications, such as in social sciences or in official statistics, where vast amounts of data are collected, respondents often neglect to answer one or more items. A state of the art solution for this problem is multiple imputation. With imputation, some estimation procedure is used to impute (fill in) each missing datum, resulting in a completed dataset that can be analyzed as if the data were completely observed. When only one value is imputed (single imputation), uncertainty about the imputations is not reflected in the imputed data set and specific methods for variance estimation that take imputed values into account need to be employed. As a more versatile way to solve this, uncertainty about the imputed values can be taken into account by performing multiple imputation (MI). With MI, each missing datum is imputed m times, resulting in m completed datasets. At least 2 imputations are warranted to reflect the uncertainty about the imputations, although performing more imputations is often advisable. The m datasets are then analyzed by standard procedures and the analyses are combined into a single inference.
+Topic: in practice, nonresponse weights should be developed keeping in mind what the dependent variable is. In situations where many variables asked among respondents are also available for the population, there are many possible nonresponse weighting models. In this week, we will focus on the question of how to develop nonresponse weights. We discuss the concept of paradata.
 
-## Literature
+##Literature: 
+-	Brick, J. M. (2013). Unit nonresponse and weighting adjustments: A critical review. Journal of Official Statistics, 29(3), 329-353.
+-	Kreuter, F. (2013). Improving surveys with paradata: Introduction. Improving surveys with paradata: Analytic uses of process information, 1-9.
 
-- Chapters 1-3 from S. van Buuren. Flexible Imputation of Missing Data. Second Edition. CRC/Chapman & Hall, FL: Boca Raton, 2018. Freely available from https://stefvanbuuren.name/fimd/
+##Lecture: 
+introduction to paradata. 
+[Slides](/files/SDA/week 10 - designing weights/lecture_week_10.pdf)
 
-## Lecture
-We discuss why multiple imputation is the state of the art technique for drawing valid inferences from incomplete data.
+##CLass Exercises
+Discussion about possible weighting variables given different dependent variables that are often of interest to scientists (e.g. voting behavior, health, finances) + an exercise where you develop weights for a survey.
 
-[slides]TBA
+[Class discussion weighting variables](/files/SDA/week 10 - designing weights/Class exercise thinking weighting variables.pdf)  
+[R exercise weighting](/files/SDA/week 10 - designing weights/exercise_designing_weights.pdf)  
+[R exercise weighting solutions](/files/SDA/week 10 - designing weights/exercise designing weights.Rmd)  
+[sample data for R exercise](/files/SDA/week 10 - designing weights/unit_non_response_information.RDS)  
+[respondent data for R exercise](/files/SDA/week 10 - designing weights/responders_data.RDS)  
 
-## Exercises
-R exercise where use the R package mice to multiply impute an incomplete data set. 
+##Take home Exercise: 
+Finish the weighting exercise
 
-TBA
 
-## Take home exercise
+#### Before week 11
 
-TBA
+For the final assignment you will work in a group of about 4 (+- 1) on a real-life dataset. The goal is to apply all the materials covered in the course, answer a substantive research question and solve a real-life challenge covers an advanced problem in survey research. You will receive an e-mail on your @students.uu.nl account with more information about group membership, the assignment itself and your group members this week.
 
 
