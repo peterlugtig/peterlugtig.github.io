@@ -26,16 +26,16 @@ Optional:
 
 ## Lecture
 Two models for inference. The 21st-century war in survey science.
-[Slides](/files/SDA/week 1 - two models of inference/lecture_week_1.pdf)
+[Slides](/files/SDA/week1/lecture_week_1.pdf)
 
 ## Exercisesy
 Analyse presidential polls for the U.S. election. What type of poll was better at predicting the U.S. election? Introduction of the key terms: error and bias
 
-[Class exercise](/files/SDA/week 1 - two models of inference/class_exercise_week_1.pdf)
+[Class exercise](/files/SDA/week1/class_exercise_week_1.pdf)
 
 ## Take home exercise
 Adopt a survey. Every student will adopt one survey (from a longlist). Every survey comes with documentation on the survey design, as well as survey dataset. on this in weeks 1-6), and then correct for unit- and item nonresponse for this survey. 
 There is a longlist of suggestions of surveys to adopt in the exercise. You may choose your own survey, but be aware that data access is not always easily organized and may take some time.
 
-[Take home exercise](/files/SDA/week 1 - two models of inference/take_home_exercise_week_1.pdf)
+[Take home exercise](/files/SDA/week1/take_home_exercise_week_1.pdf)
 

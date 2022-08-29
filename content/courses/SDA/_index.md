@@ -77,11 +77,11 @@ By the end of the course students will:
 
 ## Literature
 
-<ins>Books Weeks 1-9:</ins>
+<ins>Books Weeks 1-10:</ins>
 
 - Stuart, Alan (1984). The ideas of sampling. Available online. Do not buy this book before the course starts and wait for instructions on how to obtain it.
 
-<ins>Book for missing data (weeks 46,47)</ins>
+<ins>Book for missing data (weeks 11,12)</ins>
 
 - Van Buuren, Stef (2018). [Flexible Imputation of Missing Data](https://stefvanbuuren.name/publication/2018-01-01_vanbuuuren2018/). CRC/Chapman & Hall, FL: Boca Raton. Freely available from [https://stefvanbuuren.name/fimd/](https://stefvanbuuren.name/fimd/).
 
@@ -112,11 +112,11 @@ This book should be available for under $50. There are 2 versions of the 2nd edi
 
 ## Preparation and course structure
 
-The study load for this course is 210 hours (28 hours per EC). There are 15 weeks (week 37-51 with a class-free in week 43) with meetings in which we expect the average workload per week to be 12 hours. The remaining 30 hours should be spent preparing for the course, and/or finishing the final report after week 51. Some students may not need to prepare for the course, and some students will probably not need to work on the final report after week 51.
+The study load for this course is 210 hours (28 hours per EC). There are 13 weeks of classes with meetings in which we expect the average workload per week to be 12 hours. The remaining 30 hours should be spent preparing for the course, catching up on materials in weeks with no class, and/or finishing the final report after the lectures have ended. Some students may not need to prepare for the course, and some students will probably not need to work on the final report after lectures have finalized.
 
 ## Expected time investment
 
-The course load is expected to be 12 hours per week on average. Every week has a 3-hour in-person meeting. These meetings will generally combine a lecture (approx. 75 min) a break (15 min), and one or more class exercises (90 minutes). Before every lecture, students need to: (1) read articles and/or book chapters in some detail (3 hours), and (2) prepare a take home exercise (2 hours), while sometimes, class exercises will need to be finished or reviewed prior to the meeting (1 hour). The remaining 3 hours per week are to be spent on preparing and reviewing class materials for the exam (week 45), or working on the final assignment (week 51). Please note that these time estimates are average estimates. They may vary by person or by week.
+The course load is expected to be 12 hours per week on average. Every week has a 3-hour in-person meeting. These meetings will generally combine a lecture (approx. 75 min) a break (15 min), and one or more class exercises (90 minutes). Before every lecture, students need to: (1) read articles and/or book chapters in some detail (3 hours), and (2) prepare a take home exercise (2 hours), while sometimes, class exercises will need to be finished or reviewed prior to the meeting (1 hour). The remaining 3 hours per week are to be spent on preparing and reviewing class materials for the assignments. Please note that these time estimates are average estimates. They may vary by person or by week.
 
 Students are expected to read the literature before attending the respective meeting. Please plan the time to actually do this. Meetings will be much more productive and reach a higher level if everyone comes prepared for the meeting.
 
@@ -164,14 +164,14 @@ This book is aimed at constructing a sample design; determination of sample size
 
 Two individual assignments (each 25% of your grade). The average of the two assignments should not be lower than 5.50. 
 
--	Assignment 1 comprises weeks 37-41 and is focused on sampling designs in surveys. It combines some theoretical questions about the analysis of a fictitious dataset on icecream sales in Italy. We will here test your understanding of the theory of sampling, implications for sample design, and doing some basic analyses in R. You can opt to do this exercise in pairs.
--	Assignment 2 comprises the materials of weeks 42-47. You here have to correct for both unit- and item nonresponse for an adopted survey. The goal of this assignment is to independently work through the survey documentation of a real-life survey to understand how the survey was designed with a focus on the sampling design, fieldwork and nonresponse. There are some exercises to prepare for this assignment in weeks 37-44.
+-	Assignment 1 comprises weeks 1-8 and is focused on sampling designs in surveys. It combines some theoretical questions about the analysis of a fictitious dataset on icecream sales in Italy. We will here test your understanding of the theory of sampling, implications for sample design, and doing some basic analyses in R. You can opt to do this exercise in pairs.
+-	Assignment 2 comprises the materials of weeks 9-12. You here have to correct for both unit- and item nonresponse for an adopted survey. The goal of this assignment is to independently work through the survey documentation of a real-life survey to understand how the survey was designed with a focus on the sampling design, fieldwork and nonresponse. There are some exercises to prepare for this assignment in weeks 1-6.
 
 Final group assignment (50% of final grade)
 
 - A final assignment is a presentation of a group (of about four members), which concerns a survey data analysis using techniques discussed in the course. The final assignment will make up 50% of the final grade. The presentation and a technical report (showing how results are obtained in R), are included in the grading. Group work is supposed to reflect the work of all group members and each member should contribute to improve the level of the work. Inform the teacher when a member is not willing to contribute to the group work or is not investing enough effort and/or time. 
 
-A group presentation is due at the final meeting of the course in week 51. The final report is due before Monday January 15, 17:00. Both are part of the final assignment.
+A group presentation is due at the final meeting of the course in week 15. The final report is due before Monday January 16, 17:00. Both are part of the final assignment.
 
 Students need to get a 5.5 at the minimum for the two assignments, and achieve a weighted average of at least 5.5 as a final grade in order to pass the course. If a student does not make the minimum grade, there will be additional assignment that will allow the student to pass the course. Deadlines and requirements for any additional assignment will be discussed with the individual student.
 
@@ -208,8 +208,8 @@ Students need to get a 5.5 at the minimum for the two assignments, and achieve a
 | 12 | 21/11 | Missing data 2 |	R exercise | R exercise	| Chapters 4-5 from S. van Buuren. Flexible Imputation of Missing Data. Second Edition. CRC/Chapman & Hall, FL: Boca Raton, 2018. <br> `Assignment 2 due: wednesday 30/11` |
 | 13 | 28/11 | Non-prob inference | | | Little, R.J. (2004). To model or not to model? Competing modes of inference for finite population sampling. Journal of the American Statistical Association, 99, 546-556. <br> https://www.youtube.com/watch?v=RIHGjjnE-jA <br> Cornesse, C., Blom, A. G., Dutwin, D., Krosnick, J. A., De Leeuw, E. D., Legleye, S., ... & Struminskaya, B. (2020). A Review of Conceptual Approaches and Empirical Evidence on Probability and Nonprobability Sample Survey Research. Journal of Survey Statistics and Methodology. <br>	Meng, X. L. (2018). Statistical paradises and paradoxes in big data (I): Law of large populations, big data paradox, and the 2016 US presidential election. The Annals of Applied Statistics, 12(2), 685-726. <br> https://www.politico.com/news/2020/06/17/trump-polls-biden-324210 |
 | 14 | 05/12 | Designed big data | Work out a scenario of combining surveys with passive data | Analysis of passively collected data in R | Biemer Paul B., Edith de Leeuw et al. (eds.) (2017). Total Survey Error in Practice. Available through UU library (DOI:10.1002/9781119041702) <br> Chapter 3 - Big Data: A Survey Research Perspective <br> Chapter 2  - Total Twitter Error. John Wiley & Sons |
-| 15 | 12/12 | Presentations | `Hand in with written feedback on Jan 15` | | Build a presentation <br> Peer-review <br> Discussion meeting |
-| 03	| 14/01 |	`Final assignment due at 17:00` | | | |
+| 15 | 12/12 | Presentations | | | Build a presentation <br> Peer-review <br> Discussion meeting |
+| 03	| 16/01 |	`Final assignment due at 17:00` | | | |
 
 
 --- 
