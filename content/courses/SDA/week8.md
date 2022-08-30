@@ -31,14 +31,14 @@ Topic: We discuss two popular estimation methods that are often used in cluster 
 
 ## Slides
 We discuss a practical and fictitious example where data are clustered to illustrate why ratio/regression estimation is sometimes so attractive. The bias-variance trade-off as a concept is discussed and illustrated.  
-[Slides](/files/SDA/week 8 - model assisted estimation/lecture_week_8.pdf)  
+[Slides](/files/SDA/week8/lecture_week_8.pdf)  
 
 ## Class exercises
 Set up a ratio and/or regression estimation model for a cluster sample dataset	
-[R exercise ratio estimation](/files/SDA/week 8 - model assisted estimation/ratio-estimation.pdf)  
-[R exercise ratio estimation solutions](/files/SDA/week 8 - model assisted estimation/ratio estimation.Rmd)
-[R exercise regression estimation](/files/SDA/week 8 - model assisted estimation/regression-estimation.pdf)  
-[R exercise regression estimation solutions](/files/SDA/week 8 - model assisted estimation/regression estimation.Rmd)  
+[R exercise ratio estimation](/files/SDA/week8/ratio-estimation.pdf)  
+[R exercise ratio estimation solutions](/files/SDA/week8/ratio estimation.Rmd)
+[R exercise regression estimation](/files/SDA/week8/regression-estimation.pdf)  
+[R exercise regression estimation solutions](/files/SDA/week8/regression estimation.Rmd)  
 
 ## Take home exercise (for week 9)
 

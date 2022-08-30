@@ -1,7 +1,7 @@
 ---
 date: "`r Sys.Date()`"
 draft: false
-linktitle: "Week 10 - Designing weights"
+linktitle: "week10"
 menu:
   SDA:
     parent: Survey Data Analysis
@@ -22,16 +22,16 @@ Topic: in practice, nonresponse weights should be developed keeping in mind what
 
 ##Lecture: 
 introduction to paradata. 
-[Slides](/files/SDA/week 10 - designing weights/lecture_week_10.pdf)
+[Slides](/files/SDA/week10/lecture_week_10.pdf)
 
 ##CLass Exercises
 Discussion about possible weighting variables given different dependent variables that are often of interest to scientists (e.g. voting behavior, health, finances) + an exercise where you develop weights for a survey.
 
-[Class discussion weighting variables](/files/SDA/week 10 - designing weights/Class exercise thinking weighting variables.pdf)  
-[R exercise weighting](/files/SDA/week 10 - designing weights/exercise_designing_weights.pdf)  
-[R exercise weighting solutions](/files/SDA/week 10 - designing weights/exercise designing weights.Rmd)  
-[sample data for R exercise](/files/SDA/week 10 - designing weights/unit_non_response_information.RDS)  
-[respondent data for R exercise](/files/SDA/week 10 - designing weights/responders_data.RDS)  
+[Class discussion weighting variables](/files/SDA/week10/Class exercise thinking weighting variables.pdf)  
+[R exercise weighting](/files/SDA/week10/exercise_designing_weights.pdf)  
+[R exercise weighting solutions](/files/SDA/week10/exercise designing weights.Rmd)  
+[sample data for R exercise](/files/SDA/week10/unit_non_response_information.RDS)  
+[respondent data for R exercise](/files/SDA/week10/responders_data.RDS)  
 
 ##Take home Exercise: 
 Finish the weighting exercise

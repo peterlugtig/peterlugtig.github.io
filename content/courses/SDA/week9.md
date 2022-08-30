@@ -31,13 +31,13 @@ Every survey suffers from nonresponse. Nonresponse rates are often large and are
 
 ## Lecture
 We discuss how nonresponse can be assessed and nonresponse correction factors (weights) can be computed based on either target population or sample frame data. We discuss weighting by poststratification, linear weighting and raking. 
-[Slides](/files/SDA/week 9 - nonresponse/lecture_week_44.pdf)  
+[Slides](/files/SDA/week9/lecture_week_44.pdf)  
 
 ## Class exercise
 R exercise to work with Nonresponse weights: In this exercise you learn how to work with existing nonresponse weights in R using the survey package.
-[R exercise weighting](/files/SDA/week 9 - nonresponse/class_exercise_week_9.pdf)  
-[R exercise weighting solutions](/files/SDA/week 9 - nonresponse/class_exercise_week_9_answers.Rmd)  
-[data for R exercise](/files/SDA/week 9 - nonresponse/ESSR5_HUSK.RDS)  
+[R exercise weighting](/files/SDA/week9/class_exercise_week_9.pdf)  
+[R exercise weighting solutions](/files/SDA/week9/class_exercise_week_9_answers.Rmd)  
+[data for R exercise](/files/SDA/week9/ESSR5_HUSK.RDS)  
 
 ## Take home exercise
 

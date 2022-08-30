@@ -14,7 +14,7 @@ weight: 15
 
 ## Introduction
 
-In week 46 of the course, groups of about 4 people are formed, who will together work on the final assignment. The final assignment is based on the work of these 4 people. You will get a real-life dataset and have to solve a research question for this dataset. Every dataset will have one unique challenge that will vary over each dataset. There will be datasets based on a non-probability sample, some datasets may have used mixed-mode data collection, some may have a complex set of nonresponse weights, some a complex missing data structure, and again another one may have collected mostly categorical data. The assignment will highlight what the specific challenge is of the dataset. More information will be available in the assignment itself.
+Around week 10 of the course, groups of about 4 people are formed, who will together work on the final assignment. The final assignment is based on the work of these 4 people. You will get a real-life dataset and have to solve a research question for this dataset. Every dataset will have one unique challenge that will vary over each dataset. There will be datasets based on a non-probability sample, some datasets may have used mixed-mode data collection, some may have a complex set of nonresponse weights, some a complex missing data structure, and again another one may have collected mostly categorical data. The assignment will highlight what the specific challenge is of the dataset. More information will be available in the assignment itself.
 
 ##  Prepare before class
 
