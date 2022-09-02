@@ -1,7 +1,7 @@
 ---
-date: "`r Sys.Date()`"
+date: "July 05, 2021"
 draft: false
-linktitle: "week10"
+linktitle: "Week 10 - Designing weights"
 menu:
   SDA:
     parent: Survey Data Analysis
@@ -22,22 +22,22 @@ Topic: in practice, nonresponse weights should be developed keeping in mind what
 
 ##Lecture: 
 introduction to paradata. 
-[Slides](/files/SDA/week10/lecture_week_10.pdf)
+[Slides](/files/SDA/lecture_week_45_designing_weights.pdf)
 
 ##CLass Exercises
 Discussion about possible weighting variables given different dependent variables that are often of interest to scientists (e.g. voting behavior, health, finances) + an exercise where you develop weights for a survey.
 
-[Class discussion weighting variables](/files/SDA/week10/Class exercise thinking weighting variables.pdf)  
-[R exercise weighting](/files/SDA/week10/exercise_designing_weights.pdf)  
-[R exercise weighting solutions](/files/SDA/week10/exercise designing weights.Rmd)  
-[sample data for R exercise](/files/SDA/week10/unit_non_response_information.RDS)  
-[respondent data for R exercise](/files/SDA/week10/responders_data.RDS)  
+[Class discussion weighting variables](/files/SDA/class_exercise_week_45(1).pdf)  
+[R exercise weighting](/files/SDA/class_exercise_week_45(2).pdf)  
+[R exercise weighting solutions](/files/SDA/class_exercise_week_45(2)_answers.Rmd)  
+[sample data for R exercise](/files/SDA/unit_non_response_information.RDS)  
+[respondent data for R exercise](/files/SDA/responders_data.RDS)  
 
 ##Take home Exercise: 
 Finish the weighting exercise
 
 
-#### Before week 11
+#### Before week 10
 
 For the final assignment you will work in a group of about 4 (+- 1) on a real-life dataset. The goal is to apply all the materials covered in the course, answer a substantive research question and solve a real-life challenge covers an advanced problem in survey research. You will receive an e-mail on your @students.uu.nl account with more information about group membership, the assignment itself and your group members this week.
 

@@ -28,8 +28,10 @@ We discuss why multiple imputation is the state of the art technique for drawing
 ## Exercises
 R exercise where use the R package mice to multiply impute an incomplete data set. 
 
+TBA
+
 ## Take home exercise
 
-Finish exercises 1-3 available on (www.gerkovink.com/sda)
+TBA
 
 

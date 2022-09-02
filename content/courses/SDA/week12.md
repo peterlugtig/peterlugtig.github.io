@@ -20,7 +20,7 @@ We discuss why multiple imputation is the state of the art technique for drawing
 ##Exercise in class: 
 R exercise where we find the answer to a scientific question of interest on incomplete data via multiple imputation with the R package mice. 
 
-##Take Home Exercise (prepare for week 13): 
-Finish the missing data exercises 4-6 on (www.gerkovink.com/sda)
+##Take Home Exercise (prepare for week ): 
+Finish the missing data exercises
 
 
