@@ -6,12 +6,12 @@ output: pdf_document
 menu:
   SDA:
     name: Survey Data Analysis
-summary: 'This course aims to give students a firm introduction in three broad, and
+summary: This course aims to give students a firm introduction in three broad, and
   related topics: (1) inference - how do we use small sets of data to produce knowledge
   about the world around us; (2) survey data analysis, in particular sampling and
   analyzing complex datasets; (3) survey design - why are surveys designed the way
   they are? The focus here is on the overall design of a study, not on the design
-  of individual survey questions.'
+  of individual survey questions.
 
 lastmod: `r Sys.Date()`
 toc: yes
