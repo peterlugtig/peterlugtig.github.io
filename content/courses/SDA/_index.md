@@ -6,12 +6,12 @@ output: pdf_document
 menu:
   SDA:
     name: Survey Data Analysis
-summary: 'This course aims to give students a firm introduction in three broad, and
+summary: This course aims to give students a firm introduction in three broad, and
   about the world around us; (2) survey data analysis, in particular sampling and
   analyzing complex datasets; (3) survey design - why are surveys designed the way
   they are? The focus here is on the overall design of a study, not on the design
-  of individual survey questions.'
-  related topics: (1) inference - how do we use small sets of data to produce knowledge
+  of individual survey questions.
+related topics: (1) inference - how do we use small sets of data to produce knowledge
 lastmod: `r Sys.Date()`
 toc: yes
 type: docs
@@ -125,7 +125,7 @@ Additional literature (to get more in-depth information during or after the cour
 
 -   Lohr, Sharon (2022). Sampling: Design and Analysis (3rd ed.). Boston: Brooks/Cole.
 
-This book should be available for under \$50. There are 2 versions of the 2nd edition (an alternative version published by Taylor & Francis); both are identical. Datasets and code (in `R`) referenced in the book are available through: <https://www.sharonlohr.com/sampling-design-and-analysis>.
+This book should be available for under \$50. There are 2 versions of the 2nd edition (an alternative version published by Taylor & Francis); both are identical that you could still use. Datasets and code (in `R`) referenced in the book are available through: <https://www.sharonlohr.com/sampling-design-and-analysis>.
 
 ## Preparation and course structure
 
