@@ -30,8 +30,9 @@ Total Survey error and survey modes
 [Slides](/files/SDA/week2/lecture_week_2.pdf)
 
 ## Class exercise
-- What survey mode would you use (joint exercise)
-- Review the U.S. presidential election data. What is error and bias across survey modes?
+- Review your adopted survey.
+- What TSE component would you focus on. What does this mean for survey design (joint exercise)
+[Class Exercise](/files/SDA/week2/class_exercise_week_2.pdf)
 
 ## Take Home Exercise
 Drawing simple random samples. Bring your results to the next class.
