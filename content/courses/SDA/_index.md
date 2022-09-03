@@ -1,21 +1,16 @@
 ---
-title: "Survey Data Analysis"
-draft: no
 date: "July 04, 2021"
-name: Survey Data Analysis
+draft: false
+lastmod: "`r Sys.Date()`"
+linktitle: Survey Data Analysis (MSBBSS01)
 menu:
   SDA:
-summary: This course aims to give students a firm introduction in three broad, and
-  related topics: (1) inference - how do we use small sets of data to produce knowledge
-  about the world around us; (2) survey data analysis, in particular sampling and
-  analyzing complex datasets; (3) survey design - why are surveys designed the way
-  they are? The focus here is on the overall design of a study, not on the design
-  of individual survey questions.
-lastmod: `r Sys.Date()`
-toc: yes
+    name: Survey Data Analysis
+summary: "This course aims to give students a firm introduction in three broad, and related topics: (1) inference - how do we use small sets of data to produce knowledge about the world around us; (2) survey data analysis, in particular sampling and analyzing complex datasets; (3) survey design - why are surveys designed the way they are? The focus here is on the overall design of a study, not on the design of individual survey questions."
+title: Survey Data Analysis
+toc: true
 type: docs
 weight: 1
-linktitle: Survey Data Analysis (MSBBSS01)
 ---
 
 ## Contact details of instructors
