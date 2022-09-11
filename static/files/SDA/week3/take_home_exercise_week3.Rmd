@@ -5,45 +5,58 @@ date: "16 July 2021"
 output: pdf_document
 
 ---
-This file is the product of an R Markdown file. If you are reading the pdf-file , open the .Rmd file as well in R just to see what R Markdown does. There is no need yet to understand exactly what R Markdown does. For now, the only thing that is worth knowing is that when you press "knit"  in R studio (and you have the right dataset in the same folder as the .Rmd file) you will get the .html file.
-You can also type text in the .Rmd file, and add R code snippets (or comment). Play around! More on R Markdown later in this course, and in the "Programming with R"  course.
+This file is the product of an R Markdown file (.Rmd). If you are reading the pdf-file , open the .Rmd file as well in R just to see what R Markdown does. There is no need yet to understand exactly what R Markdown does. For now, the only thing that is worth knowing is that when you press "knit"  in R studio (and you have the right dataset in the same folder as the .Rmd file) you will get the pdf. You can also ask ffor a html file by stating "output: html_document".
 
-Today we are going to learn:
-i) how to sample from data using simple random sampling (exercise 1), 
+The idea of a .Rmd file is that you can run R code (snippets) with comments in code, but also add text.
+Play around! More on R Markdown later in this course, and in the "Programming with R"  course. For now, you don't need to know how .Rmd works, but
+
+Because there is no lecture next week, there is a batch of exercises to be done:
+i) how to sample from data using simple random sampling, 
 ii) work with the {survey package} and
-iii) do some exercises (can be done by hand or in R) on sample size calculations
+iii) do some exercises ( by hand or in R) on sample size calculations
+iv) a further exercise on power calculations
+v) looking forward to next week - the sampling design of your adopted survey
 
 ---
 
 **Exercise 1 - Sampling**
 
-Open the `boys.RDS` (orginal .sav file also available). Inspect the variable labels and make yourself familiar with the dataset. The key variables in the dataset are the height and weight for *all* 738 boys under the age of 21 living in an imaginary county (gemeente) in the Netherlands in 2014. In other words, we have the whole population, and the idea is we explore different hypothetical ways to sample from this population.The dataset stems from a surveillance system, in which every child is seen every few years. The following measures are available:
+Open the `boys.RDS`. Inspect the variable labels and make yourself familiar with the dataset. The key variables in the dataset are the height and weight for *all* 738 boys under the age of 21 living in an imaginary county (gemeente) in the Netherlands in 2014. In other words, we have the whole population, and the idea is we explore different hypothetical ways to sample from this population.The dataset stems from a surveillance system, in which every child is seen every few years to measure various aspects of growth (like height, weight, but also onset of puberty). 
+The following measures are available:
 
-```{r, echo = F}
-vars <- data.frame("Variable" = colnames(dat),
-                   "Description" = c("Decimal age (0-21 years)",
-                                     "Height (cm)",
-                                     "Weight (kg)",
-                                     "Body Mass Index",
-                                     "Head circumference (cm)",
-                                     "Genital Tanner Stage (G1-G5)",
-                                     "Pubic hair (Tanner P1-P6)",
-                                     "Testicular volume (ml)",
-                                     "Town 1 to Town 5"))
-
-vars %>%
-    kable(caption = "Variables in the data") %>%
-    kable_styling(bootstrap_options = c("hover", "striped"))
-```
+Variable | Description | Type of Variable
+:-- | :-- | :-- 
+Age| age in years (0-21)  | Auxiliary
+hgt| Height (cm)| Auxiliary
+wgt | Weight (kg) | Auxiliary
+bmi| Body Mass Index| Auxiliary
+hc | Head circumference | Auxiliary
+gen | Genital Tanner Stage (G1-G5) | Target
+phb | Pubic hair (Tanner P1-P6)  | Target
+tv | Testicular volume (ml) | Target
+Town | Town 1 to Town 5 | Auxiliary
 
 Let's load the required libraries and the data file.
-Remember: if the data are stored in the same folder as your .R or .rmd file, it should load the data. If not, I always work with "R projects" (Google if interested in finding out more).
+
+** Intermezzo ** folders,data,projects
+Remember: if the data are stored in the same folder as your .R or .Rmd file, it should load the data using the read_rds function below. If not, your datafile is probably in a different folder. 
+To avoid hassle with datasets and files being in the wrong folder, I always work with "R projects". To start a new project, open in R studio:
+
+1) click on file -> New project
+2) Either create a new directory, or locate the directory where you are saving the datafiles for the "survey data analysis course'
+3) give the project a name, like "exercises week 3"
+
+R will now always link syntax (.r or .rmd files) and datafiles you use in this project to eachother, and keep Datasets that you loaded in your environment associated to the project linked. Handy!
+
+** end of Intermezzo **
+
+Run the code below to install and load the libararies needed for this exercise, as well as the dataset
 
 ```{R load_data, message = F}
-# install.packages("tidyverse")
-# install.packages("magrittr")
-# install.packages("survey")
-# install.packages("sampling")
+ #install.packages("tidyverse")
+ #install.packages("magrittr")
+ #install.packages("survey")
+ #install.packages("sampling")
 
 library(tidyverse)
 library(magrittr)
@@ -57,9 +70,7 @@ boys <- read_rds("boys.RDS")
 
 *Getting to know the population*
 
-1. The variable town consists of five towns in the county, numbered town1 to town5. Investigate how age is distributed over the towns and write down the respective numbers of cases in the following crosstable 
-(HINT: create a new variable `agecat` that indicates the age categories. 
-It is also useful to ask for row, column and total percentages for each cell in the crosstable; you'll need them later). 
+1. The variable town consists of five towns in the county, numbered town1 to town5. Investigate how age is distributed over the towns and write down the respective numbers of cases in the following crosstable. I first recode the variable 'age'  into a new categorical variable as shown in the code below.
 
 ```{R recode age} 
 # create agecat
@@ -71,7 +82,7 @@ boys$agecat[boys$age>=10] <- "over 10"
 boys$id <- 1:748
 ```
 
-and now create the crosstable:
+and now I create the crosstable, using both raw numbers, and proportions:
 
 ```{r create crosstable, results='hide'}
 table(boys$agecat,boys$town)
@@ -86,9 +97,9 @@ prop.table(table(boys$agecat,boys$town))
 |age >=10    |  89   |    55 |  121 |   87  |  37  |  389 |
 |total       | 191   |    81 |  239 |   161 | 79   | 745  |
 
-2. Based on the above table, if we would draw a single person at random, this person most likely would live in town 3  and most likely belongs to age category `age >= 10`. 
+2. Based on the above table, if we would draw a single person at random (using SRS), this person most likely would live in town 3  and most likely belongs to age category `age >= 10`. 
 
-3. Based on the above table, what would be the least likely combination of characteristics if we would draw a single person at random ? 
+3. Based on the above table, what would be the least likely combination of characteristics if we would draw a single person at random using SRS ? 
 
 ```{r answer, include=F}
 #answer: `town 5 between age 5-<10`
@@ -104,8 +115,8 @@ mean(boys$age) # specify what you want to compute
 *R code*
 
 ```{r draw a sample of 200}
-library(sampling) # see THE week 37
-set.seed=123 #for replication purposes
+library(sampling) # see THE week 2
+set.seed=123 #for replication purposes (so that we get the same results every time we run this syntax)
 boys$sample <-srswor(200,nrow(boys)) 
 # explanation: we add an indicator (0,1), that will be 1 for sample 200 cases 
 # we sample here WithOut Replacement (WOR). 
@@ -119,16 +130,17 @@ You can also View the dataset with the {View()} command.
 #View(boys)
 ```
 
-Now, lets compute the mean age of the child!     
+Now, lets compute the mean age of the children that we drew in our sample!     
     
 ```{r crosstable on sampled data, results='hide'}
-    srssample1 <- filter(boys,sample== 1)
+    srssample1 <- filter(boys,sample== 1) # selecting only the sampled boys
     # or write srssample1 <- boys[boys$sample==1]
     mean(srssample1$age)
-    mean(boys$age)-  mean(srssample1$age) # bias!
+    mean(boys$age)-  mean(srssample1$age) # error or bias!
 ```
 
-Please note that the small bias that we observe here is due to random sampling error. Every time we sample we will get a slightly different estimate for the mean, but averaged over an infinite amount of samples we can draw, the bias will be 0. We can estimate the size of the random error (and empirically establish that our estimator is indeed unbiased) by running this code many times (see lecture). 
+Please note that the small bias that we observe here is actually due to random sampling error (because we 'know' SRS is unbiased, the difference must be errror . 
+Every time we sample we will get a slightly different estimate for the mean, but averaged over an infinite amount of samples we can draw, the bias will be 0. We can estimate the size of the random error (and empirically establish that our estimator is indeed unbiased) by running this code many times (see lecture). 
 However, the Central Limit Theorem posits that we can simply predict the average error, and summarize this in the *standard error* statistic (s.e) .
 
 6. We would normally always like to get an estimate of the standard error with our estimate of interest (in this case of the mean). The standard error is equal to: sample standard deviation (square root of variance / sqrt(n). Compute the standard error of the mean by hand (or in R).
@@ -153,12 +165,12 @@ print(lowerbound,upperbound)
 \newpage
 **Exercise 2 - The survey package**
 
-Most statistical packages compute the s.e. for us assuming we always use a simple random sample. You have probably done this before.However, we will soon start using more complicated sampling designs, where computing the se. accurately is complicated, so I will show here how we can compute the *correct*  standard error for any design using the  {survey} package in R. The survey package can also deal with more complicated sampling designs quite easily. Although not needed yet now, I will also show how we can compute means across categories, compute a General Linear Model (ANOVA, regression), or plot the data using the {survey} package. You can in later weeks look back to this exercise to get inspiration for 
+Most statistical packages compute the s.e. for us assuming we always use a simple random sample. You have probably done this before. However, we will soon start using more complicated sampling designs, where computing the se. accurately is complicated, so I will show here how we can compute the *correct*  standard error for any design using the{survey} package in R. The survey package can also deal with more complicated sampling designs quite easily. Although not needed yet now, I will also show how we can compute means across categories, compute a General Linear Model (ANOVA, regression), or plot the data using the {survey} package. You don't need to remember all of these, but can return here.
 
-1. First, explore the Survey package by using the {help} function. 
+1. First, explore the {survey} package by using the {help} function. 
 
 ``` {r explore survey package}
-help(package="sampling")
+help(package="survey")
 ```
 
 2. The idea of the {survey} package is that you "tell" R what sampling design was used to generate a sample. The survey package will then compute accurate statistics for you, no matter how complicated your design is. There are there always two steps in analyses you do with the survey package:
@@ -171,17 +183,19 @@ This week we will stick with a simple random sample. You can tell this to R usin
 library(survey)
 SomeName <- svydesign(ids=~1,fpc=NULL,data=srssample1)
 ```
-The warning you get is normal and can be ignored. R "warns" us that our sample looks overly simple.
+The warning you get is normal and can be ignored. R "warns" us that our sample looks overly simple. It is!
 
 The elements in the function mean the following:
-ids=~1. Here, you tell R there is no id variable. If you have an id-variable for people in your dataset, you can define this here. Later, the {ids=~} important when we use cluster sampling
 
-fpc=... Here you need to specify the size of the population that your sample was drawn from, so that R knows how to apply the Finite Population Correction. We left this out for now (NULL), so we have assumed that the population is of infinte size (or, we do not apply fpc.)
+ids=~1. Here, you tell R there is no id variable. If you have an id-variable for people in your dataset, you can define this here. Later, the {ids=~} important when we use cluster sampling, for example when we have kids in schools.
+
+fpc=... Here you need to specify the size of the population that your sample was drawn from, so that R knows how to apply the Finite Population Correction. We left this out for now (NULL), so we have assumed that the population is of infinte size.
 
 data=... The original sample dataset.
 
 We would however like to use fpc correction. 
 We have to add the population size as a new variable to your dataset, and add that to the svydesign function.
+
 ``` {r include fpc, include=F}
 srssample1$popsize <- 748
 srs1 <-svydesign(ids=~1,fpc=srssample1$popsize,data=srssample1)
@@ -221,7 +235,7 @@ ggplot(data=subset(boys,sample==1),aes(y=wgt,x=hgt))+
 **bonus** only do this if you feel like it 
 
 5. There are many cases where you in practice want to sample with unequal probabilities. This is now no longer a Simple Random Sample! 
-Consider a case where we want to give older kids a higher probability to be included into the sample. In the case of our dataset, there will perhaps by more variation in how boys grow during puberty, and for that reason, we may want to 'oversample' older boys. We can do this formally using stratification, which we will discuss next week. Here we will for now use the cumulative probability-distribution of the variable age (pdf) to different inclusion probabilities.
+Consider a case where we want to give older kids a higher probability to be included into the sample. In the case of our dataset, there will perhaps by more variation in how boys grow during puberty, and for that reason, we may want to 'oversample' older boys. We can do this formally using stratification, which we will discuss next time. Here we will for now use the cumulative probability-distribution of the variable age (pdf) to different inclusion probabilities.
 
 ```{r diff inclusion probabilities}
 # add the pdf to the population using a logistic function
@@ -234,23 +248,42 @@ boys$id <- 1:nrow(boys)
 # the code below samples proportional to the probability distribution 
 # using the {sample} function from base R
 sample2 <- boys[sample(nrow(boys),200, prob=boys$ageincl),] 
+```
 
+6. Because we now gave boys who are older a higher probability to be included in our sample, our mean will be biased. 
+By how much?
+
+
+```{r biased mean}
 # The mean in our sample 2 is now biased! (why?)
 mean(sample2$age) # way too high as we want
+mean(sample2$age) - mean(boys$age)
+```
 
-# we now need to correct for the differences in inclusion probabilities!
-# we can do this in the survey package by including a {weight} variable that is the inverse 
-# of the inclusuon probabilities
+7. We would ideally like to be able to use our sample with unequal inclusion probabilities as well to say something about the population. The {survey} package can do this by includinga {weight} variable that is the inverse of the inclusuon probabilities.
+The code below shows how we can include the weight variable (called 'ageweight'), and how we can add this weight to the svydesign object. Note that we now give a new name to the {svydesign()} object, to distinguish that we have a different sample now.
 
+What is the bias in the mean if we specify the svydesign() object like this?
+
+```{r weighted analysis}
 # compute the inverse of ageweight to use as weight
 sample2$ageweight <- 1/sample2$ageincl
+hist(sample2$ageweight) 
 # specify the Svydesign object
 rsdesign2 <- svydesign(ids=~1, probs=NULL,strata=NULL,variables=NULL, fpc=sample2$popsize
                            ,weights=~ageweight,data=sample2) # notice the large error here
-svymean(~age,rsdesign2) 
-# Notice the increase in the se! We oversample a lot!
-hist(sample2$ageweight) 
+svymean(~age,rsdesign2) # this is again unbiased
+```
 
+** bonus **
+
+8. Perhaps you noticed that the standard error in question 7. was now much higher than before. We will talk about this next week in detail, but what we see here is a typical example of what in statistics is called the ' bias-variance' trade-off.
+We reduce bias by using weights, but because we do this, we increase the variances in our estimates. 
+
+This leaves you wondering perhaps why we would oversample at all (and every do something else than SRS). Often, we are forced to use more complicated sampling designs because of the lists we have (e.g. because of natural clustering), or because we can also manipulate inclusion probabilities to make our sample more efficient!
+
+The code below shows what is often done in cases the increase in variances is large: weight trimming. More on this in a later week.
+```{r variance inflation}
 # we may use trimming to reduce variance inflation here. 
 sample2$ageweighttrim <- sample2$ageweight
 sample2$ageweighttrim[sample2$ageweight>4] <- 4 
@@ -264,9 +297,6 @@ svymean(~age,rsdesign3)
 \newpage
 
 **Exercise 3 - sample size calculations, working with se**
-
-
-
 
 Imagine you are doing a survey to predict voting behavior in the upcoming Dutch elections (in March 2021). The Dutch electoral system is fully proportional, meaning that there is no threshold to acquire a seat in parliament. There are 150 seats, so whenever you reach 0.66% or a multiple thereof, you get a seat in parliament. For more info on the Dutch electoral system, see https://en.wikipedia.org/wiki/Elections_in_the_Netherlands
 
@@ -382,6 +412,39 @@ z<- (.52 - .5066666666)/secoal # z=1.03
 pnorm(z) # binomial distribution
 ```
 
+\newpage
+
+**Exercise 4 - More sample size calculations**
+
+You rarely get asked to do power calculations for descriptive statistics, like means or proportions. Much more common are power calculations in experimental settings. Imagine for example that in the biomedical sciences, a Randomized Control Trial (RCT) is designed to study the effect of a new type of medication to lower blood pressure. 
+
+The common treatment against bloodpressure (care as usual) is administering Medicine A: the average bloodpressure among patients who take this medication is 140/100 (systolic/diastolic), with a standard deviation of 15/10.
+
+The new medication (medicine B) is supposed to lower bloodpressure (both systolic/diastolic) with about 5 units. The standard deviation is supposed to remain about the same. The company bringing Medicine B to market comes to you with the question how many patients they should include in their RCT. 
+
+1) Although this exercise seems more complicated than the previous exercise, what we want to test for, is whether the difference in blood pressure (5 units) is significant. 
+
+```{}
+# R test
+
+```
+
+
+
+\newpage
+
+**Exercise 5 -  Sampling designs**
+
+(for this exercise it helps to first do the readings on stratified and cluster designs)
+
+In week 1, you adopted a survey. This week, you will work out for your adopted survey what the sampling plan is that was used. In practice, simple random samples are used rarely in surveys, and either stratification (to make the sample more efficient) or clustering (to make the sample cheaper) is used, sometimes in combination.
+
+We will see how we can deal with stratified and cluster designs next time, and how to deal with combinations of clustering and stratification the week after that in R. For this week (and part of assignment 2) try to work out what combination of stratification and clustering is used. In case you have adopted a multi-national survey, this is the point where you should focus on one country for your survey only.
+
+1) Find the documentation about sampling. For some surveys there may be a separate document explaining the sampling design, but for other surveys, you may have to work your way through a manual.
+
+2) Work out the sampling design. If that design is complex, it helps to make a drawing of the various stages. Start by writing down your target population and list that is used to sample (see take home exercise week 1). It is ok at this point if you come across terms you don't know, or unclarities in the sampling design. Surveys don't always describe their sampling designs in a good way (although they should) 
+Write down unclear terms that you encounter in the documentation and bring this list to class next time.
 
 
 

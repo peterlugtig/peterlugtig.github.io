@@ -22,6 +22,10 @@ In practice, real surveys seldomly use a simple random sampling design. We will 
 
 - Stuart (1984) p. 35-71
 
+Optional:
+- 
+- Lohr, S. (2022), Sampling: design and analysis, chapter 3 (stratified sampling) and 5 (cluster sampling)
+
 ## Lecture
 We start by discussing the Take home exercise. After this, we illustrate the benefits of stratification for survey efficiency and clustering for survey costs using example data. 
 [Slides](/files/SDA/lecture_week_40_unequal.pdf)
