@@ -1,27 +1,32 @@
 ---
-title: "SRS sampling"
+title: "Take Home exercises 'Simple Random Sampling'" 
 author: "Peter Lugtig"
-date: "16 July 2021"
+date: "`r Sys.Date()`"
 output: pdf_document
 
 ---
-This file is the product of an R Markdown file (.Rmd). If you are reading the pdf-file , open the .Rmd file as well in R just to see what R Markdown does. There is no need yet to understand exactly what R Markdown does. For now, the only thing that is worth knowing is that when you press "knit"  in R studio (and you have the right dataset in the same folder as the .Rmd file) you will get the pdf. You can also ask ffor a html file by stating "output: html_document".
+This file is the product of an R Markdown file (.Rmd). If you are reading the pdf-file , open the .Rmd file as well in R just to see what R Markdown does. There is no need yet to understand exactly how RMarkdown works. For now, the only thing that is worth knowing is that when you press "knit"  in R studio (and you have the right dataset in the same folder as the .Rmd file) you will produce the pdf. You can also ask for a html file by stating "output: html_document".
 
 The idea of a .Rmd file is that you can run R code (snippets) with comments in code, but also add text.
-Play around! More on R Markdown later in this course, and in the "Programming with R"  course. For now, you don't need to know how .Rmd works, but
+Scroll through the document! More on R Markdown in the "Programming with R" course. 
+For now, you don't need to know how .Rmd works, but know that examples and exercises in the Survey data Analysis course will be produced by an R markdown file, that contains the answers. You will find that for some R snippets results are 'hidden', or snippets are not included at all in the pdf. So you can check answers by running parts of the RMarkdown and/or comparing code to your code. Or, if you get stuck in R, you can use the R markdown for hints, or partial solutions. What also works quite well is that you take the RMarkdown files, and then change code, just to see what happens if you (for example) draw a larger sample, do that on a different population dataset, etc.
 
-Because there is no lecture next week, there is a batch of exercises to be done:
+Because there is no lecture next week, there is a batch of exercises to be done this week:
+
 i) how to sample from data using simple random sampling, 
-ii) work with the {survey package} and
+ii) work with the {survey} package and
 iii) do some exercises ( by hand or in R) on sample size calculations
-iv) a further exercise on power calculations
+iv) a further exercise on power and sample size calculations
 v) looking forward to next week - the sampling design of your adopted survey
 
 ---
 
 **Exercise 1 - Sampling**
 
-Open the `boys.RDS`. Inspect the variable labels and make yourself familiar with the dataset. The key variables in the dataset are the height and weight for *all* 738 boys under the age of 21 living in an imaginary county (gemeente) in the Netherlands in 2014. In other words, we have the whole population, and the idea is we explore different hypothetical ways to sample from this population.The dataset stems from a surveillance system, in which every child is seen every few years to measure various aspects of growth (like height, weight, but also onset of puberty). 
+Open the file `boys.RDS` (Google how to read .R files in R, or see the Markdown if you don't know how to do this). 
+Inspect the variable labels and make yourself familiar with the dataset. The key variables in the dataset are the height and weight for *all* 738 boys under the age of 21 living in an imaginary county (gemeente) in the Netherlands in 2014. In other words, we have the whole population, and the idea of this and future exercises is we explore different hypothetical ways to sample from this population, and then study the consequences for bias, error, and the MSE (see week 2).
+
+The dataset stems from a surveillance system, in which every child is seen every few years to measure various aspects of growth (like height, weight, but also onset of puberty). 
 The following measures are available:
 
 Variable | Description | Type of Variable
@@ -39,18 +44,18 @@ Town | Town 1 to Town 5 | Auxiliary
 Let's load the required libraries and the data file.
 
 ** Intermezzo ** folders,data,projects
-Remember: if the data are stored in the same folder as your .R or .Rmd file, it should load the data using the read_rds function below. If not, your datafile is probably in a different folder. 
+Remember: if the data are stored in the same folder as your .R or .Rmd file, it should load the data without the need to specify the exact folder. If  your file does not load, chances are that your datafile is in a different folder than you .r or .Rmd syntax. 
 To avoid hassle with datasets and files being in the wrong folder, I always work with "R projects". To start a new project, open in R studio:
 
 1) click on file -> New project
-2) Either create a new directory, or locate the directory where you are saving the datafiles for the "survey data analysis course'
+2) Either create a new directory, or locate the directory where you are saving the datafiles for the "survey data analysis" course.
 3) give the project a name, like "exercises week 3"
 
 R will now always link syntax (.r or .rmd files) and datafiles you use in this project to eachother, and keep Datasets that you loaded in your environment associated to the project linked. Handy!
 
 ** end of Intermezzo **
 
-Run the code below to install and load the libararies needed for this exercise, as well as the dataset
+Run the code below to install and load the libararies needed for this exercise, as well as the dataset. Then, load the data
 
 ```{R load_data, message = F}
  #install.packages("tidyverse")
@@ -63,6 +68,9 @@ library(magrittr)
 library(survey)
 library(sampling)
 
+```
+
+```{R load data, include=F}
 # and load the data
 boys <- read_rds("boys.RDS")
 ```
@@ -98,19 +106,18 @@ prop.table(table(boys$agecat,boys$town))
 |total       | 191   |    81 |  239 |   161 | 79   | 745  |
 
 2. Based on the above table, if we would draw a single person at random (using SRS), this person most likely would live in town 3  and most likely belongs to age category `age >= 10`. 
-
-3. Based on the above table, what would be the least likely combination of characteristics if we would draw a single person at random using SRS ? 
+Based on the above table, what would be the least likely combination of characteristics if we would draw a single person at random using SRS ? 
 
 ```{r answer, include=F}
 #answer: `town 5 between age 5-<10`
 ```
 
-4. What is the mean age in the population?
-```{R compute mean age, results='hide'}
+3. What is the mean age in the population?
+```{R compute mean age, include=F}
 mean(boys$age) # specify what you want to compute
 ```
  
-5. Randomly sample 200 cases (without replacement) from the dataset and recompute the mean for the sample only. How large is the difference in your population mean? What is (for your single sample) the estimate of the mean age of the child? 
+4. Randomly sample 200 cases (without replacement) from the dataset and recompute the mean for the sample only using the code below. How large is the difference in your population mean? What is (for your single sample) the estimate of the mean age of the child? 
 
 *R code*
 
@@ -143,14 +150,14 @@ Please note that the small bias that we observe here is actually due to random s
 Every time we sample we will get a slightly different estimate for the mean, but averaged over an infinite amount of samples we can draw, the bias will be 0. We can estimate the size of the random error (and empirically establish that our estimator is indeed unbiased) by running this code many times (see lecture). 
 However, the Central Limit Theorem posits that we can simply predict the average error, and summarize this in the *standard error* statistic (s.e) .
 
-6. We would normally always like to get an estimate of the standard error with our estimate of interest (in this case of the mean). The standard error is equal to: sample standard deviation (square root of variance / sqrt(n). Compute the standard error of the mean by hand (or in R).
+5. We would normally always like to get an estimate of the standard error with our estimate of interest (in this case of the mean). The standard error is equal to: sample standard deviation (square root of variance / sqrt(n). Compute the standard error of the mean by hand (or in R).
 
 ```{r compute se by hand, include=F}
 # the se. can also be computed by hand: ((var(x)) / sqrt(n) * sqrt(fpc)
 sesrssample1 <- sqrt(var(srssample1$age))/sqrt(nrow(srssample1))  * sqrt(1 - (nrow(srssample1)/nrow(boys)))
 ```
 
-7. Can you also compute the 95% CI of the mean for the variable age in our srs?
+6. Can you also compute the 95% CI of the mean for the variable age in our srs?
 
 ```{R Confidence interval, include=F}
 # confidence interval
@@ -165,7 +172,7 @@ print(lowerbound,upperbound)
 \newpage
 **Exercise 2 - The survey package**
 
-Most statistical packages compute the s.e. for us assuming we always use a simple random sample. You have probably done this before. However, we will soon start using more complicated sampling designs, where computing the se. accurately is complicated, so I will show here how we can compute the *correct*  standard error for any design using the{survey} package in R. The survey package can also deal with more complicated sampling designs quite easily. Although not needed yet now, I will also show how we can compute means across categories, compute a General Linear Model (ANOVA, regression), or plot the data using the {survey} package. You don't need to remember all of these, but can return here.
+Most statistical packages compute the s.e. for us assuming we always use a simple random sample. You have probably done this before. However, we will soon start using more complicated sampling designs, where computing the se. accurately is complicated, so I will show here how we can compute the *correct*  standard error for any design using the{survey} package in R. The survey package can also deal with more complicated sampling designs quite easily. Although not needed yet now, I will also show how we can compute means across categories, compute a General Linear Model (ANOVA, regression), or plot the data using the {survey} package. You don't need to remember all of these.
 
 1. First, explore the {survey} package by using the {help} function. 
 
@@ -178,7 +185,7 @@ help(package="survey")
 i. You tell R the structure of your sample using the {svydesign} function
 ii. You do some analysis
 
-This week we will stick with a simple random sample. You can tell this to R using the function:
+This week we will start with a simple random sample. You can tell this to R using the function:
 ``` {r svydesign basic}
 library(survey)
 SomeName <- svydesign(ids=~1,fpc=NULL,data=srssample1)
@@ -189,12 +196,12 @@ The elements in the function mean the following:
 
 ids=~1. Here, you tell R there is no id variable. If you have an id-variable for people in your dataset, you can define this here. Later, the {ids=~} important when we use cluster sampling, for example when we have kids in schools.
 
-fpc=... Here you need to specify the size of the population that your sample was drawn from, so that R knows how to apply the Finite Population Correction. We left this out for now (NULL), so we have assumed that the population is of infinte size.
+fpc=... Here you need to specify the size of the population that your sample was drawn from, so that R knows how to apply the Finite Population Correction. We left this out for now (NULL), so we have assumed that the population is of infinite size.
 
 data=... The original sample dataset.
 
-We would however like to use fpc correction. 
-We have to add the population size as a new variable to your dataset, and add that to the svydesign function.
+As a next step, lets indicate that our population is not of infinite size, but consists of 748 boys. 
+We have to add the population size as a new variable to your dataset, and add that variable to the svydesign function.
 
 ``` {r include fpc, include=F}
 srssample1$popsize <- 748
@@ -239,7 +246,7 @@ Consider a case where we want to give older kids a higher probability to be incl
 
 ```{r diff inclusion probabilities}
 # add the pdf to the population using a logistic function
-boys$ageincl <- (1 / (1 + exp(-boys$age)))*2-1
+boys$ageincl <- (1 / (1 + exp(-boys$age)))
 hist(boys$ageincl) # plot it
 # now sample using the sample function from base r
 set.seed=123 #for replication purposes
@@ -250,17 +257,17 @@ boys$id <- 1:nrow(boys)
 sample2 <- boys[sample(nrow(boys),200, prob=boys$ageincl),] 
 ```
 
+**bonus**
 6. Because we now gave boys who are older a higher probability to be included in our sample, our mean will be biased. 
 By how much?
 
-
 ```{r biased mean}
 # The mean in our sample 2 is now biased! (why?)
-mean(sample2$age) # way too high as we want
+mean(sample2$age) # way too high 
 mean(sample2$age) - mean(boys$age)
 ```
 
-7. We would ideally like to be able to use our sample with unequal inclusion probabilities as well to say something about the population. The {survey} package can do this by includinga {weight} variable that is the inverse of the inclusuon probabilities.
+7. We would ideally like to be able to use our sample with unequal inclusion probabilities as well to say something about the population. The {survey} package can do this by including a {weight} variable that is the inverse of the inclusion probabilities.
 The code below shows how we can include the weight variable (called 'ageweight'), and how we can add this weight to the svydesign object. Note that we now give a new name to the {svydesign()} object, to distinguish that we have a different sample now.
 
 What is the bias in the mean if we specify the svydesign() object like this?
@@ -270,29 +277,9 @@ What is the bias in the mean if we specify the svydesign() object like this?
 sample2$ageweight <- 1/sample2$ageincl
 hist(sample2$ageweight) 
 # specify the Svydesign object
-rsdesign2 <- svydesign(ids=~1, probs=NULL,strata=NULL,variables=NULL, fpc=sample2$popsize
-                           ,weights=~ageweight,data=sample2) # notice the large error here
+rsdesign2 <- svydesign(ids=~1, fpc=sample2$popsize,weights=~sample2$ageweight,data=sample2) # notice the large error here
 svymean(~age,rsdesign2) # this is again unbiased
 ```
-
-** bonus **
-
-8. Perhaps you noticed that the standard error in question 7. was now much higher than before. We will talk about this next week in detail, but what we see here is a typical example of what in statistics is called the ' bias-variance' trade-off.
-We reduce bias by using weights, but because we do this, we increase the variances in our estimates. 
-
-This leaves you wondering perhaps why we would oversample at all (and every do something else than SRS). Often, we are forced to use more complicated sampling designs because of the lists we have (e.g. because of natural clustering), or because we can also manipulate inclusion probabilities to make our sample more efficient!
-
-The code below shows what is often done in cases the increase in variances is large: weight trimming. More on this in a later week.
-```{r variance inflation}
-# we may use trimming to reduce variance inflation here. 
-sample2$ageweighttrim <- sample2$ageweight
-sample2$ageweighttrim[sample2$ageweight>4] <- 4 
-rsdesign3 <- svydesign(ids=~1, probs=NULL,strata=NULL,variables=NULL, fpc=sample2$popsize
-                           ,weights=~ageweighttrim,data=sample2) # notice the large error here
-svymean(~age,rsdesign3) 
-
-```
-
 
 \newpage
 
@@ -318,7 +305,11 @@ The polling data show the following in terms of the % voting for each party:
 |others | 9% | small christian parties, elderly, immigrant parties |
 |
 
-1.	The Table just shows the point estimates. What would be the Confidence Interval for the percentage of people voting for the VVD (liberal-right) in the population if this sample was based on 1500 respondents? Use the formula for the standard error for a proportion (see also Stuart p. 32) SEp = sqrt [ p(1 - p) / n ] and use  = .05
+1.	The Table just shows the point estimates. What would be the Confidence Interval for the percentage of people voting for the VVD (liberal-right) in the population if this sample was based on 1500 respondents? Use the formula for the standard error for a proportion (see also Stuart p. 32) 
+
+SEp = sqrt [ p(1 - p) / n ] 
+
+and use alpha= .05
 
 ```{r percentage vvd, include=F}
 #Answer: The point estimate is .21, implying that the s.e. is:
@@ -420,32 +411,59 @@ You rarely get asked to do power calculations for descriptive statistics, like m
 
 The common treatment against bloodpressure (care as usual) is administering Medicine A: the average bloodpressure among patients who take this medication is 140/100 (systolic/diastolic), with a standard deviation of 15/10.
 
-The new medication (medicine B) is supposed to lower bloodpressure (both systolic/diastolic) with about 5 units. The standard deviation is supposed to remain about the same. The company bringing Medicine B to market comes to you with the question how many patients they should include in their RCT. 
+The new medication (medicine B) is supposed to lower bloodpressure (both systolic/diastolic) with about 2 units. The standard deviation is supposed to remain about the same. The company bringing Medicine B to market comes to you with the question how many patients they should include in their RCT. 
 
-1) Although this exercise seems more complicated than the previous exercise, what we want to test for, is whether the difference in blood pressure (5 units) is significant. 
+1) Although this exercise seems more complicated than the previous exercise, what we want to test for, is whether the difference in blood pressure (5 units) is 'significant'. 
 
-```{}
-# R test
+In order to do power analyses, and sample size calculations, what you need is:
+- a choice for alpha. There is a lot to say about what value you should choose here. Within the social and behavioral sciences, a value of .05 is typical, but in order to avoid type 1 errors (false positives) people have argued to generally go with lower alpha values (eg.005), or called to always argue for your size of alpha. The choice of your alpha here then depends on how much you'd like to excluse the possibility of false positives vs.
 
+a. choose your alpha
+b. calculate how many participants you would need if the difference between medicine A and B is as expected, and you want to do a one-sided test to establish that medicine B is indeed working better for both systolic and diastolic bloodpressure
+(ignore for now the issue that both types of blood pressure are correlated.
+
+```{R computations, include=F}
+# systolic blook pressure
+
+# mean difference = 2
+# standard deviation = 15
+# t-value for alpha = .005 (you can also use z as df will be large) one sided 2.60
+
+meandiff <-2
+sd1 <- 10
+
+impliedstandarderror1 <- meandiff/2.60
+samplesize1 = (sd1/impliedstandarderror1)**2
+samplesize1# sample size = 381
+
+
+###############################
+# for dystolic blood pressure
+
+meandiff <-2
+sd2 <- 10
+
+impliedstandarderror2 <- meandiff/2.60
+samplesize2 = (sd2/impliedstandarderror2)**2
+samplesize2 #170
 ```
 
-
+2) The previous question 1) was overly simple in the sense that we expect the standard deviation to be the same (most often it isn't), and we are only testing for the difference between two groups.
+In real life situations, there is often more uncertainty about the effect size that you expect, the standard deviations across groups, and also the number of groups (e.g. in Multivariate Statistics you talked about ANOVAs where you want to do F-tests, and perhaps planned comparisons). Althgough the setup of such analyses are a bit more complex, the idea behind power analyses are the same. A programme like (Gpower)[https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower] can help you with relative simple analyses. For more complicated analyses, you will need to do simulation studies, which is a topic that will be covered later this semester in "Programming in R".
 
 \newpage
 
 **Exercise 5 -  Sampling designs**
 
-(for this exercise it helps to first do the readings on stratified and cluster designs)
+(for this exercise it helps to first do the readings on stratified and cluster designs scheduled for the next meeting)
 
-In week 1, you adopted a survey. This week, you will work out for your adopted survey what the sampling plan is that was used. In practice, simple random samples are used rarely in surveys, and either stratification (to make the sample more efficient) or clustering (to make the sample cheaper) is used, sometimes in combination.
+In week 1, you adopted a survey. This week, you will work out for your adopted survey what the sampling plan is that was used. In practice, simple random samples are used rarely in surveys, and either stratification (to make the sample more efficient) or clustering (to make the sample cheaper) are used, often in combination.
 
-We will see how we can deal with stratified and cluster designs next time, and how to deal with combinations of clustering and stratification the week after that in R. For this week (and part of assignment 2) try to work out what combination of stratification and clustering is used. In case you have adopted a multi-national survey, this is the point where you should focus on one country for your survey only.
+We will see how we can deal with stratified and cluster designs next time, and how to deal with combinations of clustering and stratification the week after that in R. For this week (and as part of assignment 2) try to work out what combination of stratification and clustering is used. In case you have adopted a multi-national survey or a survey that is conducted repeatedly over time, this is the point where you should focus on one country and/or one year for your survey only.
 
 1) Find the documentation about sampling. For some surveys there may be a separate document explaining the sampling design, but for other surveys, you may have to work your way through a manual.
 
-2) Work out the sampling design. If that design is complex, it helps to make a drawing of the various stages. Start by writing down your target population and list that is used to sample (see take home exercise week 1). It is ok at this point if you come across terms you don't know, or unclarities in the sampling design. Surveys don't always describe their sampling designs in a good way (although they should) 
-Write down unclear terms that you encounter in the documentation and bring this list to class next time.
+2) Work out the sampling design. If that design is complex, it helps to make a drawing of the various stages. Start by writing down your target population and list that is used to sample (see take home exercise week 1). Then describe step by step what strate or clusters were used in step 1 of the design, what happens in any further steps, etc.
+It is ok at this point if you come across terms you don't know, or unclarities in the sampling design. Surveys don't always describe their sampling designs in a good way (although they should). Write down unclear terms that you encounter in the documentation and bring this list to class next time.
 
-
-
-
+**end of file**

@@ -28,7 +28,7 @@ Before class, make sure to finish the take home exercise from the previous week.
 
 ## Lecture
 
-In the lecture we will review the basic idea of simple random sampling. We discuss sampling with/without replacement and their effects. We will also discuss the population size (finite population), and introduce the idea of estimators. Finally, we will introduce the idea of power analysis using the standard error/margin of error/coefficient of variation. One of the crucial steps in survey design is establishing how many sample units need to included in a sample. Power analysis is often done assuming a sample is a Simple Random Sample. [Slides](/files/SDA/week3/lecture_week_39_SRS.pdf)
+In the lecture we will review the basic idea of simple random sampling. We discuss sampling with/without replacement and their effects. We will also discuss the population size (finite population), and introduce the idea of estimators. Finally, we will introduce the idea of power analysis using the standard error/margin of error/coefficient of variation. One of the crucial steps in survey design is establishing how many sample units need to included in a sample. Power analysis is often done assuming a sample is a Simple Random Sample. [Slides](/files/SDA/week3/lecture_week_3.pdf)
 
 ## Class exercise
 
