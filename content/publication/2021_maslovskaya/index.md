@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Representativeness in six waves of CROss-National Online Survey (CRONOS) panel"
-authors: [Maslovskaya, O., & Lugtig, P.]
+authors: [Maslovskaya, O., and Lugtig, P.]
 date: 2022-02-09T00:00:00+01:00
 doi: "doi: 10.1111/rssa.12801"
 

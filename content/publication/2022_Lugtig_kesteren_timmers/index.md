@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Correcting inferences for volunteer-collected data with geospatial sampling bias"
-authors: [Lugtig, P., van Kesteren, E.J., & Timmers, A.]
+authors: [Lugtig, P., van Kesteren, E.J., and Timmers, A.]
 date: 2022-09-18-T00:00:00+01:00
 doi: "doi: 10.18148/srm/2022.v16i1.7835"
 
