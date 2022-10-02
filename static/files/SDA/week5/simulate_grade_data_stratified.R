@@ -1,7 +1,7 @@
 # sampling some data for student grades
 # Peter Lugtig, copyright 2017
 # Questions: p.lugtig@uu.nl
-# last update\: 12-09-2019
+# last update\: 02-10-2022
 
 ###################################################
 
@@ -236,15 +236,15 @@ mean(resultsame[,3]) #DEFF = 1.18
 var(resultsame[,4]) # bachelor:
 var(resultsame[,5]) # master:
 
-# 3. using Neyman allocation (797/203)
-result <- lapply(datasimstrat,stratify,sample1=797,sample2=203,popsize1=14000,popsize2=6000) 
+# 3. using Neyman allocation (753/247)
+result <- lapply(datasimstrat,stratify,sample1=746,sample2=254,popsize1=14000,popsize2=6000) 
 # ow do analyses
 resultney <- data.frame(matrix(unlist(result), nrow=length(result), byrow=T))
 resultney[,6] <- resultney[,1] - mean(grades$overall) 
 colnames(resulteq) <- c("mean","se", "DEFF","meanS1","meanS2", "error")
 hist(resultney[,6])
-mean(resultney[,6])*100 # bias =-.0087
-var(resultney[,6])  #.001932
+mean(resultney[,6])*100 # bias =.04
+var(resultney[,6])  #.001971
 se(resultney[,6])
 
 # design effect
