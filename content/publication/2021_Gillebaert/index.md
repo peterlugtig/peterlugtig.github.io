@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Study Protocol of the Ten Years Up Project: Mapping the Development of Self-Regulation Strategies in Young Adults Over Time"
-authors: [Gillebaart, Gillebaart, M., Brummelman, J., De Ridder, D., Benjamins, J., Denissen, J., Kroese, F., Lugtig, P., Smit, J. and J.F. Ybema,]
+authors: [Gillebaart, M., Brummelman, J., De Ridder, D., Benjamins, J., Denissen, J., Kroese, F., Lugtig, P., Smit, J. & J.F. Ybema,]
 date: 2021-09-17T00:00:00+01:00
 doi: "10.3389/fpsyg.2021.729609"
 

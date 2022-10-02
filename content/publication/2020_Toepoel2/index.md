@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Adapting surveys to the modern world: Comparing a research messenger design to a regular responsive design for online surveys"
-authors: [Toepoel, V., Lugtig, P. , Struminskaya, B., Elevelt, A. & Haan, M.]
+authors: [Toepoel, V., Lugtig, P. , Struminskaya, B., Elevelt, A., Haan, M.]
 date: 2020-07-01
-doi: ""
+doi: "doi: 10.29115/SP-2020-0010"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-09-02
