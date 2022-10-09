@@ -16,7 +16,7 @@ weight: 6
 
 Today, we will practice with using R for doing survey analysis, with a focus on stratified and clustered designs.We will also cover the HT estimator as a way to deal with complex survey designs.
 
-<ins>Before class, make sure to finish the take home exercise of previous week.</ins>
+<ins>Before class, make sure to finish the take home exercise of the previous week.</ins>
 
 ## Literature
 
@@ -25,16 +25,12 @@ There is no new literature for this week. However, if you are behind on the read
 ## Lecture
 There are no new materials, but the slides of this week are used to show how mixes of clustering and stratified designs can be used in practice Apart from specifying the specific survey design using clustering and stratification variables in R, correct inferences can also be done by directly using the inclusion probabilities of sample elements into the survey design. The Horvitz-Thompson estimator formalizes this idea, and can also be used in R directly. You will compute probabilities, and use these in R.
 
-[Slides](/files/SDA/lecture_week_41_together.pdf)  
+[Slides](/files/SDA/week6/lecture_week_6.pdf)  
 
 ## Exercises
-
-[R exercise other statistics](/files/SDA/class_exercise_week_41(1).pdf)  
-[R exercise other statistics solutions](/files/SDA/class_exercise_week_41(1)_answers.Rmd)  
-[R exercise HT estimator](/files/SDA/class_exercise_week_41(2).pdf)  
-[R exercise HT estimator solutions](/files/SDA/class_exercise_week_41(2)_answers.Rmd)  
-[R exercise stratified cluster](/files/SDA/class_exercise_week_41(3).pdf)  
-[R exercise stratified cluster solutions](/files/SDA/class_exercise_week_41(3)_answers.Rmd)  
+[data](/files/SDA/week6/boys.RDS)
+[Class exercise](/files/SDA/week6/class_exercise_week_6.pdf)  
+[Class exercise solutions](/files/SDA/week6/class_exercise_week_6.Rmd)  
 
 ## Take home exercise
-[R exercises](/files/SDA/take_home_exercise_week_41.pdf)  
+[R exercises](/files/SDA/week6/take_home_exercise_week_6.pdf)  

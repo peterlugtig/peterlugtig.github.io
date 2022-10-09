@@ -507,13 +507,13 @@ clustersample3 <-
     boys2 %>%
     filter(town %in% sample3) %>%
     group_by(town) %>%
-    filter(srswor(66, n()) == 1)%>%
+    filter(srswor(33, n()) == 1)%>%
     mutate(ncluster=5)
 clustersample4 <- 
     boys2 %>%
     filter(town %in% sample4) %>%
     group_by(town) %>%
-    filter(srswor(25, n()) == 1)%>%
+    filter(srswor(13, n()) == 1)%>%
     mutate(ncluster=5)
     
 clustersample2 <-

@@ -28,15 +28,19 @@ Optional:
 ## Lecture
 We start by discussing the Take home exercise. After this, we illustrate the benefits of stratification for survey efficiency and clustering for survey costs using example data. 
 [Slides](/files/SDA/week5/lecture_week_5.pdf)
+
 [simulation stratified design](/files/SDA/week5/simulate_grade_data_stratified.R)
+
 [simulation cluster design](/files/SDA/week5/simulate_grade_data_clustering.R)
 
 ## Class exercise
 Specify a stratified and clustering design in R
 
-[R exercises](/files/SDA/class_exercise_week_5.pdf)  
-[R exercise solutions](/files/SDA/class_exercise_week_5.Rmd)
-[R exercise complete answers](/files/SDA/class_exercise_week_5_complete.Rmd)
+[data](/files/SDA/week5/boys.RDS)
+[R exercises](/files/SDA/week5/class_exercise_week_5.pdf)  
+[R exercise solutions](/files/SDA/week5/class_exercise_week_5.Rmd)
+
+[R exercise complete answers](/files/SDA/week5/class_exercise_week_5_complete.Rmd)
 
 ## Take home exercise
-[R exercises](/files/SDA/take_home_exercise_week_5.pdf)
+[R exercises](/files/SDA/week5/take_home_exercise_week_5.pdf)
