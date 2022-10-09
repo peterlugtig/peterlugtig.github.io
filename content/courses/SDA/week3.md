@@ -36,6 +36,8 @@ Drawing samples in R. We will discuss the basic idea of sampling, and how this c
 
 ## Take home exercise
 
-Statistical software packages assume that the data you use reflect a simple random sample and it is not necessary to tell the software how you drew the sample. In later weeks in the course, when we discuss more complex sampling procedures, you need to "tell" the software what sampling design you used. You will practice with specifying a general survey design in R using the data you generated in the class exercise. [R exercises](/files/SDA/week3/take_home_exercise_week3.pdf)\
-[R exercise solutions](/files/SDA/week3/take_home_exercise_week3.Rmd)
+Statistical software packages assume that the data you use reflect a simple random sample and it is not necessary to tell the software how you drew the sample. In later weeks in the course, when we discuss more complex sampling procedures, you need to "tell" the software what sampling design you used. You will practice with specifying a general survey design in R using the data you generated in the class exercise.   
+
+[R exercises](/files/SDA/week3/take_home_exercise_week3.pdf)   
+[R exercise solutions](/files/SDA/week3/take_home_exercise_week3.Rmd)   
 [Dataset](/files/SDA/week3/boys.RDS)

@@ -36,7 +36,7 @@ We start by discussing the Take home exercise. After this, we illustrate the ben
 ## Class exercise
 Specify a stratified and clustering design in R
 
-[data](/files/SDA/week5/boys.RDS)
+[data](/files/SDA/week5/boys.RDS)   
 [R exercises](/files/SDA/week5/class_exercise_week_5.pdf)  
 [R exercise solutions](/files/SDA/week5/class_exercise_week_5.Rmd)
 

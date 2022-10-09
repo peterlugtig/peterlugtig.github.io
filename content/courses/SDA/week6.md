@@ -28,7 +28,7 @@ There are no new materials, but the slides of this week are used to show how mix
 [Slides](/files/SDA/week6/lecture_week_6.pdf)  
 
 ## Exercises
-[data](/files/SDA/week6/boys.RDS)
+[data](/files/SDA/week6/boys.RDS)  
 [Class exercise](/files/SDA/week6/class_exercise_week_6.pdf)  
 [Class exercise solutions](/files/SDA/week6/class_exercise_week_6.Rmd)  
 
