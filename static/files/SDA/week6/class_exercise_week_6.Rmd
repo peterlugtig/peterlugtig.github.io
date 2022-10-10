@@ -87,8 +87,8 @@ clusterdesign <- svydesign(id = ~town + id,
 ## Q1
 What is the mean for the variable 'wgt' and its standard error?
 ```{r compute means using clusterdesign, include=F}
-svymean(~wgt,design=clusterdesign,deff=T)
-# mean=38.867, se=4.9167
+svymean(~wgt,design=clusterdesign,deff=T,na.rm=T)
+# mean=41.54,se=3.77
 ```
 
 
@@ -130,7 +130,7 @@ What is the survey mean for the variable 'wgt' and its standard error under the 
 # HT estimator
 clustersample$fpc <- 748
 HT1<- svydesign(id=~town, probs =~prob, data=clustersample) 
-svymean(~wgt,design=HT1,deff=T) 
+svymean(~wgt,design=HT1,deff=T,na.rm=T) 
 ```
 
 You should find here that the HT estimator results in a larger standard error. Why is this? Obviously, something happens when we compute the variance using the HT estimator. We will return to this in a bit.
@@ -148,7 +148,7 @@ Check the code below. Do you get the same results using inclusion probabilities 
 ```{r using design weights, results='hide'}
 clustersample$designweight <- 1/clustersample$prob
 HT2 <- svydesign(id=~town,weights=~designweight,data=clustersample)
-svymean(~wgt,design=HT2,deff=T) 
+svymean(~wgt,design=HT2,deff=T,na.rm=T) 
 # equivalent!
 ```
 
@@ -173,13 +173,14 @@ Mattei & Tille (2005) Evaluation of Variance Approximations and Estimators in Ma
 The differences between these algorithms is usually quite small.
 
 ```{r variance estimators under HT}
-HT3 <- svydesign(id=~town,  probs=~prob, data=clustersample, pps="brewer")
-HT4 <- svydesign(id=~town,  probs=~prob, data=clustersample, pps="overton")
-HT5 <- svydesign(id=~town,  probs=~prob, data=clustersample, variance="HT")
+clustersampleNA <- subset(clustersample, !is.na(wgt))
+HT3 <- svydesign(id=~town,  probs=~prob, data=clustersampleNA, pps="brewer")
+HT4 <- svydesign(id=~town,  probs=~prob, data=clustersampleNA, pps="overton")
+HT5 <- svydesign(id=~town,  probs=~prob, data=clustersampleNA, variance="HT")
 
-svymean(~wgt,design=HT3,deff=T) #deff=5.97 # equivalent
-svymean(~wgt,design=HT4,deff=T) #deff=4.98 # some underestimation
-svymean(~wgt,design=HT5,deff=T) #deff=5.97 # equivalent
+svymean(~wgt,design=HT3,deff=T,na.rm=T) #deff=5.67 # equivalent
+svymean(~wgt,design=HT4,deff=T,na.rm=T) #deff=4.27 # some underestimation
+svymean(~wgt,design=HT5,deff=T,na.rm=T) #deff=5.67 # equivalent
 # all designs overestimate the variance compared to the normal cluster design
 # this is quite common with the HT estimator: it is 'conservative' in estimating standard errors
 
@@ -199,7 +200,7 @@ clustersample$prob2 <- rnorm(n=nrow(clustersample),mean=clustersample$prob,sd=.0
 table(clustersample$prob2) # all diifferent probabilities now.
 # HT estimator
 HT6 <- svydesign(id=~town, probs=~prob2, data=clustersample) 
-svymean(~wgt,design=HT6,deff=T) #deff=5.4 # small difference, due to small diff in standard error.
+svymean(~wgt,design=HT6,deff=T,na.rm=T) #deff=5.46 # small difference, due to small diff in standard error.
 ```
 
 The main take-away of all of this?
