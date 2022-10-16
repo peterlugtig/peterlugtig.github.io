@@ -1,7 +1,7 @@
 ---
 date: "`r Sys.Date()`"
 draft: false
-linktitle: "Week -9 Nonresponse and weighting"
+linktitle: "Week 9 - Nonresponse and weighting"
 menu:
   SDA:
     parent: Survey Data Analysis

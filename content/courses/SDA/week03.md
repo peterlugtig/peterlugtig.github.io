@@ -1,7 +1,7 @@
 ---
 date: "`r Sys.Date()`"
 draft: false
-linktitle: "week 03 -Hand in written report"
+linktitle: "week 03 - Hand in written report"
 menu:
   SDA:
     parent: Survey Data Analysis
