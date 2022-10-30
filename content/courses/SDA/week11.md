@@ -27,17 +27,18 @@ We discuss why multiple imputation is the state of the art technique for drawing
 For more slides and exercises see https://www.gerkovink.com/sda/
 
 ## Exercises
-R exercise where use the R package mice to multiply impute an incomplete data set. 
+R exercise where use the R package mice to multiply impute an incomplete data set.  
+
 [Exercise 1 - adhoc methods](/files/SDA/week11/1.-Ad_hoc_methods.html)  
-[Exercise 1 - adhoc methods answers](/files/SDA/week11/1. Ad_hoc_methods.Rmd) 
+[Exercise 1 - adhoc methods answers](/files/SDA/week11/1.Ad_hoc_methods.Rmd)  
 [Exercise 1 - adhoc methods walthrough](/files/SDA/week11/Exercise_1.mp4)  
 
 [Exercise 2 - Convergence and pooling](/files/SDA/week11/2.-Convergence_and_pooling.html)  
-[Exercise 2 - Convergence and pooling answers](/files/SDA/week11/2. Convergence_and_pooling.Rmd)  
+[Exercise 2 - Convergence and pooling answers](/files/SDA/week11/2.Convergence_and_pooling.Rmd)  
 [Exercise 2 - Convergence and pooling walthrough](/files/SDA/week11/Exercise_2.mp4)  
 
 [Exercise 3 - Missingness inspection](/files/SDA/week11/3.-Missingness_innspection.html)  
-[Exercise 3 - Missingness inspection answers](/files/SDA/week11/3. Missingness_inspection.Rmd)  
+[Exercise 3 - Missingness inspection answers](/files/SDA/week11/3.Missingness_inspection.Rmd)  
 [Exercise 3 - Missingness inspection walthrough](/files/SDA/week11/Exercise_3.mp4)  
 
 See also https://www.gerkovink.com/sda/
