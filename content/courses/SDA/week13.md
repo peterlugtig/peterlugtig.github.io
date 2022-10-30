@@ -31,10 +31,10 @@ We review the U.S. presidential dataset again. How does one design a good infere
 ## Class and Take home exercises
 Can you model? We introduce a short competition. Who can design the best model? 
 
-[Class Exercise](/files/SDA/week13/exercise_non_probability_based_adjustment.pdf)  
-[Survey data](/files/SDA/week13/PEW nonprob samples.RDS)  
-[Population data](/files/SDA/week13/PEW population data.RDS)  
-[Mass imputation population](/files/SDA/week13/complete USA population with matched survey results.RDS)  
+[Class Exercise](/files/SDA/week13/class_exercise_week_13.pdf)  
+[Survey data](/files/SDA/week13/PEW_nonprob_samples.RDS)  
+[Population data](/files/SDA/week13/PEW_population_data.RDS)    
+[Mass imputation population](/files/SDA/week13/complete_USA_population_with_matched_survey_results.RDS)  
 
 
 
