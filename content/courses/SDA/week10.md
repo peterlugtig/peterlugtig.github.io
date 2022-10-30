@@ -23,7 +23,7 @@ Topic: in practice, nonresponse weights should be developed keeping in mind what
 ## Lecture: 
 how to design weights, different models.
 introduction to paradata. 
-[Slides](/files/SDA/week10lecture_week_45_designing_weights.pdf)
+[Slides](/files/SDA/week10lecture_week_10.pdf)
 
 ## CLass Exercises
 Discussion about possible weighting variables given different dependent variables that are often of interest to scientists (e.g. voting behavior, health, finances) + an exercise where you develop weights for a survey.
@@ -31,7 +31,7 @@ Discussion about possible weighting variables given different dependent variable
 [Class discussion weighting variables](/files/SDA/week10/thinking_weighting_variables.pdf)  
 [R exercise weighting](/files/SDA/week10/class_exercise_week_10.pdf)  
 [R exercise weighting solutions](/files/SDA/week10/class_exercise_week_10.Rmd)
-[sample data for R exercise](/files/SDA/weel10/unit_non_response_information.RDS)  
+[sample data for R exercise](/files/SDA/week10/unit_non_response_information.RDS)  
 [respondent data for R exercise](/files/SDA/week10/responders_data.RDS)  
 
 ## Take home Exercise: 

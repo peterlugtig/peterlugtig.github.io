@@ -36,7 +36,7 @@ We discuss how nonresponse can be assessed and nonresponse correction factors (w
 ## Class exercise
 R exercise to work with Nonresponse weights: In this exercise you learn how to work with existing nonresponse weights in R using the survey package.
 [R exercise weighting](/files/SDA/week9/class_exercise_week_9.pdf)  
-[R exercise weighting solutions](/files/SDA/week/class_exercise_week_9.Rmd)  
+[R exercise weighting solutions](/files/SDA/week9/class_exercise_week_9.Rmd)  
 [data for R exercise](/files/SDA/week9/ESSR5_HUSK.RDS)  
 
 ## Take home exercise
