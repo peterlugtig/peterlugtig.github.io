@@ -23,15 +23,10 @@ Missing data form a ubiquitous source of problems that most scientists or resear
 ## Lecture
 We discuss why multiple imputation is the state of the art technique for drawing valid inferences from incomplete data.
 
-[slides]TBA
+For slides and exercises see https://www.gerkovink.com/sda/
 
 ## Exercises
 R exercise where use the R package mice to multiply impute an incomplete data set. 
 
-TBA
-
-## Take home exercise
-
-TBA
-
+For slides and exercises see https://www.gerkovink.com/sda/
 

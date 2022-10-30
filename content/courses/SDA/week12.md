@@ -12,15 +12,17 @@ type: docs
 weight: 12
 ---
 
-##Lecture: 
+## Lecture: 
 We discuss why multiple imputation is the state of the art technique for drawing valid inferences from incomplete data.  
 
-[slides]
+For slides and exercises see https://www.gerkovink.com/sda/
 
-##Exercise in class: 
+## Exercise in class: 
 R exercise where we find the answer to a scientific question of interest on incomplete data via multiple imputation with the R package mice. 
 
-##Take Home Exercise (prepare for week ): 
-Finish the missing data exercises
+For slides and exercises see https://www.gerkovink.com/sda/
+
+## Take Home Exercise (prepare for next week): 
+Finish all the missing data exercises
 
 
