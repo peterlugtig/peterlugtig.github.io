@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Pictures instead of survey questions: Anexperimental investigation of the feasibility of using pictures in a housing survey"
-authors: [Ilic, G., Schouten, J.G., Lugtig, P., Mulder, J., Streefkerk, M., Kumar, & P. Höcük, S.   ]
+title: "Pictures instead of survey questions: An experimental investigation of the feasibility of using pictures in a housing survey"
+authors: [Ilic, G., Schouten, J.G., Lugtig, P., Mulder, J., Streefkerk, M., Kumar, and P. Höcük, S.]
 date: 2022-11-09T00:00:00+01:00
 doi: "doi: 10.1111/rssa.12960"
 
@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: "https://rss-onlinelibrary-wiley-com.proxy.library.uu.nl/doi/pdf/10.1111/rssa.12960"
-url_code: ""
+url_code: 
 url_dataset:
 url_poster:
 url_project:
