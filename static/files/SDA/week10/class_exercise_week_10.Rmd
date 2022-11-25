@@ -30,7 +30,7 @@ age - Age in years
 response - 0 = nonresponse, 1 = response
 
 ```{r check data, include=FALSE}
-data <- readRDS("unit non response information.RDS") # read data in as data frame
+data <- readRDS("unit_non_response_information.RDS") # read data in as data frame
 
 # check for differences in respondenrs/NR 
 boxplot(data$age~data$response) # small diff in age
@@ -68,10 +68,12 @@ boxplot(data$weights)
 
 ```
 
-We now want to add the weights not to the dataset that contains respondents and nonrespondents, but only to the dataset with respondents. The code below loads the datafile "responders.RDS", and then add the weights you created in the previous question to the respondent dataset. 
+We now want to add the weights not to the dataset that contains respondents and nonrespondents, but only to the dataset with respondents. The code below loads the datafile "responders_data.RDS", recodes missing valies and then adds the weights you created in the previous question to the respondent dataset. 
 ```{r merge datasets}
 # now merge with substantive data 
-respdata <- readRDS("responders data.RDS") # read data in as data frame
+respdata <- readRDS("responders_data.RDS") # read data in as data frame
+respdata$income[respdata$income==999999] <- NA
+
 finaldata <-merge(respdata,data)
 ```  
 
@@ -133,13 +135,34 @@ Compute the mean and variance in ‘income’ for the respondents without weight
 
 ```{r analysis weighted and unweighted, include=F}
 mean(finaldata$income, na.rm=T) #2183
-# 2183.9
+se <- function(x, na.rm=FALSE) {
+  if (na.rm) x <- na.omit(x)
+  sqrt(var(x)/length(x))
+}
+se(finaldata$income,na.rm=T) #19.8
+
+
 # weighted
 svymean(~income, design=poststratdesign, na.rm=T) # mean = 2198.6, SE=20.45
 svymean(~income, design=linearweightdesign, na.rm=T) # mean = 2177, se=19.13
 svymean(~income, design=propweightdesign, na.rm=T) # mean=2177, se=19.137
 svymean(~income, design=rakeddesign, na.rm=T) #mean=21999, se=20.44
 # results will slightly differ if you used different variables.
+
+# the increase in the variance as shown in the standard error is relatively modest in all scenarios.
+# sometimes the se is a bit higher (raking, poststratification), sometimes it is a bit lower (linear and ps weighting), but overall, the difference is quite small really (about 1 euro). 
+# This makes sense as the variables used are the same
+# The variables do not predict response or Y very strongly
+model1<- glm(income ~ race + sex, data=finaldata)
+model2 <- glm(response ~ race + sex, data=data)
+summary(model1)
+summary(model2)
+
+# or calculate a McFadden like R-square
+with(summary(model1), 1 - deviance/null.deviance)
+with(summary(model2), 1 - deviance/null.deviance)
+# both very weak. Our weighting model is not very good in predicting R(esponse) and Y.
+
 ```
 
 ## Question 5 (optional)
