@@ -30,6 +30,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/PeterLugtig
+- icon: mastodon
+  icon_pack: fab
+  link: https://mastodon.social/@peterlugtig
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.nl/citations?user=VFXJuN8AAAAJ&hl
@@ -45,6 +48,7 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+  
 superuser: true
 user_groups:
 - Researchers
