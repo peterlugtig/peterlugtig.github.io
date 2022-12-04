@@ -24,7 +24,7 @@ library(dplyr)
 library(plyr)
 library(mice)
 
-nonprob <- readRDS("PEW nonprob samples.RDS")
+nonprob <- readRDS("PEW_nonprob_samples.RDS")
 # below you see how many cases there are from each vendor
 table(nonprob$vendor)
 ```
@@ -68,7 +68,7 @@ FOLGOV # do you follow the government
 Pew collected data from the Census bureau, as well as some other Gold-standard administrative sources, and surveys for the eligible voting USA population. They also used some of the surveys to compute (aggregated) correlations between these variables, and used this to create a SuperPopulation dataset of the USA. The dataset inlcudes only 20.000 people, but it is supposed to be representative for the USA on the variables included in this dataset. The variable names, labels, and codings in this dataset are the exact same as in the non-probability based survey dataset. This is neat, no recoding or data handling! Load the data below.
 
 ```{r load popdata}
-popdata <- readRDS("PEW population data.RDS")
+popdata <- readRDS("PEW_population_data.RDS")
 ```
 
 # What to do?
@@ -113,7 +113,7 @@ svyby(~VOTESUM,~vendor, design=rakeddesign,svymean)[2]
 Are you curious to try Mass Imputation? Great! I made your life a bit easier by creating an artificial population of the USA, and then match the survey data to this population dataset. Please note that the population dataset has about 1 million cases, which is only 1/200 of the actual population size. R gets slow however with 1 million cases, so just imagine you have the actual population
 
 ``` {r import population data}
-wholepop <- readRDS("complete USA population data with matched survey results.RDS")
+wholepop <- readRDS("complete_USA_population_data_with_matched_survey_results.RDS")
 ```
 
 Want to see how you design an imputation model? Have a look at the weeks where we talked about imputation.

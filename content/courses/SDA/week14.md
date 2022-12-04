@@ -23,11 +23,11 @@ The increasing volume of Big Data produced by sensors and smart devices can tran
 
 ##Lecture:
 In the lecture, we will discuss the types of Big Data, how types of errors from the Total Survey Error relate to Big Data, and how to combine survey data with Big Data sources.
-[Slides](/files/SDA/week14/lecture_week_10.pdf)
+[Slides part 1](/files/SDA/week14/lecture_week_14.pdf)
 
 ## Class Exercise:
 You will design a scenario that combines survey data with one or several Big Data sources.
 
 ##Take home exercise:
-You will have a chance to analyze smartphone sensor data that you yourself have produced (e.g., from Apple Health). This exercise is optional, if you perform it, send your insights into your behavior and a short discussion on a possible research question and construct validity to b.struminskaya@uu.nl for extra credit.
+You will have a chance to analyze smartphone sensor data that you yourself have produced (e.g., from Apple Health). This exercise is optional, if you perform it, send your insights into your behavior and a short discussion on a possible research question and construct validity to b.struminskaya@uu.nl.
 
