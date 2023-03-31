@@ -74,22 +74,23 @@ We now want to add the weights not to the dataset that contains respondents and 
 respdata <- readRDS("responders_data.RDS") # read data in as data frame
 respdata$income[respdata$income==999999] <- NA
 
+# and merge to the respondent data 
 finaldata <-merge(respdata,data)
 ```  
 
 ## Question 3: explore other ways to create weights. 
-There are otherways to weights. Last week we discussed the following four methods
+There are different ways to produce weights. Last week we discussed the following four methods:
 
 1.	Using poststratification (use the lecture slides about nonresponse). The basic idea is here that you compute a weight for every cell in the multi-way crosstable of your weight-variables.  
 2. Using linear weighting using population totals
-3. Using a propensity based model using population distribution
+3. Using a propensity based model using the population distribution (easiest if you have good sampling frame data)
 4. Using  Raking
 
 The general syntax for these methods look like this:
 Poststratification:  
 - postStratify(design= svy.unweighted, strata = sexrace, population=sexrace.dist)  
 
-Linear qeighting:  
+Linear weighting:  
 -	calibrate(design=svy.unweighted,formula=~sex+race, population=c(sex.dist,race.dist), calfun=c(“linear”))  
 
 Propensity score weighting (using population totals)
@@ -113,17 +114,28 @@ sex.dist <- as.data.frame(table(data$sex))
 colnames(sex.dist) <- c("sex", "Freq")
 race.dist <- as.data.frame(table(data$race))
 colnames(race.dist) <- c("race", "Freq")
+# check whether table looks good
 table(data$sex,data$race)
-pop.totals<-c('(Intercept)'=545+719,sexFemale=719+133+29,raceBlack=133+71,raceOther=20+29) 
-# you need to get the totals as numbers.
+pop.totals<-c('(Intercept)'=1517,sexFemale=719+133+29,raceBlack=133+71,raceOther=20+29) 
+# you need to get the totals from rows and columns as numbers
+# the first column is the intercept
 
 linearweightdesign <- calibrate(design=svy.unweighted,formula=~sex+race, 
                                 population=pop.totals, calfun=c("linear")) #linear weighting
+# a useful check to see if weighting went correctly is to make a table of the covariates in the respondent data, and population data (equivalent to calculating probabilities by poststratification).
+# the probabilities should be similar, but not the same, due to use of population totals, rather than cell size
+
+# calculate probabilities manually
+manualprob <- table(finaldata$race,finaldata$sex)/table(data$race,data$sex)
+manualprob
+# and compare
+table(linearweightdesign$prob,linearweightdesign$variables$race)
+
 propweightdesign  <- calibrate(design=svy.unweighted,formula=~sex+race, 
                                population=pop.totals, calfun=c("logit"), bounds=c(0.3,3)) 
 #inverse probability (propensity) 
 # a note about the bounds here -> they are needed to make sure the model converges. 
-# I trmmed at 3, but you can choose other values 
+# I trimmed at 3, but you can choose other values 
 # remember bias/variance trade-off?
 
 rakeddesign  <- rake(design=svy.unweighted,sample.margins=list(~sex,~race),
@@ -134,23 +146,25 @@ rakeddesign  <- rake(design=svy.unweighted,sample.margins=list(~sex,~race),
 Compute the mean and variance in ‘income’ for the respondents without weights and then using the (three) weights that you created in the previous question. Do you find any differences between the weighted and unweighted estimates? And does the weighting method make a difference? Do you think that variance inflation due to weighting is a problem here?
 
 ```{r analysis weighted and unweighted, include=F}
-mean(finaldata$income, na.rm=T) #2183
+mean(finaldata$income, na.rm=T) #2184
+# a function for calculating the s.e.
 se <- function(x, na.rm=FALSE) {
   if (na.rm) x <- na.omit(x)
   sqrt(var(x)/length(x))
 }
-se(finaldata$income,na.rm=T) #19.8
+se(finaldata$income,na.rm=T) #19.7
 
 
 # weighted
 svymean(~income, design=poststratdesign, na.rm=T) # mean = 2198.6, SE=20.45
-svymean(~income, design=linearweightdesign, na.rm=T) # mean = 2177, se=19.13
-svymean(~income, design=propweightdesign, na.rm=T) # mean=2177, se=19.137
-svymean(~income, design=rakeddesign, na.rm=T) #mean=21999, se=20.44
+svymean(~income, design=linearweightdesign, na.rm=T) # mean = 2198.6, se=20.43
+svymean(~income, design=propweightdesign, na.rm=T) # mean=2198.6, se=30.43
+svymean(~income, design=rakeddesign, na.rm=T) #mean=2198.7, se=20.44
 # results will slightly differ if you used different variables.
 
-# the increase in the variance as shown in the standard error is relatively modest in all scenarios.
-# sometimes the se is a bit higher (raking, poststratification), sometimes it is a bit lower (linear and ps weighting), but overall, the difference is quite small really (about 1 euro). 
+# the increase in the variance as shown in the standard error is really small.
+# sometimes the se is a bit higher (raking, poststratification), sometimes it is a bit lower (linear and ps weighting), but overall, the difference is really small.
+
 # This makes sense as the variables used are the same
 # The variables do not predict response or Y very strongly
 model1<- glm(income ~ race + sex, data=finaldata)
@@ -190,7 +204,7 @@ employ.dist <- as.data.frame(as.factor(c('employed','unemployed'))) # factors as
 employ.dist[,2] <- as.numeric(.482,.518) # add a column with the numbers
 colnames(employ.dist) <- c("employm"," Freq")
 rakeddesign2 <- rake(design = svy.unweighted,sample.margins = list(~sex, ~race, ~employm),population.margins = list(sex.dist, race.dist, employ.dist)) # rake
-svymean(~income, design=rakeddesign2, na.rm=T) #mean=2200.6, se=20.9
+svymean(~income, design=rakeddesign2, na.rm=T) #mean=2200.6, se=20.8
 ```
 
 
