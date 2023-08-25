@@ -1,12 +1,12 @@
 ---
 date: "`r Sys.Date()`"
 draft: false
-linktitle: "week 14 - Designed Big Data"
+linktitle: "Week 14 - Data Integration"
 menu:
   SDA:
     parent: Survey Data Analysis
     weight: 14
-title: "Designed Big Data"
+title: "Data integration to improve inference"
 toc: true
 type: docs
 weight: 14
@@ -14,20 +14,27 @@ weight: 14
 
 ## Introduction
 
-The increasing volume of Big Data produced by sensors and smart devices can transform the social and behavioral sciences. We will discuss how the true power of these data for the social sciences that lies in integrating Big Data with surveys. Using examples of successful existing studies that used digital data to provide new insights into social reality, we will focus on challenges and opportunities of integrating sensor- and app-based data collection into surveys. The Total Survey Error framework learned in Week 38 will serve as a basis for our discussion of introducing design to Big Data to gauge the inherent challenges of representativeness and measurement. Students will develop a scenario of combing Big Data and survey data, focusing on theoretical and practical aspects of such data integration. Students will have a chance to make decisions on preparing the raw data for analysis and obtaining inference.
+In the week where ‘designed’ big data was discussed as a concept, the integration of design-based surveys with ‘Big data’  stemming from data donation, sensors, or other sources has already been discussed as a way to do inference in a world where there are more and more data.
+In data integration we more generally try to combine and integrate data to improve inference. Whereas in designed big data multiple data sources are collected for the same individuals, we will this week discuss several approaches that integrate data that are collected in different people
+ 
 
-##Literature:
+## Literature
+-	Wiśniowski, A., Sakshaug, J. W., Perez Ruiz, D. A., & Blom, A. G. (2020). Integrating probability and nonprobability samples for survey inference. Journal of Survey Statistics and Methodology, 8(1), 120-147.
+-	More literature will be announced
 
-- Chapter 3 - Big Data: A Survey Research Perspective and 
-- Chapter 2 - Total Twitter Error in Biemer Paul B., Edith de Leeuw et al. (eds.) (2017). Total Survey Error in Practice. John Wiley & Sons, Available through UU library (DOI:10.1002/9781119041702)
 
-##Lecture:
-In the lecture, we will discuss the types of Big Data, how types of errors from the Total Survey Error relate to Big Data, and how to combine survey data with Big Data sources.
-[Slides part 1](/files/SDA/week14/lecture_week_14.pdf)
+## Lecture
+Discussion and examples of the following approaches:
+- Integrating probability and nonprobability surveys to minimize TSE
+- Integrating micro-data and aggregate data
+- Is there a general methodology for data integration, and inference for the 21st century?
 
-## Class Exercise:
-You will design a scenario that combines survey data with one or several Big Data sources.
+[Slides](/files/SDA/week14/lecture_week_14.pdf)
 
-##Take home exercise:
-You will have a chance to analyze smartphone sensor data that you yourself have produced (e.g., from Apple Health). This exercise is optional, if you perform it, send your insights into your behavior and a short discussion on a possible research question and construct validity to b.struminskaya@uu.nl.
+## Class and Take home exercises
+Class discussion on inference - where are we going in the next 50 years? 
+
+
+
+
 

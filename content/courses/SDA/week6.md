@@ -1,12 +1,12 @@
 ---
 date: "`r Sys.Date()`"
 draft: false
-linktitle: "Week 6 - R practical on svydesign"
+linktitle: "Week 6 - Model assisted survey estimation"
 menu:
   SDA:
     parent: Survey Data Analysis
     weight: 6
-title: "R practical on svydesign"
+title: "Model assisted survey estimation"
 toc: true
 type: docs
 weight: 6
@@ -14,23 +14,27 @@ weight: 6
 
 ## Introduction
 
-Today, we will practice with using R for doing survey analysis, with a focus on stratified and clustered designs.We will also cover the HT estimator as a way to deal with complex survey designs.
+Topic: We discuss two popular estimation methods that are often used in cluster and multistage sampling designs: Ratio and Regression estimation. The goal of these estimation methods is to make the estimation of a statistic of interest (e.g. mean) more efficient by using auxiliary variables. Inference is here not only using the inclusion probabilities anymore, but inference is being assisted by the use of a statistical model. We introduce the idea of model-assisted inference. 	
 
-<ins>Before class, make sure to finish the take home exercise of the previous week.</ins>
 
 ## Literature
 
-There is no new literature for this week. However, if you are behind on the readings from previous weeks, you can use this week to catch up.
+- Stuart (1984) 71-90
+-	Lohr chapters 4 & 7 (note: esp. chapter 7 is really useful)
+
+-	Preparation for class discussion: find out what auxiliary data (at the sample level) is available for the survey you reviewed in earlier weeks, and bring a list of auxiliary data to class. Think about the following question (after reading the literature): would it be a good idea for your survey to use ratio/regression estimation if you are interested in estimating one of the variables of interest in your survey? 
 
 ## Lecture
-There are no new materials, but the slides of this week are used to show how mixes of clustering and stratified designs can be used in practice Apart from specifying the specific survey design using clustering and stratification variables in R, correct inferences can also be done by directly using the inclusion probabilities of sample elements into the survey design. The Horvitz-Thompson estimator formalizes this idea, and can also be used in R directly. You will compute probabilities, and use these in R.
-
+We discuss a practical and fictitious example where data are clustered to illustrate why ratio/regression estimation is sometimes so attractive. The bias-variance trade-off as a concept is discussed and illustrated.  
 [Slides](/files/SDA/week6/lecture_week_6.pdf)  
 
-## Exercises
-[data](/files/SDA/week6/boys.RDS)  
-[Class exercise](/files/SDA/week6/class_exercise_week_6.pdf)  
-[Class exercise solutions](/files/SDA/week6/class_exercise_week_6.Rmd)  
+## Class exercises
+Class discussion on design-based vs. model assisted and model-based estimation
 
-## Take home exercise
-[R exercises](/files/SDA/week6/take_home_exercise_week_6.pdf)  
+## Take home exercise 
+Set up a ratio and/or regression estimation model for a cluster sample dataset	
+
+[R Class exercise](/files/SDA/week6/class_exercise_week_6.pdf)  
+[R class exercise solutions](/files/SDA/week6/class_exercise_week_6.Rmd) 
+
+

@@ -1,12 +1,12 @@
 ---
-date: "July 05, 2021"
+date: "`r Sys.Date()`"
 draft: false
-linktitle: "Week 10 - Designing weights"
+linktitle: "week 10 - Designed Big Data"
 menu:
   SDA:
     parent: Survey Data Analysis
     weight: 10
-title: "Designing weights"
+title: "Designed Big Data"
 toc: true
 type: docs
 weight: 10
@@ -14,32 +14,20 @@ weight: 10
 
 ## Introduction
 
-Topic: in practice, nonresponse weights should be developed keeping in mind what the dependent variable is. In situations where many variables asked among respondents are also available for the population, there are many possible nonresponse weighting models. In this week, we will focus on the question of how to develop nonresponse weights. We discuss the concept of paradata.
+The increasing volume of Big Data produced by sensors and smart devices can transform the social and behavioral sciences. We will discuss how the true power of these data for the social sciences that lies in integrating Big Data with surveys. Using examples of successful existing studies that used digital data to provide new insights into social reality, we will focus on challenges and opportunities of integrating sensor- and app-based data collection into surveys. The Total Survey Error framework learned in Week 38 will serve as a basis for our discussion of introducing design to Big Data to gauge the inherent challenges of representativeness and measurement. Students will develop a scenario of combing Big Data and survey data, focusing on theoretical and practical aspects of such data integration. Students will have a chance to make decisions on preparing the raw data for analysis and obtaining inference.
 
-## Literature: 
--	Brick, J. M. (2013). Unit nonresponse and weighting adjustments: A critical review. Journal of Official Statistics, 29(3), 329-353.
--	Kreuter, F. (2013). Improving surveys with paradata: Introduction. Improving surveys with paradata: Analytic uses of process information, 1-9.
+##Literature:
 
-## Lecture: 
-how to design weights, different models.
-introduction to paradata. 
-[Slides](/files/SDA/week10lecture_week_10.pdf)
+- Chapter 3 - Big Data: A Survey Research Perspective and 
+- Chapter 2 - Total Twitter Error in Biemer Paul B., Edith de Leeuw et al. (eds.) (2017). Total Survey Error in Practice. John Wiley & Sons, Available through UU library (DOI:10.1002/9781119041702)
 
-## CLass Exercises
-Discussion about possible weighting variables given different dependent variables that are often of interest to scientists (e.g. voting behavior, health, finances) + an exercise where you develop weights for a survey.
+##Lecture:
+In the lecture, we will discuss the types of Big Data, how types of errors from the Total Survey Error relate to Big Data, and how to combine survey data with Big Data sources.
+[Slides part 1](/files/SDA/week10/lecture_week_10.pdf)
 
-[Class discussion weighting variables](/files/SDA/week10/thinking_weighting_variables.pdf)  
-[R exercise weighting](/files/SDA/week10/class_exercise_week_10.pdf)  
-[R exercise weighting solutions](/files/SDA/week10/class_exercise_week_10.Rmd)
-[sample data for R exercise](/files/SDA/week10/unit_non_response_information.RDS)  
-[respondent data for R exercise](/files/SDA/week10/responders_data.RDS)  
+## Class Exercise:
+You will design a scenario that combines survey data with one or several Big Data sources.
 
-## Take home Exercise: 
-Finish the weighting exercise
-
-
-## Before week 11
-
-For the final assignment you will work in a group of about 4 (+- 1) on a real-life dataset. The goal is to apply all the materials covered in the course, answer a substantive research question and solve a real-life challenge covers an advanced problem in survey research. You will receive an e-mail on your @students.uu.nl account with more information about group membership, the assignment itself and your group members this week.
-
+##Take home exercise:
+You will have a chance to analyze smartphone sensor data that you yourself have produced (e.g., from Apple Health). This exercise is optional, if you perform it, send your insights into your behavior and a short discussion on a possible research question and construct validity to b.struminskaya@uu.nl.
 

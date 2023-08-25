@@ -1,47 +1,25 @@
 ---
-title: "Class exercises Stratified and cluster sampling"
+title: "Combinations of clustering and stratification"
 author: "Peter Lugtig"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: pdf_document
-
 ---
 
-# Introduction
 
-```{r getdata, include = F}
-library(tidyverse)
-library(magrittr)
-library(knitr)
-library(kableExtra)
-dat <- readRDS("boys.RDS")
-```
+Because there is only a short lecture next week, there is a batch of exercises to be done this week:
 
-In this class exercise, we are going to continue working on the "Boys" dataset, which you also used last week. 
+i) The Hurvitz-Thompson estimator
+ii) Other statistics than the mean
+iii) Combinations of stratification and clustering
 
 
+
+# Exercise 1
 ---
 
-Open the `boys.RDS`.  The key variables in the dataset are the height and weight for *all* `r nrow(dat)` boys under the age of 21 living in an imaginary county (gemeente) in the Netherlands in 2014. In other words, we have the whole population, and the idea is we explore different hypothetical ways to sample from this population. The dataset stems from a surveillance system, in which every child is seen every few years. The following measures are available:
+This is an important exercise. It will introduce inclusion probabilities and design weights as two ways to work with the Horvitz-Thompson estimator (HT), which provides a flexible way to correctly specify your survey design, even when you can't work out the survey design (or when the survey design is very complex). To illustrate why the HT estimator is so useful, we will again use the 'boys' dataset
 
-```{r, echo = F}
-vars <- data.frame("Variable" = colnames(dat),
-                   "Description" = c("Decimal age (0-21 years)",
-                                     "Height (cm)",
-                                     "Weight (kg)",
-                                     "Body Mass Index",
-                                     "Head circumference (cm)",
-                                     "Genital Tanner Stage (G1-G5)",
-                                     "Pubic hair (Tanner P1-P6)",
-                                     "Testicular volume (ml)",
-                                     "Town 1 to Town 5"))
-
-vars %>%
-    kable(caption = "Variables in the data") %>%
-    kable_styling(bootstrap_options = c("hover", "striped"))
-```
-
-
-```{R load_data, message = F}
+```{R load_data, message = F, results='hide'}
 # install.packages("tidyverse")
 # install.packages("magrittr")
 # install.packages("survey")
@@ -52,119 +30,492 @@ library(magrittr)
 library(survey)
 library(sampling)
 
-# and load the data
 boys <- read_rds("boys.RDS")
 ```
 
----
 
-# Exercise 1: stratified sampling
+# Working with probabilities & design weights
 
-In the next exercise we will will again use the dataset  boys.rds. See the exercise from last week if you want to review the ideas of Simple Random Sampling for this dataset (SRS).
- 
-There are several reasons why we may not want to use SRS to sample. For example, we may want to limit our costs by sampling boys from 1 or perhaps a few towns, instead of all the towns like in SRS. This design is called cluster sampling, and we will look at this in the second class exercise. First, we will focus on stratifcation. Two possible reasons to do this are:
+Whenever we use unequal selection probabilities (e.g. cluster and stratification) we need to specify a 'svydesign()' object that tells R the structure of our sampling design, so that R can compute our outcome statistics per stratum/cluster and then combine them. 
 
-a. We may want to get a minimum sample size in different groups, for example because our primary interest lies in comparing groups, rather than getting a precise estimate for the population mean.
-b. We may actually want to estimate the population mean with higher precision (less uncertainty) than SRS.
+There is an entirely different way to work with datasets that have used unequal sampling designs: the Hurvitz Thompson (HT)-estimator uses the individual inclusion probabilities of every case in the dataset. 
 
-The code below will draw (`without replacement`) a stratified sample based on `town` with 40 cases sampled randomly from each town (stratification on town). Use the same random seed (`123`). There are a few cases in the population where the town is unknown; these are deleted. Run the code below to draw the sample using the `strata` function. The 'strata' command comes from the 'sampling'package, and allows us to draw j sampling units from h strata.  
+We will for now use a part of the cluster sampling design we used in week 5 where we draw a two-stage cluster sample. We first draw 2 towns SRS, and then in each town 75 cases using SRS again using the code below. Feel free to run the code with another sampling design (e.g. more or fewer). It is good to practice with this, and a good way is to just alter the basic code I provide below
 
-``` {r stratified_sample_with_replacement}
-# for replication purposes
-set.seed(123)
-# sample size 40 in every stratum: A few steps are needed
-
-# We have to deal with a few issues here
-# 1. there are 3 missings in the 'town' variable. Lets delete them
-boys2 <- boys[!is.na(boys$town),]
-# 2. we need to sort the dataset on 'town' 
-# (note, I am here overwriting the old boys2 data, which is not great.
-# However, I also don't want to keep all these data in memory!)
-boys2 <- arrange(boys2,town)
-# 3. I need to add a new Id-variable, 
-# so I can check later which cases were samples
-
-boys2$id <- 1:nrow(boys2)
-
-# In the Programming with R course, you will be working a lot with Tidyverse soon, 
-# which has many benefits; 
-# one of them that we can do multiple data manipulations at once. 
-# The code below does the 3 manipulations above in one go.
-boys2 <- boys %>%
-    filter(!is.na(town)) %>%
-    arrange(town) %>%
-    mutate(id = 1:nrow(.))
-
-# Now, the code below selects 40 cases fom each town.
-selected <- sampling::strata(boys2, c("town"), size=c(40,40,40,40,40), "srswor")
-samplestrat <- filter(boys2, id %in% selected$ID_unit)
-```
-
-You may be wondering whether sampling 40 cases from every town is wise or not. 
-We will postpone this for now, and first show how with a stratified sample design, one specifies the 
-'svydesign()' correctly. One thing we need for this is to specify the sample size in the *population* for every stratum. 
-
-## Q1.
-What are the population sizes in every town?
-
-``` {r pop sizes, include=F}
+```{r sample_2_clusters}
+# first the sampling bit (repeated from week 40)
+boys$id <- 1:nrow(boys)
 table(boys$town)
+samplesizestown <- c(table(boys$town))
+
+set.seed(123)
+samplec <- sample(5,2)
+samplec
+
+# removing missing values in town
+boys2 <- boys %>%
+    filter(!is.na(town))%>%
+    arrange(town)
+# draw the cluster sample
+clustersample <- 
+    boys2 %>%
+    filter(town %in% samplec) %>%
+    group_by(town) %>%
+    filter(srswor(75, n()) == 1)
+
+# Now we specify the svydesign
+# specify the fpc, which now exists of two components: 
+# the number of clusters, and the size within every sampled cluster
+clustersample$ncluster <- 5 # 5 towns in population
+clustersample$clustersize <- NA # empty first, then add sample sizes in towns 2 and 3
+clustersample$clustersize[clustersample$town == 2] <- nrow(boys2[boys2$town == 2, ])
+clustersample$clustersize[clustersample$town == 3] <- nrow(boys2[boys2$town == 3, ])
+
+# or in a tidy way
+# clustersample <-
+#     boys2 %>%
+#     group_by(town) %>%
+#     summarize(clustersize = n()) %>%
+#     right_join(clustersample1)
+
+# and specify the cluster design
+clusterdesign <- svydesign(id = ~town + id,
+                            fpc = ~ncluster + clustersize, 
+                            data = clustersample)
+
+```
+## Q1
+What is the mean for the variable 'wgt' and its standard error?
+```{r compute means using clusterdesign, include=F}
+svymean(~wgt,design=clusterdesign,deff=T,na.rm=T)
+# mean=41.54,se=3.77
 ```
 
-The easiest way to add the sample sizes to our sample we have just drawn, is to add a variable ('fpc') to the stratified sample dataset, where we include the population size for each town. Please see the code below for how to do this.
 
-```{r svydesign object}
+## The Hurvitz Thompson estimator
+
+Because we have drawn the clusters using SRS, the inclusion probabilities of the individual boys in the dataset vary. By specifying the svydesign() object, we tell R to compute the mean separately in every cluster, and then combine the means from the clusters weighted by the cluster size. Can you compute for the individuals in clusters 2 and 3 (within the clusters drawn) what was the inclusion probability?
+
+```{r compute clusters probs, include=FALSE}
+# the clustersizes of the towns are: 
+# stage 1: 2 clusters out of 5 -> 2/5
+# stage 2: 75 out of samplesize per town
+samplesizestown
+clustersample$prob <- NA # create new empty column, then fill it
+clustersample$prob[clustersample$town==2] <- 75/samplesizestown[2] * 2/5
+clustersample$prob[clustersample$town==3] <- 75/samplesizestown[3] * 2/5
+# conclusion. The p of being selected is about 3 times larger for people in town 2.
+```
+
+The probabilities can also be derived from the clusterdesign svydesign object by asking for:
+```{r show probs, results='hide'}
+clusterdesign[["prob"]]
+# exactly the same as manually computed ones
+# just asking for:
+clusterdesign
+# actually also tells us what design we just specified!
+# handy!
+```
+
+The central idea of the HT estimator is that instead of specifying the specific clustering and stratification 
+that we have in our sample, we can do a much easier job by simply including the inclusion probability for every case in our svydesign() object.
+Statistics like the mean can be easily computed when the inverse of the inclusion probability is used as a weighting factor for every individual in the dataset. Rather than computing the mean per stratum/cluster, the HT estimator uses the inclusion probabilities (p) of every individual (i) in the sampling design directly: pi.
+
+Using the HT estimator in R is easy. We simply use the inclusion probabilities in the probs=~ command. See the code below.
+
+##Q2:
+What is the survey mean for the variable 'wgt' and its standard error under the HT estimator?
+
+``` {r HT estimator,results='hide'}
+# HT estimator
+clustersample$fpc <- 748
+HT1<- svydesign(id=~town, probs =~prob, data=clustersample) 
+svymean(~wgt,design=HT1,deff=T,na.rm=T) 
+```
+
+You should find here that the HT estimator results in a larger standard error. Why is this? Obviously, something happens when we compute the variance using the HT estimator. We will return to this in a bit.
+
+## Design weights
+
+Often, public use datasets (like your adopted survey) do not include the specific cluster or stratification indicators, nor the inclusion probabilities, but rather "Design weights". A Design weight is an indicator that tells you "how many population elements" a row in your dataset represents in the population, and is the inverse of the inclusion probability (pi). 
+Rather than using probabilities in the probs=~ statement, we can also use design weights r in our svydesign object as a HT estimator. 
+
+In summary: as soon as we provide either probabilities or weights in the 'weights=~ command, the survey package will switch to use the HT estimator. 
+
+##Q3: 
+Check the code below. Do you get the same results using inclusion probabilities and weights?
+
+```{r using design weights, results='hide'}
+clustersample$designweight <- 1/clustersample$prob
+HT2 <- svydesign(id=~town,weights=~designweight,data=clustersample)
+svymean(~wgt,design=HT2,deff=T,na.rm=T) 
+# equivalent!
+```
+
+## The tricky estimation of variances under HT-estimators
+
+Stuart (1984) showed you that the variance of a cluster or stratified design can be computed as the weighted average of variance in every stratum/cluster. Hurvitz-Thompson works with individual inclusion probabilities, so how do we define the variance now?! 
+ 
+This course will not discuss methods to estimate the variance (of e.g. the mean) under all conditions in detail, but below I will show some ways to compute a variance for HT estimators. 
+
+There are over 50 different algorithms to compute the variance for HT type estimators, and there is no agreement over which method works (generally) better.
+
+The most common way to compute the variance is by Taylor series expansion (review your slides from Fundamentals on how this works). The idea here is that we can approximate the variance of an unknown distribution (the inclusion probabilities) by fitting a series of polynomials (x, X^2, X^3, X^4, etc.), and then derive the total variance by averaging the variance over the fitted function.
+
+Another (perhaps more modern) way is to use Bootstrapping. You will learn more about this later this semester, but the general idea here is that you can resample (with replacement!) from the actual sample to get a large new number of samples (e.g 1000 new replicate samples). Remember we did this for simple random sampling: we can estimate the empirical variance of the sampling distribution simply by repeating our sampling procedure X times (say 1000).
+
+After this, you get 1000 point estimates for every individual in your dataset, which you can then use to estimate the total variance. This also means that you get 1000 inclusion probabilities and design weights per case. The survey package can however work with such "bootstrap replicate weights", and pool the estimates for you.
+
+If you want to know more about different versions of the Taylor expansions available, the survey package includes a few standard algorithmns (see below). If you would like to read more (this will not be tested), you may read:
+
+Mattei & Tille (2005) Evaluation of Variance Approximations and Estimators in Maximum Entropy Sampling with Unequal Probability and Fixed Sample Size, Journal of Official Statistics, Vol. 21, No. 4, 2005, pp. 543–570
+
+The differences between these algorithms is usually quite small.
+
+```{r variance estimators under HT}
+clustersampleNA <- subset(clustersample, !is.na(wgt))
+HT3 <- svydesign(id=~town,  probs=~prob, data=clustersampleNA, pps="brewer")
+HT4 <- svydesign(id=~town,  probs=~prob, data=clustersampleNA, pps="overton")
+HT5 <- svydesign(id=~town,  probs=~prob, data=clustersampleNA, variance="HT")
+
+svymean(~wgt,design=HT3,deff=T,na.rm=T) #deff=5.67 # equivalent
+svymean(~wgt,design=HT4,deff=T,na.rm=T) #deff=4.27 # some underestimation
+svymean(~wgt,design=HT5,deff=T,na.rm=T) #deff=5.67 # equivalent
+# all designs overestimate the variance compared to the normal cluster design
+# this is quite common with the HT estimator: it is 'conservative' in estimating standard errors
+
+```
+
+## (bonus) why use a HT estimator if variance estimation is so tricky?
+
+In a simple sample design, you don't need to use the HT estimator. But in real life sampling designs are complex. For example, you could in real life situations encounter situations where you combine stratification and clustering, resulting in some really small cell sizes, and others large.
+In such situations, you will have very different group sizes, and quite likely end up with subgroups of just a few or even 1 case. Computing variances for such small groups is risky (as the variance can become very small or even 0), and if you somehow end up with just 1 case in a cluster/stratum, the variance is undefined!
+
+The example below illustrates this. We first add a bit of random noise to the inclusion probabilities, so that we get group sizes of 1 (and variances using methods covered in earlier weeks cannot be calculated)
+
+```{r adding noise, results='hide'}
+# add some noise to the inclusion probabilities
+require(MASS)
+clustersample$prob2 <- rnorm(n=nrow(clustersample),mean=clustersample$prob,sd=.02)
+table(clustersample$prob2) # all diifferent probabilities now.
+# HT estimator
+HT6 <- svydesign(id=~town, probs=~prob2, data=clustersample) 
+svymean(~wgt,design=HT6,deff=T,na.rm=T) #deff=5.46 # small difference, due to small diff in standard error.
+```
+
+The main take-away of all of this?
+The HT estimator is flexible, and easy to use under any sampling design. You however give
+
+
+
+\newpage
+## Exercise 2
+
+This week, we will discuss combinations of stratification and clustering. Lets first revisit stratification and clustering as covered last week by revisiting the final questions of those exercises.
+
+```{r setup, include=FALSE}
+require(sampling) # for sampling
+require(survey) # for design weights and corrections
+require(dplyr)
+boys <-readRDS("boys.RDS")
+```
+
+## Clustering (Q4 last week but with slightly different numbers).
+
+Load the "boys.R" dataset.
+You can either optimize your cluster-design based on costs or precision, or balance both. 
+Imagine it costs 10 euros to conduct one interview (variable costs).
+
+However, it also costs 500 euros to conduct interviews in one cluster (fixed costs per cluster).
+
+An SRS of size 100 will in this case normally cost you "100 *  10 + 5 *500 = 3500 euros. 
+
+The cluster design specified in question 3 will cost you "100 * 10 + 2 * 500 = 2000 euros. 
+
+You now have to balance costs and precision. Assume that you have a fixed budget of 2500 euros. Doing an SRS is here not an option, because you would spend all your money on fixed costs. At the other extreme, you can sample in just 1 cluster and interview 400 cases. 
+
+## Question 1:
+Can you work out, using the variable 'wgt' (weight) as your dependent variable, what would be the right number of clusters to draw? 
+
+```{r do five cluster designs, results='hide'}
+# I am sampling clusters PPS
+table(boys$town)
+samplesizestown <- c(table(boys$town))
+
+boys$id <- 1:nrow(boys)
+set.seed(367)
+
+#sample1 <- sample(5,1, prob = samplesizestown)
+sample2 <- sample(5,2, prob = samplesizestown)
+sample3 <- sample(5,3, prob = samplesizestown)
+sample4 <- sample(5,4, prob = samplesizestown)
+
+# removing missing values in town
+boys2 <- boys %>%
+    filter(!is.na(town))%>%
+    arrange(town)
+
+# draw the five cluster samples. Sample sizes within the clusters:
+# 1 cluster: 200
+# 2 cluster: 150 (each 75)
+# 3 cluster: 100 (each 33)
+# 4 cluster: 50 (each 13)
+
+#clustersample1 <- 
+#    boys2 %>%
+#    filter(town %in% sample1) %>%
+#    group_by(town) %>%
+#    filter(srswor(200, n()) == 1)%>%
+#    mutate(ncluster=5)
+# I drew cluster 3 here, but for every cluster,
+    # the number of SSus will be too large!
+
+
+clustersample2 <- 
+    boys2 %>%
+    filter(town %in% sample2) %>%
+    group_by(town) %>%
+    filter(srswor(75, n()) == 1)%>%
+    mutate(ncluster=5)
+clustersample3 <- 
+    boys2 %>%
+    filter(town %in% sample3) %>%
+    group_by(town) %>%
+    filter(srswor(33, n()) == 1)%>%
+    mutate(ncluster=5)
+clustersample4 <- 
+    boys2 %>%
+    filter(town %in% sample4) %>%
+    group_by(town) %>%
+    filter(srswor(13, n()) == 1)%>%
+    mutate(ncluster=5)
+    
+clustersample2 <-
+     boys2 %>%    
+     group_by(town) %>%
+     summarize(clustersize = n()) %>%
+     right_join(clustersample2)
+clustersample3 <-
+     boys2 %>%    
+     group_by(town) %>%
+     summarize(clustersize = n()) %>%
+     right_join(clustersample3)
+clustersample4 <-
+     boys2 %>%    
+     group_by(town) %>%
+     summarize(clustersize = n()) %>%
+     right_join(clustersample4)
+# and specify the cluster design three times.
+
+clusterdesign2 <- svydesign(id = ~town + id,
+                            fpc = ~ncluster + clustersize, 
+                            data = clustersample2)
+clusterdesign3 <- svydesign(id = ~town + id,
+                            fpc = ~ncluster + clustersize, 
+                            data = clustersample3)
+clusterdesign4 <- svydesign(id = ~town + id,
+                            fpc = ~ncluster + clustersize, 
+                            data = clustersample4)
+```
+
+And now compute the mean in 'wgt' for the different cluster designs
+```{r compute means, include=F}
+svymean(~wgt,na.rm=T,design=clusterdesign2) #se = 4.95
+svymean(~wgt,na.rm=T,design=clusterdesign3) #se = 1.93
+svymean(~wgt,na.rm=T,design=clusterdesign4) #se=  2.84
+# we have some bias in all designs.
+# the se is smallest in the design with three clusters.
+# but remember, we only do 1 draw! 
+# ideally, we would run a simulation
+```
+
+## Question 2
+In practice, we may not want to draw clusters (PSUs) using an SRS, or Proportional to Size (PPS - as we have done so far), but we may want to stratify *before* drawing the clusters. 
+In order to understand this: Imagine we are interested in doing a survey among ethnic minorities, which - at least in many countries - are to be found in the big cities. We therefore want to increase the probability of drawing cities in our sample.
+
+Thinking about the 'wgt' variable - that we are lucky to know for our entire population - do you think it makes sense to stratify at the PSU level? And how is this for the variable 'hgt'?
+
+```{r  clusters, include=F}
+boys2 %>%
+  group_by(town)%>%
+  summarize(var(wgt,na.rm=T),var(hgt,na.rm=T),var(bmi,na.rm=T))
+# conclusion: variances are not very different
+# But: town 2 seems to have a somewhat higher variance 
+# on the variable weight
+
+# so, we could stratify on weight.
+```
+
+## Question 3
+
+Assume (see question 1) that because we want to balance costs and precision, we want to sample 2 clusters. We have so far used sampling proportional to size for the cluster sizes. Can we stratify on 'wgt' in the first step when we draw PSUs. How would we do this?
+(you may take a sneak peak at .RMD file to see how I solved this using Neyman allocation at the PSU level)
+
+```{r stratify on education, include=F, results='hide'}
+# yes: we can adjust the probabilities!
+
+# You can actually calculate this (not required for assignment)
+# using neyman allocation. For that we need:
+# - the variance per cluster
+# - sample size per cluster
+# - total variance
+# - total sample size
+
+# and we can do Neyman allocation, using tidy steps
+# group by town (5 groups) - then
+# compute a new variable "varwgt" that is the variance of the weight (by group!) - then
+# back to the ungrouped data 
+# compute the total variance - then
+# compute proportions "alloc"  that we need to draw from each town
+neymanclusters <- boys2 %>%
+  group_by(town)%>%
+  summarize(varwgt = var(wgt,na.rm=T), 
+            samplesize=n(
+            ))%>%
+  ungroup()%>%
+  mutate(totalvar = var(boys2$wgt,na.rm=T))%>%
+  mutate(alloc=(varwgt*samplesize)/(totalvar*nrow(boys2)))
+
+# TidyR requires trial and error. Remember it is just a line-by-line # set of steps.
+# if you don't know what a command does with Tidy, look it up!
+
+# Google is your friend!
+```
+Below you can find code where we adjust cluster probabilities based on neyman allocation criteria. Run the code, and work out line-by-line what happens.
+
+## Question 4:
+what happens to the s.e. and precision compared to the earlier design where you drew 2 clusters?
+
+```{r neyman at cluster level}
+set.seed(123)
+sampleneyman <- sample(5,2, prob = neymanclusters$alloc)
+clusterneyman <- 
+    boys2 %>%
+    filter(town %in% sampleneyman) %>%
+    group_by(town) %>%
+    filter(srswor(75, n()) == 1)%>%
+    mutate(ncluster=5)
+# and specify the sample sizes within the clusters.
+clusterneyman <-
+     boys2 %>%    
+     group_by(town) %>%
+     summarize(clustersize = n()) %>%
+     right_join(clusterneyman)
+
+# we specify the svydesign object
+clusterneyman <- svydesign(id = ~town + id,
+                            fpc = ~ncluster + clustersize, 
+                            data = clusterneyman)
+svymean(~wgt,na.rm=T, design=clusterneyman)
+```
+
+Finally, we can take a cluster sample like we have done before, but then within every PSU stratify the sample (possibly on a different variable) before taking a sample. 
+
+## Question 5:
+
+What about truly combining clustering (to save costs) with stratification (to optimize precision?): We can combine them. For example:
+
+Take a clustersample proportional to size with 2 PSUs, and then stratify the sample on the variable 'agecat' using neyman allocation for example.
+
+In summary: we can do the stratification at two moments in our sampling procedure:
+1. We can stratify using population data information (like we did last week), then draw the clusters (PPS), and draw the stratified sample within each of the clusters in the same way.
+2. We can first draw the cluster sample, and then within each cluster figure out what would be a good way to stratify. This could lead to a design where we use different allocation proportions in each cluster, or even different variables in different clusters! Such a design sounds strange, but it is commonly used in multi-country surveys, where in one country you may have information on your sampling frame about age, and in the other country you don't.
+
+For this exercise, use approach 1. First draw 2 clusters, and then draw a stratified sample within every cluster based on the variable 'agecat'. Note that in some cases you may run into the issue that there is only one PSU for a stratum (e.g. when you stratify on towns). In that case the option
+
+```{r lonely PSU}
+options(survey.lonely.psu="adjust")
+```
+
+will tell R how to deal with this. The method "adjust"  ensures that the stratum contribution to the variance is taken to be the average of all the strata with more than one PSU. This implies this PSU does not contribute to the variance.
+For more info, see http://r-survey.r-forge.r-project.org/survey/exmample-lonely.html
+
+```{r cluster - stratify, include=F}
+set.seed(123)
+# create the agecat variable (copy from last week)
+boys2 <-
+    boys2 %>%
+    mutate(agecat = cut(age, 
+                        breaks = c(0, 1, 5, 10, 22),
+                        labels = c("Younger than 1",
+                                   "1 - 5",
+                                   "5 - 10", 
+                                   "Older than 10")))
+sample2strat <- sample(5,2, prob = samplesizestown) #pps
+print(sample2strat) # 3 and 2
+
+# restrict the dataset to the sampled clusters
+pop2clusters <- boys2 %>%
+   filter(!is.na(agecat)) %>%
+    arrange(agecat) %>%
+    mutate(id = 1:nrow(.))%>%
+    filter(town==2|town==3) # | OR sympbol
+   
+# now draw the stratified sample 
+# specify the sample sizes yourself (based on neyman allocation here)
+selected <- sampling::strata(pop2clusters, 
+                   c("agecat"),
+                   size = c(13,26,12,147), 
+                   method = "srswor")$ID_unit
+# does the 'strata' command give you an error?
+# there is also a command in 'survival' package
+
+clusterstrat <- subset(pop2clusters, id %in% selected)
+
 # we now need to add the sample sized per stratum, 
 # so that R can automatically include probabilities
-table(boys2$town)
+clusterstrat$fpc[clusterstrat$agecat=="Younger than 1"] <- 136
+clusterstrat$fpc[clusterstrat$agecat=="1 - 5"] <- 155
+clusterstrat$fpc[clusterstrat$agecat=="5 - 10"] <- 68
+clusterstrat$fpc[clusterstrat$agecat=="Older than 10"] <- 389
 
-samplestrat$fpc[samplestrat$town==1] <- 191
-samplestrat$fpc[samplestrat$town==2] <- 81
-samplestrat$fpc[samplestrat$town==3] <- 239
-samplestrat$fpc[samplestrat$town==4] <- 161
-samplestrat$fpc[samplestrat$town==5] <- 73
+clusterstrat <-
+     boys2 %>%    
+     group_by(town) %>%
+     summarize(clustersize = n()) %>%
+     right_join(clusterstrat)
+clusterstrat$ncluster <- 5
 
-# Or simpler using Tidyverse (especially when the number of strata is larger)
+clusterstratdesign <- svydesign(id = ~town + id,
+                            strata=~agecat, nest=T,
+                            fpc = ~ncluster + clustersize, 
+                            data = clusterstrat)
+# the nesting here is to signal that clusters are nested in stratification
+# in other words, we first stratify, then we take clusters
 
-# samplestrat <-
-#     table(boys$town) %>%
-#     as.data.frame() %>%
-#     rename(town = Var1,
-#            fpc  = Freq) %>%
-#     mutate(town = as.numeric(town)) %>%
-#     right_join(samplestrat)
+svymean(~wgt,na.rm=T,design=clusterstratdesign)
+?svymean
+clusterstratdesign
 ```
 
-Now, we can specify the svydesign object using the code below. The svydesign object looks very similar to the object we had for SRS, but we now add the *fpc per stratum* AND tell R *which variable we used for stratification* in our sample using the 'strata=~' command.
+## Question 6 (optional - no answer available):
 
-## Q2
-Run the code below. How do you interpret the design effect? Is this a good way to stratify our sample?
+If you feel like practicing more: You can try to see whether you can improve precision by stratifying within the clusters in a different way. 
+Use the same two clusters. Figure out how you could stratify for each cluster separately. Compare your answer to question 4. What do you find? 
 
-```{r surveydesignobject}
-stratdesign1 <- svydesign(ids = ~1, 
-                          probs = NULL,
-                          strata = ~town,
-                          variables = NULL, 
-                          fpc = ~fpc,
-                          weights = NULL,
-                          data = samplestrat)
+## Question 7 (optional)
+Can you compute the inclusion probabilities for the design you specified in question 5, and use HT-estimation (use the probs= or weights= command rather than the fpc)? 
 
-mean(samplestrat$age,na.rm=T) # wrong, no sampling design
-svymean(~age, stratdesign1,deff=T)
+\newpage
+
+## Exercise 3
+
+So far, I have always asked you to compute the mean as a statistic. The mean is a very useful statistic, as many concepts in statistics can be expressed as means.
+For example, a regression model including variables X and Y, can be expressed as a set of link-functions that describe the relation between values of x and the conditional mean (or predicted mean) in y. 
+
+Still, you may in practice want to compute other things than the mean. The survey package includes many different functions, which I will not show all, but I will show you some functions that may be useful. The idea of this exercise is that you simply run the code first, and then change some variables to test and see what every option does.
+
+Let's first reload our example dataset.
+
+```{r setup and dataset, include=F, results='hide'}
+require(sampling) # for sampling
+require(survey) # for design weights and corrections
+require(tidyr)
+require(dplyr) # for some data manipulations
 ```
 
-```{r answer, include=F}
-#*Yes, but not this stratified sample. In this case random sampling is more appropriate than the proposed #stratified sample. It would have been more appropriate to sample cases from within each stratum based on their #respective proportional representation in the population. In other words, (in stratified sampling) we would #have wanted to stratify "proportional to size".*
-```
-
-We will discuss the answer to Q2 in class. You may continue this exercise until we reconvene, and then finish the rest of this exercise as the Take Home Exercise.
-
-## Q3
-
-Stratified sampling can be used to draw a sample size that is 'big enough'  in every stratum, as we did in question 1. However, more commonly we use stratification to increase precision in our sample, or to reduce the required sample size. One popular way is to to stratify "proportional to size" so that the sample sizes in the population are exactly reflected in the sample.  Draw a sample proportional to size based on the variable "agecat" created below.
-
-```{r create agecat}
-# I am using tidyverse here to recode the continuous variable age into 4 categories. We need categories, because we want to take a stratified sample based on age
+```{r data}
+boys <- readRDS("boys.RDS")
 boys <-
     boys %>%
     mutate(agecat = cut(age, 
@@ -175,321 +526,74 @@ boys <-
                                    "Older than 10")))
 ```
 
-Follow these steps:
+#Creating a sample, and survey design object
 
-a) First, compute how many cases we need from every of the four strata if we want to draw a sample of 200.
-b) draw a sample size of 200 PPS from the strata
-c) add the variable '$fpc' to the new sample, and specificy the svydesign object
-d) compute both the mean in height and weight (our real dependent variables!) for the boys using the sampling design.; What is the design effect?
+Below I will draw a simple SRS of size 200, like you did in week 38. You can of course also use a cluster or stratified sample 
+```{r srs, results='hide'}
+# SRS of 200
+set.seed(11)
+boys$srs <- srswor(200,nrow(boys))
 
-``` {r compute_required_sample_sizes_by_group, include=F}
-#arrange( data, ..., .by_group = FALSE)
-# sample size 50 in every stratum, you need to sort the data, to get the strata right
-table(boys$agecat)
-# we thus need
-round(table(boys$agecat)/748*200)
+srs <- subset(boys,srs==1)
+srs$fpc <- nrow(boys)
+
+# now with fpc - this is correct!
+srsdesign <- svydesign(id=~1,fpc=~fpc,data=srs)
+svymean(~wgt,na.rm=T,design=srsdesign,deff=T) # you can use a different y-variable
 ```
 
-``` {r draw_PPS_sample, include=F}
-boys3 <- boys %>%
-    filter(!is.na(agecat)) %>%
-    arrange(agecat) %>%
-    mutate(id = 1:nrow(.))
+#describing the dependent variable
+Now, lets ask for some statistics for the 'wgt' income.
 
-selected <- sampling::strata(boys3, 
-                   c("agecat"),
-                   size=c(36,41,18,104),    # note the sizes should 
-                   method="srswor")$ID_unit # be in order of dataset
+# Question 1.
+a. Inspect the output: do you understand what is going on?
+b. Can you ask for the 50th quantile (the median), or the 95th?
 
-samplestrat3 <- subset(boys3, id %in% selected)
-
-# add the fpc.
-samplestrat3$fpc[samplestrat3$agecat == "Younger than 1"] <- 136
-samplestrat3$fpc[samplestrat3$agecat == "1 - 5"] <- 155
-samplestrat3$fpc[samplestrat3$agecat == "5 - 10"] <- 68
-samplestrat3$fpc[samplestrat3$agecat == "Older than 10"] <- 389
-
-# we now need to add the sample sized per stratum, 
-# so that R can automatically include probabilities
-
-# Or simpler (especially when the number of strata is larger)
-# samplestrat3 <-
-#     table(boys$agecat) %>%
-#     as.data.frame() %>%
-#     rename(agecat = Var1,
-#            fpc  = Freq) %>%
-#     right_join(samplestrat3)
-
-stratdesign3 <- svydesign(ids = ~1, 
-                          probs = NULL,
-                          strata = ~agecat,
-                          variables = NULL, 
-                          fpc = ~fpc,
-                          weights = NULL,
-                          data = samplestrat3)
-# notice the large error here
-
-mean(samplestrat3$age) # this is now unbiased, as we sample PPS
-svymean(~age, stratdesign3) 
-
-# We can now also inspect the design effect. 
-# You can get this from R (automated), like this:
-svymean(~wgt, 
-        na.rm = TRUE,
-        stratdesign3,
-        deff = TRUE)
-
-# Often, R does not give you the deff automatically. 
-# Then you have to compute it by hand by pretending 
-# your stratified design is actually SRS
-
-samplestrat3$popsize <- 748
-stratsrs3 <- svydesign(ids = ~1, 
-                       probs = NULL,
-                       strata = NULL,
-                       variables = NULL, 
-                       fpc = ~popsize,
-                       weights = NULL,
-                       data = samplestrat3)
-
-svymean(~wgt, 
-        na.rm = TRUE,
-        stratsrs3,
-        deff = TRUE)
-
-# and compute the design effect:
-.70134/1.5474
-# the sample is 1/.45 times as efficient, or in 
-# other words, we get 200/.45 as effective sample size
-```
-    
-## Q4
-
-The real benefit of stratification is to oversample from strata in the population that exhibit 
-more variance. The dependent variables in our dataset (height, weight) are strongly predicted by age, but variance in these variables is likely to differ too for the different age categories. Compute the overall variance in height and weight, and the variance in both variables for the different age categories, along with the sample sizes. Try this first, but answers can be found on Blackboard if you get stuck.
-
-``` {r compute_variances_across_groups, include=F}
-var(boys3$hgt, na.rm = TRUE)
-
-var(boys3$wgt, na.rm=TRUE)
-
-variances <- boys3 %>%
-    group_by(agecat) %>%
-    summarise(across(c("hgt","wgt"), var, na.rm = TRUE))
-
-samplesizes <- boys3 %>%
-    group_by(agecat) %>%
-    summarise(n = n())
+```{r dsrc, results='hide'}
+# can we also compute other things? Sure!For example, the total weight. 
+# In the context of this dataset it makes no sense, but if you do a business survey,
+# the total may show the total revenue, or total production for example.
+sum(boys$wgt,na.rm=T) #
+svytotal(~wgt,na.rm=T,design=srsdesign,deff=T) 
+# get estimates of weighted percentiles (here the 25th )
+svyquantile(~wgt,na.rm=T, srsdesign, quantiles = 0.25, ci = TRUE)
 ```
 
-## Q5 (bonus: only do this if you have time, and find this interesting).
+#Saving the results as an object
 
-Neyman allocation helps to define how many cases should be drawn from what stratum. Let's assume again that we can draw 200 cases from the population. Using the variable `height` only as our dependent variable, how many cases would we need from every stratum for the variable 'agecat'? Complete the table below:
+You can also ask for multiple means, and save these as an object. This has other benefits, because you can do calculations on this object, e.g. get a Confidence Interval
 
-``` {r compute_sample_sizes_Neyman_allocation, include=F}
-# under 1, height and weight -> 13 for height, 1 for weight
-(variances[1,2]*samplesizes[1,2])/((variances[1,2]*samplesizes[1,2])+(variances[2,2]*samplesizes[2,2])+(variances[3,2]*samplesizes[3,2])+(variances[4,2]*samplesizes[4,2]))*200
-(variances[1,3]*samplesizes[1,2])/((variances[1,3]*samplesizes[1,2])+(variances[2,3]*samplesizes[2,2])+(variances[3,3]*samplesizes[3,2])+(variances[4,3]*samplesizes[4,2]))*200
-# 1-5 year olds: 27 for height, 2 for weight
-(variances[2,2]*samplesizes[2,2])/((variances[1,2]*samplesizes[1,2])+(variances[2,2]*samplesizes[2,2])+(variances[3,2]*samplesizes[3,2])+(variances[4,2]*samplesizes[4,2]))*200
-(variances[2,3]*samplesizes[2,2])/((variances[1,3]*samplesizes[1,2])+(variances[2,3]*samplesizes[2,2])+(variances[3,3]*samplesizes[3,2])+(variances[4,3]*samplesizes[4,2]))*200
-# 5-10 year olds: 12 for height, 5 for weight
-(variances[3,2]*samplesizes[3,2])/((variances[1,2]*samplesizes[1,2])+(variances[2,2]*samplesizes[2,2])+(variances[3,2]*samplesizes[3,2])+(variances[4,2]*samplesizes[4,2]))*200
-(variances[3,3]*samplesizes[3,2])/((variances[1,3]*samplesizes[1,2])+(variances[2,3]*samplesizes[2,2])+(variances[3,3]*samplesizes[3,2])+(variances[4,3]*samplesizes[4,2]))*200
-# over 10s: 147 for height, 192 for weight
-(variances[4,2]*samplesizes[4,2])/((variances[1,2]*samplesizes[1,2])+(variances[2,2]*samplesizes[2,2])+(variances[3,2]*samplesizes[3,2])+(variances[4,2]*samplesizes[4,2]))*200
-(variances[4,3]*samplesizes[4,2])/((variances[1,3]*samplesizes[1,2])+(variances[2,3]*samplesizes[2,2])+(variances[3,3]*samplesizes[3,2])+(variances[4,3]*samplesizes[4,2]))*200
-
-# or, shorthand:
-variances %>%
-    mutate(across(c("hgt", "wgt"), 
-                  .fns = ~ 200 * .x * samplesizes$n / 
-                           sum(.x*samplesizes$n)))
+# Question 2. 
+Run the code below, and inspect how the output looks like
+```{r object-oriented, results='hide'}
+mysvymean <- svymean(~wgt+hgt, na.rm=T, srsdesign, deff = TRUE)
+coef(mysvymean)
+SE(mysvymean)
+deff(mysvymean)
+# and get a confidence interval
+confint(mysvymean)
 ```
 
-```{r, echo = F}
-tibble(Age = levels(boys$agecat),
-       "Sample size height" = "",
-       "Sample size weight" = "") %>%
-    kable() %>%
-    kable_styling(bootstrap_options = c("striped", "hover"))
+finally, bi- and multivariate relations
+Perhaps you are more interested in computing cross-tables or regression-coefficients. This can also be done using the functions below.
+
+``` {r glm, results='hide'}
+#we can estimate crosstables, and t-tests
+svytable(~town+agecat,design=srsdesign) # population tables
+svyby(~wgt, by=~agecat,svymean,design=srsdesign)
+
+# we can extend to do a chi.sq test
+svychisq(~town+agecat, srsdesign, statistic="adjWald")
+
+# or regression
+svyglm(wgt~hgt+age+town, design=srsdesign)
+# and we can access parts of the output
+coef(svyglm(wgt~hgt+age+town, design=srsdesign))
 ```
 
-## Q6 (continuation from 5 (bonus))
+# Question 3 (no answer available):
+Can you rerunyour code using a stratified or cluster sample (you may choose a design from week 5 or 6 or specify a new design), but focus on a relation between variables (choose some relationship you may find interesting?
 
-And what if we would optimize the sample based on weight? Compute the optimal sample sizes again across the 4 age groups in the table above.
-
-## Q7 (bonus):
-
-In practice you often are in this situation, where you have multiple dependent variables, and you have to make a choice how to optimize your sample given multiple stratification variables. Also bear in mind, that you are often using imperfect estimates for the variances in the subgroups (e.g. based on a survey from a previous year) and (as Stuart discusses in section 30A) that you often don't know how large the strata actually are. Taken all of this into account, how would you here stratify?
-
-```{r answer stratification, include=F}
-#answer: The best thing would probably be to use the optimal sample sizes for height, so that the sample sizes # per stratum are not too small. 
-```
-
-## Q8 (bonus)
-
-Compute the mean weight and height in the population using the stratified design you specified under 7. Compute the design effect. How much smaller is this than in question 1? We will start our discussion in week 41 with a discussion of your findings.
-
-``` {R after_neyman}
-selected <- strata(boys3, 
-                   c("agecat"),
-                   size = c(13,26,12,147), 
-                   method = "srswor")$ID_unit
-
-samplestrat3 <- subset(boys3, id %in% selected)
-
-# we now need to add the sample sized per stratum, 
-# so that R can automatically include probabilities
-samplestrat3$fpc[samplestrat3$agecat=="Younger than 1"] <- 136
-samplestrat3$fpc[samplestrat3$agecat=="1 - 5"] <- 155
-samplestrat3$fpc[samplestrat3$agecat=="5 - 10"] <- 68
-samplestrat3$fpc[samplestrat3$agecat=="Older than 10"] <- 389
-
-# Or again, in shorthand, which is especially useful
-# if the number of categories is large
-# samplestrat3 <- 
-#     table(boys3$agecat) %>%
-#     as.data.frame() %>%
-#     rename(agecat = Var1,
-#            fpc = Freq) %>%
-#     right_join(samplestrat3)
-
-stratdesign3 <- svydesign(ids = ~1, 
-                          probs = NULL,
-                          strata = ~agecat,
-                          variables = NULL, 
-                          fpc = ~fpc,
-                          weights = ~NULL,
-                          data = samplestrat3)
-
-mean(samplestrat3$age) # biased, just for comparison
-
-# means 
-svymean(~hgt, na.rm=T,stratdesign3, deff = "replace", cv=T)
-svymean(~wgt, stratdesign3, deff = "replace")
-```
-
-
----
-\newpage
-
-# Exercise 2 - Cluster sampling
-
-We will again use the Boys.RDS dataset.
-The main reason to do cluster sampling is to reduce costs. In the "boys.rds"  dataset, we have a population from one council, and perhaps it is safe to assume that travel costs do not matter so much. In other circumstances, travel costs do matter (as well as things like training interviewers, accessing multiple sample frames), so cluster samples are actually very common, especially when interviewers are used to conduct a survey.
-
-The idea of cluster sampling is to reduce the number of clusters to save costs. Typically one does this in multiple stages: first one or several clusters are sampled, and then within the clusters a further sample is drawn. 
-
-## Q1 
-
-The clusters in this dataset consist of the 5 towns. How many boys live in each town in the population?
-
-``` {r town_size, include=F}
-table(boys$town)
-```
-
-Save the samplesizes in a new object. We will need these later when we draw the cluster sample (we will need the cluster sizes)
-
-```{r clustersizes}
-samplesizestown <- c(table(boys$town))
-```
-
-## Q2
-
-Cluster sampling can be one-stage (we interview everyone in a cluster), or two-stage. We will concentrate on two-stage samples here, because one-stage cluster samples are rare in real life.
-One way to draw a cluster sample is to first draw clusters with equal probabilities. That is, we draw an SRS of clusters. For the Boys example dataset, we can  for example select 2 out of 5 towns. 
-In a second stage, we can then decide to draw the same number of sampling units within each of the 2 towns (eg. 50) , or we can draw sampling units 'proportional to  size' in the cluster. E.g. if we draw town 2 and 4, but town 4 is twice the size of town 2, we draw 66 units in town 4 and 33 units from town 2.
-
-Below is code for drawing a two-stage cluster sample. We first draw towns, and then in each town draw 50 cases. Note that at this point it is really beneficial to use Tidyverse. The alternative is to draw 2 towns first, split the population into the five towns, draw a sample in the selected 2 towns, and then combine the sampled individuals again.
-
-```{r sample_2_clusters}
-boys$id <- 1:nrow(boys)
-set.seed(123)
-
-sample3 <- sample(5,2, prob = samplesizestown)
-sample3 # these are the towns we samples
-
-# removing missing values in town, and sorting it again (as in stratification)
-boys2 <- boys %>%
-    filter(!is.na(town))%>%
-    arrange(town)
-
-#Explanation of Tidyverse:
-# we assign a new object 'clustersample1',
-# that comes from the boys2 dataset,
-# we first filter the towns we selected in sample3,
-# then we split the sample in groups (the two towns we selected),
-# then we select in each town 50 cases with srswor, and only keep those which we sampled.
-
-clustersample1 <- 
-    boys2 %>%
-    filter(town %in% sample3) %>%
-    group_by(town) %>%
-    filter(srswor(50, n()) == 1)
-```
-
-Now we have drawn a cluster sample, we need to know how to specify a cluster design in R.
-For this, we need to specify:
-
-svydesign(id = ~clustervar + individual,fpc = ~nclusters + clustersize,data=dataset)
-
-Please see the code for how to get these variables added to our cluster sample dataset below..
-
-```{r cluster_sample}
-# specify the fpc, which now exists of two components: 
-# the number of clusters, and the size within every 
-# sampled cluster
-clustersample1$ncluster <- 5 # 5 towns in population
-
-clustersample1$clustersize <- NA # empty first, then add sample sizes in towns 2 and 3
-clustersample1$clustersize[clustersample1$town == 2] <- nrow(boys2[boys2$town == 2, ])
-clustersample1$clustersize[clustersample1$town == 3] <- nrow(boys2[boys2$town == 3, ])
-
-# or in a tidy way (a bit complicated)
-# clustersample1 <-
-#     boys2 %>%
-#     group_by(town) %>%
-#     summarize(clustersize = n()) %>%
-#     right_join(clustersample1)
-
-# and specify the cluster design:
-# we now have two id variables (individuals in towns)
-# and two fpc variables: the number of towns, and the clustersize per town.
-clusterdesign1 <- svydesign(id = ~town + id,
-                            fpc = ~ncluster + clustersize, 
-                            data = clustersample1)
-```
-## Q3
-
-What is the bias in the clusterdesign if we do not specify the svydesign object at all?
-What is the design effect (add deff=T to your svymean()  )? 
-How successful was our cluster sample in terms of the loss in precision?
-
-```{r height and weight, include=F}
-mean(clustersample1$wgt,na.rm=T) - mean(boys2$wgt,na.rm=T) # bias = 6 (kilos)
-mean(clustersample1$hgt,na.rm=T) - mean(boys2$hgt,na.rm=T) # bias = 10 (cm)
-svymean(~wgt, design = clusterdesign1, deff = TRUE) #deff= 4.40
-svymean(~hgt, na.rm = TRUE, design = clusterdesign1, deff = TRUE) #deff= 3.88
-```
-
-## Q4 (th)
-
-You can either optimize your cluster-design based on costs or precision, or balance both. 
-Imagine it costs 10 euros to conduct one interview (variable costs).
-
-However, it also costs 500 euros to conduct interviews in one cluster (fixed costs per cluster).
-
-An SRS of size 100 will in this case normally cost you "100 *  10 + 5 *500" = 3500 euros. 
-
-The cluster design specified in question 3 will cost you "100 * 10 + 2 * 500 = 2000 euros. 
-
-You now have to balance costs and precision. Assume that you have a fixed budget of 2500 euros. Doing an SRS is here not an option, because you would spend all your money on fixed costs. At the other extreme, you can sample in just 1 cluster and interview 200 cases. 
-
-Can you work out, using the variable wgt (weight) as your dependent variable, what would be the right number of clusters to draw? 
-
-(you may think that you would ideally like to stratify perhaps as well, either at the cluster-level or within the cluster (varying the sample size within each cluster). Indeed! That is what we will turn to next week though, for now, lets stick to clusters alone)
-
---- END OF DOCUMENT ---
+-- End of File --
 
 

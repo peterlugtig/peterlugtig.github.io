@@ -1,12 +1,12 @@
 ---
 date: "`r Sys.Date()`"
 draft: false
-linktitle: "Week 9 - Nonresponse and weighting"
+linktitle: "Week 9 - Designing weights"
 menu:
   SDA:
     parent: Survey Data Analysis
     weight: 9
-title: "Nonresponse and weighting"
+title: "Designing weights"
 toc: true
 type: docs
 weight: 9
@@ -14,33 +14,33 @@ weight: 9
 
 ## Introduction
 
-Every survey suffers from nonresponse. Nonresponse rates are often large and are thought to be often the largest source of survey error. As long as information for the entire population or sample is available, nonresponse error can to some degree be assessed and adjusted for.
+Topic: in practice, nonresponse weights should be developed keeping in mind what the dependent variable is. In situations where many variables asked among respondents are also available for the population, there are many possible nonresponse weighting models. In this week, we will focus on the question of how to develop nonresponse weights. We discuss the concept of paradata.
 
-## Literature
+## Literature: 
+-	Brick, J. M. (2013). Unit nonresponse and weighting adjustments: A critical review. Journal of Official Statistics, 29(3), 329-353.
 
-#### Required readings
+## Optional
+-	Kreuter, F. (2013). Improving surveys with paradata: Introduction. Improving surveys with paradata: Analytic uses of process information, 1-9.
 
-- de Leeuw, E., Hox, J., & Luiten, A. (2018). International nonresponse trends across countries and years: an analysis of 36 years of Labour Force Survey data. Survey Methods: Insights from the Field, 1-11.
-- Kalton, G., & Flores-Cervantes, I. (2003). Weighting methods. Journal of official statistics, 19(2), 81.
-- Brick, J. M. (2013). Unit nonresponse and weighting adjustments: A critical review. Journal of Official Statistics, 29(3), 329-353.
+## Lecture: 
+Introduction to paradata. Lecture about designing and constructing weights
+[Slides](/files/SDA/week9/lecture_week_9.pdf)
 
-#### Optional readings
+## CLass Exercises
+Discussion about possible weighting variables given different dependent variables that are often of interest to scientists (e.g. voting behavior, health, finances) + an exercise where you develop weights for a survey.
 
-- Bethlehem, J. G., & Keller, W. J. (1987). Linear weighting of sample survey data. Journal of official Statistics, 3(2), 141-153.
-- Lynn (1996) Weighting for nonresponse. Survey and Statistical Computing 1996, edited by R. Banks
-
-## Lecture
-We discuss how nonresponse can be assessed and nonresponse correction factors (weights) can be computed based on either target population or sample frame data. We discuss weighting by poststratification, linear weighting and raking. 
-[Slides](/files/SDA/week9/lecture_week_9.pdf)  
-
-## Class exercise
-R exercise to work with Nonresponse weights: In this exercise you learn how to work with existing nonresponse weights in R using the survey package.
+[Class discussion weighting variables](/files/SDA/week9/thinking_weighting_variables.pdf)  
 [R exercise weighting](/files/SDA/week9/class_exercise_week_9.pdf)  
-[R exercise weighting solutions](/files/SDA/week9/class_exercise_week_9.Rmd)  
-[data for R exercise](/files/SDA/week9/ESSR5_HUSK.RDS)  
+[R exercise weighting solutions](/files/SDA/week9/class_exercise_week_9.Rmd)
+[sample data for R exercise](/files/SDA/week9/unit_non_response_information.RDS)  
+[respondent data for R exercise](/files/SDA/week9/responders_data.RDS)  
 
-## Take home exercise
+## Take home Exercise: 
+Finish the weighting exercise
 
-Finish the class exercises.
+
+## Before week 10
+
+For the final assignment you will work in a group of about 4 (+- 1) on a real-life dataset. The goal is to apply all the materials covered in the course, answer a substantive research question and solve a real-life challenge covers an advanced problem in survey research. You will receive an e-mail on your @students.uu.nl account with more information about group membership, the assignment itself and your group members this week.
 
 

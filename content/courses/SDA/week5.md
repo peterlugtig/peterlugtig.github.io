@@ -1,46 +1,40 @@
 ---
 date: "`r Sys.Date()`"
 draft: false
-linktitle: "Week 5 - Stratified and cluster sampling"
+linktitle: "Week 5 - R practical on svydesign"
 menu:
   SDA:
     parent: Survey Data Analysis
     weight: 5
-title: "Stratified and cluster sampling"
+title: "R practical on svydesign"
 toc: true
 type: docs
-weight: 4
+weight: 5
 ---
 
 ## Introduction
 
-In practice, real surveys seldomly use a simple random sampling design. We will discuss why stratification is often used to make the sample more efficient (allowing smaller samples), and why clustering is used to limit survey costs.
+Today, we will practice with using R for doing survey analysis, with a focus on stratified and clustered designs.We will also cover the HT estimator as a way to deal with complex survey designs.
 
-<ins>Before class, make sure to finish last weaks take home exercise.</ins>
+## Literature
 
-## Literature 
+-	Catch up with any chapters you didn’t read yet.
+Optional reading :
+-	Lohr (2022) chapters on complex surveys
 
-- Stuart (1984) p. 35-71
-
-Optional:
-- Lohr, S. (2022), Sampling: design and analysis, chapter 3 (stratified sampling) and 5 (cluster sampling)
 
 ## Lecture
-We start by discussing the Take home exercise. After this, we illustrate the benefits of stratification for survey efficiency and clustering for survey costs using example data. 
-[Slides](/files/SDA/week5/lecture_week_5.pdf)
+There are no new materials, but the slides of this week are used to show how mixes of clustering and stratified designs can be used in practice Apart from specifying the specific survey design using clustering and stratification variables in R, correct inferences can also be done by directly using the inclusion probabilities of sample elements into the survey design. The Horvitz-Thompson estimator formalizes this idea, and can also be used in R directly. You will compute probabilities, and use these in R.
 
-[simulation stratified design](/files/SDA/week5/simulate_grade_data_stratified.R)
+[Slides](/files/SDA/week6/lecture_week_6.pdf)  
 
-[simulation cluster design](/files/SDA/week5/simulate_grade_data_clustering.R)
+## Exercises
+The efficiency of a sampling design can be expressed by the design effect. We study how this is produced in R, and estimate it for a variety of sampling designs combining clustering and stratification. We will also study the Horvitz-Thompson estimator. Apart from specifying the specific survey design, correct inferences can also be done by directly using the inclusion probabilities of sample elements into the survey design. You will compute probabilities, and use these in R. 
 
-## Class exercise
-Specify a stratified and clustering design in R
-
-[data](/files/SDA/week5/boys.RDS)   
-[R exercises](/files/SDA/week5/class_exercise_week_5.pdf)  
-[R exercise solutions](/files/SDA/week5/class_exercise_week_5.Rmd)
-
-[R exercise complete answers](/files/SDA/week5/class_exercise_week_5_complete.Rmd)
+[data](/files/SDA/week6/boys.RDS)  
+[Class exercise](/files/SDA/week6/class_exercise_week_6.pdf)  
+[Class exercise solutions](/files/SDA/week6/class_exercise_week_6.Rmd)  
 
 ## Take home exercise
-[R exercises](/files/SDA/week5/take_home_exercise_week_5.pdf)
+Further exercises on complex sampling designs (multistage)
+[R exercises](/files/SDA/week6/take_home_exercise_week_6.pdf)  
