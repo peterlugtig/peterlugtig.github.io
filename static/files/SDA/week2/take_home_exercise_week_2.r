@@ -1,8 +1,8 @@
 # testing Probability
-# THE week 38
+# THE week 2
 # survey data analysis
 # p.lugtig@uu.nl
-# last update: 28 July 2021
+# last update: 11 Sept 2023
 
 # hash signs (#) create comments that are not run, and are just there so you can understand your own code (or results)
 
@@ -10,7 +10,7 @@
 rm(list=ls(all=TRUE)) # empty R (there are better ways to do this - will come in R course)
 
 ####### step 1. Create a population ### 
-# the code below creates a "population" called "y"with four types of cards, each with 13 cards (so 52 in total)
+# the code below creates a "population" called "y" with four types of cards, each with 13 cards (so 52 in total)
 # the command "rep" repeats the vector (c(...)), each 13 times. We then save this new object as a dataset (as.data.frame)
 y <- as.data.frame(rep(c("spades","clubs","hearts","diamonds"),each=13))
 y$number <- rep(c("2","3","4","5","6","7","8","9","10","jack","queen","king","ace"))
@@ -18,7 +18,7 @@ colnames(y) <- c("suit","number")
 
 ####### step 2.Install and load libraries
 
-# there are two packages in R that work for sampling. We will here use the sampling package.
+# there are at least two packages in R that are often used for sampling. We will here use the 'sampling' package.
 # packages are small pieces of code that contain pre-made functions (like "rep").
 install.packages("sampling") # install the sampling package on your laptop
 library(sampling) # loads the library 
@@ -37,20 +37,23 @@ View(y)
 # if you want to know what the function "srswor"  does, simply type:
 ?srswor
 
+# now, lets see how many spades we just drew.
+# We do this by taking the sum of all cards which are "spades".
+
 sum(y$draw1[y$suit=="spades"]) # what is the number of cards with spades?
 # the codes here says: "take the sum of all the draws (0,1) for cards that are spades
 # write down your number here: __
 
-# drawing a sample of 10 WITH replacement
-y$draw2 <- srswr(10,nrow(y))
-sum(y$draw2[y$suit=="spades"]) # what is the number of cards with spades?
-# note that here we can have elements sampled more tha once
-# write down your answer here: __
-
 # drawing a sample of 40 without replacement
-y$draw3 <- srswor(40,nrow(y))
-sum(y$draw3[y$suit=="spades"]) # what is the number of cards with spades?
+y$draw2 <- srswor(40,nrow(y))
+sum(y$draw2[y$suit=="spades"]) # what is the number of cards with spades?
 # write down your number here: __
+
+# drawing a sample of 10 WITH replacement
+y$draw3 <- srswr(10,nrow(y))
+sum(y$draw3[y$suit=="spades"]) # what is the number of cards with spades?
+# note that here we can have elements sampled more than once
+# write down your answer here: __
 
  #draw 40 cards with replacement
 y$draw4 <- srswr(40,nrow(y))
