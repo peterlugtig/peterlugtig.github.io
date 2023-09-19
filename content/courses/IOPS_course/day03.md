@@ -6,7 +6,7 @@ menu:
   IOPS_course:
     parent: Advanced Survey Design
     weight: 3
-title: "Day 3 - Weighting"
+title: "Day 3 - Big data"
 toc: true
 type: docs
 weight: 3

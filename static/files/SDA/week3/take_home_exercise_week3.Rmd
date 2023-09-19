@@ -11,7 +11,9 @@ The idea of a .Rmd file is that you can run R code (snippets) with comments in c
 Scroll through the document! More on R Markdown in the "Programming with R" course. 
 For now, you don't need to know how .Rmd works, but know that examples and exercises in the Survey data Analysis course will be produced by an R markdown file, that contains the answers. You will find that for some R snippets results are 'hidden', or snippets are not included at all in the pdf. So you can check answers by running parts of the RMarkdown and/or comparing code to your code. Or, if you get stuck in R, you can use the R markdown for hints, or partial solutions. What also works quite well is that you take the RMarkdown files, and then change code, just to see what happens if you (for example) draw a larger sample, do that on a different population dataset, etc.
 
-Because there is no lecture next week, there is a batch of exercises to be done this week:
+Throughout the course, I will provide .Rmd files with solutions. I recommend you to always first try to do the exercise by just using the .pdf version, and typing over any .R input. In case you get stuck, feel free to open the .Rmd to see how I solve a question.
+
+There are quite a few exercises to be done for next week. If you need to prioritze, do exercises i), ii) and v). You may save exercises iii) and iv) for a later week (but they will be important for doing the take home assignment)
 
 i) how to sample from data using simple random sampling, 
 ii) work with the {survey} package and
@@ -23,8 +25,9 @@ v) looking forward to next week - the sampling design of your adopted survey
 
 **Exercise 1 - Sampling**
 
-Open the file `boys.RDS` (Google how to read .R files in R, or see the Markdown if you don't know how to do this). 
-Inspect the variable labels and make yourself familiar with the dataset. The key variables in the dataset are the height and weight for *all* 738 boys under the age of 21 living in an imaginary county (gemeente) in the Netherlands in 2014. In other words, we have the whole population, and the idea of this and future exercises is we explore different hypothetical ways to sample from this population, and then study the consequences for bias, error, and the MSE (see week 2).
+Open the file `boys.RDS` (Google how to read .R files in R, or if that doesn't work out, only then open the R Markdown if you don't know how to do this). 
+
+Inspect the variable labels and make yourself familiar with the dataset (e.g. by using the ' table()' or 'summary()' command. The key variables in the dataset are the height and weight for *all* 738 boys under the age of 21 living in an imaginary county (gemeente) in the Netherlands in 2014. In other words, we have the whole population, and the idea of this and future exercises is we explore different hypothetical ways to sample from this population, and then study the consequences for bias, error, and the MSE (see week 2).
 
 The dataset stems from a surveillance system, in which every child is seen every few years to measure various aspects of growth (like height, weight, but also onset of puberty). 
 The following measures are available:
@@ -49,13 +52,13 @@ To avoid hassle with datasets and files being in the wrong folder, I always work
 
 1) click on file -> New project
 2) Either create a new directory, or locate the directory where you are saving the datafiles for the "survey data analysis" course.
-3) give the project a name, like "exercises week 3"
+3) give the project a name, like "exercises_week_3"
 
-R will now always link syntax (.r or .rmd files) and datafiles you use in this project to eachother, and keep Datasets that you loaded in your environment associated to the project linked. Handy!
+R will now always links syntax (.r or .Rmd files) and datafiles you use in this project to eachother, and keep datasets that you loaded in your environment associated to the project linked. Handy!
 
 ** end of Intermezzo **
 
-Run the code below to install and load the libararies needed for this exercise, as well as the dataset. Then, load the data
+Run the code below to install and load the libraries needed for this exercise, as well as the dataset. Then, load the data
 
 ```{R load_data, message = F}
  #install.packages("tidyverse")
@@ -78,7 +81,7 @@ boys <- read_rds("boys.RDS")
 
 *Getting to know the population*
 
-1. The variable town consists of five towns in the county, numbered town1 to town5. Investigate how age is distributed over the towns and write down the respective numbers of cases in the following crosstable. I first recode the variable 'age'  into a new categorical variable as shown in the code below.
+1. The variable town consists of five towns in the county, numbered town1 to town5. Investigate how age is distributed over the towns and write down the respective numbers of cases in the following crosstable. I first recode the variable 'age' into a new categorical variable as shown in the code below. Start by typing over the first R code snippet.
 
 ```{R recode age} 
 # create agecat
@@ -97,6 +100,9 @@ table(boys$agecat,boys$town)
 prop.table(table(boys$agecat,boys$town))
 ```
 
+Your result should now look like this:
+
+
 |            | town1 | town2 | town3 |town4 |town5 | total|
 |:-----------|:-----:|:-----:|:----:|:-----:|:----:|:----:|
 |age < 1     |  34   |    7  |   52 |   22  |  19  |  134 |
@@ -112,7 +118,7 @@ Based on the above table, what would be the least likely combination of characte
 #answer: `town 5 between age 5-<10`
 ```
 
-3. What is the mean age in the population?
+3. Write R-code to calculate the mean age in the population?
 ```{R compute mean age, include=F}
 mean(boys$age) # specify what you want to compute
 ```
@@ -141,12 +147,13 @@ Now, lets compute the mean age of the children that we drew in our sample!
     
 ```{r crosstable on sampled data, results='hide'}
     srssample1 <- filter(boys,sample== 1) # selecting only the sampled boys
+    # don't know the {filter} command? Look up what it does
     # or write srssample1 <- boys[boys$sample==1]
-    mean(srssample1$age)
+    mean(srssample1$age) # mean in the sample
     mean(boys$age)-  mean(srssample1$age) # error or bias!
 ```
 
-Please note that the small bias that we observe here is actually due to random sampling error (because we 'know' SRS is unbiased, the difference must be errror . 
+Please note that the small bias that we observe here is actually due to random sampling error (because we 'know' SRS is unbiased, the difference must be error . 
 Every time we sample we will get a slightly different estimate for the mean, but averaged over an infinite amount of samples we can draw, the bias will be 0. We can estimate the size of the random error (and empirically establish that our estimator is indeed unbiased) by running this code many times (see lecture). 
 However, the Central Limit Theorem posits that we can simply predict the average error, and summarize this in the *standard error* statistic (s.e) .
 
@@ -172,7 +179,7 @@ print(lowerbound,upperbound)
 \newpage
 **Exercise 2 - The survey package**
 
-Most statistical packages compute the s.e. for us assuming we always use a simple random sample. You have probably done this before. However, we will soon start using more complicated sampling designs, where computing the se. accurately is complicated, so I will show here how we can compute the *correct*  standard error for any design using the{survey} package in R. The survey package can also deal with more complicated sampling designs quite easily. Although not needed yet now, I will also show how we can compute means across categories, compute a General Linear Model (ANOVA, regression), or plot the data using the {survey} package. You don't need to remember all of these.
+Most statistical packages compute the s.e. for us assuming we always use a simple random sample. You have probably done this before. However, we will soon start using more complicated sampling designs, where computing the se. accurately is complicated, so I will show here how we can compute the *correct*  standard error for any design using the {survey} package in R. The survey package can also deal with more complicated sampling designs quite easily. Although not needed yet now, I will also show how we can compute means across categories, compute a General Linear Model (ANOVA, regression), or plot the data using the {survey} package. You don't need to remember all of these.
 
 1. First, explore the {survey} package by using the {help} function. 
 
@@ -214,7 +221,7 @@ srs1 <-svydesign(ids=~1,fpc=srssample1$popsize,data=srssample1)
 svymean(~age,srs1) 
 ```
 
-4. In the code below, I will show you some other useful functions of the {survey} package that we will use in later package. Feel free to explore these functions
+4. In the code below, I will show you some other useful functions of the {survey} package that we will use in later weeks. Feel free to explore these functions and see what they do.
 
 ```{r survey extra functions}
 ?svyby
@@ -267,6 +274,7 @@ mean(sample2$age) # way too high
 mean(sample2$age) - mean(boys$age)
 ```
 
+**bonus**
 7. We would ideally like to be able to use our sample with unequal inclusion probabilities as well to say something about the population. The {survey} package can do this by including a {weight} variable that is the inverse of the inclusion probabilities.
 The code below shows how we can include the weight variable (called 'ageweight'), and how we can add this weight to the svydesign object. Note that we now give a new name to the {svydesign()} object, to distinguish that we have a different sample now.
 
@@ -463,7 +471,7 @@ We will see how we can deal with stratified and cluster designs next time, and h
 
 1) Find the documentation about sampling. For some surveys there may be a separate document explaining the sampling design, but for other surveys, you may have to work your way through a manual.
 
-2) Work out the sampling design. If that design is complex, it helps to make a drawing of the various stages. Start by writing down your target population and list that is used to sample (see take home exercise week 1). Then describe step by step what strate or clusters were used in step 1 of the design, what happens in any further steps, etc.
+2) Work out the sampling design. If that design is complex, it helps to make a drawing of the various stages. Start by writing down your target population and list that is used to sample (see take home exercise week 1). Then describe step by step what strata or clusters were used in step 1 of the design, what happens in any further steps, etc.
 It is ok at this point if you come across terms you don't know, or unclarities in the sampling design. Surveys don't always describe their sampling designs in a good way (although they should). Write down unclear terms that you encounter in the documentation and bring this list to class next time.
 
 **end of file**

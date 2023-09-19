@@ -1,7 +1,7 @@
 ---
 date: "July 05, 2021"
 draft: false
-linktitle: "TSE and survey logistics"
+linktitle: "Day 1 - TSE and survey logistics"
 menu:
   IOPS_course:
     parent: Advanced Survey Design

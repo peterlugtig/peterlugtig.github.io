@@ -1,12 +1,12 @@
 ---
 date: "July 06, 2021"
 draft: false
-linktitle: "Day 4: Apps and smart surveys"
+linktitle: "Day 4 - Apps and smart surveys"
 menu:
   IOPS_course:
     parent: Advanced Survey Design
     weight: 4
-title: "Day 4: Apps and smart surveys"
+title: "Day 4 - Apps and smart surveys"
 toc: true
 type: docs
 weight: 4
