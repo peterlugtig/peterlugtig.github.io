@@ -25,12 +25,12 @@ Optional:
 - Lohr, S. (2022), Sampling: design and analysis, chapter 3 (stratified sampling) and 5 (cluster sampling)
 
 ## Lecture
-We start by discussing the Take home exercise. After this, we illustrate the benefits of stratification for survey efficiency and clustering for survey costs using example data. 
-[Slides](/files/SDA/week5/lecture_week_4.pdf)
+We start by discussing the Take home exercise. After this, we illustrate the benefits of stratification for survey efficiency and clustering for survey costs using example data.  
+[Slides](/files/SDA/week4/lecture_week_4.pdf)  
 
-[simulation stratified design](/files/SDA/week4/simulate_grade_data_stratified.R)
+[simulation stratified design](/files/SDA/week4/simulate_grade_data_stratified.R)  
 
-[simulation cluster design](/files/SDA/week4/simulate_grade_data_clustering.R)
+[simulation cluster design](/files/SDA/week4/simulate_grade_data_clustering.R)  
 
 ## Class exercise
 Specify a stratified and clustering design in R
@@ -42,5 +42,5 @@ Specify a stratified and clustering design in R
 [R exercise complete answers](/files/SDA/week4/class_exercise_week_4_complete.Rmd)
 
 ## Take home exercise
-Review the survey documentation of your adopted design-based survey (see week 2). Work out the sampling design on paper (not in R!), and bring the results to class.
+Review the survey documentation of your adopted design-based survey (see week 2). Work out the sampling design on paper (not in R!), and bring the results to class.  
 [R exercises](/files/SDA/week4/take_home_exercise_week_4.pdf)
