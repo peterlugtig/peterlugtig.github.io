@@ -601,7 +601,7 @@ coef(svyglm(wgt~hgt+age+town, design=srsdesign))
 ```
 
 # Question 3 (no answer available):
-Can you rerunyour code using a stratified or cluster sample (you may choose a design from week 5 or 6 or specify a new design), but focus on a relation between variables (choose some relationship you may find interesting?
+Can you rerun your code using a stratified or cluster sample (you may choose a design from week 5 or 6 or specify a new design), but focus on a relation between variables (choose some relationship you may find interesting?
 
 -- End of File --
 
