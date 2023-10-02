@@ -42,5 +42,5 @@ Specify a stratified and clustering design in R
 [R exercise complete answers](/files/SDA/week4/class_exercise_week_4_complete.Rmd)
 
 ## Take home exercise
-Review the survey documentation of your adopted design-based survey (see week 2). Work out the sampling design on paper (not in R!), and bring the results to class.  
+Review the survey documentation of your adopted design-based survey (see weeks 1,3). Work out the sampling design on paper (not in R!), and bring the results to class.  
 [R exercises](/files/SDA/week4/take_home_exercise_week_4.pdf)

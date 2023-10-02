@@ -40,7 +40,9 @@ Whenever we use unequal selection probabilities (e.g. cluster and stratification
 
 There is an entirely different way to work with datasets that have used unequal sampling designs: the Hurvitz Thompson (HT)-estimator uses the individual inclusion probabilities of every case in the dataset. 
 
-We will for now use a part of the cluster sampling design we used in week 5 where we draw a two-stage cluster sample. We first draw 2 towns SRS, and then in each town 75 cases using SRS again using the code below. Feel free to run the code with another sampling design (e.g. more or fewer). It is good to practice with this, and a good way is to just alter the basic code I provide below
+We will for now use a part of the cluster sampling design we used in week 4 where we draw a two-stage cluster sample. The code below is a copy of the code you have used before (so you may also just open your code, and run that)
+
+We first draw 2 towns SRS, and then in each town 75 cases using SRS again using the code below. Feel free to run the code with another sampling design (e.g. more or fewer). It is good to practice with this, and a good way is to just alter the basic code I provide below.
 
 ```{r sample_2_clusters}
 # first the sampling bit (repeated from week 40)
@@ -84,6 +86,7 @@ clusterdesign <- svydesign(id = ~town + id,
                             data = clustersample)
 
 ```
+
 ## Q1
 What is the mean for the variable 'wgt' and its standard error?
 ```{r compute means using clusterdesign, include=F}
@@ -91,10 +94,10 @@ svymean(~wgt,design=clusterdesign,deff=T,na.rm=T)
 # mean=41.54,se=3.77
 ```
 
-
 ## The Hurvitz Thompson estimator
 
-Because we have drawn the clusters using SRS, the inclusion probabilities of the individual boys in the dataset vary. By specifying the svydesign() object, we tell R to compute the mean separately in every cluster, and then combine the means from the clusters weighted by the cluster size. Can you compute for the individuals in clusters 2 and 3 (within the clusters drawn) what was the inclusion probability?
+Because we have drawn the clusters using SRS, the inclusion probabilities of the individual boys in the dataset vary across towns. Children from smaller towns have a higher probability of being selected into the sample. 
+By specifying the svydesign() object, we tell R to compute the mean separately in every cluster, and then combine the means from the clusters weighted by the cluster size. Can you compute for the individuals in clusters 2 and 3 (within the clusters drawn) what was the inclusion probability?
 
 ```{r compute clusters probs, include=FALSE}
 # the clustersizes of the towns are: 
@@ -130,10 +133,14 @@ What is the survey mean for the variable 'wgt' and its standard error under the 
 # HT estimator
 clustersample$fpc <- 748
 HT1<- svydesign(id=~town, probs =~prob, data=clustersample) 
+```
+
+```{r ask for mean, include =F}
 svymean(~wgt,design=HT1,deff=T,na.rm=T) 
 ```
 
-You should find here that the HT estimator results in a larger standard error. Why is this? Obviously, something happens when we compute the variance using the HT estimator. We will return to this in a bit.
+
+You should find here that the HT estimator results in a larger standard error than when specifying the cluster correctly (!). Why is this? Obviously, something happens when we compute the variance using the HT estimator. We will return to this in a bit.
 
 ## Design weights
 
@@ -164,13 +171,16 @@ The most common way to compute the variance is by Taylor series expansion (revie
 
 Another (perhaps more modern) way is to use Bootstrapping. You will learn more about this later this semester, but the general idea here is that you can resample (with replacement!) from the actual sample to get a large new number of samples (e.g 1000 new replicate samples). Remember we did this for simple random sampling: we can estimate the empirical variance of the sampling distribution simply by repeating our sampling procedure X times (say 1000).
 
-After this, you get 1000 point estimates for every individual in your dataset, which you can then use to estimate the total variance. This also means that you get 1000 inclusion probabilities and design weights per case. The survey package can however work with such "bootstrap replicate weights", and pool the estimates for you.
+After this, you get 1000 point estimates for every individual statistic (the mean in this case), which you can then use to estimate the variance around the mean. This also means that you get 1000 inclusion probabilities and design weights per case. The survey package can however work with such "bootstrap replicate weights", and pool the estimates for you.
 
-If you want to know more about different versions of the Taylor expansions available, the survey package includes a few standard algorithmns (see below). If you would like to read more (this will not be tested), you may read:
+If you want to know more about different versions of the Taylor expansions available, the survey package includes a few standard algorithms (see below). If you would like to read more (this will not be tested), you may read:
 
 Mattei & Tille (2005) Evaluation of Variance Approximations and Estimators in Maximum Entropy Sampling with Unequal Probability and Fixed Sample Size, Journal of Official Statistics, Vol. 21, No. 4, 2005, pp. 543–570
 
-The differences between these algorithms is usually quite small.
+The differences between these algorithms is usually quite small. 
+
+## bonus. Run the code below and see how HT variance estimator differ slightly
+Look at the size of the variances. Investigate the size of the differences. Are these large or small?
 
 ```{r variance estimators under HT}
 clustersampleNA <- subset(clustersample, !is.na(wgt))
@@ -237,7 +247,7 @@ You now have to balance costs and precision. Assume that you have a fixed budget
 ## Question 1:
 Can you work out, using the variable 'wgt' (weight) as your dependent variable, what would be the right number of clusters to draw? 
 
-```{r do five cluster designs, results='hide'}
+```{r do five cluster designs, results='hide', include=FALSE}
 # I am sampling clusters PPS
 table(boys$town)
 samplesizestown <- c(table(boys$town))
@@ -318,7 +328,7 @@ clusterdesign4 <- svydesign(id = ~town + id,
                             data = clustersample4)
 ```
 
-And now compute the mean in 'wgt' for the different cluster designs
+And then compute the mean in 'wgt' for the different cluster designs
 ```{r compute means, include=F}
 svymean(~wgt,na.rm=T,design=clusterdesign2) #se = 4.95
 svymean(~wgt,na.rm=T,design=clusterdesign3) #se = 1.93
@@ -386,7 +396,7 @@ Below you can find code where we adjust cluster probabilities based on neyman al
 ## Question 4:
 what happens to the s.e. and precision compared to the earlier design where you drew 2 clusters?
 
-```{r neyman at cluster level}
+```{r neyman at cluster level, include=F}
 set.seed(123)
 sampleneyman <- sample(5,2, prob = neymanclusters$alloc)
 clusterneyman <- 
@@ -528,7 +538,7 @@ boys <-
 
 #Creating a sample, and survey design object
 
-Below I will draw a simple SRS of size 200, like you did in week 38. You can of course also use a cluster or stratified sample 
+Below I will draw a simple SRS of size 200, like you did in week 3. You can of course also use a cluster or stratified sample 
 ```{r srs, results='hide'}
 # SRS of 200
 set.seed(11)
@@ -541,7 +551,6 @@ srs$fpc <- nrow(boys)
 srsdesign <- svydesign(id=~1,fpc=~fpc,data=srs)
 svymean(~wgt,na.rm=T,design=srsdesign,deff=T) # you can use a different y-variable
 ```
-
 #describing the dependent variable
 Now, lets ask for some statistics for the 'wgt' income.
 

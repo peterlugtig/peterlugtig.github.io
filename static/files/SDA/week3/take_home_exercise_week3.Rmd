@@ -419,7 +419,7 @@ You rarely get asked to do power calculations for descriptive statistics, like m
 
 The common treatment against bloodpressure (care as usual) is administering Medicine A: the average bloodpressure among patients who take this medication is 140/100 (systolic/diastolic), with a standard deviation of 15/10.
 
-The new medication (medicine B) is supposed to lower bloodpressure (both systolic/diastolic) with about 2 units. The standard deviation is supposed to remain about the same. The company bringing Medicine B to market comes to you with the question how many patients they should include in their RCT. 
+The new medication (medicine B) is supposed to lower bloodpressure (both systolic/diastolic) with about 5 units. The standard deviation is supposed to remain about the same. The company bringing Medicine B to market comes to you with the question how many patients they should include in their RCT. 
 
 1) Although this exercise seems more complicated than the previous exercise, what we want to test for, is whether the difference in blood pressure (5 units) is 'significant'. 
 
@@ -433,27 +433,27 @@ b. calculate how many participants you would need if the difference between medi
 ```{R computations, include=F}
 # systolic blook pressure
 
-# mean difference = 2
+# mean difference = 5
 # standard deviation = 15
-# t-value for alpha = .005 (you can also use z as df will be large) one sided 2.60
+# t-value for alpha = .005 (you can also use z as df will be large) one sided: 2.60
 
-meandiff <-2
-sd1 <- 10
+meandiff <-5
+sd1 <- 15
 
 impliedstandarderror1 <- meandiff/2.60
 samplesize1 = (sd1/impliedstandarderror1)**2
-samplesize1# sample size = 381
+samplesize1# sample size = 60
 
 
 ###############################
 # for dystolic blood pressure
 
-meandiff <-2
+meandiff <-5
 sd2 <- 10
 
 impliedstandarderror2 <- meandiff/2.60
 samplesize2 = (sd2/impliedstandarderror2)**2
-samplesize2 #170
+samplesize2 # 27
 ```
 
 2) The previous question 1) was overly simple in the sense that we expect the standard deviation to be the same (most often it isn't), and we are only testing for the difference between two groups.
