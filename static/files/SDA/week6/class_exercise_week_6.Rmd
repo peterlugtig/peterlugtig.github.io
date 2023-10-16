@@ -211,7 +211,7 @@ Instead of using a stratied and/or cluster design, the previous exercise showed 
 
 A disadvantage in the coffee example was however that the ratio of energy use/number of coffees produced per machine was not completely constant: when a machine produced close to 0 coffees, there was still some energy use, leading to a small bias in the ratio estimator. In this exercise, we will try to improve on the ratio estimator, and introduce model-based estimation as a completely new way to do inference. Lets first generate the cofffee population dataset again (same as in previous exercise), draw an SRS and produce a ratio estimator. The code below is copied from exercise 1.
 
-```{repeat population dataset, results='hide'}
+```{r repeat population dataset, results='hide'}
 set.seed(11)
 coffees <- round(rpois(1000,350)+rnorm(100,0,sd=150))
 coffees[coffees<0] <- 0

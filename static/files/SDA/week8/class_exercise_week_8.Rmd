@@ -1,5 +1,5 @@
 ---
-title: "week 9 - Class/Take Home exercise nonresponse weighting "
+title: "week 8 - Class/Take Home exercise nonresponse weighting "
 author: "Peter Lugtig"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: pdf_document
@@ -17,7 +17,7 @@ In this exercise, you will use a condensed version of the European Social Survey
 1. It only includes Hungary and Slovakia out of a total of 32 countries
 2. It contains a small subset of the variables asked in the survey
 
-The ESS is a cross-national survey with data collection being conducted face-to-face. The sampling design varies slightly per country but in every country PSUs are drawn, and in every PSU a subset of individuals is selected. Some countries use stratification, either to select the PSUs (e.g. larger PSUs with larger probabilities), or select cases within PSUs. Lets load the data:
+The ESS is a cross-national survey with data collection being conducted face-to-face. The sampling design varies slightly per country but in every country PSUs are drawn (clusters), and in every PSU a subset of individuals is selected. Some countries use stratification, either to select the PSUs (e.g. larger PSUs with larger probabilities), or select cases within PSUs. Lets load the data:
 
 ```{r load data}
 data <- readRDS("ESSR5_HUSK.RDS")
@@ -36,12 +36,13 @@ SK <- subset(data,CNTRY=="SK")
 ```
 
 ## Question 1: The survey design object
-Although the ESS contains information on the cluster, it does not contain information on the size of the clusters, so we cannot specify the survey design like we did in the first weeks of this course. We have to rely on a variable included in the ESS "dweight"  that is a (normalized) inverse probability of every individual to be selected in the sample. This implies we will use the Hurvitz-Thompson estimator in this whole exercise (see week 6). 
+Although the ESS contains information on the cluster, it does not contain information on the size of the clusters, so we cannot specify the survey design like we did in the first weeks of this course. We have to rely on a variable included in the ESS "dweight"  that is design weight: a (normalized) inverse probability of every individual to be selected in the sample. This implies we will use the Hurvitz-Thompson estimator in this whole exercise (see week 6). 
 
-Specify the survey design object for Slovakia, using both the "PSU" variable to indicate clustering, and the "dweight"  variable as the weight variable. Ignore nonresponse for now. Please note that the "dweight"  variable adds up to the sample size. In earlier practicals, we always included an fpc-correction. If you want to do this correctly, multiply the dweight by 4261000/samplesize(SK) = {4261000/nrow(SK)} 
+Specify the survey design object for Slovakia, using both the "PSU" variable to indicate clustering, and the "dweight"  variable as the weight variable. Ignore nonresponse for now. Please note that the "dweight"  variable sums up to the sample size. In earlier practicals, we always included an fpc-correction. If you want to do this correctly, multiply the dweight by 4261000/samplesize(SK) = {4261000/nrow(SK)} 
+
 (adult population size Slovakia = 4.3 million).
 
-(short intermezzo - why do we not specify the fpc corrently now? The practical answer is that we have a very large population size, and so fpc won't matter much. But the bigger problem is that we want to have the population size at the level of the psu, which we don't have. This is a common problem; if we sample regions, we often don't know the exact population size). Using sample weights that add up to the population size, under HT-estimators at least correct for the overall population size.
+(short intermezzo - shouldn't we specify the fpc at the cluster level as in {id=~PSU+id}? The practical answer is that we have a very large population size, and so fpc won't matter much. But the bigger problem is that we want to have the population size at the level of the psu, which we don't have. This is a common problem; if we sample regions, we often don't know the exact population size. Using sample weights that add up to the population size, under HT-estimators at least correct for the overall population size.)
 
 ```{r svydesign dweight, include=F}
 SK$dweight2 <- SK$dweight*2295
@@ -78,10 +79,16 @@ plot(SK$gndr,SK$pspwght)
 plot(SK$agea,SK$pspwght)
 plot(SK$eduyrs,SK$pspwght)
 summary(lm(pspwght ~ agea+eduyrs+agea:eduyrs+gndr+gndr:eduyrs+agea:eduyrs:gndr, data=SK))
-# note I also include interactions here, as weighting is done using poststratification (more in week: designing weights)
+# note I also include interactions here, as weighting is done 
+# using poststratification (more in week: designing weights)
 
-# explained variable here is not very high. That is because in Slovakia weighting is not done based on education in years, but highest achieved educational level (there are however some missing data issues with that variable that we will not cover this week).
-# second, the design weight also uses data from the Labor Force survey to further poststratify (not included in this exercise).
+# explained variable here is not very high. 
+#That is because in Slovakia weighting is not done based on education in years, 
+#but highest achieved educational level (there are however some missing data 
+# issues with that variable that we will not cover this week).
+
+# second, the design weight also uses data from the Labor Force survey 
+# to further poststratify (not included in this exercise).
 ```
 
 ## Question 5: Correcting for nonresponse
@@ -135,10 +142,11 @@ summary(SK$pspwght)
 ## Question 9: What happens when we fit a regression model?
 Some people (e.g. economists) argue that survey weighting is perhaps useful when you are estimating a point estimate like the proportion of daily Internet Users, but not so much when you are actually interested in a regression model.
 
-Can you try to explain variation in Daily Internet Use using predictors in the ESS?
+Can you try to explain variation in Daily Internet Use using predictors in the ESS ? It doesn't really matter what predictors you use (just take a few demographic variables, like gender, age, income, level of education).
+
 After selecting predictors from the dataset, run the model 3 times:  
 1. Run the model first using only covariates, and no sampling or nonresponse weights
-2. a second time using design weights (use the right svydesign object and the svyglm function), and then   
+2. a second time using design weights (use the right svydesign object and the svyglm function), and then
 3. a third model correcting both for sampling design differences and nonresponse. 
 
 Do the regression coefficients change? (note that the variable netuse also measures Internet use, so do not use this is a predictor)
@@ -213,7 +221,8 @@ plot(newdata$DAILYINTpred,newdata$DAILYINTwgtpred)
 So far we have only used data from Slovakia. Sometimes we want to combine data from multiple populations. For example, imagine we want to use data from the European Social Survey to estimate daily internet use in the European Union. In our case, we want to estimate statistics for Hungary and Slovakia combined. We now face the problem, that sample sizes across the countries are similar, but the population sizes between Slovakia and Hungary are very different. 
 
 The variable "pweight" is a population size equivalence weight: it weights data from the different subpopulations when you combine them in one analysis. 
-## (optional) Question 10: population size equivalence weights
+
+## (optional) Question 11: population size equivalence weights
 Using the variable "pweight", can you estimate the population size in Hungary, knowing that Slovakia's population is about 4.2 million?
 
 ```{r hungary popsize, include=F}
@@ -223,7 +232,7 @@ ratio <- mean(data$pweight[data$CNTRY=="HU"])/mean(data$pweight[data$CNTRY=="SK"
 ratio * 4.2 # 9.3 million in Hungary
 ```
 
-## Question 11: Creating a new weight to do analysis including multiple countries
+## Question 12: Creating a new weight to do analysis including multiple countries
 
 Before we go and estimate daily Internet use in both countries, we have to  create a new weight in our original dataset. We have to multiply the "pspwght" with the population equivalence weight "pwght" to get a new analysis weight "anweight". Create this new analysis weight to the original dataset including both countries
 
@@ -232,7 +241,7 @@ data$anweight <- data$pspwght*data$pweight
 hist(data$anweight) 
 ```
 
-## Question 12: 
+## Question 13: 
 Please note that the pweight is not centered at 1, and so we again do not take into account the fpc-correction. However, as the population is so large, this is not a big problem, and we will ignore fpc. Estimate the proportion of daily internet users in both countries. Use the svyby() command to do this (and look up how this works).
 
 ```{r popequivalence weight, include=F}
@@ -240,11 +249,10 @@ finaldesign <- svydesign(ids=~PSU,weight=~anweight,data=data)
 svymean(~DAILYINT, na.rm=T,design=finaldesign) #.38
 svyciprop(~DAILYINT,design=finaldesign)
 svyby(~DAILYINT,~CNTRY,design=finaldesign,svymean) #.40 in Slovakia.
-# huh, why a difference here?
 ```
 
-## Question 13 (optional): why the difference?
-Did you encounter a difference between the proportion of Daily Internet users in Slovakia between question 12 and your earlier question?
+## Question 14 (optional): why the difference?
+Did you encounter a difference between the proportion of Daily Internet users in Slovakia between question 13 and your earlier question?
 You should find a small difference, which is strange, because you are asking the same thing as before, except you have now weighted all cases in Slovakia with the same number. If you have time left, investigate why this may be (hint: missing data)
 
 ```{r missing data in full data, include=F}
