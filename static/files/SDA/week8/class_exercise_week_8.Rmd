@@ -36,7 +36,7 @@ SK <- subset(data,CNTRY=="SK")
 ```
 
 ## Question 1: The survey design object
-Although the ESS contains information on the cluster, it does not contain information on the size of the clusters, so we cannot specify the survey design like we did in the first weeks of this course. We have to rely on a variable included in the ESS "dweight"  that is design weight: a (normalized) inverse probability of every individual to be selected in the sample. This implies we will use the Hurvitz-Thompson estimator in this whole exercise (see week 6). 
+Although the ESS contains information on the cluster, it does not contain information on the size of the clusters, so we cannot specify the survey design like we did in the first weeks of this course. We have to rely on a variable included in the ESS "dweight"  that is design weight: a (normalized) inverse probability of every individual to be selected in the sample. This implies we will use the Hurvitz-Thompson estimator in this whole exercise (see week on cluster sampling). 
 
 Specify the survey design object for Slovakia, using both the "PSU" variable to indicate clustering, and the "dweight"  variable as the weight variable. Ignore nonresponse for now. Please note that the "dweight"  variable sums up to the sample size. In earlier practicals, we always included an fpc-correction. If you want to do this correctly, multiply the dweight by 4261000/samplesize(SK) = {4261000/nrow(SK)} 
 

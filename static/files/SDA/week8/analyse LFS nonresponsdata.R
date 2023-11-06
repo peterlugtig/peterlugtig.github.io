@@ -12,7 +12,7 @@ library(ggplot2)
 #library(gganimate)
 #install.packages("devtools")
 #install.packages("rlang")
-devtools::install_github('thomasp85/gganimate')
+#devtools::install_github('thomasp85/gganimate')
 library(gganimate)
 #install.packages("magick")
 library(magick)
@@ -62,12 +62,12 @@ dev.print(pdf, "Nonresponse in LFS surveys in Europe.pdf")
 # for nonmandatory only
 table(data$mandatory)
 data2 <- subset(data, mandatory==0)
-ggplot(data2,aes(y=data2$PropResp, x=data2$Year, colour=as.factor(data2$CountryID)))+
+ggplot(data2,aes(y=PropResp, x=Year, colour=as.factor(CountryID)))+
   geom_line()+
    scale_colour_discrete(guide = FALSE) + # take out the legend
   ylab("Response rate")+
   xlab("year of survey")+
-  geom_smooth(data=data2, aes(group=1,y=data2$PropResp, x=data2$Year)
+  geom_smooth(data=data2, aes(group=1,y=PropResp, x=Year)
               ,method = "loess", se = FALSE,size=1.5, colour="black")
 dev.print(pdf, "Nonresponse in LFS non-mandatory surveys in Europe.pdf")
 
@@ -75,14 +75,14 @@ dev.print(pdf, "Nonresponse in LFS non-mandatory surveys in Europe.pdf")
 # first set the minimal theme
 theme_set(theme_minimal())
 
-animation <- ggplot(data2,aes(y=data2$PropResp, x=data2$Year,colour=factor(data2$CountryID)))+
+animation <- ggplot(data2,aes(y=PropResp, x=Year,colour=factor(CountryID)))+
   geom_line()+
   geom_point() +
   theme(legend.position = "none") + 
   ylab("Response rate")+
   xlab("year of fieldwork")+
   labs(title = 'Year:{as.integer(frame_along)}')+
-  transition_reveal(data2$Year)
+  transition_reveal(Year)
 
 animate(animation, renderer=magick_renderer(), end_pause=30)
 anim_save(file="animation.gif")

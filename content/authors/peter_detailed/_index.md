@@ -16,6 +16,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/PeterLugtig
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/peterlugtig.bsky.social
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.nl/citations?user=VFXJuN8AAAAJ&hl
