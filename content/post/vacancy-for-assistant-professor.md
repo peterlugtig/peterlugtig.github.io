@@ -1,14 +1,15 @@
 ---
-title: 'vacancy for assistant professor'
-date: `r Sys.Date()`
+title: 'Vacancy for assistant professor'
+date: 2022-11-07
 draft: false
 tags : [vacancy, job, survey methods, research, teaching]
 ---
-Are you passionate about data quality? Are you an expert on survey methods, data collection and analysis? We have an opening for assistant professor! Please see the official vacancy below. Interested, but have questions?feel free to contact me informally. Deeadline for applications 3 December 2023.
+
+Are you passionate about data quality? Are you an expert on survey methods, data collection and analysis? We have an opening for assistant professor! Please see the official vacancy below. Interested, but have questions?feel free to contact me informally. Deadline for applications 3 December 2023.
 
 - Peter
 
-##Job description
+## Job description
 
 The department of Methodology and Statistics has a job opening for one assistant professor (tenured, 0.8-1 FTE) requiring you to contribute to our educational and research programmes. You will be employed at the Department of Methodology and Statistics of the Faculty of Social and Behavioural Sciences at Utrecht University. We provide teaching in methods and statistics within all Bachelor’s and Master’s degree programmes of the Faculty of Social and Behavioural Sciences and University College Utrecht. We offer the only two-year master’s degree programme exclusively focused on methodology and statistics in the social, biomedical, and behavioural sciences in the Netherlands (in cooperation with Twente University and the Biostatistics group of Utrecht University Medical Centre).
 
@@ -24,7 +25,7 @@ The position involves 60% teaching activities and 40% research time. The core ta
 * Carrying out and supervising research within the scope of the research executed by the department of Methodology and Statistics, often in collaboration with other research institutes or societal partners;
 * Contributing to the acquisition of substantial external research funding for the benefit of the research programme of the department of Methodology and Statistics.
 
-##Requirements
+## Requirements
 
 Teaching:
 
@@ -46,7 +47,7 @@ General:
 
 Conditions of employment
 
-##We offer:
+## We offer:
 
     a fulltime permanent position (i.e., tenured) 0.8-1 FTE position upon a positive evaluation after one year;
     a full-time gross salary between €4,332 and €6,737 in scale 11/12 of the Collective Labour Agreement Dutch Universities (CAO);
