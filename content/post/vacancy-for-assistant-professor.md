@@ -26,20 +26,20 @@ The position involves 60% teaching activities and 40% research time. The core ta
 
 ##Requirements
 
-*Teaching*:
+Teaching:
 
     You have experience with developing and coordinating academic courses in a team setting. Experience with teaching courses on research designs for the social and behavioural sciences and survey methods in a broad sense is desired.
     You are able to provide inspiring lectures and have an eye for the improvement of teaching methods, as evidenced by positive teaching assessments.
     You hold a University Teaching Qualification (BKO, Basiskwalificatie Onderwijs), or are willing to acquire this qualification in the near future.
 
-*Research*:
+Research:
 
     You hold a PhD degree in the field of research methods, statistics, data science, computational social sciences or an adjacent field.
     You have experience in conducting scientific research in the field of survey methodology or data collection methodologies more generally.
     You have ideas about their own research line and how this could fit within the Department of Methodology and Statistics.
     You are able to contribute to the (collective) acquiring of external research funding for the benefit of the research programme of the department of Methodology and Statistics.
 
-*General*:
+General:
 
     You have good communication skills, a proactive work attitude, and are able to work within a team.
     You speak Dutch or are willing to learn Dutch. We expect a passive understanding of Dutch within two years of taking up the appointment.
