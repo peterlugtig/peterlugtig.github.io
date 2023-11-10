@@ -1,7 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Maximum interpolable gap length in missing smartphone-based GPS mobility data"
+title: "Data Linkage to Validate and Calibrate Traffic Estimations on a Nationwide Scale:
+A Framework for Official Statistics"
 authors: [Bostanci, I, Gootzen, Y. & Lugtig, P.]
 date: 2023-03-16T00:00:00+01:00
 doi: "https://www.cbs.nl/-/media/_pdf/2023/11/discussion-paper-bostanci-2023.pdf"
