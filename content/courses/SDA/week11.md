@@ -22,7 +22,7 @@ Missing data form a ubiquitous source of problems that most scientists or resear
 
 ## Lecture
 We discuss why multiple imputation is the state of the art technique for drawing valid inferences from incomplete data.
-[Slides](/files/SDA/week11/L1-Introduction.pdf)
+[Slides](/files/SDA/week11/missing-data-1.pdf)
 
 For more slides and exercises see https://www.gerkovink.com/sda/
 

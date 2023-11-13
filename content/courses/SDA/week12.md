@@ -14,7 +14,7 @@ weight: 12
 
 ## Lecture: 
 We discuss why multiple imputation is the state of the art technique for drawing valid inferences from incomplete data. 
-[Slides](/files/SDA/week12/L2-multivariate.pdf)  
+[Slides](/files/SDA/week12/missing-data-2.pdf)  
 
 For more slides and exercises see https://www.gerkovink.com/sda/
 

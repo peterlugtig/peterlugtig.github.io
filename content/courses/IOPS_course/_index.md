@@ -15,7 +15,7 @@ summary: "The course in survey design takes student beyond the introductory cour
 weight: 2
 ---
 
-I teach an annual summerschool lasting five days titled: [Advanced survey design](https://utrechtsummerschool.nl/courses/social-sciences/advanced-survey-design). It is taught bi-annually, in the week bridging August and September, on location in Utrecht. The last course took place in 2023, and so the next iteration is foreseen for 2025.
+With [Bella Struminskaya](www.bellastrum.com) I teach a summerschool lasting five days titled: [Advanced survey design](https://utrechtsummerschool.nl/courses/social-sciences/advanced-survey-design). It is taught bi-annually, in the week bridging August and September, on location in Utrecht. The last course took place in 2023, and so the next iteration is foreseen for 2025.
 
 This 5-day course in survey design takes student beyond the introductory courses offered in BA and MA programmes, and discusses the state-of-the-art of one of the most important data collection techniques: surveys. The course focuses on the methodology of how to do surveys, and the use statistical techniques to analyse and correct for some specific survey errors. It combines short 1-hour lectures with exercises on most of the topics discussed. We assume course participants are proficient in working with R. Most of the exercises can also be done with STATA or SPSS, but answers will be provided in R
 The course assumes basic knowledge of:
