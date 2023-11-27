@@ -3,7 +3,7 @@
 
 title: "Correcting inferences for volunteer-collected data with geospatial sampling bias"
 authors: [Lugtig, P., van Kesteren, E.J., and Timmers, A.]
-date: 2022-09-18-T00:00:00+01:00
+date: 2022-09-18
 doi: "doi: 10.18148/srm/2022.v16i1.7835"
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate:
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*arXiv*, ArXiv:2209.04193"
+publication: "*arXiv*:2209.04193"
 publication_short: 
 
 abstract: "Citizen science projects in which volunteers collect data are increasingly popular due to their ability to engage the public with scientific questions. The scientific value of these data are however hampered by several biases. In this paper, we deal with geospatial sampling bias by enriching the volunteer-collected data with geographical covariates, and then using

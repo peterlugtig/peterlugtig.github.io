@@ -32,7 +32,7 @@ Can you model? We introduce a short competition. Who can design the best model?
 [Class Exercise](/files/SDA/week13/class_exercise_week_13.pdf)  
 [Survey data](/files/SDA/week13/PEW_nonprob_samples.RDS)  
 [Population data](/files/SDA/week13/PEW_population_data.RDS)    
-[Mass imputation population](/files/SDA/week13/complete_USA_population_with_matched_survey_results.RDS)  
+[Mass imputation population](/files/SDA/week13/complete_USA_population_data_with_matched_survey_results.RDS)  
 
 
 
