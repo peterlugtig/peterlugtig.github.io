@@ -1,0 +1,367 @@
+---
+title: "Answers exercise non-probability sampling calibration"
+author: "Peter Lugtig"
+date: "07-12-2020"
+output: pdf_document
+---
+
+The goal of this exercise is to practice (once more) with calibration, raking or imputation. The setting now is a bit different: rather than trying to adjust for unit- or item nonresponse, we are now using these methods to correct for selection bias in a non-probability survey. In principe the methods discussed today can be applied to any data source that one knows is suffering from selection bias. E.g. experiments, social media data, or other sources of Big Data. However you should always be aware that your non-probability dataset should at least exhibit a similar type of variation as you have in the population. For example, it will be impossible to adjust a typical psychological experiment conducted among 18-25 year old students at a Western University, to the general population, because you just have young and highly educated people. 
+
+The dataset(s) you will use today are a slightly adapted from data that are publicly available throuh PEW, which is a non-profit survey data collection organisation in the USA.
+Between June and July 2016, PEW designed a short questionnaire and then asked three organizations that rely on volunteer opt-in survey panels to administer this questionnaire in their panel. This resulted in a dataset of about 30.000 respondents. You are today getting about two/thirds of these respondents to develop an adjustment method.  The remaining 10.000 respondents will serve as the hold-out sample against which I will test your adjustment method. I also excluded many variables: your dataset will consist of about 30 variables which you can use for adjustment, and 1 dependent variable called VOTESUM.
+
+The variable VOTESUM asks for the Future voting behavior in the November 2016 Presidential Eelection, with a choice betweeb Clinton, Trump and being undecided. At 1 July, the aggregated polls indicated that Clinton would receive 46% of the vote, and Trump 42%, with the rest being undecided. If I correct for the bias that was present in the polls throughout the 2016 election cycle, my best guess for the true difference between the candidates would have been 45% for Clinton and 43% for Trump.
+
+If you want to know more about the study and data, have a look at: https://www.pewresearch.org/methods/2018/01/26/for-weighting-online-opt-in-samples-what-matters-most/ 
+
+Lets first load the data.
+
+```{r setup, results='hide', message=FALSE}
+library(foreign)
+library(survey)
+library(dplyr)
+library(plyr)
+library(mice)
+
+nonprob <- readRDS("PEW nonprob samples HOLDOUT.RDS")
+# below you see how many cases there are from each vendor
+table(nonprob$vendor)
+```
+
+# Variables
+
+The covariates in these there dataset consist of demographic variables but also a range of other variables for which the people at Pew hoped they would correlate to both selection bias (R) and the dependent variable (Y): here Vote. They employed a superpopulation approach to assemble additional population level characteristics (more on this later), which were then also included in the survey as questions. Here is the lost of variables:
+
+GENDER # make, female  
+AGE # age in years 
+EDUCCAT5 # educational level in 5 catagories (lo to hi)  
+DIVISION # region in 4 categories  
+MARITAL_ACS # 5 cat marital status  
+HHSIZECAT #1,2 3+  
+CHILDRENCAT # 1,2,3_ children at home  
+CITIZEN_REC # US citizen or not  
+BORN_ACS # born inside, or outside USA  
+FAMINC5 #income in5 bracks: <20k, 20-40,40-75,75-150, >150  
+EMPLOYED # in employment or not    
+MIL_ACS_REC # never been on active military, has been in military  
+HOME_ACS_REC # 1. own, 2. rent 3. rent without pay  
+FDSTMP_CPS # 1.Do you receive foodstamps?  
+TENURE_ACS # did you live on current address one year ago  
+PUB_OFF_CPS # have you visited a public official to express your opinion in the past 12 months?  
+COMGRP_CPS # have you participated in a school, neighboorhood or community associateion in the past year?  
+TALK_CPS #  talk to family 5 cat  
+TRUST_CPS # do you trust the people in your neighboorhood (5 cat)  
+TABLET_CPS # do you use a tablet?  
+TEXTIM_CPS # do yiu every send text messages?  
+SOCIAL_CPS # active on social media  
+VOLSUM # volunteering  
+REGISTERED # registered to vote: yes, no  
+VOTE14 # voted in 2014 miterm election   
+PARTYSCALE5 #party attachment 5 categories  
+RELIGCAT #5 cat religious affiliation:  roman catholic, evangelical, main protestant, other, unaffiliated  
+IDEO3 # liberal, moderate, conservative  
+OWNGUN_GSS # owns a gun (yes, no)  
+FOLGOV # do you follow the government  
+
+# Population data
+Pew collected data from the Census bureau, as well as some other Gold-standard administrative sources, and surveys for the eligible voting USA population. They also used some of the surveys to compute (aggregated) correlations between these variables, and used this to create a SuperPopulation dataset of the USA. The dataset inlcudes only 20.000 people, but it is supposed to be representative for the USA on the variables includes in this dataset. The variable names, labels, and codings in this dataset are the exact same as in the non-probability based survey dataset. This is neat, no recoding! Load the data bewlo
+
+```{r load popdata}
+popdata <- readRDS("PEW population data.RDS")
+```
+
+# What to do?
+You have 30 variables to now build a model from. Please note the following:\
+- It is nice if the covariates predict Y (voting behavior). There is no need to read the literature on voting behavior, but do think about this when you select your adjustment variables.\
+- If you want to include 30 variables in one go into your model, perhaps with some interactions, you will encounter some issues.\ First of all, R may become quite slow! Second, there may be estimation issues, because these are perhaps just many variables. Maybe it is worthwhile to first try a model with just a few variables, like in the example below:
+
+How did raking and calibration work again?
+```{r example raking and calibration}
+
+# poststratification example
+# first, specificy the unweighted svydesign object
+svy.unweighted <-svydesign(ids=~rid, data=nonprob)
+
+# below, I use gender and whether someone voted in the 2014 midterm election
+#gendervote<- as.data.frame(table(nonprob2$GENDER,nonprob2$VOTE14))
+gendervote.dist <-xtabs(~GENDER+VOTE14, data=popdata) # the 2x2 table for the population
+poststratdesign <- postStratify(design= svy.unweighted, strata =~GENDER+VOTE14, 
+                                population=gendervote.dist) 
+
+# for Raking (easier when you have many variables in your model, but be careful with continuous vars)
+gender.dist <- as.data.frame(table(popdata$GENDER))
+colnames(gender.dist) <- c("GENDER", "Freq")
+vote.dist <- as.data.frame(table(popdata$VOTE14))
+colnames(vote.dist) <- c("VOTE14", "Freq")
+rakeddesign  <- rake(design=svy.unweighted,sample.margins=list(~GENDER,~VOTE14), 
+                     population.margins=list(gender.dist,vote.dist)) 
+
+# add the weights if you want to do diagnostics
+nonprob$PSweights <- poststratdesign$prob
+nonprob$rakeweights <- rakeddesign$prob
+
+####### and then estimate the outcome
+svyby(~VOTESUM,~vendor, design=svy.unweighted,svymean)[2]# p(Trump) across vendors.
+svyby(~VOTESUM,~vendor, design=poststratdesign,svymean)[2]
+svyby(~VOTESUM,~vendor, design=rakeddesign,svymean)[2]
+
+```
+
+# Imputation models
+
+Are you curious to try Mass Imputation? Great! I made your life a bit easier by creating an artificial population of the USA, and then match the survey data to this population dataset. So in the dataset below  Please note that the population dataset has about 1 million cases, which is only 1/200 of the actual population size. R gets slow however, so just imagine you have the actual population
+
+#``` {r import population data}
+#wholepop <- readRDS("complete USA population data with matched survey results.RDS")
+#```
+
+Want to see how you design an imputation model? Have a look at weeks 46,47
+
+
+# Ok now what?
+
+The idea is that you now develop your own adjustment model. You may try out different models (raking, poststratification, mass imputation), and also try out a model with different covariates. Please send your R-code of your final model (just 1!) in a plan-text e-mail to Peter before the next class. Please do not change the names of the variables so your code will actually run. 
+he person who has designed the best adjustment model (closest to the poll aggregate on July 1st), which is 45% Clinton/ 43% Trump.
+
+Good luck, and have fun!
+
+
+# Answers 2021:
+
+# 1. Jakob
+``` {R Jakob, results=' hide' }
+# load the data
+nonprob <- readRDS("PEW nonprob samples.RDS")
+popdata <- readRDS("PEW population data.RDS")
+
+# filter missings
+missing <- filter_all(nonprob, any_vars(. == "Refused"))
+missing$miss <- 0
+missing <- subset(missing, select=c(rid, miss))
+nonprob <- merge(nonprob, missing, by="rid", all.x=TRUE)
+nonprob$miss[is.na(nonprob$miss)] <- 1
+nonprob <- nonprob[ which(nonprob$miss == 1),]
+
+# specify the survey and rake design
+svy.unweighted <-svydesign(ids=~rid, data=nonprob)
+
+gender.dist <- as.data.frame(table(popdata$GENDER))
+colnames(gender.dist) <- c("GENDER", "Freq")
+gun.dist <- as.data.frame(table(popdata$OWNGUN_GSS))
+colnames(gun.dist) <- c("OWNGUN_GSS", "Freq")
+religion.dist <- as.data.frame(table(popdata$RELIGCAT))
+colnames(religion.dist) <- c("RELIGCAT", "Freq")
+folgov.dist <- as.data.frame(table(popdata$FOLGOV))
+colnames(folgov.dist) <- c("FOLGOV", "Freq")
+educ.dist <- as.data.frame(table(popdata$EDUCCAT5))
+colnames(educ.dist) <- c("EDUCCAT5", "Freq")
+ideo.dist <- as.data.frame(table(popdata$IDEO3))
+colnames(ideo.dist) <- c("IDEO3", "Freq")
+inc.dist <- as.data.frame(table(popdata$FAMINC5))
+colnames(inc.dist) <- c("FAMINC5", "Freq")
+
+rakeddesign  <- rake(design=svy.unweighted,
+                     sample.margins=list(~GENDER,~OWNGUN_GSS,~RELIGCAT,~FAMINC5,
+                                         ~FOLGOV,~EDUCCAT5,~IDEO3), 
+                     population.margins=list(gender.dist,gun.dist,religion.dist,
+                                             inc.dist,folgov.dist,educ.dist,
+                                             ideo.dist))
+nonprob$rakeweights <- rakeddesign$prob
+
+# get the projected voting distribution
+svyby(~VOTESUM,~vendor, design=rakeddesign,svymean)[2:3]
+Jakob <- svyby(~VOTESUM,~vendor, design=rakeddesign,svymean)
+Jakob$name <- "Jakob"
+```
+
+# 2. Gaja
+``` {R Gaja}
+svy.unweighted <-svydesign(ids=~rid, data=nonprob)
+
+gender.dist <- as.data.frame(table(popdata$GENDER))
+colnames(gender.dist) <- c("GENDER", "Freq")
+
+vote.dist <- as.data.frame(table(popdata$VOTE14))
+colnames(vote.dist) <- c("VOTE14", "Freq")
+
+edu.dist <- as.data.frame(table(popdata$EDUCCAT5))
+colnames(edu.dist) <- c("EDUCCAT5", "Freq")
+
+reg.dist <- as.data.frame(table(popdata$RELIGCAT))
+colnames(reg.dist) <- c("RELIGCAT", "Freq")
+
+rakeddesign  <- rake(design=svy.unweighted,sample.margins=list(~VOTE14,
+                                                               ~GENDER,
+                                                               ~EDUCCAT5,
+                                                               ~RELIGCAT),
+                     population.margins=list(vote.dist, gender.dist,
+                                             edu.dist, reg.dist))
+
+svyby(~VOTESUM,~vendor, design=rakeddesign,svymean)[2]
+
+Gaja <- svyby(~VOTESUM,~vendor, design=rakeddesign,svymean)
+Gaja$name <- "Gaja"
+```
+
+#3. My best solution
+
+See also the Pew report
+First, do diagnostics, and find variables that predict both Y and R
+
+``` {r peter diagnostics, results='hide'}
+# for Raking (easier when you have many variables in your model, but be careful with continuous vars)
+# what predics vote (Y)
+nonprob2 <- nonprob[nonprob$VOTESUM!="Undecided",]
+regression <- glm(VOTESUM~GENDER+AGE+EDUCCAT5+DIVISION+MARITAL_ACS+HHSIZECAT+
+                 TENURE_ACS+CHILDRENCAT+CITIZEN_REC+
+     BORN_ACS+FAMINC5+EMPLOYED+MIL_ACS_REC+HOME_ACS_REC+FDSTMP_CPS+PUB_OFF_CPS+COMGRP_CPS+
+     TALK_CPS+TRUST_CPS+TABLET_CPS+TEXTIM_CPS+SOCIAL_CPS+VOLSUM+REGISTERED+VOTE14+RELIGCAT+
+     IDEO3+OWNGUN_GSS+FOLGOV
+  ,data=nonprob2, family="binomial")
+summary(regression)
+# strong predictors for voting are are 
+
+#  IDEO3
+#  VOTE14
+#  OWNGUN
+#  FAMINC5
+#  HOME_ACS_REC
+#  SOCIAL_CPS
+#  BORN_ACS
+#  EDUCCAT5
+#  GENDER
+#  FOLGOV
+#  RELIGCAT
+# COMGRP
+
+# now what predicts R
+
+complete <-readRDS("complete USA population data with matched survey results.RDS")
+prop.table(table(complete$IDEO3))
+prop.table(table(nonprob$IDEO3))
+prop.table(table(nonprob$PARTYSCALE5,nonprob$VOTESUM))
+complete$missing <- 0
+complete$missing[!is.na(complete$VOTESUM)] <- 1
+table(complete$missing)
+# predict missingness ith just the good Y predictors.
+# (I select on Y predictors, because relation between X -> Y more important for corrections
+## see slides on week nonresponse)
+Rregression <- glm(missing~IDEO3+VOTE14+OWNGUN_GSS+FAMINC5+HOME_ACS_REC+
+                    SOCIAL_CPS+BORN_ACS+EDUCCAT5+GENDER+RELIGCAT+FOLGOV+COMGRP_CPS,data=complete,family="binomial")
+#table(complete$missing)
+summary(Rregression)
+# all are good predictors!
+```
+
+
+``` {r Peter weights}
+partyscale5.dist <- as.data.frame(table(popdata$PARTYSCALE5))
+colnames(partyscale5.dist) <- c("PARTYSCALE5", "Freq")
+ideo3.dist <- as.data.frame(table(popdata$IDEO3))
+colnames(ideo3.dist) <- c("IDEO3", "Freq")
+owngun.dist <- as.data.frame(table(popdata$OWNGUN_GSS))
+colnames(owngun.dist) <- c("OWNGUN_GSS", "Freq")
+faminc5.dist <- as.data.frame(table(popdata$FAMINC5))
+colnames(faminc5.dist) <- c("FAMINC5", "Freq")
+home_acs_rec.dist <- as.data.frame(table(popdata$HOME_ACS_REC))
+colnames(home_acs_rec.dist) <- c("HOME_ACS_REC", "Freq")
+social_cps.dist <- as.data.frame(table(popdata$SOCIAL_CPS))
+colnames(social_cps.dist) <- c("SOCIAL_CPS", "Freq")
+born_acs.dist <- as.data.frame(table(popdata$BORN_ACS))
+colnames(born_acs.dist) <- c("BORN_ACS", "Freq")
+educcat5.dist <- as.data.frame(table(popdata$EDUCCAT5))
+colnames(educcat5.dist) <- c("EDUCCAT5", "Freq")
+gender.dist <- as.data.frame(table(popdata$GENDER))
+colnames(gender.dist) <- c("GENDER", "Freq")
+folgov.dist <- as.data.frame(table(popdata$FOLGOV))
+colnames(folgov.dist) <- c("FOLGOV", "Freq")
+religcat.dist <- as.data.frame(table(popdata$RELIGCAT))
+colnames(religcat.dist) <- c("RELIGCAT", "Freq")
+comgrp_cps.dist <- as.data.frame(table(popdata$COMGRP_CPS))
+colnames(comgrp_cps.dist) <- c("COMGRP_CPS", "Freq")
+
+svy.unweighted <-svydesign(ids=~rid, data=nonprob)
+#summary(complete)
+#table(nonprob2$GENDER)
+#table(complete$GENDER)
+
+rakeddesign  <- rake(design=svy.unweighted,
+                     sample.margins=list(~IDEO3,~OWNGUN_GSS,~FAMINC5,~SOCIAL_CPS,
+                                         ~BORN_ACS,~HOME_ACS_REC,~EDUCCAT5,~GENDER,~VOTE14,~FOLGOV,
+                                         ~RELIGCAT,~COMGRP_CPS,~PARTYSCALE5), 
+                     population.margins=list(ideo3.dist,owngun.dist,faminc5.dist,social_cps.dist,
+                                   born_acs.dist,home_acs_rec.dist,educcat5.dist,gender.dist,vote.dist,
+                                   folgov.dist,religcat.dist,comgrp_cps.dist,partyscale5.dist)) 
+Peter <- svyby(~VOTESUM,~vendor, design=rakeddesign,svymean)
+Peter$name <- "Peter"
+```
+
+
+# now, combine results
+``` {r total}
+# add the raw percentages
+raw <- svyby(~VOTESUM,~vendor, design=svy.unweighted,svymean)
+raw$name <- "raw"
+
+total <- rbind(Jakob[,c(2,3,8)],Gaja[,c(2,3,8)],Peter[,c(2,3,8)],raw[,c(2,3,8)])
+# now subtract the actual numbers (our best estimate): 45% for Clinton and 43%
+total$VOTESUMTrump <- as.numeric(total$VOTESUMTrump)
+total$VOTESUMClinton <- as.numeric(total$VOTESUMClinton)
+total$diffClinton <- abs(total$VOTESUMClinton - 0.45)
+total$diffTrump <- abs(total$VOTESUMTrump - 0.43)
+total$diff <- total$diffClinton+total$diffTrump  
+
+result <- total %>%
+  group_by(name) %>%
+  dplyr::summarize(Mean = mean(diff, na.rm=TRUE))
+
+print(result)
+# Jakob 'wins' stratifying on 7 variables. My solutions gets a smaller MSE by weighting on an even larger set.
+# An issue is that the % for both candidates is usually too high, because 3rd party voters are not measured in the survey. 
+```
+
+A final note:
+In the exercise you all chose to weight the entire dataset. However, weighting by vendor (these are 3 separate datasets)
+is perhaps a better idea! Below is how this works using Peters weighting variables
+
+``` {r Peter separate}
+vendor1 <- subset(nonprob,vendor=="Vendor 1")
+vendor2 <- subset(nonprob,vendor=="Vendor 2")
+vendor3 <- subset(nonprob,vendor=="Vendor 3")
+
+
+svy.vendor1 <-svydesign(ids=~rid, data=vendor1)
+svy.vendor2 <-svydesign(ids=~rid, data=vendor2)
+svy.vendor3 <-svydesign(ids=~rid, data=vendor3)
+# and now rake three times
+rakedvendor1  <- rake(design=svy.vendor1,
+                     sample.margins=list(~IDEO3,~OWNGUN_GSS,~FAMINC5,~SOCIAL_CPS,
+                                         ~BORN_ACS,~HOME_ACS_REC,~EDUCCAT5,~GENDER,~VOTE14,~FOLGOV,
+                                         ~RELIGCAT,~COMGRP_CPS,~PARTYSCALE5), 
+                     population.margins=list(ideo3.dist,owngun.dist,faminc5.dist,social_cps.dist,
+                                   born_acs.dist,home_acs_rec.dist,educcat5.dist,gender.dist,vote.dist,
+                                   folgov.dist,religcat.dist,comgrp_cps.dist,partyscale5.dist)) 
+rakedvendor2  <- rake(design=svy.vendor2,
+                     sample.margins=list(~IDEO3,~OWNGUN_GSS,~FAMINC5,~SOCIAL_CPS,
+                                         ~BORN_ACS,~HOME_ACS_REC,~EDUCCAT5,~GENDER,~VOTE14,~FOLGOV,
+                                         ~RELIGCAT,~COMGRP_CPS,~PARTYSCALE5), 
+                     population.margins=list(ideo3.dist,owngun.dist,faminc5.dist,social_cps.dist,
+                                   born_acs.dist,home_acs_rec.dist,educcat5.dist,gender.dist,vote.dist,
+                                   folgov.dist,religcat.dist,comgrp_cps.dist,partyscale5.dist)) 
+rakedvendor3  <- rake(design=svy.vendor3,
+                sample.margins=list(~IDEO3,~OWNGUN_GSS,~FAMINC5,~SOCIAL_CPS,
+                                         ~BORN_ACS,~HOME_ACS_REC,~EDUCCAT5,~GENDER,~VOTE14,~FOLGOV,
+                                         ~RELIGCAT,~COMGRP_CPS,~PARTYSCALE5), 
+                     population.margins=list(ideo3.dist,owngun.dist,faminc5.dist,social_cps.dist,
+                                   born_acs.dist,home_acs_rec.dist,educcat5.dist,gender.dist,vote.dist,
+                                   folgov.dist,religcat.dist,comgrp_cps.dist,partyscale5.dist)) 
+
+Peter1 <- svyby(~VOTESUM,~vendor, design=rakedvendor1,svymean)
+Peter2<- svyby(~VOTESUM,~vendor, design=rakedvendor2,svymean)
+Peter3 <- svyby(~VOTESUM,~vendor, design=rakedvendor3,svymean)
+Petervendor <- rbind(Peter1,Peter2,Peter3)
+Petervendor$name <- "Peter"
+print(Petervendor)
+```
+
+

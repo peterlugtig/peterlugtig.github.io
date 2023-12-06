@@ -24,16 +24,16 @@ In data integration we more generally try to combine and integrate data to impro
 
 
 ## Lecture
-Introduction into the reasons for data integration
-- several practical examples
-More detailed discussion on integrating probability and non-probability datasets
-- Integrating micro-data and aggregate data
+*Introduction into the reasons for data integration  
+- several practical examples  
+*More detailed discussion on integrating probability and non-probability datasets  
+- Integrating micro-data and aggregate data  
 
 
 [Slides](/files/SDA/week14/lecture_week_14.pdf)
 
 ## Class and Take home exercise
-- exercise on integrating probability and non-probability surveys (see lecture slides)
+- exercise on integrating probability and non-probability surveys (see lecture slides)  
 -(if time permits): Class discussion on inference: Is  there a general methodology for data integration, and inference for the 21st century?
 
 
