@@ -16,7 +16,7 @@ publishDate:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Official Statistics*, vol. 37, 149-170"
+publication: "*Journal of Official Statistics*, vol. 37, 149-170. 10.2478/jos-2021-0007"
 publication_short: 
 
 abstract: "Advances in smartphone technology have allowed for individuals to have access to nearcontinuous

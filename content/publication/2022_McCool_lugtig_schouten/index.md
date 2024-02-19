@@ -16,7 +16,7 @@ publishDate:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transportation*, advance access"
+publication: "*Transportation*,51, 297–327. 10.1007/s11116-022-10328-2"
 publication_short: 
 
 abstract: "Passively-generated location data have the potential to augment mobility and transportation
