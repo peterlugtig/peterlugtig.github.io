@@ -1,12 +1,12 @@
 ---
 date: "`r Sys.Date()`"
 draft: false
-linktitle: "week 10 - Designed Big Data"
+linktitle: "Week 10 - Missing data I"
 menu:
   SDA:
     parent: Survey Data Analysis
     weight: 10
-title: "Designed Big Data"
+title: "Missing data I"
 toc: true
 type: docs
 weight: 10
@@ -14,25 +14,32 @@ weight: 10
 
 ## Introduction
 
-The increasing volume of Big Data produced by sensors and smart devices can transform the social and behavioral sciences. We will discuss how the true power of these data for the social sciences that lies in integrating Big Data with surveys. Using examples of successful existing studies that used digital data to provide new insights into social reality, we will focus on challenges and opportunities of integrating sensor- and app-based data collection into surveys. The Total Survey Error framework learned in Week 2 will serve as a basis for our discussion of introducing design to Big Data to gauge the inherent challenges of representativeness and measurement. Students will develop a scenario of combing Big Data and survey data, focusing on theoretical and practical aspects of such data integration. Students will have a chance to make decisions on preparing the raw data for analysis and obtaining inference.
+Missing data form a ubiquitous source of problems that most scientists or researchers cannot escape. For example, in survey applications, such as in social sciences or in official statistics, where vast amounts of data are collected, respondents often neglect to answer one or more items. A state of the art solution for this problem is multiple imputation. With imputation, some estimation procedure is used to impute (fill in) each missing datum, resulting in a completed dataset that can be analyzed as if the data were completely observed. When only one value is imputed (single imputation), uncertainty about the imputations is not reflected in the imputed data set and specific methods for variance estimation that take imputed values into account need to be employed. As a more versatile way to solve this, uncertainty about the imputed values can be taken into account by performing multiple imputation (MI). With MI, each missing datum is imputed m times, resulting in m completed datasets. At least 2 imputations are warranted to reflect the uncertainty about the imputations, although performing more imputations is often advisable. The m datasets are then analyzed by standard procedures and the analyses are combined into a single inference.
 
-##Literature:
+## Literature
 
-- Chapter 3 - Big Data: A Survey Research Perspective and 
-- Chapter 2 - Total Twitter Error in Biemer Paul B., Edith de Leeuw et al. (eds.) (2017). Total Survey Error in Practice. John Wiley & Sons, Available through UU library (DOI:10.1002/9781119041702)
+- Chapters 1-3 from S. van Buuren. Flexible Imputation of Missing Data. Second Edition. CRC/Chapman & Hall, FL: Boca Raton, 2018. Freely available from https://stefvanbuuren.name/fimd/
 
-##Lecture:
-In the lecture, we will discuss the types of Big Data, how types of errors from the Total Survey Error relate to Big Data, and how to combine survey data with Big Data sources.
-[Slides part 1](/files/SDA/week10/lecture_week_10.pdf)
+## Lecture
+We discuss why multiple imputation is the state of the art technique for drawing valid inferences from incomplete data.
+[Slides](/files/SDA/week10/missing-data-1.pdf)
 
-## Class Exercise:
-You will design a scenario that combines survey data with one or several Big Data sources.
+For more slides and exercises see https://www.gerkovink.com/sda/
 
-##Take home exercise:
-You will have a chance to analyze smartphone sensor data that you yourself have produced (e.g., from Apple Health). 
-You can either use your own data by downloading a Data Download Package, or you can work with data produced by Apple Health.
-[exercise data](/files/SDA/week10/export.zip)
-[exercise script](/files/SDA/week10/apple_health_exercise.R)
+## Exercises
+R exercise where use the R package mice to multiply impute an incomplete data set.  
 
-Send your insights into your behavior and a short discussion on construct validity to b.struminskaya@uu.nl before the lecture of week 11.
+[Exercise 1 - adhoc methods](/files/SDA/week10/1.-Ad_hoc_methods.html)  
+[Exercise 1 - adhoc methods answers](/files/SDA/week10/1.Ad_hoc_methods.Rmd)  
+[Exercise 1 - adhoc methods walkthrough](/files/SDA/week10/Exercise_1.mp4)  
+
+[Exercise 2 - Convergence and pooling](/files/SDA/week10/2.-Convergence_and_pooling.html)  
+[Exercise 2 - Convergence and pooling answers](/files/SDA/week10/2.Convergence_and_pooling.Rmd)  
+[Exercise 2 - Convergence and pooling walkthrough](/files/SDA/week10/Exercise_2.mp4)  
+
+[Exercise 3 - Missingness inspection](/files/SDA/week10/3.-Missingness_innspection.html)  
+[Exercise 3 - Missingness inspection answers](/files/SDA/week10/3.Missingness_inspection.Rmd)  
+[Exercise 3 - Missingness inspection walkthrough](/files/SDA/week10/Exercise_3.mp4)  
+
+See also https://www.gerkovink.com/sda/
 

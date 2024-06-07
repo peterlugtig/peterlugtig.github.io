@@ -12,10 +12,11 @@ toc: true
 type: docs
 tags : [smartphones, survey design, web surveys, R, mixed mode, teaching]
 summary: "The course in survey design takes student beyond the introductory courses offered in BA and MA programmes, and discusses the state-of-the-art of one of the most important data collection techniques: surveys. The course focuses on the methodology of how to do surveys, and the use statistical techniques to analyse and correct for some specific survey errors. It combines short 1-hour lectures with exercises on most of the topics discussed. We assume course participants are proficient in working with R."
-weight: 2
+weight: 1
 ---
 
-With [Bella Struminskaya](www.bellastrum.com) I teach a summerschool lasting five days titled: [Advanced survey design](https://utrechtsummerschool.nl/courses/social-sciences/advanced-survey-design). It is taught bi-annually, in the week bridging August and September, on location in Utrecht. The last course took place in 2023, and so the next iteration is foreseen for 2025.
+With [Bella Struminskaya](www.bellastrum.com) I teach a summerschool lasting five days titled: [Advanced survey design](https://utrechtsummerschool.nl/courses/social-sciences/advanced-survey-design).  
+It is taught bi-annually, in the week bridging August and September, on location in Utrecht. The last course took place in 2023, and so the next iteration is foreseen for 2025.
 
 This 5-day course in survey design takes student beyond the introductory courses offered in BA and MA programmes, and discusses the state-of-the-art of one of the most important data collection techniques: surveys. The course focuses on the methodology of how to do surveys, and the use statistical techniques to analyse and correct for some specific survey errors. It combines short 1-hour lectures with exercises on most of the topics discussed. We assume course participants are proficient in working with R. Most of the exercises can also be done with STATA or SPSS, but answers will be provided in R
 The course assumes basic knowledge of:
@@ -23,58 +24,56 @@ The course assumes basic knowledge of:
 -	Multivariate statistics up to the General Linear Model
 -	The basics of survey methodology (the basic of sampling questionnaire design, collecting and processing data)
 
-
 **Day-to-day schedule**:
 
 Monday, Day 1:
-* 09:00-10:00	Lecture	Introduction to the Total Survey Error Paradigm
-* 10:00-11:00	Lecture	Mixed mode surveys
-* 11:30-12:00	Exercise 	Exercise: study design and minimizing Total Survey error
-(in groups)
-* 12:00-13:00	Lunch (included)	Lunch is at the University mensa daily (included)
-* 13:00-14:00	Lecture 	Push-to-web surveys
-* 14:00-15:00	Lecture 	Sampling frames, time, costs, and recruitment strategies
-* 15:00-16:00	Exercise 	Designing a recruitment strategy
+* 09:00-10:00	Lecture: Introduction to the Total Survey Error Paradigm  
+* 10:00-11:00	Lecture: Mixed mode surveys  
+* 11:30-12:00	Exercise: study design and minimizing Total Survey error (in groups)  
+* 12:00-13:00	Lunch (included)  
+* 13:00-14:00	Lecture: Push-to-web surveys  
+* 14:00-15:00	Lecture: Sampling frames, time, costs, and recruitment strategies  
+* 15:00-16:00	Exercise: Designing a recruitment strategy  
 
 
-Tuesday, Day 2:	
-* 09:00-10:00	Lecture	Advanced questionnaire design
-* 10:00-11:00	Lecture	Designing for mixed mode surveys
-* 11:00-12:00	Exercise 	Designing for mixed-device surveys (ESS module A)
+Tuesday, Day 2:	  
+* 09:00-10:00	Lecture:	Advanced questionnaire design  
+* 10:00-11:00	Lecture:	Designing for mixed mode surveys  
+* 11:00-12:00	Exercise: 	Designing for mixed-device surveys (ESS module A)  
 * 12:00-13:00	Lunch	
-* 13:00-14:00	Lecture	Adaptive survey designs 
-* 14:00-15:00	Lecture 	Ecological Momentary assessment (experience sampling)
-* 15:00-16:00	Exercise 	Exercise: questionnaire design for a modern survey (ESS module A-> text message mode switch, central question)
+* 13:00-14:00	Lecture:	Adaptive survey designs  
+* 14:00-15:00	Lecture: Ecological Momentary assessment (experience sampling)  
+* 15:00-16:00	Exercise: Questionnaire design for a modern survey (ESS module A-> text message mode switch, central question)  
 	
 
 Wednesday, Day 3:
-* 09:00-10:30	Lecture	Big data and TSE:
--	Digital trace data
--	Organic data
--	Administrative data
-* 10:30-11:00	Lecture	Designed big data
-* 11:00-12:00	Exercise	Exercise on selection bias in (designed) big data
-* 12:00-13:00	Lunch	
-* 13:00-14:00	Lecture 	Data donation
-* 14:00-15:00	Exercise	Data donation using your own data
-* 14:00-16:00	Exercise 	Exercise: Analyzing digital trace data (computer exercise)
+* 09:00-10:30	Lecture: Big data and TSE  
+-	Digital trace data  
+-	Organic data  
+-	Administrative data  
+* 10:30-11:00	Lecture: Designed big data  
+* 11:00-12:00	Exercise: selection bias in (designed) big data  
+* 12:00-13:00	Lunch	 
+* 13:00-14:00	Lecture: Data donation  
+* 14:00-15:00	Exercise: Data donation using your own data  
+* 14:00-16:00	Exercise: Analyzing digital trace data (computer exercise)  
 
 
 Thursday, Day 4:
-* 09:00-09:30	Lecture	Conducting surveys using apps
-* 09:30-10:30	Lecture	Passive data collection using mobiles (sensors)
-* 10:30-11:00	Lecture	Ethics, consent, willingness
-* 11:00-12:00	Lecture	Applications using geo- or accelerometer data
+* 09:00-09:30	Lecture:	Conducting surveys using apps  
+* 09:30-10:30	Lecture:	Passive data collection using mobiles (sensors)  
+* 10:30-11:00	Lecture:	Ethics, consent, willingness  
+* 11:00-12:00	Lecture:	Applications using geo- or accelerometer data  
 * 12:00-13:00	Lunch	
-* 13:00-14:00	Exercise	Exercise: geo-data or accelerometer data (choose 1) (introductory exercise)
-* 14:00-15:00	Exercise	Applications using text or image data
-* 15:30-16:00	Exercise	Exercise: Object recognition, text recognition, text exercises (introductory exercise)
+* 13:00-14:00	Exercise:	Exercise: geo-data or accelerometer data (choose 1) (introductory exercise)  
+* 14:00-15:00	Exercise:	Applications using text or image data  
+* 15:30-16:00	Exercise:	Object recognition, text recognition, text exercises (introductory exercise)  
 
 
 Friday, Day 5:
-* 09:00-10:00	Lecture	Data integration at level of individual respondents
-* 10:00-11:00	Exercise	Data integration at level of sample
-* 11:00-16:00	Exercise	Your own project. 
+* 09:00-10:00	Lecture:	Data integration at level of individual respondents  
+* 10:00-11:00	Exercise:	Data integration at level of sample  
+* 11:00-16:00	Exercise:	Your own project  
 Consultations with teachers of the course to discuss your survey questions in more depth. You may bring your own dataset, questionnaire or study design to discuss. Alternatively, there is time to finish some of the exercises earlier or read specific literature
 
 
@@ -84,7 +83,7 @@ For information about the course, including how to register, please have a look 
 Aggarwal, C.C. (2018) Machine learning for text. Springer. ISBN: 978-3-319-73530-6, doi: 10.1007/978-3-319-73531-3 (day 4)
 Antoun, C., Katz, J., Argueta, J., & Wang, L. (2018). Design heuristics for effective smartphone questionnaires. Social Science Computer Review, 36(5), 557-574 (day 2)
 Biemer, P.P., de Leeuw E., Eckman, S., Edwards, B., Kreuter, F., Lyberg, L., Tucker, N.C., West, B., eds. (2017) Total Survey Error in Practice, Wiley, especially chapters 2 and 7 (days 1, 3)
-Boeschoten, L., Ausloos, J., Möller, J. E., Araujo, T., & Oberski, D. L. (2022). A framework for privacy preserving digital trace data collection through data donation. Computational Communication Research, 4(2), 388-423. (day 3)
+Boeschoten, L., Ausloos, J., M?ller, J. E., Araujo, T., & Oberski, D. L. (2022). A framework for privacy preserving digital trace data collection through data donation. Computational Communication Research, 4(2), 388-423. (day 3)
 Brunsdon, C. & Comb, L.  (2019) An introduction to R for spatial analysis and mapping (Spatial analysis and GIS). (2nd edition). Sage, London. ISBN-13: 978-1526428509  (day 5)
 Dillman, D.A., J.D. Smyth, and L.M. Christian (2009) Internet, Mail and Mixed-Mode: The Tailored Design Method, 3rd Edition. Wiley and Sons, chapters 4 and 5 especially (day 1,2)
 Dillman, D. A. (2017). The promise and challenge of pushing respondents to the web in mixed-mode surveys. Survey Methodology, 43(1), 3-31.

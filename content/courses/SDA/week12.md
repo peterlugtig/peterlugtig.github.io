@@ -1,39 +1,38 @@
 ---
 date: "`r Sys.Date()`"
 draft: false
-linktitle: "week 12 - Missing data II"
+linktitle: "week 12 - Designed Big Data"
 menu:
   SDA:
     parent: Survey Data Analysis
     weight: 12
-title: "Missing data II"
+title: "Designed Big Data"
 toc: true
 type: docs
 weight: 12
 ---
 
-## Lecture: 
-We discuss why multiple imputation is the state of the art technique for drawing valid inferences from incomplete data. 
-[Slides](/files/SDA/week12/missing-data-2.pdf)  
+## Introduction
 
-For more slides and exercises see https://www.gerkovink.com/sda/
+The increasing volume of Big Data produced by sensors and smart devices can transform the social and behavioral sciences. We will discuss how the true power of these data for the social sciences that lies in integrating Big Data with surveys. Using examples of successful existing studies that used digital data to provide new insights into social reality, we will focus on challenges and opportunities of integrating sensor- and app-based data collection into surveys. The Total Survey Error framework learned in Week 2 will serve as a basis for our discussion of introducing design to Big Data to gauge the inherent challenges of representativeness and measurement. Students will develop a scenario of combing Big Data and survey data, focusing on theoretical and practical aspects of such data integration. Students will have a chance to make decisions on preparing the raw data for analysis and obtaining inference.
 
-## Exercise in class: 
-R exercise where we find the answer to a scientific question of interest on incomplete data via multiple imputation with the R package mice. 
-[Exercise 4 - passive imputation](/files/SDA/week12/4.-Passive-imputation_post_processing.html)   
-[Exercise 4 - passive imputation answers](/files/SDA/week12/4.Passive-imputation_post_processing.Rmd) 
-[Exercise 4 - passive imputation walthrough](/files/SDA/week12/Exercise_4.mp4)
+##Literature:
 
-[Exercise 5 - Combining inferences](/files/SDA/week12/5.-Combining_inferences.html)   
-[Exercise 5 - Combining inferences answers](/files/SDA/week12/5.Combining_inferences.Rmd) 
-[Exercise 5 - Combining inferences walthrough](/files/SDA/week12/Exercise_5.mp4)
+- Chapter 3 - Big Data: A Survey Research Perspective and 
+- Chapter 2 - Total Twitter Error in Biemer Paul B., Edith de Leeuw et al. (eds.) (2017). Total Survey Error in Practice. John Wiley & Sons, Available through UU library (DOI:10.1002/9781119041702)
 
-[Exercise 6 - multilevel](/files/SDA/week12/6.-Multi_level_data.html)   
-[Exercise 6 - multilevel answers](/files/SDA/week12/6.multi_level_data.Rmd) 
+##Lecture:
+In the lecture, we will discuss the types of Big Data, how types of errors from the Total Survey Error relate to Big Data, and how to combine survey data with Big Data sources.
+[Slides part 1](/files/SDA/week12/lecture_week_12.pdf)
 
-see also https://www.gerkovink.com/sda/
+## Class Exercise:
+You will design a scenario that combines survey data with one or several Big Data sources.
 
-## Take Home Exercise (prepare for next week): 
-Finish all the missing data exercises
+##Take home exercise:
+You will have a chance to analyze smartphone sensor data that you yourself have produced (e.g., from Apple Health). 
+You can either use your own data by downloading a Data Download Package, or you can work with data produced by Apple Health.
+[exercise data](/files/SDA/week12/export.zip)
+[exercise script](/files/SDA/week12/apple_health_exercise.R)
 
+Send your insights into your behavior and a short discussion on construct validity to b.struminskaya@uu.nl before the lecture of week 13.
 

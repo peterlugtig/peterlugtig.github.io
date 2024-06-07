@@ -12,14 +12,14 @@ type: docs
 weight: 4
 ---
 
-[Conducting surveys using apps](/files/IOPS_course/day4/1.pdf)
-[Passive data collection using mobiles (sensors)](/files/IOPS_course/day4/1.pdf)
-[Ethics, consent, willingness](/files/IOPS_course/day3/3.pdf)
+[Conducting surveys using apps](/files/IOPS_course/day4/1.pdf)  
+[Passive data collection using mobiles (sensors)](/files/IOPS_course/day4/2.pdf)  
+[Ethics, consent, willingness](/files/IOPS_course/day3/3.pdf) 
 
-[Applications using geo- or accelerometer data](/files/IOPS_course/day4/4.pdf) 
-Exercise: geo-data or accelerometer data (not available due to large data)
+[Applications using geo- or accelerometer data](/files/IOPS_course/day4/4.pdf)   
+Exercise: geo-data or accelerometer data (not available due to large data)  
 
 Applications using text or image data
-[part1](/files/IOPS_course/day4/5.pdf)
-[part2](/files/IOPS_course/day4/7.pdf)
+[part1](/files/IOPS_course/day4/5.pdf)  
+[part2](/files/IOPS_course/day4/7.pdf)  
 
