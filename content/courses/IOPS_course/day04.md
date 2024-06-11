@@ -19,7 +19,7 @@ weight: 4
 [Applications using geo- or accelerometer data](/files/IOPS_course/day4/4.pdf)   
 Exercise: geo-data or accelerometer data (not available due to large data)  
 
-Applications using text or image data
+Applications using text or image data:  
 [part1](/files/IOPS_course/day4/5.pdf)  
 [part2](/files/IOPS_course/day4/7.pdf)  
 

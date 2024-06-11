@@ -12,9 +12,9 @@ type: docs
 weight: 3
 ---
 
-[Big data and TSE](/files/IOPS_course/day3/1.pdf)
-[Designed big data](/files/IOPS_course/day3/1.pdf)
-[Exercise: selection bias in (designed) big data](/files/IOPS_course/day3/2. exercise1.pdf)
+[Lecture - Big data and TSE](/files/IOPS_course/day3/1.pdf)  
+[Lecture - Designed big data](/files/IOPS_course/day3/1.pdf)  
+[Exercise - Selection bias in (designed) big data](/files/IOPS_course/day3/2. exercise1.pdf)
 
-[Data donation](/files/IOPS_course/day3/1.pdf)
-[Exercise: Analyzing digital trace data (computer exercise)]
+[Lecture - Data donation](/files/IOPS_course/day3/1.pdf)
+Exercise: Analyzing your own digital trace data

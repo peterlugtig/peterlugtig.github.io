@@ -12,8 +12,6 @@ type: docs
 weight: 5
 ---
 
-[Data integration at level of individual respondents](/files/IOPS_course/day5/1.pdf)  
-[Data integration at level of sample](/files/IOPS_course/day5/2.pdf)  
-[Exercise: data integration](/files/IOPS_course/day5/2. exercise1.pdf)  
-
-Your own project. Consultations with teachers of the course to discuss your survey questions in more depth. You may bring your own dataset, questionnaire or study design to discuss. Alternatively, there is time to finish some of the exercises earlier or read specific literature
+[Lecture -Data integration at level of individual respondents](/files/IOPS_course/day5/1.pdf)  
+[Lecture -Data integration at level of sample](/files/IOPS_course/day5/2.pdf)  
+[Exercise -  data integration](/files/IOPS_course/day5/exercise1.pdf)    
