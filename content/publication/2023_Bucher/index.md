@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Smart Survey Implementation WP2 deliverable M6: review stage."
-authors: [ Bucher, H., Keusch, F.,  de Viitis, C., Fausti, F.. Inglese, F., van Tienoven, T.P., McCool, D., Struminskaya, B. & Lugtig, P. (2023) Smart Survey Implementation WP2 deliverable M6: review stage. Eurostat.]
+authors: [ Bucher, H., Keusch, F.,  de Viitis, C., Fausti, F.. Inglese, F., van Tienoven, T.P., McCool, D., Struminskaya, B. & Lugtig, P.]
 date: 2023-10-31T00:00:00+01:00
 doi: ""
 
@@ -52,7 +52,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.dropbox.com/scl/fi/ys4kpczsielmwv19bc48d/SSI-WP2-M6-final-version.pdf?rlkey=cc3alrh816o5aarn3qhqly10r&dl=0"
+url_pdf: "https://cros.ec.europa.eu/book-page/smart-surveys-wp-2-methodology"
 url_code: 
 url_dataset:
 url_poster:
