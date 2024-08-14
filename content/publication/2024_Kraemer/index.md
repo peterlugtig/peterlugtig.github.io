@@ -4,7 +4,7 @@
 title: "Monitoring Attitudes Over Time - Real Change or the Result of Repeated Interviewing?"
 authors: [Kraemer, F., Lugtig, P., Struminskaya, B., Silber, H., Weiß, B., Bosnjak, M.]
 date: 2024-07-01T00:00:00+01:00
-doi: "https://doi.org/10.31235/osf.io/jcyd9 "
+doi: "https://doi.org/10.31235/osf.io/jcyd9"
 
 # Schedule page publish date (NOT publication's date).
 publishDate:

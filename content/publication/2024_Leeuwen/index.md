@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The performance of interrupted time series designs with a limited number of time points: Learning losses due to school closures during the COVID-19 pandemic".
+title: "The performance of interrupted time series designs with a limited number of time points: Learning losses due to school closures during the COVID-19 pandemic"
 authors: [Leeuwen, F. van, Lugtig, P., Feskens, R.]
 date: 2024-08-08T00:00:00+01:00
 doi: "https://doi.org/10.1371/journal.pone.0301301"
