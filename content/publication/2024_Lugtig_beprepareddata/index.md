@@ -46,7 +46,7 @@ featured: false
 
 url_pdf:
 url_code: 
-url_dataset: "https://doi.org/10.5281/zenodo.12601308""
+url_dataset: "https://doi.org/10.5281/zenodo.12601308"
 url_poster:
 url_project:
 url_slides:
