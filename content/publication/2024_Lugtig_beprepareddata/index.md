@@ -26,11 +26,11 @@ abstract: "This dataset stems from the project ‘Beprepared’: (https://be-pre
 ·       Research methodology and preparedness
 ·       Effective and integrated policy advice
 
-This resource links to the theme ‘research methodology’ and provides an overview of datasets that have been used internationally to study the behavioral effects of the Covid-19 pandemic. These datasources can be used to study how people behave in a variety of settings during the Covid pandemic and so to inform policy-makers, but also to study the effects of behavioral interventions. It includes datasources that for example study mobility behavior at a regional or national level, physical distancing in public, health adherence behaviors (like handwashing, mask wearing), social contacts on- and offline, purchasing behaviors (shopping) etc.
+This resource links to the theme ‘research methodology’ and provides an overview of datasets that have been used internationally to study the behavioral effects of the Covid-19 pandemic. These datasources can be used to study how people behave in a variety of settings during the Covid pandemic and so to inform policy-makers, but also to study the effects of behavioral interventions. It includes datasources that for example study mobility behavior at a regional or national level, physical distancing in public, health adherence behaviors (like handwashing, mask wearing), social contacts on- and offline, purchasing behaviors (shopping) etc."
 
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary:
 
 tags: [covid, data quality, data sources, zenodo]
 categories: []
