@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Covid - behavioral effects international datasets."
-authors: [Lugtig, P., Angelo, M., Meitinger, K., Metwaly, F., Urbanski, M., & Li, S.]
+title: "Covid - behavioral effects international datasets"
+authors: [Lugtig, P., Angelo, M., Meitinger, K., Metwaly, F., Urbanski, M., Li, S.]
 date: 2024-06-30T00:00:00+01:00
 doi: "https://doi.org/10.5281/zenodo.12601308"
 

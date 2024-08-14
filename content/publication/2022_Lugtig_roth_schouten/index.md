@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Nonresponse analysis in a longitudinal smartphone-based travel study "
-authors: [Lugtig,P., Roth, K., Schouten, J.G. ]
+title: "Nonresponse analysis in a longitudinal smartphone-based travel study"
+authors: [Lugtig,P., Roth, K., Schouten, J.G.]
 date: 2022-04-30T00:00:00+01:00
 doi: "doi: 10.18148/srm/2022.v16i1.7835 "
 
