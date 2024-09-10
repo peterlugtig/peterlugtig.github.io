@@ -55,6 +55,6 @@ user_groups:
 - Visitors
 ---
 
-Peter Lugtig is an associate professor at the [department of Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) at Utrecht University, where he specializes in data quality. This includes statistical modeling of data quality components, survey methodology, methods of inferences using a mix of designed data and big data, and the use of sensor technology in smartphones. 
+Peter Lugtig is an associate professor at the [department of Methods and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) at Utrecht University, where he specializes in data quality. This includes statistical modeling of data quality components, survey methodology, methods of inferences using a mix of designed data and big data, and the use of sensor technology in smartphones. 
 
 Next to his research, he has a passion for teaching and thus is involved in several Bachelor's, Master's and post-graduate courses about statistics and survey methodology. He is also involved in innovating teaching, and organization and management of the teaching and research projects.
