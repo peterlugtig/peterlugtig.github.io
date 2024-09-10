@@ -52,11 +52,11 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://cros.ec.europa.eu/book-page/smart-surveys-wp-2-methodology"
+url_pdf: "https://cros.ec.europa.eu/system/files/2024-05/SSI%20deliverable%202.1%20-%20Review%20stage%20report%20Methodology.pdf"
 url_code: 
 url_dataset:
 url_poster:
-url_project:
+url_project: "https://cros.ec.europa.eu/dashboard/trusted-smart-surveys"
 url_slides:
 url_source:
 url_video:

@@ -17,4 +17,4 @@ weight: 3
 [Exercise - Selection bias in (designed) big data](/files/IOPS_course/day3/exercise1.pdf)
 
 [Lecture - Data donation](/files/IOPS_course/day3/1.pdf)  
-Exercise - Analyzing your own digital trace data
+Exercise - Analyzing your own digital trace data (se lecture slides)
