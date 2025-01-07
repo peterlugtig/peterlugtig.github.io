@@ -13,14 +13,6 @@ Mode effects - the fact that respondents respond differently to a survey questio
   
 This type of design is popular, but in my view it has a great drawback: we know Internet samples and telephone surveys do only cover a part of the population. Landline telephone coverage is rapidly declining, while Internet use remains limited to about 80 per cent of the general population in Western countries. There are two alternative approaches, that deal with this issue.  
   
-
-[  
-](https://lh3.googleusercontent.com/-DtdXWE8W930/TWvg_zBwXqI/AAAAAAAACWs/-0DfGoKAlM8/s1600/14635-Pretty-Blond-Woman-With-Tall-Hair-Wearing-Pearls-And-A-Red-Dress-And-Talking-On-A-Rotary-Dial-Landline-Telephone-Clipart-Illustration.jpg)
-
-[![](https://lh4.googleusercontent.com/-BWZRwWect0o/TWvhAhfyBkI/AAAAAAAACWw/60kUYH31A68/s200/face+to+face+interview.jpg)](https://lh4.googleusercontent.com/-BWZRwWect0o/TWvhAhfyBkI/AAAAAAAACWw/60kUYH31A68/s1600/face+to+face+interview.jpg)[![](https://lh3.googleusercontent.com/-DtdXWE8W930/TWvg_zBwXqI/AAAAAAAACWs/-0DfGoKAlM8/s1600/14635-Pretty-Blond-Woman-With-Tall-Hair-Wearing-Pearls-And-A-Red-Dress-And-Talking-On-A-Rotary-Dial-Landline-Telephone-Clipart-Illustration.jpg)](https://lh3.googleusercontent.com/-DtdXWE8W930/TWvg_zBwXqI/AAAAAAAACWs/-0DfGoKAlM8/s1600/14635-Pretty-Blond-Woman-With-Tall-Hair-Wearing-Pearls-And-A-Red-Dress-And-Talking-On-A-Rotary-Dial-Landline-Telephone-Clipart-Illustration.jpg)  
-  
-  
-  
 2\. One can make respondents switch modes during the interview. For example from the telephone to the Internet, or from face-to-face to paper-and-pencil. Although this approach sounds very simple, relatively few studies have been conducted in this manner. See [Heerwegh (2009) for a nice example.](http://ijpor.oxfordjournals.org/content/21/1/111.short)  
 More experimental studies are defnitely welcome and necessary if we want to understand how problematic mode effects are.  
   
