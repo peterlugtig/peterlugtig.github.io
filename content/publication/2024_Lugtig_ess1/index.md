@@ -39,10 +39,10 @@ featured: false
 #   icon: twitter
 
 url_pdf: "https://www.europeansocialsurvey.org/sites/default/files/2024-10/round-9-10-comparison-final.pdf"
-url_code: ""
+url_code: 
 url_dataset:
 url_poster:
-url_project:"https://www.europeansocialsurvey.org/methodology/methodological-research/modes-data-collection"
+url_project:
 url_slides:
 url_source:
 url_video:
