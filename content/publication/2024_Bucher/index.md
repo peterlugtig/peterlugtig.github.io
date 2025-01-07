@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Smart Survey Implementation WP2 deliverable M6: smart baseline stage."
+title: "Smart Survey Implementation WP2 deliverable M14: smart baseline stage."
 authors: [Bucher, H., Keusch, F., Volk, J., Haufglockner, L., Blanke, K. de Viitis, C., Fausti, F.. Inglese, F., Perez, M., van Tienoven, T.P., Lusyne, P., Elevelt, A., de Groot, J.,Kompier, M., Schouten, J.G., Klingwort, J., van den Heuvel, J., Solard, J., Quentin, S., McCool, D., Struminskaya, B., Lugtig, P.]
-date: 2023-10-31T00:00:00+01:00
+date: 2024-04-30T00:00:00+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
