@@ -19,22 +19,22 @@ To illustrate the idea of analysing mode effects, see the four figures below.. T
 
 The first two figures show the responses in round 9. 22 countries used face-to-face interviewing in both rounds 9 and 10 (top figure), while 9 countries switched to self-interviewing in round (bottom figure). Here, we do not see differences between the distributions. This makes sense, as in round 9 all interviews were conducted face-to-face.
 
-![face-to-faceround9](/files/posts/ppltrstf2f9.pdf)  
-![self-interviewing9](/files/posts/ppltrstsi9.pdf)  
+![face-to-faceround9](/files/posts/ppltrstf2f9.jpg)  
+![self-interviewing9](/files/posts/ppltrstsi9.jpg)  
 
 The more interesting results are to be found when we compare the two groups of responses in round 9. Here, 22 countries stay in face-to-face (top figure below), and if we compare this distribution to the distribution from round 9, we see very little change overall. The second figure below shows what happens when countries switch to self-interviewing: we see a lot more extremely negative responses '0 on the scale', and as a result the mean level of trust is about .50 points lower as compared to round 10.
 
-![face-to-faceround10](/files/posts/ppltrstf2f10.pdf)  
-![self-interviewing10](/files/posts/ppltrstsi10.pdf)  
+![face-to-faceround10](/files/posts/ppltrstf2f10.jpg)  
+![self-interviewing10](/files/posts/ppltrstsi10.jpg)  
 
 Is this is a finding that we find consistently across variables? No. In the report, I do analyses for 111 variables in the ESS that are numeric and asked in both round 9 and 10. Over all these variables, I find that shifts in the mean are mostly small. Table 1 below shows the absolute effect sizes of changes in means across all the variables for the two groups of countries. In row 1 countries that used face-to-face in both rounds 9 and 10. In row 2, the countries switching to self-interviewing. 
 
 *Table 1*: Distribution of Hedges g for change in means between round 9 and 10 across 111 ESS variables
 
-| | Min. | 1st quartile | Median | Mean | 3rd quartile | Maximum|
-| -------- |: -------- | :-------- |:--------|: -------- |: -------- |:--------|
-| absolute Hedges g face-to-face both rounds |0.00|	0.01|	0.03|	0.04|	0.06|	0.13|
-| absolute Hedges g switch to self-interviewing |0.00|	0.04|	0.09|	0.11|	0.17|	0.44|
+| | Min. | 1st quartile | Median | Mean | 3rd quartile | Maximum|  
+| -------- |: -------- | :-------- |:--------|: -------- |: -------- |:--------|  
+| absolute Hedges g face-to-face both rounds |0.00|	0.01|	0.03|	0.04|	0.06|	0.13|  
+| absolute Hedges g switch to self-interviewing |0.00|	0.04|	0.09|	0.11|	0.17|	0.44|  
 
 We see that overall, the changes in means are larger when countries switch to self-interviewing. But not much larger: the absolute median change is only slightly bigger (.04 vs .03), and the difference we see for means is caused by a small number of variables showing quite large changes. 
 
