@@ -1,6 +1,6 @@
 ---
 title: 'Switching from face-to-face to self-interviewing. The problem of mode effects'
-date: 2025-01-06T15:21:00.002+01:00
+date: 2025-01-06T15:21:00
 draft: false
 tags : [mode-effects, mixed-mode survey, European Social Survey, longitudinal analysis]
 ---
@@ -30,9 +30,8 @@ The more interesting results are to be found when we compare the two groups of r
 Is this is a finding that we find consistently across variables? No. In the report, I do analyses for 111 variables in the ESS that are numeric and asked in both round 9 and 10. Over all these variables, I find that shifts in the mean are mostly small. Table 1 below shows the absolute effect sizes of changes in means across all the variables for the two groups of countries. In row 1 countries that used face-to-face in both rounds 9 and 10. In row 2, the countries switching to self-interviewing. 
 
 {{<table “table table-striped table-bordered”>}}
-	
-| | Min. | 1st quartile | Median | Mean | 3rd quartile | Maximum|
 | -------- | -------- | -------- |--------| -------- | -------- |--------|
+| | Min. | 1st quartile | Median | Mean | 3rd quartile | Maximum|
 | absolute Hedges g face-to-face |0.00|	0.01|	0.03|	0.04|	0.06|	0.13|
 | absolute Hedges g self-interviewing |0.00|	0.04|	0.09|	0.11|	0.17|	0.44|
 {{</table>}}
