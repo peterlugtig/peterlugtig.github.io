@@ -7,14 +7,16 @@
   <meta name="Generator" content="Cocoa HTML Writer">
   <meta name="CocoaVersion" content="2113.65">
   <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Courier; color: #000000; -webkit-text-stroke: #000000}
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Courier; -webkit-text-stroke: #000000}
     span.s1 {font-kerning: none}
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">{{ $htmlTable := .Inner | markdownify }} {{ $class := .Get 0 }} {{ $old := "&lt;table&gt;" }} {{ $new := printf "&lt;table class=\"%s\"&gt;"$class }}<span class="Apple-converted-space"> </span></span></p>
-<p class="p1"><span class="s1">{{ $htmlTable := replace $htmlTable $old $new }}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{{ $htmlTable := .Inner | markdownify }}</span></p>
+<p class="p1"><span class="s1">{{ $class := .Get 0 | default "" }}</span></p>
+<p class="p1"><span class="s1">{{ $old := "&lt;table&gt;" }}</span></p>
+<p class="p1"><span class="s1">{{ $new := printf "&lt;table class=\"%s\"&gt;" $class }}</span></p>
+<p class="p1"><span class="s1">{{ $htmlTable := replace $htmlTable $old $new }}</span></p>
 <p class="p1"><span class="s1">{{ $htmlTable | safeHTML }}</span></p>
-<p class="p1"><span class="s1">&lt;/table&gt;</span></p>
 </body>
 </html>
