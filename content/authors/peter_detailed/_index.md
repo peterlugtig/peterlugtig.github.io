@@ -8,14 +8,11 @@ name: Peter Lugtig
 organizations:
 - name: Utrecht University
   url: "https://www.uu.nl/staff/plugtig#"
-role: Associate Professor of Survey Methodology
+role: Associate Professor of Data Quality
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/PeterLugtig
 - icon: bluesky
   icon_pack: fab
   link: https://bsky.app/profile/peterlugtig.bsky.social
@@ -40,8 +37,6 @@ user_groups:
 - Visitors
 ---
 
-
-\
 Welcome! I (Peter Lugtig) am a survey methodologist working at the [department of Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) of Utrecht University. I teach and do research on the methodology of data collection in the social sciences; more specifically using  combination of surveys and (smartphone) sensors. You can find my full CV in the menu or main page.
 
 This personal webpage is about my research. I have the tendency to get distracted into too many side-projects (all fun and important), but my main research interests are:
