@@ -21,10 +21,10 @@ publication_short:
 
 abstract: "One of the major problems in estimating the mode measurement effect in (mixed-mode) surveys is that isolation of the causal effect of mode on measurement is difficult due to the fact that selection and measurement effects are (potentially) correlated. Some studies have tried to eliminate selection effects by for example re-interviewing face-to-face respondents in a self-interviewing mode shortly after the original interview (Klausch et al., 2014). Or they have randomized respondents into a survey mode only after successfully recruiting a respondent into the survey (Heerwegh, 2009). Both these designs are a bit artificial, and are in practice not always complex to explain and administer to respondents. 
 In this report I will use data from the European Social Survey rounds 9 and 10 to investigate mode effects. In round 9, all countries used face-to-face interviewing. In round 10, nine countries used a self-interviewing instrument (web and paper) with the twentytwo other countries using face-to-face interviewing. The change in survey modes was mostly due to the effects of Covid-19 had on the ability to conduct in-person interviews in some countries. The quasi-experimental design however does allow us to compare countries that switched to self-interviewing with countries that kept using face-to-face interviewing.
-Results show that we find no large effects of changing interviewing modes on means, variances and covariances across 111 variables that were measured in both rounds 9 and 10 of the ESS. There are approximately 25 variables where we find effect sizes in the change in means associated with the mode switch is .20 (hedges g) or larger, indicating that there are some variables for which we find mode effects. "
+Results show that we find no large effects of changing interviewing modes on means, variances and covariances across 111 variables that were measured in both rounds 9 and 10 of the ESS. There are approximately 25 variables where we find effect sizes in the change in means associated with the mode switch is .20 (hedges g) or larger, indicating that there are some variables for which we find mode effects."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: 
 
 tags: [mode-effects, mixed-mode survey, European Social Survey, longitudinal analysis]
 categories: []
