@@ -51,4 +51,4 @@ This personal webpage is about my research. I have the tendency to get distracte
 
 * Longitudinal data analysis. This comprises all my side projects. I work on diverse projects that involve the analysis of longitudinal survey data, mainly using Structural Equation Models.
 
-If you have questions about any of these topics, or posts on my blog, do not be afraid to e-mail me at <p.lugtig@uu.nl>. I regularly teach short courses or give lectures on SEM and survey methods, as well as consultations to researchers on these topics. If you are interested to hear me speak on my research or give a specific training, do e-mail me as well.
+If you have questions about any of these topics, or posts on my blog, do not be afraid to e-mail me at <p.lugtig@uu.nl>. I regularly teach short courses or give lectures on survey methods, data quality or statistical modeling, and also do consultations to researchers on these topics. If you are interested to hear me speak on my research or give a specific training, do e-mail me as well.
