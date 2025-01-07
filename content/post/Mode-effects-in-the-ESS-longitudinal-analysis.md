@@ -1,5 +1,5 @@
 ---
-title: 'Switching from face-to-face to self-interviewing. The problem of mode effects
+title: 'Switching from face-to-face to self-interviewing. The problem of mode effects'
 date: 2025-01-06T15:21:00.002+01:00
 draft: false
 tags : [mode-effects, mixed-mode survey, European Social Survey, longitudinal analysis]
