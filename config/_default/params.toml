@@ -82,7 +82,7 @@ privacy_pack = false
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "p.lugtig@uu.nl"
-phone = "030-2537761"
+phone = "030-2534438 (secretariat)"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -93,19 +93,18 @@ address = {street = "Padualaan 14", city = "Utrecht", region = "Utrecht", postco
 coordinates = {latitude = "52.085032", longitude = "5.170553"}
 
 # Directions for visitors to locate you.
-directions = "Room A.103, which is located on the first floor."
+directions = "Room C.117, which is located on the first floor."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday - 09:00 to 17:00", "Tuesday - Free", "Wednesday - 09:00 to 17:00", "Thursday - 09:00 to 17:00", "Friday - 09:00 to 17:00"]
+office_hours = ["Monday - 09:00 to 17:00", "Tuesday - 09:00 to 17:00", "Wednesday - 09:00 to 17:00", "Thursday - 09:00 to 17:00", "Friday - 09:00 to 17:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/peterlugtig?lang=en"},
+contact_links = [,
   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/peter-lugtig-78896220/"},
   {icon = "address-card", icon_pack = "far", name = "Utrecht University page", link = "https://www.uu.nl/staff/plugtig"},
   ]
@@ -116,9 +115,6 @@ contact_links = [
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
-
-# Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "PeterLugtig"
 
 ############################
 ## Regional Settings

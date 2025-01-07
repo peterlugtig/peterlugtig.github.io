@@ -29,8 +29,7 @@ The more interesting results are to be found when we compare the two groups of r
 
 Is this is a finding that we find consistently across variables? No. In the report, I do analyses for 111 variables in the ESS that are numeric and asked in both round 9 and 10. Over all these variables, I find that shifts in the mean are mostly small. Table 1 below shows the absolute effect sizes of changes in means across all the variables for the two groups of countries. In row 1 countries that used face-to-face in both rounds 9 and 10. In row 2, the countries switching to self-interviewing. 
 
-*Table 1*: Distribution of Hedges g for change in means between round 9 and 10 across 111 ESS variables  
-
+*Table 1: Distribution of Hedges g for change in means between round 9 and 10 across 111 ESS variables*
 | | Min. | 1st quartile | Median | Mean | 3rd quartile | Maximum |  
 |:--------|:--------|:--------|:--------|:-------- |:-------- |:--------|  
 |Absolute Hedges g face-to-face both rounds |0.00|	0.01|	0.03|	0.04|	0.06|	0.13|  

@@ -13,6 +13,8 @@ type: docs
 weight: 1
 ---
 
+*Course materials on this website are materials from academic year 2023-2024*
+
 ## Contact details of instructors
 All instructors are based at the:
 Department of Methodology and Statistics | Utrecht University
