@@ -23,7 +23,7 @@ name: Peter Lugtig
 organizations:
 - name: Utrecht University
   url: "https://www.uu.nl/staff/plugtig#"
-role: Associate Professor of Survey Methodology
+role: Associate Professor data quality
 social:
 - icon: envelope
   icon_pack: fas
