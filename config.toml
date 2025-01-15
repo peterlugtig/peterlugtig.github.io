@@ -20,7 +20,7 @@ copyright = "&copy; 2019 - {year}"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "hugo-blox-builder-main"
+theme = "hugo-academic"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
