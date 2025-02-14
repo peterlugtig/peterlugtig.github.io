@@ -1,7 +1,7 @@
 ---
 authors:
 - peterlugtig
-bio: I am an associate professor of data quality at Utrecht University, department of Methodology and Statistics.
+bio: I am full professor of data quality at Utrecht University, department of Methodology and Statistics.
 
 education:
   courses:
@@ -23,7 +23,7 @@ name: Peter Lugtig
 organizations:
 - name: Utrecht University
   url: "https://www.uu.nl/staff/plugtig#"
-role: Associate Professor data quality
+role: Professor data quality
 social:
 - icon: envelope
   icon_pack: fas
@@ -53,6 +53,6 @@ user_groups:
 - Visitors
 ---
 
-Peter Lugtig is an associate professor at the [department of Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) at Utrecht University, where he specializes in data quality. This includes statistical modeling of data quality components, survey methodology, methods of inferences using a mix of designed data and big data, and the use of sensor technology and apps in smartphones for social science research. 
+Peter Lugtig is professor 'data quality' at the [department of Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) at Utrecht University. This includes statistical modeling of data quality components, survey methodology, methods of inferences using a mix of designed data and big data, and the use of sensor technology and apps in smartphones for social science research. 
 
-Next to his research, he has a passion for teaching and thus is involved in several Bachelor's, Master's and post-graduate courses about statistics and survey methodology. He is also involved in innovating teaching, and organization and management of the teaching and research projects. He is a member of the management board of the [European Master of Official Statistics](https://cros.ec.europa.eu/book-page/european-master-official-statistics-emos), serves on several advisory and management boards of social science projects (see [CV](files/CV.pdf)), and currently serves as the head of the department of Methodology and Statistics.
+Next to his research, he has a passion for teaching and  is involved in several Bachelor's, Master's and post-graduate courses about statistics and survey methodology. He is a member of the management board of the [European Master of Official Statistics](https://cros.ec.europa.eu/book-page/european-master-official-statistics-emos), sits on several advisory and management boards of social science projects (see [CV](files/CV.pdf)), does consulting for governmental agencies on data collection methods and data quality, and currently serves as the head of the department of Methodology and Statistics.

@@ -8,7 +8,7 @@ name: Peter Lugtig
 organizations:
 - name: Utrecht University
   url: "https://www.uu.nl/staff/plugtig#"
-role: Associate Professor of Data Quality
+role: Professor of Data Quality
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,11 +37,13 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I (Peter Lugtig) am a survey methodologist working at the [department of Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) of Utrecht University. I teach and do research on the methodology of data collection in the social sciences; more specifically using  combination of surveys and (smartphone) sensors. You can find my full CV in the menu or main page.
+Welcome! I (Peter Lugtig) am a professor in data quality working at the [department of Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) of Utrecht University. I teach and do research on the methodology of data collection in the social sciences; more specifically using  combination of surveys and (smartphone) sensors. You can find my full CV in the menu or main page.
 
 This personal webpage is about my research. I have the tendency to get distracted into too many side-projects (all fun and important), but my main research interests are:
 
 * Data quality: what does data quality mean? How can we assess whether a dataset is 'fit for purpose', and most importantly, how can we assess the quality of data? I work on statistical models to assess data quality, and methods to improve data before (design) and during (data integration) data collection.
+
+* Survey Methodology: in particular methods to collect data using a combination of different msurvey modes. This includes sampling, fieldwork desigm preventing and correcting nonresponse, questionnaire design for multiple modes, and cross-national or comparative surveys. 
 
 * Inference using a mix of survey data and big data. I am mainly interested to find out how mobile phone sensor data can complement survey data, and study the data quality of 'sensor' data (see below), like GPS and accelerometer data to infer human behavior. Topics are data fusion of survey and sensor data, nonresponse pattrens in sensor data, correlates of nonresponse, and what to do about these. With Barry Schouten of Statistics Netherlands, I lead a [Data Collection Innovation Network](https://win.sites.uu.nl/).
 
