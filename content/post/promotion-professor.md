@@ -1,6 +1,6 @@
 ---
-  title: 'Promotion to full professor data quality'
-date: 2025-03-07
+title: 'Promotion to full professor data quality'
+date: 2025-03-07T10:05:00.000+02:00
 draft: false
 tags : [personal, data quality, survey methods, research, teaching]
 ---
