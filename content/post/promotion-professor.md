@@ -18,4 +18,4 @@ These ar the kinds of issues I work on. I am currently working on lots of cool p
 
 I will also continue do more applied projects, on how to improve questionnaires, limit nonresponse, or draw efficient samples for social research. I do not do this alone: I strongly believe in team-based research and teaching, and am really happy to work [with a group of great people in Utrecht](https://dataquality.sites.uu.nl/about/).
   
-If you want to know more about the 'programme' of the chair, do click on this link to read the [full profile report for the chair in data quality](files/static/profile-report-chair-data-quality-online-version). I will do an inaugural speech of the professorship on 2 April 2026. 
+If you want to know more about the 'programme' of the chair, do click on this link to read the [full profile report for the chair in data quality](files/static/profile-report-chair-data-quality-online-version.pdf). I will do an inaugural speech of the professorship on 2 April 2026. 
