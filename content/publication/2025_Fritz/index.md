@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Smart Survey Implementation WP2 deliverable M24: smart advanced stage."
-authors: [Fritz, M., Keusch, F., de Viitis, C., Amen, B., Fausti, F.. Inglese, F., Lore, M., Pappagallo, A., Piccolo, F., Terribili, M, Perez, M. van Tienoven, T.P., Lysune, P., NBerg, N., Holoy, A., Court, L., Mikol, F., Moreau, S., Quantin, S., Solard, J., Debije, D., van den Heuvel, J., Saitovic, J., Veldhuizen, M., Elevelt, A., Bakker, J., Kompier, M., Schouten., J.G., Klingwort, J., Giesen, D., Volk, J., Haufglockner, L., Blanke, K., McCool, D., Struminskaya, B., Lugtig, P. ]
+authors: [Fritz, M., Keusch, F., de Viitis, C., Amen, B., Fausti, F., Inglese, F., Lore, M., Pappagallo, A., Piccolo, F., Terribili, M., Perez, M., van Tienoven, T.P., Lusyne, P., Berg, N., Holmoy, A., Court, L., Mikol, F., Moreau, S., Quantin, S., Solard, J., Debije, D., van den Heuvel, J., Saitovic, J., Veldhuizen, M., Elevelt, A., Bakker, J., Kompier, M., Schouten, J.G., Klingwort, J., Giesen, D., Volk, J., Haufglockner, L., Blanke, K., McCool, D., Struminskaya, B., Lugtig, P.]
 date: 2025-04-30T00:00:00+01:00
 doi: ""
 
