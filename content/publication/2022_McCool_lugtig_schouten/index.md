@@ -4,7 +4,7 @@
 title: "Maximum interpolable gap length in missing smartphone-based GPS mobility data"
 authors: [McCool,D.M., Lugtig, P. & Schouten, J.G.]
 date: 2022-09-22T00:00:00+01:00
-doi: "doi: 10.1007/s11116-022-10328-2"
+doi: "doi: 10.1007/s11116-022-10328-22"
 
 # Schedule page publish date (NOT publication's date).
 publishDate:
@@ -16,7 +16,7 @@ publishDate:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transportation*,51, 297–327. 10.1007/s11116-022-10328-2"
+publication: "*Transportation*,51, 297–327. 10.1007/s11116-022-10328-22"
 publication_short: 
 
 abstract: "Passively-generated location data have the potential to augment mobility and transportation
@@ -55,7 +55,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://link-springer-com/content/pdf/10.1007/s11116-022-10328-2.pdf"
+url_pdf: "https://link.springer.com/article/10.1007/s11116-022-10328-2"
 url_code: ""
 url_dataset:
 url_poster:
