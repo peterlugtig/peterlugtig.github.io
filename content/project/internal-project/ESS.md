@@ -8,7 +8,7 @@ links:
 slides: example
 summary: European Social Survey: mixed mode analysis and training
 tags:
--  ESS, Mixed-Mode_survey, mode_effects, measurement_error, nonresponse, 
+-  ESS, Mixed-Mode_survey, mode_effects, measurement_error, nonresponse 
 title: Internal Project
 url_code: ""
 url_pdf: ""
