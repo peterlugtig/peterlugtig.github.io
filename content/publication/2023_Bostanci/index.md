@@ -25,7 +25,7 @@ abstract: "Traffic estimation is an important area in official statistics and is
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [sensors, official statistics, traffic, data integration, calibration, netherlands,location data]
+tags: [sensors, official_statistics, traffic, data_integration, calibration, netherlands,GPS,CBS]
 categories: []
 featured: false
 

@@ -40,7 +40,7 @@ It is the ultimate goal of this workpackage to also provide insights into these 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Smart survey, designed big data, review study, eurostat, official statistics]
+tags: [Smart_survey, designed_big_data, review_study, eurostat, official_statistics,CBS]
 categories: []
 featured: false
 

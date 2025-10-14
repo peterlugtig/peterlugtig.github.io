@@ -24,7 +24,7 @@ abstract: "Individual mobility trajectories are difficult to measure and often i
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [sensors, official statistics, app, missing data, statistics netherlands,location data, imputation]
+tags: [CBS, sensors, official_statistics, app, missing_data, GPS, imputation]
 categories: []
 featured: false
 

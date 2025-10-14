@@ -8,7 +8,7 @@ links:
 slides: example
 summary: ODISSEI SSHOC-NL project on quality of data linkage 
 tags:
--  data linkage, data quality, measurement error, metadata, DCAT-3
+-  SSHOC-NL, data_linkage, data_quality, measurement_error, metadata, DCAT-3
 title: Internal Project
 url_code: ""
 url_pdf: ""
@@ -31,5 +31,5 @@ The aims of this project are to:
 5.	do this from start to end for several use cases in the social sciences and humanities, and
 6.	develop software (a tool) specifically for improving linkages across space (geography). Note we are not creating a tool for data linkages for people and/or time (these exist already or can be done using standard software).
 
-Outputs of this project are expected in the period 2025-2029, and can be found under the [publications](https://www.peterlugtig.com/publication/) tab.
+Outputs of this project are expected in the period 2025-2029, and [can be found here](https://www.peterlugtig.com/tags/SSHOC-NL/).
 

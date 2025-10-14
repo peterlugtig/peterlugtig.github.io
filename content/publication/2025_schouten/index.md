@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 
-title: "an Smart Surveys Have a Positive Business Case? An Evaluation Based on Three Case Studies"
+title: "Can Smart Surveys Have a Positive Business Case? An Evaluation Based on Three Case Studies"
 authors: [Schouten, J.G., Lugtig, P., Luiten. A.]
 date: 2025-05-02T00:00:00+01:00
 doi: "10.1177/0282423X251321634"
@@ -25,7 +25,7 @@ abstract: "The emergence of smart devices, in particular mobile devices, has wid
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [sensors, official statistics, app, smart survey, statistics netherlands, data integration]
+tags: [CBS,sensors, official_statistics, app, smart_survey, data_integration]
 categories: []
 featured: false
 

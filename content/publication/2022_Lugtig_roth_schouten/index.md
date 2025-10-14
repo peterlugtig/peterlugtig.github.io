@@ -24,7 +24,7 @@ abstract: "Currently, travel surveys are the standard method for measuring mobil
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [nonresponse, official statistics, app, R-indicator, statistics netherlands]
+tags: [nonresponse, official_statistics, app, R-indicator, CBS]
 categories: []
 featured: false
 

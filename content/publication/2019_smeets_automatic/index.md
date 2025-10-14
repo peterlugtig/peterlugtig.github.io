@@ -24,7 +24,7 @@ abstract: "Goal: Showing the feasibility of automatic travel mode prediction usi
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [CBS, travel_mode, smart_survey, GPS, machine_learning]
 categories: []
 featured: false
 

@@ -115,7 +115,7 @@ the further development of smart surveys in years to come."
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Smart survey, designed big data, review study, eurostat, official statistics]
+tags: [CBS, smart_survey, designed_big_data, review_study, eurostat, official_statistics]
 categories: []
 featured: false
 

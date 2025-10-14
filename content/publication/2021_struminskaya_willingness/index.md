@@ -24,7 +24,7 @@ abstract: "The growing smartphone penetration and the integration of smartphones
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [CBS, smart_survey, designed_big_data, LISS, willingness, sensors, experiment]
 categories: []
 featured: false
 

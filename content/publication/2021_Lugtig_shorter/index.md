@@ -26,7 +26,7 @@ Results from the RCT show that there are no effects of the stated length on actu
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [survey_length, experiment, CBS, invitations, letters]
 categories: []
 featured: false
 

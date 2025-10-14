@@ -24,7 +24,7 @@ abstract: "In this paper we discuss the implications of using mobile devices for
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [CBS, smart_survey, review_study,designed_big_data]
 categories: []
 featured: false
 

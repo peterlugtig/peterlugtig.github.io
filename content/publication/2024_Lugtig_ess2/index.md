@@ -26,7 +26,7 @@ The report analyses mode effects, and aims to control for selection effects to a
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [mode-effects, mixed-mode survey, European Social Survey, experiment, selection effects, mode measurement effect]
+tags: [mode-effects, mixed-mode_survey, European_Social_Survey, ESS, experiment, selection_effects, mode_measurement_effect]
 categories: []
 featured: false
 

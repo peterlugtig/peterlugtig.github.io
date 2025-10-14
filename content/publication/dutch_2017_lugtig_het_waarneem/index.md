@@ -24,7 +24,7 @@ abstract: "In oktober 2016 zijn het Centraal Bureau voor de Statistiek en de afd
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [CBS, designed_big_data, smart_survey, smartphone, Dutch]
 categories: []
 featured: false
 

@@ -43,7 +43,7 @@ travel behaviors."
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [sensors, official statistics, app, missing data, statistics netherlands,location data]
+tags: [sensors, official_statistics, app, missing_data, CBS, GPS]
 categories: []
 featured: false
 

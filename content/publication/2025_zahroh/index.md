@@ -41,7 +41,7 @@ prediction but cannot yet be used to predict trip purpose automatically."
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Smart survey, designed big data, travel mode, Machine Learning, GPS data]
+tags: [CBS, smart_survey, designed_big_data, travel_mode, Machine_Learning, GPS]
 categories: []
 featured: false
 

@@ -26,7 +26,7 @@ Results show that we find no large effects of changing interviewing modes on mea
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [mode-effects, mixed-mode survey, European Social Survey, longitudinal analysis]
+tags: [mode-effects, mixed-mode_survey, European_Social_Survey, ESS, longitudinal_analysis]
 categories: []
 featured: false
 

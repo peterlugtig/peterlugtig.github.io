@@ -24,7 +24,7 @@ abstract: "Smartphone sensors allow measurement of phenomena that are difficult 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [CBS, smart_survey, designed_big_data, willingness, sensors, experiment, data_sharing]
 categories: []
 featured: false
 

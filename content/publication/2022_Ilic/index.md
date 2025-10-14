@@ -24,7 +24,7 @@ abstract: "Anyone with a smartphone can take pictures anytime anywhere. This ope
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [photos, pictures, sensors, smartphone, total survey error, smart survey]
+tags: [photos, pictures, sensors, smartphone, total_survey_error, smart_survey, CBS]
 categories: []
 featured: false
 

@@ -31,7 +31,7 @@ discussed, including technical performance, data quality and response rate."
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [smartphone, sensors, travel survey, statistics netherlands]
+tags: [smartphone, sensors, travel_survey, CBS, app, smart_survey]
 categories: []
 featured: false
 

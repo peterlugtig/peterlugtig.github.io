@@ -26,7 +26,7 @@ We conclude that auto-forwarding can be used to reduce completing times, but we 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [mixed-device surveys, web surveys, auto-forward, paradata, usability, statistics netherlands]
+tags: [mixed-device_surveys, web_surveys, auto-forward, paradata, usability, CBS, survey_design]
 categories: []
 featured: false
 
