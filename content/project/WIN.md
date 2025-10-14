@@ -6,8 +6,7 @@ image:
   focal_point: Smart
 links:
 slides: example
-summary: 
-The 'WIN' project was set up in 2016 and had the goal to design and test innovative data collection strategies in social research. WIN stands for 'Waarneem Innovatie Netwerk', which in english means 'Data collection Innovation Network. The project was set up as a collaborative project between the data quality group at Utrecht University, and Statistics Netherlands. The focus of the project was on how to use  mobile phones and wearable devices to improve  the collection of human behavior data, and improve official statistics. We have developed our own open-source smartphone app system, and published many articles. The project was finished after 10 successful years in 2025.
+summary: The 'WIN' project was set up in 2016 and had the goal to design and test innovative data collection strategies in social research. WIN stands for 'Waarneem Innovatie Netwerk', which in english means 'Data collection Innovation Network. The project was set up as a collaborative project between the data quality group at Utrecht University, and Statistics Netherlands. The focus of the project was on how to use  mobile phones and wearable devices to improve  the collection of human behavior data, and improve official statistics. We have developed our own open-source smartphone app system, and published many articles. The project was finished after 10 successful years in 2025.
 tags:
 -  CBS, smartphone, apps, sensors, data_collection, measurement, nonresponse
 title: Statistics Netherlands data innovation network
