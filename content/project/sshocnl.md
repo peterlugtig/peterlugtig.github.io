@@ -6,10 +6,7 @@ image:
   focal_point: Smart
 links:
 slides: example
-summary: Provenance and data quality are essential for supporting the reuse of data, especially when various data sources are combined in complex and iterative ways. Data linkage can be done at the level of people, space and time, and combinations of these dimensions. This task develops a framework for assessing the quality of linked data, proposes which of the quality indicators to use in metadata so that users understand the quality of data before linkage, and develops these indicators for both linkage across people, space and time (events) depending on the dataset. It concentrates on the linkage of datasets, not on linked data in the sense of the semantic web.
-
-In the project [Social Science and Humanities Open Cloud-NL (SSHOC_NL)](https://sshoc.nl/) the large-scale infrastructures [ODISSEI](www.odissei-data.nl) and [CLARIAH](https://clariah.nl/) together seek to provide a step-change for the social science and humanities.
-
+summary: Provenance and data quality are essential for supporting the reuse of data, especially when various data sources are combined in complex and iterative ways. Data linkage can be done at the level of people, space and time, and combinations of these dimensions. This task develops a framework for assessing the quality of linked data, proposes which of the quality indicators to use in metadata so that users understand the quality of data before linkage, and develops these indicators for both linkage across people, space and time (events) depending on the dataset. It concentrates on the linkage of datasets, not on linked data in the sense of the semantic web. In the project [Social Science and Humanities Open Cloud-NL (SSHOC_NL)](https://sshoc.nl/) the large-scale infrastructures [ODISSEI](www.odissei-data.nl) and [CLARIAH](https://clariah.nl/) together seek to provide a step-change for the social science and humanities.
 tags:
 -  SSHOC-NL, data_linkage, data_quality, measurement_error, metadata, DCAT-3
 title: SSHOC_NL
