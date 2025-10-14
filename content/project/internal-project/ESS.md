@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 links:
 slides: example
-summary: European Social Survey: mixed mode analysis and training
+summary: European Social Survey mixed mode analysis and training
 tags:
 -  ESS, Mixed-Mode_survey, mode_effects, measurement_error, nonresponse 
 title: Internal Project
