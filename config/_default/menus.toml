@@ -19,9 +19,9 @@
   weight = 30
 
 ##[[main]]
-##  name = "Projects"
-##  url = "project/"
-##  weight = 40
+name = "Projects"
+  url = "project/"
+  weight = 40
 
 [[main]]
   name = "About me"
@@ -37,17 +37,23 @@
 ##  name = "Agenda"
 ##  url = "agenda/"
 ##  weight = 60
+
+[[main]]
+  name = "Courses"
+  url = "courses/"
+  weight = 70
   
 # [[main]]
 #  name = "Teaching"
 #  url = "teaching/"
 #  weight = 70
-  
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 80
 
+
+ [[main]]
+    name = "CV"
+    url = "files/cv.pdf"
+    weight = 80
+  
 [[main]]
   name = "Apps and software"
   url = "apps/"
@@ -59,7 +65,3 @@
   weight = 90
   
 
- [[main]]
-    name = "CV"
-    url = "files/cv.pdf"
-    weight = 70
