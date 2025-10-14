@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 links:
 slides: example
-summary: The [European Social Survey (ESS)](https://www.europeansocialsurvey.org/) is the largest European Research Infrastructure in the social sciences. Historically, the survey has been carried out every two years in about 30 countries using face-to-face interviewing. The ESS is moving to self-completion (combination of web and paper) as the interview mode. In 2023-2024 I did consulting work for the ESS, and since 2025 I am a member of the Core Scientific Team, being responsible for work around the mixed-mode transition. In particular I focus on the analysis of mode nonresponse and mode measurement effects, and will produce training and guidance for ESS users on how to use the mixed-mode data in practice.
+summary: The European Social Survey (ESS) is the largest European Research Infrastructure in the social sciences. Historically, the survey has been carried out every two years in about 30 countries using face-to-face interviewing. The ESS is moving to self-completion (combination of web and paper) as the interview mode. In 2023-2024 I did consulting work for the ESS, and since 2025 I am a member of the Core Scientific Team, being responsible for work around the mixed-mode transition. In particular I focus on the analysis of mode nonresponse and mode measurement effects, and will produce training and guidance for ESS users on how to use the mixed-mode data in practice.
 tags:
 -  ESS, Mixed-Mode_survey, mode_effects, measurement_error, nonresponse 
 
