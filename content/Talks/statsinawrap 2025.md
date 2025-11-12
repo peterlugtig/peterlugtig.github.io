@@ -7,8 +7,8 @@ event:
 publishDate: 
 slides:
 summary:
-tags: []
-title: Stats in a wrap podcast ep26: 'Collaboration with universities and statistical innovation' 
+tags: [CBS]
+title: "Stats in a wrap podcast ep26: 'Collaboration with universities and statistical innovation'"  
 url_code: ""
 url_pdf: ""
 url_slides: ""
