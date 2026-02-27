@@ -1,6 +1,6 @@
 ---
 title: 'Slides General Online Research conference keynote'
-date: 2026-02-227T09:05:00.000+02:00
+date: 2026-02-26T09:05:00.000+02:00
 draft: false
 tags : [data quality, data integration, research, found data]
 ---
