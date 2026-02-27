@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Predicting trip purpose in a smartphone‐based travel survey"
-authors: [Zahroh, S., Lugtig,P. Gootzen, Y., Klingwort, J, .Schouten, J.G.]
+authors: [Zahroh, S., Lugtig,P. Gootzen, Y., Klingwort, J, Schouten, J.G.]
 date: 2025-11-24T00:00:00+01:00
 doi: "10.1177/18747655251391283"
 

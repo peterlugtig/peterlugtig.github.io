@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Effects of Study Duration on Nonresponse and Measurement Quality in a Smartphone App Based Travel Diary"
-authors: [Remmerswaal, D., Lugtig, P., Schouten, J.G., & Struminskaya, B.]
+authors: [Remmerswaal, D., Lugtig, P., Schouten, J.G., Struminskaya, B.]
 date: 2025-12-17T00:00:00+01:00
-doi: "https://doi.org/10.18148/srm/2025.v19i4.8368 "
+doi: "https://doi.org/10.18148/srm/2025.v19i4.8368"
 
 # Schedule page publish date (NOT publication's date).
 publishDate:
