@@ -18,15 +18,13 @@ publication_types: ["3"]
 # Publication name and optional abbreviated publication name.
 publication: "OSF"
 publication_short: 
-
-abstract: "
-Linked data is widely used to answer research questions in situations when a single data source does not provide all the information a researcher needs. For linked data to work, the quality of the combined data needs to be sufficient. Naive users of linked data may often treat the linked data as "perfect" and apply standard analysis on it. This may, in the end, lead to biased inference. For example, if we are interested in the relation between age and income, and use linked data in which individuals with higher levels of income are more likely to be linked, we may overestimate the average income in the linked dataset, and also risk biased relations between age and income. 
+abstract: "Linked data is widely used to answer research questions in situations when a single data source does not provide all the information a researcher needs. For linked data to work, the quality of the combined data needs to be sufficient. Naive users of linked data may often treat the linked data as "perfect" and apply standard analysis on it. This may, in the end, lead to biased inference. For example, if we are interested in the relation between age and income, and use linked data in which individuals with higher levels of income are more likely to be linked, we may overestimate the average income in the linked dataset, and also risk biased relations between age and income. 
 
 In this paper, we review data quality issues of linked data by introducing a general framework for errors in linked datasets. Our framework aims to help linked data users conceptualize potential problems in their studies. It also provides an overview of existing methods that can potentially detect bias and improve the quality of inference. Three examples from the humanities and social sciences are used to illustrate common problems, and some practical suggestions are provided."
 
 # Summary. An optional shortened abstract.
 summary: ""
-tags: [Data quality; linked data; sshoc-nl; linkage]
+tags: [Data_quality; linked_data; sshoc-nl; linkage]
 categories: []
 featured: false
 
