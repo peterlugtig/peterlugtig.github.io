@@ -15,7 +15,7 @@ url_video: "https://youtu.be/v=qI757uTWffw"
 
 ---
 
-Inaugural lecture as professor data quality at Utrecht University. I held this lecture on 2 april 2026 (In Dutch). An english version of the text is available via [this link](www.peterlugtig.com/static/files/text_inaural_lecture_data_quality.pdf).
+Inaugural lecture as professor data quality at Utrecht University. I held this lecture on 2 april 2026 (In Dutch). An english version of the text is available via [this link](www.peterlugtig.com/static/files/text_inaugural_lecture_data_quality.pdf).
 
 {{< youtube qI757uTWffw>}}
 

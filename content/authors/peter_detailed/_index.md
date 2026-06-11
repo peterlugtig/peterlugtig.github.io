@@ -37,7 +37,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I (Peter Lugtig) am a professor in data quality working at the [department of Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) of Utrecht University. I teach and do research on the design of research in the social sciences, and the analysis and improvement of the quality of data.
+Welcome! I (Peter Lugtig) am a professor in data quality working at the [department of Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) of Utrecht University. I teach and do research on the design of research in the social sciences, and the analysis and improvement of the quality of data.I serve as the head of the department for the period 2024-2027.
 
 This personal webpage is about my research. I have the tendency to get distracted into too many side-projects (all fun and important), but my main research interests are:
 
@@ -45,7 +45,7 @@ This personal webpage is about my research. I have the tendency to get distracte
 
 * Survey Methodology: in particular methods to collect data using a combination of different msurvey modes. This includes sampling, fieldwork design preventing and correcting nonresponse, questionnaire design for multiple modes, and cross-national or comparative surveys. 
 
-* Inference using a mix of survey data and big data. I am mainly interested to find out how mobile phone sensor data can complement survey data, and study the data quality of 'sensor' data (see below), like GPS and accelerometer data to infer human behavior. Topics are data fusion of survey and sensor data, nonresponse pattrens in sensor data, correlates of nonresponse, and what to do about these. With Barry Schouten of Statistics Netherlands, I lead a [Data Collection Innovation Network](https://win.sites.uu.nl/).
+* Inference using a mix of survey data and big data. I am mainly interested to find out how mobile phone sensor data can complement survey data, and study the data quality of 'sensor' data (see below), like GPS and accelerometer data to infer human behavior. Topics are data fusion of survey and sensor data, nonresponse pattrens in sensor data, correlates of nonresponse, and what to do about these. With Barry Schouten of Statistics Netherlands, I led a [Data Collection Innovation Network](https://www.peterlugtig.com/project/win/) that ran between 2016 and 2024.
 
 * Panel Survey Methods: panel surveys follow people over time to document change, and I believe that this requires specific methodologies to make sure the resulting data are of high quality. For example, selective drop-out from the panel should be prevented. And specific types of survey questions that take into account the fact that respondents have been interviewed before, can also increase the quality of change estimates. [My dissertation](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwitsMjYxJfnAhVJblAKHYE7C1UQFjABegQIAxAB&url=https%3A%2F%2Fdspace.library.uu.nl%2Fbitstream%2Fhandle%2F1874%2F221962%2Flugtig.pdf%3Fsequence%3D2&usg=AOvVaw2MQtkcF4gW-AMyFT9alUVe) was about this topic.
 

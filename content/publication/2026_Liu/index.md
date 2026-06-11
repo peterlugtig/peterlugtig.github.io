@@ -24,7 +24,7 @@ In this paper, we review data quality issues of linked data by introducing a gen
 
 # Summary. An optional shortened abstract.
 summary: ""
-tags: [Data_quality; linked_data; sshoc-nl; linkage]
+tags: [Data_quality; linked_data; sshoc_nl; linkage]
 categories: []
 featured: false
 
