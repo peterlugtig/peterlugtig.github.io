@@ -2,7 +2,7 @@
 title: "Survey Data Analysis"
 date: 2021-07-04
 draft: false
-lastmod: "`r Sys.Date()`"-
+lastmod: "`r Sys.Date()`"
 linktitle: "Survey Data Analysis (MSBBSS01)"
 menu:
   SDA:
