@@ -93,7 +93,7 @@ address = {street = "Padualaan 14", city = "Utrecht", region = "Utrecht", postco
 coordinates = {latitude = "52.085032", longitude = "5.170553"}
 
 # Directions for visitors to locate you.
-directions = "Room C.117, which is located on the first floor."
+directions = "Room B.006, which is located on the ground floor."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -261,5 +261,5 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
+  google_analytics = "G-RX2QBT50HC"
   google_tag_manager = ""
