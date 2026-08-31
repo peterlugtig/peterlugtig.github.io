@@ -12,7 +12,7 @@ toc: true
 type: docs
 tags : [smartphones, survey design, web surveys, R, mixed mode, teaching]
 summary: "The course in survey design takes student beyond the introductory courses offered in BA and MA programmes, and discusses the state-of-the-art of one of the most important data collection techniques: surveys. The course focuses on the methodology of how to do surveys, and the use statistical techniques to analyse and correct for some specific survey errors. It combines short 1-hour lectures with exercises on most of the topics discussed. We assume course participants are proficient in working with R."
-weight: 1
+
 ---
 
 With [Bella Struminskaya](www.bellastrum.com) I teach a summerschool lasting five days titled: [Advanced survey design](https://utrechtsummerschool.nl/courses/social-sciences/advanced-survey-design).  

@@ -1,23 +1,20 @@
 ---
-title: "Survey Data Analysis'"
-date: "July 04, 2021"
+title: "Survey Data Analysis"
+date: 2021-07-04
 draft: false
-lastmod: "`r Sys.Date()`"
+lastmod: "`r Sys.Date()`"-
 linktitle: "Survey Data Analysis (MSBBSS01)"
 menu:
   SDA:
     name: Survey Data Analysis
-        weight: 1
+    weight: 1
 toc: true
 type: docs
 tags : [weighting, survey design, sampling, R, inference, teaching]
 summary: "This course was taught between 2018 and 2025. It is replaced by a new course "sampling and estimation" in 2026-2027, but I am leaving the materials here for archival reasons.
 
 This course aims to give students a firm introduction in three broad, and related topics: (1) inference - how do we use small sets of data to produce knowledge about the world around us; (2) survey data analysis, in particular sampling and analyzing complex datasets; (3) survey design - why are surveys designed the way they are? The focus here is on the overall design of a study, not on the design of individual survey questions."
-title: Survey Data Analysis
-toc: true
-type: docs
-weight: 1
+
 ---
 
 *Course materials on this website are materials from academic year 2023-2024*
