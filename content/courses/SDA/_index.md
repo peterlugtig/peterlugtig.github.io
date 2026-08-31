@@ -6,8 +6,7 @@ lastmod: "`r Sys.Date()`"
 linktitle: "Survey Data Analysis (MSBBSS01)"
 menu: 
   SDA: 
-    name: Survey Data Analysis
-      weight: 1
+    name: "Survey Data Analysis"
 toc: true
 type: docs
 tags: [weighting, survey design, sampling, R, inference, teaching]
