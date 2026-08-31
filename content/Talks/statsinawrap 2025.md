@@ -2,7 +2,7 @@
 abstract:
 authors: [Peter Lugtig]
 date: "2025-10-20T16:00:00Z"
-date_end: "2024-10-20T17:00:00Z"
+date_end: "2025-10-20T17:00:00Z"
 event:
 publishDate: 
 slides:

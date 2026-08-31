@@ -37,7 +37,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I (Peter Lugtig) am a professor in data quality working at the [department of Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) of Utrecht University. I teach and do research on the design of research in the social sciences, and the analysis and improvement of the quality of data.I serve as the head of the department for the period 2024-2027.
+Welcome! I (Peter Lugtig) am a professor in data quality working at the [department of Methodology, Statistics & Data Science](https://www.uu.nl/en/organisation/methodology-and-statistics) of Utrecht University in the Netherlands. I teach and do research on the design of research in the social sciences, and the analysis and improvement of the quality of data.I serve as the head of the department for the period 2024-2027.
 
 This personal webpage is about my research. I have the tendency to get distracted into too many side-projects (all fun and important), but my main research interests are:
 
