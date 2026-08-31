@@ -2,7 +2,7 @@
 title: "Summer school 'Advanced Survey Design'"
 date: 2021-03-18
 draft: false
-lastmod: "July 05, 2021"
+lastmod: "`r Sys.Date()`"
 linktitle: "Summer school 'Advanced Survey Design'"
 menu:
   IOPS_course:
